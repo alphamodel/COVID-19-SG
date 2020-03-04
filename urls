@@ -1,0 +1,8 @@
+#!/bin/bash
+curl -s -o cases/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vSNCl8tHbQoB268k2NxEqQsPl29ODnb_m9F2md38-5ItEdyVFDf1zqXprP9Y3a_8RZH2MTDlWKzcAdn/pub?gid=0&single=true&output=csv"
+curl -s -o journeys/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTEGSp4mjJlP_OUhASIaHJI1y26_26Sp--rnyQvG5BMg2ZjNeWaCB8ehjSsEXOfjchtVX9K8ssI1hg7/pub?gid=0&single=true&output=csv"
+curl -s -o events/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vSIxGvf61poth9rP6v1laPSFQSsZRGBouXcRqZMa72_Lk06fVQ0rGuIDDDIGjKXQ58C6ynq8bD1AssO/pub?gid=0&single=true&output=csv"
+curl -s -o groups/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb9U4nHjGmSmfnXB47fOSC6y3oBQo9P8Ux_VYk25erramN0qS51tEorKDsZ428rv64wC-JvyKNv-MB/pub?gid=0&single=true&output=csv"
+curl -s -o tracing/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRC-byteTZiXdc9IELONJn7sDn9YtSTDXr44_1bVDPRg1h_Ent_DzDCKx6hU2EAHkpbD2iVeOU-R3zh/pub?gid=0&single=true&output=csv"
+curl -s -o overview/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWyAyms5Uls1v97AmIxqCPmz1EmJyHHzg4m9TMsiV8GzYcQ5EKufZTrKEOJaAZrDZ1vXSfed2GsfwY/pub?gid=0&single=true&output=csv"
+curl -s -o case_tags/`date +\%Y\%m\%d`.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rmCBp5BJ1hMvnUJC5k9F_ByAsOw_e-URj9n66YcExqTMPZc7q-E5AnERdcotiV513Oqw2Z_ziZr5/pub?gid=0&single=true&output=csv"
