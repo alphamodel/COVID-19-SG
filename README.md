@@ -14,7 +14,7 @@ Singapore COVID-19 data from multiple data sources such as zaobao.sg and MOH. Th
 - `tracing`: numbers of how many suspect cases, suspect cases, close contacts and their status. The content also maintained in a partial append-only manner.
 - `moh`: press releases from MOH. Three formats are offered:
   1. json format: raw MOH press release.
-  2. html format: content extracted from json file.
+  2. markdown format: content extracted from json file.
   3. plain text format: actual content of the press release encoded in UTF-8.
 
 
