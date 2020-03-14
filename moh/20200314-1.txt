@@ -144,7 +144,7 @@ Case 211
 24. Case 211 is a 35 year-old female Filipino national who is a
 Singapore Long Term Visit Pass holder. She was confirmed to have
 COVID-19 infection on 14 March morning, and is currently warded in an
-isolation room at NCID. She is linked to Case 1421.
+isolation room at NCID. She is linked to Case 142¹.
 Case 212
 25. Case 212 is an imported case involving a 64 year-old male Indonesian
 national. He was confirmed to have COVID-19 infection on 14 March
@@ -152,7 +152,7 @@ morning, and is currently warded in an isolation room at NCID.
 Case 190 (Announced on 13 March)
 26. Case 190 is a 53 year-old male Singapore Citizen who has no recent
 travel history to affected countries and regions. He is currently warded
-in an isolation room at NCID. He is linked to Case 1722.
+in an isolation room at NCID. He is linked to Case 172².
 27. He reported onset of symptoms on 10 March. As he had been identified
 as a contact of Case 172, he was referred by MOH to NCID on 12 March.
 Subsequent test results confirmed COVID-19 infection on 13 March
@@ -266,7 +266,7 @@ Case 200 (Announced on 13 March)
 56. Case 200 is a 62-year-old female Singapore Citizen who has no recent
 travel history to affected countries and regions. She is currently
 warded in an isolation room at NCID. She is a family member of Case
-1653.
+165³.
 57. She reported onset of symptoms on 12 March. As she has been
 identified as a contact of Case 165, she was issued a home quarantine
 order on 10 March. She was conveyed to NCID by an ambulance on 13 March,
@@ -314,5 +314,17 @@ dispose the soiled tissue paper in the rubbish bin immediately; and
 65. MOH will continue to monitor the situation closely. As medical
 practitioners are on the lookout for suspect cases, Singapore is likely
 to see more cases that will need to be investigated.
+[1] Case 142 is a 26 year-old male Singapore Citizen who has no recent
+travel history to affected countries and regions. He is a family member
+of Cases 139 and 140, and is linked to the cluster involving the private
+dinner function at SAFRA Jurong. He was confirmed to have COVID-19
+infection on 7 March.
+[2] Case 172 is a 42 year-old female Philippines national who is a
+Singapore Work Pass Holder, and had been in the Philippines from 27
+February to 2 March. She was confirmed to have COVID-19 infection on 11
+March.
+[3] Case 165 is a 30 year-old male Singapore Citizen who had been in
+France from 15 February to 7 March. He was confirmed to have COVID-19
+infection on 10 March.
 MINISTRY OF HEALTH
 14 MARCH 2020
