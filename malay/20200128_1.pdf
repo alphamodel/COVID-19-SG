@@ -364,13 +364,13 @@ $( document ).ready(function() {
 <div id='webcontent-secondpage' class='col-10-12' data-colname='Web Content Block'>
 <div class='column-webcontent-secondpage drag'>
 <div class="block block-96 block_no_1 block_web_content_block  hover-desc" id="96"><div class='block-header '></div><div class="block-body  content">
-<a href="http://www.moh.gov.my/index.php/database_stores/store_view_page/21/1314?print=1" target="_blank" style="float: right;" title="Print"><img src="http://www.moh.gov.my/assets/shared/images/admin/printer.png" title="Print" alt="Print"/></a>
+<a href="http://www.moh.gov.my/index.php/database_stores/store_view_page/21/1303?print=1" target="_blank" style="float: right;" title="Print"><img src="http://www.moh.gov.my/assets/shared/images/admin/printer.png" title="Print" alt="Print"/></a>
 <div class="database_store_page_view_div">
     <table class="dataTableDetail" style="width: 684px; border-bottom-width: 1px; border-bottom-style: solid; padding-bottom: 10px; border-bottom-color: #e5e5e5; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f6;">
 	<tbody>
 		<tr>
 			<th style="font-weight: bold; text-align: left; height: 25px; padding-left: 3px; width: 150px;">Tajuk</th>
-			<td style="padding-left: 3px; padding-right: 3px; height: 25px;">KENYATAAN AKHBAR KETUA PENGARAH KESIHATAN MALAYSIA - PENJELASAN ISU KES CORONAVIRUS DISEASE (COVID-19) YANG DIDAKWA BERLAKU DI PULAU PINANG</td>
+			<td style="padding-left: 3px; padding-right: 3px; height: 25px;">KENYATAAN AKHBAR MENTERI KESIHATAN MALAYSIA PADA 28 JANUARI 2020 - SITUASI SEMASA JANGKITAN 2019-nCoV DI MALAYSIA DAN KESIAPSIAGAAN KKM MENGHADAPI PENULARANNYA </td>
 		</tr>
 		<tr>
 			<th style="font-weight: bold; text-align: left; height: 25px; padding-left: 3px; width: 150px;">Penerangan</th>
@@ -378,7 +378,7 @@ $( document ).ready(function() {
 		</tr>
 		<tr>
 			<th style="font-weight: bold; text-align: left; height: 25px; padding-left: 3px; width: 150px;">Ditambah pada</th>
-			<td style="padding-left: 3px; padding-right: 3px; height: 25px;">13-02-2020</td>
+			<td style="padding-left: 3px; padding-right: 3px; height: 25px;">28-01-2020</td>
 		</tr>
 		<tr>
 			<th colspan="2" style="font-weight: bold; text-align: left; height: 25px; padding-left: 3px; width: 150px;">
@@ -386,7 +386,7 @@ $( document ).ready(function() {
 			<h2 style="font-size: 12px; font-weight: bold; color: #000000;">Lampiran-lampiran</h2>
 
 			<ul>
-				<li style="color: #006b8e;"><a href="http://www.moh.gov.my/index.php/database_stores/attach_download/337/1314">Kenyataan Akhbar KPK 13 Februari 2020_Penjelasan Isu Kes Jangkitan COVID-19 yang didakwa berlaku di Pulau Pinang.pdf</a></li>
+				<li style="color: #006b8e;"><a href="http://www.moh.gov.my/index.php/database_stores/attach_download/337/1303">Kenyataan Akhbar  YBMK - 28 JANUARI 2020.pdf</a></li>
 			</ul>
 			</div>
 			</th>
@@ -410,7 +410,7 @@ $( document ).ready(function() {
 			<p><span style="font-size: 8pt;"><span style="font-family: arial, helvetica, sans-serif;">Paparan terbaik menggunakan </span><span style="font-family: arial, helvetica, sans-serif;">IE 9 dan ke atas</span><span style="font-family: arial, helvetica, sans-serif;">/ Mozila&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">Firefox</span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;3.0 dan ke atas / Chrome&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">dengan&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">resolusi 1024 * 768</span></span></p>
 
 			<div class="col-left" style="vertical-align: bottom;"><span class="float_right">
-Jumlah Pelawat : <strong>56743668</strong></span>
+Jumlah Pelawat : <strong>56743676</strong></span>
 <span class="last_update">
 Tarikh Kemaskini : <strong>16-03-2020</strong></span>
 
