@@ -16,5 +16,7 @@ Singapore COVID-19 data from multiple data sources such as zaobao.sg and MOH. Th
   1. json format: raw MOH press release.
   2. html format: content extracted from json file.
   3. plain text format: actual content of the press release encoded in UTF-8.
+- `malay`: press release from MOH of Malaysia.
+- `who`: situation reports from WHO.
 
 
