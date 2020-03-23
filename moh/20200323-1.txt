@@ -17,11 +17,11 @@ from hospital.
 has confirmed and verified an additional 48 imported and six local cases
 of COVID-19 infection in Singapore.
 
-·         The 48 imported cases¹ had travel history to Europe, North
-America and ASEAN. All except one were 4">returning residents and Long
-Term Pass holders.
+·         The 48 imported cases¹ had travel history to Europe, North
+America and ASEAN. All except one were returning residents and Long Term
+Pass holders.
 
-·         Six cases² are currently unlinked, and contact tracing is
+·         Six cases² are currently unlinked, and contact tracing is
 ongoing.
 
 3.            All Singapore Citizens, Permanent Residents and Long Term
@@ -38,7 +38,7 @@ have uncovered links between previously announced and new cases. This
 was made possible with the assistance of the Singapore Police Force.
 
 a)        14 of the confirmed cases (Cases 93, 95, 97, 98, 99, 100, 101,
-102, 103, 104, 105, 106, 108 and 110) are linked to Wizlearn
+102, 103, 104, 105, 106, 108 and 110) are linked to Wizlearn
 Technologies Pte Ltd.
 
 b)        47 of the confirmed cases (Cases 94, 96, 107, 112, 114, 115,
@@ -52,11 +52,11 @@ linked to a private dinner function at SAFRA Jurong on 15 February. Two
               i.        Six  of the confirmed cases (Cases 142, 162,
 163, 305, 345 and 443) are linked to boulder+ Gym (12 Kallang Avenue).
 
-            ii.        Five  of the confirmed cases (Cases 144, 208,
-214, 235 and 283) are linked to the Church of Singapore (Bukit Timah)
-(2B Hindhede Road).
+            ii.        Five of the confirmed cases (Cases 144, 208, 214,
+235 and 283) are linked to the Church of Singapore (Bukit Timah) (2B
+Hindhede Road).
 
-c)        Three  of the confirmed cases (Cases 183, 252 and 310) are
+c)        Three of the confirmed cases (Cases 183, 252 and 310) are
 linked to Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6).
 
 5.            Contact tracing is underway for 31 locally transmitted
