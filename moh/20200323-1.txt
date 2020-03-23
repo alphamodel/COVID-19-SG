@@ -16,11 +16,11 @@ from hospital.
 2.            As of 23 March 2020, 12pm, the Ministry of Health (MOH)
 has confirmed and verified an additional 48 imported and six local cases
 of COVID-19 infection in Singapore.
-·         The 48 imported cases¹ had travel history to Europe, North
-America and ASEAN. All except one were returning residents and Long Term
-Pass holders.
- ·         Six cases² are currently unlinked, and contact tracing is
-ongoing.
+          ·         The 48 imported cases¹ had travel history to Europe,
+North America and ASEAN. All except one were returning residents and
+Long Term Pass holders.
+          ·         Six cases² are currently unlinked, and contact
+tracing is ongoing.
 3.            All Singapore Citizens, Permanent Residents and Long Term
 Pass holders returning to Singapore are issued a 14-day Stay-Home Notice
 (SHN). Persons under SHN must remain in their place of residence at all
