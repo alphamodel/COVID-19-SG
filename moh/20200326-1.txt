@@ -14,13 +14,13 @@ been discharged from hospital.
 2.    As of 26 March 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 52 cases of COVID-19 infection in
 Singapore, of which 28 are imported and 24 are local cases.
-• The 28 imported cases  had travel history to Europe, North America,
+• The 28 imported cases [1] had travel history to Europe, North America,
 Middle East, ASEAN and other parts of Asia. All except two were
 returning residents and Long Term Pass holders.
 
-• 10 cases  are linked to clusters or previous cases.
+• 10 cases [2] \ are linked to clusters or previous cases.
 
-• 14 cases  are currently unlinked, and contact tracing is ongoing.
+• 14 cases [3] are currently unlinked, and contact tracing is ongoing.
 
 3.    All Singapore Citizens, Permanent Residents and Long Term Pass
 holders returning to Singapore are issued a 14-day Stay-Home Notice
@@ -104,3 +104,9 @@ and 6,555 have completed their quarantine.
 
 MINISTRY OF HEALTH
 26 MARCH 2020
+[1] Cases 633, 634, 635, 636, 639, 640, 641, 642, 646, 647, 648, 649,
+650, 651, 653, 654, 656, 663, 664, 665, 667, 669, 671, 672, 673, 674,
+680 and 683.
+[2] Cases 632, 638, 644, 645, 660, 662, 675, 676, 668 and 681.
+[3] Cases 637, 643, 652, 655, 657, 658, 659, 661, 666, 670, 677, 678,
+679 and 682.
