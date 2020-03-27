@@ -23,7 +23,7 @@ now more cases reported outside of China daily than that reported in
 China at the height of its epidemic. The number of new cases imported
 into mainland China from overseas has also surpassed its number of
 locally transmitted new infections.
-3.        In the past three days[1] alone, Singapore has seen an
+3.        In the past three days [1] alone, Singapore has seen an
 increase of 25 new cases. Of these, more than three-quarters were
 imported cases, of which close to 90 percent were Singapore Residents
 (Singapore Citizens and Permanent Residents) and Singapore Long Term
@@ -38,9 +38,9 @@ BORDER RESTRICTIONS
 will put in place additional border restriction measures. From 16 March
 2020, 2359 hours, all travellers (including Singapore Residents, Long
 Term Pass holders, and short-term visitors) entering Singapore with
-recent travel history to ASEAN countries[2], Japan, Switzerland, or the
+recent travel history to ASEAN countries [2], Japan, Switzerland, or the
 United Kingdom within the last 14 days will be issued with a 14-day
-Stay-Home Notice (SHN).[3] In addition, they will have to provide proof
+Stay-Home Notice (SHN). [3] In addition, they will have to provide proof
 of the place where they will serve the 14-day SHN, for example a hotel
 booking covering the entire period, or a place of residence they or
 their family members own. They may also be swabbed for testing for
@@ -62,7 +62,7 @@ making definitive travel bookings.
 measures for Foreign Domestic Workers entering Singapore. More details
 will be announced by MOM.
 7.        As previously announced, residents and long-term pass holders
-returning from mainland China (outside Hubei province[4]), Iran, Italy,
+returning from mainland China (outside Hubei province [4]), Iran, Italy,
 France, Germany, Republic of Korea, and Spain will continue to be issued
 a 14-day SHN upon return to Singapore, while short-term visitors from
 these areas will not be allowed to enter or transit through Singapore.

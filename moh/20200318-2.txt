@@ -27,7 +27,7 @@ Of these:
 -   One (Case 310) is linked to Cases 183 and 252 at the cluster at
     Masjid Al Muttaqin;
 -   Six are linked to previous cases (Case 294 is linked to Cases 225
-    and 237; Case 287 is linked to Case 266; Case 289 is linked to Case
+    and 237; Case 287 is linked to Case 267; Case 289 is linked to Case
     212, Case 291 is linked to Case 260; Case 303 is linked to Case 248;
     and Case 311 is linked to Case 234); and
 -   Five are currently unlinked (Cases 273, 275, 288, 290, 302).
@@ -86,7 +86,7 @@ between cases:
 -   Case 251 is linked to Case 186;
 -   Case 256 is linked to Case 205;
 -   Case 294 is linked to Cases 225 and 237;
--   Case 287 is linked to Case 266;
+-   Case 287 is linked to Case 267;
 -   Case 289 is linked to Case 212;
 -   Case 291 is linked to Case 260;
 -   Case 303 is linked to Case 248; and
