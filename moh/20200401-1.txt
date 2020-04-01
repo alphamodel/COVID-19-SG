@@ -73,7 +73,7 @@ UPDATE ON CONDITION OF CONFIRMED CASES
 12. To date, a total of 245 cases have fully recovered from the
 infection and have been discharged from hospitals or community isolation
 facilities.
-13. Of the 457 confirmed cases who are still in hospital, most are
+13. Of the 461 confirmed cases who are still in hospital, most are
 stable or improving. 24 are in critical condition in the intensive care
 unit. 291 cases who are clinically well but still test positive for
 COVID-19 are isolated and cared for at Concord International Hospital,
@@ -99,4 +99,3 @@ MINISTRY OF HEALTH
 991, 992 and 993.
 [3] Cases 929, 930, 931, 936, 937, 939, 945, 948, 951, 953, 956, 957,
 958, 959, 963, 964, 965, 967, 971, 978, 981, 994, 998, 999 and 1000.
-
