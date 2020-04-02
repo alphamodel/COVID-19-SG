@@ -25,11 +25,10 @@ no recent travel history abroad.
 LINKS BETWEEN PREVIOUS CASES FOUND
 3.      Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases.
-
-    a) Five of the newly confirmed cases (Cases 1001, 1015, 1024, 1026
-and 1046) are            linked to six previous cases (Cases 616, 788,
-866, 908, 911 and 938), forming a              new cluster at Mustafa
-Centre (145 Syed Alwi Road).
+a) Five of the newly confirmed cases (Cases 1001, 1015, 1024, 1026 and
+1046) are            linked to six previous cases (Cases 616, 788, 866,
+908, 911 and 938), forming a              new cluster at Mustafa Centre
+(145 Syed Alwi Road).
 
     b) Two of the newly confirmed cases (Cases 1009 and 1034) are linked
 to three                  previous cases (Cases 869, 900 and 1000),
@@ -66,7 +65,7 @@ cases now (Cases 192, 556, 657, 670, 714, 813,                 940,
 
     i)   One additional case is linked to the cluster at PCF Sparkletots
 Preschool @                     Fengshan Blk 126 (126 Bedok North Street
-2), which has a total of 27 confirmed             cases[1] now. The case
+2), which has a total of 27 confirmed             cases[5] now. The case
 is a family member of Case 601.
 
 4.       Contact tracing is underway for 118 locally transmitted cases
@@ -143,5 +142,1059 @@ MINISTRY OF HEALTH
 [5] Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605,
 609, 610, 612, 614, 617, 624, 638, 660, 705, 706, 707, 708, 716, 746 and
 1003. 
+
+Annex
+
+SUMMARY OF CONFIRMED CASES
+
+ 
+
+CASE NUMBER
+
+DATE OF CONFIRMATION
+
+HOSPITAL ADMITTED
+
+AGE (YEARS)
+
+GENDER
+
+NATIONALITY
+
+TRAVEL HISTORY
+
+EXPOSURE
+
+LINKS
+
+CLUSTER
+
+1001
+
+1 Apr
+
+SGH[1]
+
+65
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+Mustafa Centre
+
+1002
+
+1 Apr
+
+NCID
+
+24
+
+M
+
+Singapore Citizen
+
+Canada
+
+Imported
+
+Contact of Cases 892 and 1027
+
+ 
+
+1003
+
+1 Apr
+
+NCID
+
+31
+
+F
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+PCF Fengshan
+
+1004
+
+1 Apr
+
+NCID
+
+32
+
+F
+
+India
+
+(Singapore Work Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+Lee Ah Mooi Home
+
+1005
+
+1 Apr
+
+NTFGH[2]
+
+30
+
+F
+
+Malaysia
+
+(Singapore Work Pass holder)
+
+UK
+
+Imported
+
+ 
+
+ 
+
+1006
+
+1 Apr
+
+NTFGH
+
+29
+
+F
+
+Singapore Permanent Resident
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1007
+
+1 Apr
+
+CGH[3]
+
+62
+
+F
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1008
+
+1 Apr
+
+NUH[4]
+
+76
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Cases 1030 and 1031
+
+ 
+
+1009
+
+1 Apr
+
+NUH
+
+48
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+Maxwell MRT construction site
+
+1010
+
+1 Apr
+
+NUH
+
+27
+
+F
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1011
+
+1 Apr
+
+CGH
+
+30
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+Westlite Toh Guan
+
+1012
+
+1 Apr
+
+NCID
+
+27
+
+M
+
+Bangladesh
+
+(Singapore Work Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+Westlite Toh Guan
+
+1013
+
+1 Apr
+
+NCID
+
+51
+
+F
+
+Singapore Permanent Resident
+
+ 
+
+Local linked
+
+ 
+
+Hero's
+
+1014
+
+1 Apr
+
+SGH
+
+69
+
+F
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1015
+
+1 Apr
+
+SGH
+
+41
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+Mustafa Centre
+
+1016
+
+1 Apr
+
+NCID
+
+67
+
+M
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1017
+
+1 Apr
+
+NCID
+
+32
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1018
+
+1 Apr
+
+KTPH[5]
+
+29
+
+M
+
+Bangladesh
+
+(Long Term Pass holder)
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1019
+
+1 Apr
+
+NCID
+
+29
+
+M
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1020
+
+2 Apr
+
+NCID
+
+45
+
+M
+
+Bangladesh
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+Contact of Cases 658 and 718
+
+ 
+
+1021
+
+2 Apr
+
+NCID
+
+44
+
+F
+
+France
+
+(Singapore Work Pass holder)
+
+Indonesia
+
+Imported
+
+ 
+
+ 
+
+1022
+
+1 Apr
+
+NCID
+
+39
+
+F
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1023
+
+1 Apr
+
+NCID
+
+44
+
+F
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Contact of Case 726
+
+ 
+
+1024
+
+1 Apr
+
+NCID
+
+56
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+Mustafa Centre
+
+1025
+
+1 Apr
+
+NCID
+
+64
+
+M
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1026
+
+1 Apr
+
+NCID
+
+44
+
+F
+
+Singapore Permanent Resident
+
+ 
+
+Local linked
+
+ 
+
+Mustafa Centre
+
+1027
+
+1 Apr
+
+NCID
+
+23
+
+M
+
+Singapore Citizen
+
+Canada
+
+Imported
+
+Contact of Cases 892 and 1002
+
+ 
+
+1028
+
+1 Apr
+
+NCID
+
+26
+
+F
+
+Malaysia
+
+(Singapore Work Pass holder)
+
+India, Malaysia
+
+Imported
+
+ 
+
+ 
+
+1029
+
+2 Apr
+
+NUH
+
+23
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Case 227
+
+ 
+
+1030
+
+2 Apr
+
+NUH
+
+26
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Cases 1008 and 1031
+
+ 
+
+1031
+
+2 Apr
+
+NUH
+
+61
+
+F
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Cases 1008 and 1030
+
+ 
+
+1032
+
+2 Apr
+
+SKH
+
+28
+
+F
+
+China
+
+(Singapore Work Pass holder)
+
+ 
+
+Local linked
+
+Family member of Case 962
+
+ 
+
+1033
+
+2 Apr
+
+SKH
+
+32
+
+M
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1034
+
+2 Apr
+
+SKH
+
+62
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+Maxwell MRT construction site
+
+1035
+
+2 Apr
+
+NCID
+
+36
+
+M
+
+Bangladesh
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+S11 Dormitory
+
+1036
+
+2 Apr
+
+NCID
+
+42
+
+F
+
+Japan
+
+(Singapore Work Pass holder)
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1037
+
+2 Apr
+
+NCID
+
+34
+
+M
+
+Malaysia
+
+(Singapore Work Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+SingPost Centre
+
+1038
+
+2 Apr
+
+NCID
+
+52
+
+F
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1039
+
+2 Apr
+
+NCID
+
+22
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+S11 Dormitory
+
+1040
+
+2 Apr
+
+NCID
+
+48
+
+M
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Case 1041
+
+ 
+
+1041
+
+2 Apr
+
+NCID
+
+43
+
+F
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+Family member of Case 1040
+
+ 
+
+1042
+
+2 Apr
+
+NCID
+
+45
+
+M
+
+Singapore Citizen
+
+Philippines
+
+Imported
+
+Contact of Case 893
+
+ 
+
+1043
+
+2 Apr
+
+NCID
+
+53
+
+F
+
+Singapore Citizen
+
+ 
+
+Local linked
+
+ 
+
+SingPost Centre
+
+1044
+
+2 Apr
+
+NCID
+
+31
+
+M
+
+Singapore Citizen
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+1045
+
+2 Apr
+
+NCID
+
+21
+
+M
+
+Singapore Citizen
+
+UK
+
+Imported
+
+ 
+
+ 
+
+1046
+
+2 Apr
+
+NCID
+
+56
+
+M
+
+Singapore Permanent Resident
+
+ 
+
+Local linked
+
+ 
+
+Mustafa Centre
+
+1047
+
+2 Apr
+
+NCID
+
+25
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local linked
+
+ 
+
+S11 Dormitory
+
+1048
+
+2 Apr
+
+NCID
+
+73
+
+F
+
+Singapore Citizen
+
+UK
+
+Imported
+
+ 
+
+ 
+
+1049
+
+2 Apr
+
+NCID
+
+30
+
+M
+
+India
+
+(Long Term Pass holder)
+
+ 
+
+Local unlinked
+
+ 
+
+ 
+
+ 
+
+------------------------------------------------------------------------
+
+[1] Singapore General Hospital
+
+[2] Ng Teng Fong General Hospital
+
+[3] Changi General Hospital
+
+[4] National University Hospital
+
+[5] Khoo Teck Puat Hospital
 
 
