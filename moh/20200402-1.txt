@@ -26,47 +26,34 @@ LINKS BETWEEN PREVIOUS CASES FOUND
 3.      Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases.
 a) Five of the newly confirmed cases (Cases 1001, 1015, 1024, 1026 and
-1046) are            linked to six previous cases (Cases 616, 788, 866,
-908, 911 and 938), forming a              new cluster at Mustafa Centre
-(145 Syed Alwi Road).
-
-    b) Two of the newly confirmed cases (Cases 1009 and 1034) are linked
-to three                  previous cases (Cases 869, 900 and 1000),
-forming a new cluster at a                              construction
-site at Maxwell MRT station (50 Neil Road).
-
-    c) Three of the earlier confirmed cases (Cases 878, 898 and 907)
-have now been                linked to a new cluster at Keppel Shipyard
-(51 Pioneer Sector 1).
-
-    d) One additional case is linked to the cluster at Lee Ah Mooi Old
-Age Home (1                    Thomson Lane), which has a total of 12
-cases now (Cases 918, 973, 976, 983,                984, 985, 986, 987,
-988, 989, 990 and 1004).
-
-    e) Two additional cases are linked to the cluster at SingPost Centre
-(10 Eunos Road            8), which has a total of eight confirmed cases
-now (Cases 581, 689, 724, 740, 796,          881, 1037 and 1043).
-
-    f)  Three additional cases are linked to the cluster at S11
-Dormitory @ Punggol (2                Seletar North Link), which has a
-total of 13 confirmed cases now (Cases 826, 829,          852, 860, 946,
-947, 966, 979, 982, 993, 1035, 1039 and 1047).
-
-    g)  Two additional cases are linked to the cluster at Westlite Toh
-Guan dormitory (18              Toh Guan Road East), which has a total
-of 10 confirmed cases now (Cases 655,              875, 922, 924, 925,
-926, 934, 977, 1011 and 1012).
-
-    h)  One additional case is linked to the cluster at Hero’s (69
-Circular Road), which                 has a total of eight confirmed
-cases now (Cases 192, 556, 657, 670, 714, 813,                 940,
-1013).
-
-    i)   One additional case is linked to the cluster at PCF Sparkletots
-Preschool @                     Fengshan Blk 126 (126 Bedok North Street
-2), which has a total of 27 confirmed             cases[5] now. The case
-is a family member of Case 601.
+1046) are linked to six previous cases (Cases 616, 788, 866, 908, 911
+and 938), forming a new cluster at Mustafa Centre (145 Syed Alwi Road). 
+b) Two of the newly confirmed cases (Cases 1009 and 1034) are linked to
+three previous cases (Cases 869, 900 and 1000), forming a new cluster at
+a construction site at Maxwell MRT station (50 Neil Road).
+c)  Three of the earlier confirmed cases (Cases 878, 898 and 907) have
+now been                linked to a new cluster at Keppel Shipyard (51
+Pioneer Sector 1).
+d) One additional case is linked to the cluster at Lee Ah Mooi Old Age
+Home (1 Thomson Lane), which has a total of 12 cases now (Cases 918,
+973, 976, 983, 984, 985, 986, 987, 988, 989, 990 and 1004).
+e) Two additional cases are linked to the cluster at SingPost Centre (10
+Eunos Road 8), which has a total of eight confirmed cases now (Cases
+581, 689, 724, 740, 796, 881, 1037 and 1043).
+f)  Three additional cases are linked to the cluster at S11 Dormitory @
+Punggol (2 Seletar North Link), which has a total of 13 confirmed cases
+now (Cases 826, 829, 852, 860, 946, 947, 966, 979, 982, 993, 1035, 1039
+and 1047).
+g)  Two additional cases are linked to the cluster at Westlite Toh Guan
+dormitory (18 Toh Guan Road East), which has a total of 10 confirmed
+cases now (Cases 655, 875, 922, 924, 925, 926, 934, 977, 1011 and 1012).
+h)   One additional case is linked to the cluster at Hero’s (69 Circular
+Road), which has a total of eight confirmed cases now (Cases 192, 556,
+657, 670, 714, 813,940, 1013).
+i)    One additional case is linked to the cluster at PCF Sparkletots
+Preschool @ Fengshan Blk 126 (126 Bedok North Street 2), which has a
+total of 27 confirmed cases[5] now. The case is a family member of Case
+601.
 
 4.       Contact tracing is underway for 118 locally transmitted cases
 to establish any links to previous cases or travel history to affected
@@ -1196,5 +1183,7 @@ Local unlinked
 [4] National University Hospital
 
 [5] Khoo Teck Puat Hospital
+
+ 
 
 
