@@ -92,7 +92,7 @@ from home should continue to do so.
 above-mentioned website (see paragraph 8 for hyperlink) are permitted to
 continue to operate from their premises. They are required to submit
 details of their plans to operate with enhanced safe distancing measures
-in place at https://www.covid.gobusiness.gov.sg by end of 13 April 2020.
+in place at https://covid.gobusiness.gov.sg by end of 13 April 2020.
 They may continue to perform their essential services while waiting for
 our response. Entities which are not performing services listed but
 believe they have strong grounds for exemption from the suspension
