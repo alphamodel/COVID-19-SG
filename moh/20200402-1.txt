@@ -7,126 +7,115 @@
 
 Published Date: 02 Apr 2020
 
-       21 more cases[1] of COVID-19 infection have been discharged from
-hospitals or community isolation facilities. In all, 266 have fully
+         21 more cases[1] of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 266 have fully
 recovered from the infection and have been discharged from hospitals or
 community isolation facilities.
-
-2.     As of 2 April 2020, 12pm, the Ministry of Health (MOH) has
+2.            As of 2 April 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 49 cases of COVID-19 infection in
 Singapore, of which eight are imported and 41 are local cases who have
 no recent travel history abroad.
-
--   The eight imported cases[2] had travel history to Europe, North
-    America, ASEAN and other parts of Asia.
--   26 cases[3] are linked to previous cases or clusters.
--   15 cases[4] are currently unlinked, and contact tracing is ongoing.
-
+•             The eight imported cases[2] had travel history to Europe,
+North America, ASEAN and other parts of Asia.
+•             26 cases[3] are linked to previous cases or clusters.
+•             15 cases[4] are currently unlinked, and contact tracing is
+ongoing.
+ 
 LINKS BETWEEN PREVIOUS CASES FOUND
-3.      Further epidemiological investigations and contact tracing have
-uncovered links between previously announced and new cases.
-a) Five of the newly confirmed cases (Cases 1001, 1015, 1024, 1026 and
-1046) are linked to six previous cases (Cases 616, 788, 866, 908, 911
-and 938), forming a new cluster at Mustafa Centre (145 Syed Alwi Road). 
-b) Two of the newly confirmed cases (Cases 1009 and 1034) are linked to
-three previous cases (Cases 869, 900 and 1000), forming a new cluster at
-a construction site at Maxwell MRT station (50 Neil Road).
-c)  Three of the earlier confirmed cases (Cases 878, 898 and 907) have
-now been linked to a new cluster at Keppel Shipyard (51 Pioneer Sector
-1). 
-d) One additional case is linked to the cluster at Lee Ah Mooi Old Age
-Home (1 Thomson Lane), which has a total of 12 cases now (Cases 918,
-973, 976, 983, 984, 985, 986, 987, 988, 989, 990 and 1004).
-e) Two additional cases are linked to the cluster at SingPost Centre (10
-Eunos Road 8), which has a total of eight confirmed cases now (Cases
-581, 689, 724, 740, 796, 881, 1037 and 1043).
-f)  Three additional cases are linked to the cluster at S11 Dormitory @
-Punggol (2 Seletar North Link), which has a total of 13 confirmed cases
-now (Cases 826, 829, 852, 860, 946, 947, 966, 979, 982, 993, 1035, 1039
-and 1047).
-g)  Two additional cases are linked to the cluster at Westlite Toh Guan
-dormitory (18 Toh Guan Road East), which has a total of 10 confirmed
-cases now (Cases 655, 875, 922, 924, 925, 926, 934, 977, 1011 and 1012).
-h)   One additional case is linked to the cluster at Hero’s (69 Circular
-Road), which has a total of eight confirmed cases now (Cases 192, 556,
-657, 670, 714, 813,940, 1013).
-i)    One additional case is linked to the cluster at PCF Sparkletots
-Preschool @ Fengshan Blk 126 (126 Bedok North Street 2), which has a
-total of 27 confirmed cases[5] now. The case is a family member of Case
-601.
-
-4.       Contact tracing is underway for 118 locally transmitted cases
-to establish any links to previous cases or travel history to affected
-countries or regions.
-
-5.       Please refer to the Annex for a summary of the confirmed cases.
-
+3.            Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases.
+a)            Five of the newly confirmed cases (Cases 1001, 1015, 1024,
+1026 and 1046) are linked to six previous cases (Cases 616, 788, 866,
+908, 911 and 938), forming a new cluster at Mustafa Centre (145 Syed
+Alwi Road).
+b)            Two of the newly confirmed cases (Cases 1009 and 1034) are
+linked to three previous cases (Cases 869, 900 and 1000), forming a new
+cluster at a construction site at Maxwell MRT station (50 Neil Road).
+c)            Three of the earlier confirmed cases (Cases 878, 898 and
+907) have now been linked to a new cluster at Keppel Shipyard (51
+Pioneer Sector 1).
+d)            One additional case is linked to the cluster at Lee Ah
+Mooi Old Age Home (1 Thomson Lane), which has a total of 12 cases now
+(Cases 918, 973, 976, 983, 984, 985, 986, 987, 988, 989, 990 and 1004).
+e)            Two additional cases are linked to the cluster at SingPost
+Centre (10 Eunos Road 8), which has a total of eight confirmed cases now
+(Cases 581, 689, 724, 740, 796, 881, 1037 and 1043).
+f)             Three additional cases are linked to the cluster at S11
+Dormitory @ Punggol (2 Seletar North Link), which has a total of 13
+confirmed cases now (Cases 826, 829, 852, 860, 946, 947, 966, 979, 982,
+993, 1035, 1039 and 1047).
+g)            Two additional cases are linked to the cluster at Westlite
+Toh Guan dormitory (18 Toh Guan Road East), which has a total of 10
+confirmed cases now (Cases 655, 875, 922, 924, 925, 926, 934, 977, 1011
+and 1012).
+h)            One additional case is linked to the cluster at Hero’s (69
+Circular Road), which has a total of eight confirmed cases now (Cases
+192, 556, 657, 670, 714, 813, 940, 1013).
+i)             One additional case is linked to the cluster at PCF
+Sparkletots Preschool @ Fengshan Blk 126 (126 Bedok North Street 2),
+which has a total of 27 confirmed cases[5] now. The case is a family
+member of Case 601.
+4.            Contact tracing is underway for 118 locally transmitted
+cases to establish any links to previous cases or travel history to
+affected countries or regions.
+5.            Please refer to the Annex for a summary of the confirmed
+cases.
+ 
 CASES FROM PUBLIC HEALTHCARE SECTOR
-
 Case 1028
-
-6.        Case 1028 is a 26 year-old female Malaysian national who is a
-Singapore Work Pass holder, and had been in India from 2 March to 18
-March. She reported onset of symptoms on 20 March, and subsequent test
-results confirmed COVID-19 infection on 1 April afternoon. She is
+6.            Case 1028 is a 26 year-old female Malaysian national who
+is a Singapore Work Pass holder, and had been in India from 2 March to
+18 March. She reported onset of symptoms on 20 March, and subsequent
+test results confirmed COVID-19 infection on 1 April afternoon. She is
 currently warded in an isolation room at the National Centre for
 Infectious Diseases (NCID).
-
-7.        She is employed as a healthcare attendant at the Institute of
-Mental Health but had not gone to work since onset of symptoms.
-
-Case 963 (Announced on 1 April) 
-8.        Case 963 is a 26 year-old male Bangladeshi national who is a
-Long Term Pass holder with no recent travel history to affected
+7.            She is employed as a healthcare attendant at the Institute
+of Mental Health but had not gone to work since onset of symptoms.
+Case 963 (Announced on 1 April)
+8.            Case 963 is a 26 year-old male Bangladeshi national who is
+a Long Term Pass holder with no recent travel history to affected
 countries or regions. He reported onset of symptoms on 28 March, and
 subsequent test results confirmed COVID-19 infection on 31 March
 afternoon. He is currently warded in an isolation room at Sengkang
 General Hospital (SKH).
-9.       He is employed as a contractor working on the installation of
-toilet facilities at SKH. Prior to hospital admission, he had gone to
+9.            He is employed as a contractor working on the installation
+of toilet facilities at SKH. Prior to hospital admission, he had gone to
 work but had not interacted with patients.
-
-UPDATE ON CONDITION OF CONFIRMED CASES
-
-10.      To date, a total of 266 cases have fully recovered from the
+ 
+Update on condition of confirmed cases
+10.          To date, a total of 266 cases have fully recovered from the
 infection and have been discharged from hospitals or community isolation
 facilities.
-
-11.      Of the 464 confirmed cases who are still in hospital, most are
-stable or improving. 23 are in critical condition in the intensive care
-unit. 315 cases who are clinically well but still test positive for
+11.          Of the 464 confirmed cases who are still in hospital, most
+are stable or improving. 23 are in critical condition in the intensive
+care unit. 315 cases who are clinically well but still test positive for
 COVID-19 are isolated and cared for at Concord International Hospital,
 Mount Elizabeth Hospital, Gleneagles Hospital and the Community
 Isolation Facility at D’Resort NTUC. Four have passed away from
 complications due to COVID-19 infection.
-
+ 
 UPDATE ON CONTACT TRACING FOR CONFIRMED CASES
-
-12.      Contact tracing for the confirmed cases is ongoing. Once
+12.          Contact tracing for the confirmed cases is ongoing. Once
 identified, MOH will closely monitor all close contacts. As a
 precautionary measure, they will be quarantined for 14 days from their
 last exposure to the patient. In addition, all other identified contacts
 who have a low risk of being infected will be under active surveillance,
 and will be contacted daily to monitor their health status.
-
-13.     As of 2 April 2020, 12pm, MOH has identified 14,952 close
+13.          As of 2 April 2020, 12pm, MOH has identified 14,952 close
 contacts who have been quarantined. Of these, 5,261 are currently
 quarantined, and 9,691 have completed their quarantine.
-
+ 
 MINISTRY OF HEALTH
-
 2 APRIL 2020
-
-[1] Cases 175, 183, 231, 244, 249, 283, 301, 331, 379, 385, 414, 457,
+ 
+[1]  Cases 175, 183, 231, 244, 249, 283, 301, 331, 379, 385, 414, 457,
 469, 478, 509, 529, 535, 625, 749, 765 and 821.
-[2] Cases 1002, 1005, 1021, 1027, 1028, 1042, 1045 and 1048.
-[3] Cases 1001, 1003, 1004, 1008, 1009, 1011, 1012, 1013, 1015, 1020,
+[2]  Cases 1002, 1005, 1021, 1027, 1028, 1042, 1045 and 1048.
+[3]  Cases 1001, 1003, 1004, 1008, 1009, 1011, 1012, 1013, 1015, 1020,
 1023, 1024, 1026, 1029, 1030, 1031, 1032, 1034, 1035, 1037, 1039, 1040,
 1041, 1043, 1046 and 1047.
-[4]Cases 1006, 1007, 1010, 1014, 1016, 1017, 1018, 1019, 1022, 1025,
+[4] Cases 1006, 1007, 1010, 1014, 1016, 1017, 1018, 1019, 1022, 1025,
 1033, 1036, 1038, 1044 and 1049.
-[5] Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605,
+[5]  Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605,
 609, 610, 612, 614, 617, 624, 638, 660, 705, 706, 707, 708, 716, 746 and
-1003. 
-
-
+1003.
