@@ -17,7 +17,8 @@ Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.s
   2. html format: content extracted from json file.
   3. plain text format: actual content of the press release encoded in UTF-8.
 
-  From March 18, Singapore MOH posts case details in a separate pdf. They are downloaded and renamed to `date_original name`.
+  From March 18th, Singapore MOH posts case details in a separate pdf. They are downloaded and renamed to `date_original name`.
+  From April 5th, Singapore MOH does not post case details any more. Instead a situation report is provided. These reports are downloaded and placed in `moh` folder as well.
 - `malay`: press release from MOH of Malaysia.
 - `who`: situation reports from WHO.
 
