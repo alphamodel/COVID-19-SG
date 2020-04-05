@@ -19,7 +19,7 @@ Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.s
 
   From March 18th, Singapore MOH posts case details in a separate pdf. They are downloaded and renamed to `date_original name`.
   
-  From April 5th, Singapore MOH does not post case details any more. Instead a situation report is provided. These reports are downloaded and placed in `moh` folder as well.
+  **From April 5th, Singapore MOH does not post case details any more. Instead a situation report is provided. These reports are downloaded and placed in `moh` folder as well.** This may break other data sources as well, we will monitor the impacts of this change closely.
 - `malay`: press release from MOH of Malaysia.
 - `who`: situation reports from WHO.
 
