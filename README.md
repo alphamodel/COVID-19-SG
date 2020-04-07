@@ -1,6 +1,6 @@
 # COVID-19-SG
 
-Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. This repository updates *every 10 minutes* if new data is available. New files for each day are created at 9 AM SGT.
+Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. This repository updates *every 10 minutes* if new data is available. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status.
 
 
 ## Description
