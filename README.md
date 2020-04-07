@@ -1,4 +1,5 @@
-# Datasets for COVID-19 in Singapore and Malaysia (Updates every 10 minutes)
+# Datasets for COVID-19 in Singapore and Malaysia
+*Updates every 10 minutes*
 
 This repository collects Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. The updating frequency is *10 minutes*. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status.
 
@@ -26,3 +27,6 @@ This repository collects Singapore and Malaysia COVID-19 data from multiple data
 <hr/>
 
 We hope the world will back to normal as soon as possible.
+
+Many thanks to NTU and UrbanDotSolution for providing the machine to host the updating scripts.
+
