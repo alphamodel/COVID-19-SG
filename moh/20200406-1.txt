@@ -7,10 +7,10 @@
 
 Published Date: 06 Apr 2020
 
-          24 more cases[1] of COVID-19 infection have been discharged
-from hospitals or community isolation facilities. In all, 344 have fully
-recovered from the infection and have been discharged from hospitals or
-community isolation facilities.
+              24 more cases[1] of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all, 344
+have fully recovered from the infection and have been discharged from
+hospitals or community isolation facilities.
 
 2.            As of 6 April 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 66 cases of COVID-19 infection in
@@ -108,10 +108,9 @@ cases, and further investigations are ongoing.
 establish any links to previous cases or travel history to affected
 countries or regions.
 
-7.            Please refer to the MOH website for the situation report
+7.           Please refer to the Annex for a summary of the confirmed
+cases, and the MOH website for the situation report
 (www.moh.gov.sg/covid-19/situation-report).
-
- 
 
 CASES FROM PUBLIC HEALTHCARE SECTOR
 
