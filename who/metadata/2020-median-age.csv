@@ -1,0 +1,202 @@
+Country,Country code,Median Age
+Burundi,108,17.3
+Comoros,174,20.4
+Djibouti,262,26.6
+Eritrea,232,19.2
+Ethiopia,231,19.5
+Kenya,404,20.1
+Madagascar,450,19.6
+Malawi,454,18.1
+Mauritius,480,37.5
+Mayotte,175,20.1
+Mozambique,508,17.6
+Réunion,638,35.9
+Rwanda,646,20.0
+Seychelles,690,34.2
+Somalia,706,16.7
+South Sudan,728,19.0
+Uganda,800,16.7
+United Republic of Tanzania,834,18.0
+Zambia,894,17.6
+Zimbabwe,716,18.7
+Angola,24,16.7
+Cameroon,120,18.7
+Central African Republic,140,17.6
+Chad,148,16.6
+Congo,178,19.2
+Democratic Republic of the Congo,180,17.0
+Equatorial Guinea,226,22.3
+Gabon,266,22.5
+Sao Tome and Principe,678,18.6
+Botswana,72,24.0
+Swaziland,748,20.7
+Lesotho,426,24.0
+Namibia,516,21.8
+South Africa,710,27.6
+Benin,204,18.8
+Burkina Faso,854,17.6
+Cabo Verde,132,27.6
+Côte d'Ivoire,384,18.9
+Gambia,270,17.8
+Ghana,288,21.5
+Guinea,324,18.0
+Guinea-Bissau,624,18.8
+Liberia,430,19.4
+Mali,466,16.3
+Mauritania,478,20.1
+Niger,562,15.2
+Nigeria,566,18.1
+Senegal,686,18.5
+Sierra Leone,694,19.4
+Togo,768,19.4
+Algeria,12,28.5
+Egypt,818,24.6
+Libya,434,28.8
+Morocco,504,29.5
+Sudan,729,19.7
+Tunisia,788,32.8
+Western Sahara,732,28.4
+Armenia,51,35.4
+Azerbaijan,31,32.3
+Bahrain,48,32.5
+Cyprus,196,37.3
+Georgia,268,38.3
+Iraq,368,21.0
+Israel,376,30.5
+Jordan,400,23.8
+Kuwait,414,36.8
+Lebanon,422,29.6
+Oman,512,30.6
+Qatar,634,32.3
+Saudi Arabia,682,31.8
+State of Palestine,275,20.8
+Syrian Arab Republic,760,25.6
+Turkey,792,31.5
+United Arab Emirates,784,32.6
+Yemen,887,20.2
+Kazakhstan,398,30.7
+Kyrgyzstan,417,26.0
+Tajikistan,762,22.4
+Turkmenistan,795,26.9
+Uzbekistan,860,27.8
+Afghanistan,4,18.4
+Bangladesh,50,27.6
+Bhutan,64,28.1
+India,356,28.4
+Iran (Islamic Republic of),364,32.0
+Maldives,462,29.9
+Nepal,524,24.6
+Pakistan,586,22.8
+Sri Lanka,144,34.0
+China,156,38.4
+Hong Kong,344,44.8
+"China, Macao SAR",446,39.3
+Taiwan,158,42.5
+Dem. People's Republic of Korea,408,35.3
+Japan,392,48.4
+Mongolia,496,28.2
+Republic of Korea,410,43.7
+Brunei Darussalam,96,32.3
+Cambodia,116,25.6
+Indonesia,360,29.7
+Lao People's Democratic Republic,418,24.4
+Malaysia,458,30.3
+Myanmar,104,29.0
+Philippines,608,25.7
+Singapore,702,42.2
+Thailand,764,40.1
+Timor-Leste,626,20.8
+Viet Nam,704,32.5
+Antigua and Barbuda,28,34.0
+Aruba,533,41.0
+Bahamas,44,32.3
+Barbados,52,40.5
+Cuba,192,42.2
+Curaçao,531,41.6
+Dominican Republic,214,28.0
+Grenada,308,32.0
+Guadeloupe,312,43.7
+Haiti,332,24.0
+Jamaica,388,30.7
+Martinique,474,47.0
+Puerto Rico,630,44.5
+Saint Lucia,662,34.5
+Saint Vincent and the Grenadines,670,32.9
+Trinidad and Tobago,780,36.2
+United States Virgin Islands,850,42.6
+Belize,84,25.5
+Costa Rica,188,33.5
+El Salvador,222,27.6
+Guatemala,320,22.9
+Honduras,340,24.3
+Mexico,484,29.2
+Nicaragua,558,26.5
+Panama,591,29.7
+Argentina,32,31.5
+Bolivia (Plurinational State of),68,25.6
+Brazil,76,33.5
+Chile,152,35.3
+Colombia,170,31.3
+Ecuador,218,27.9
+French Guiana,254,25.1
+Guyana,328,26.7
+Paraguay,600,26.3
+Peru,604,31.0
+Suriname,740,29.0
+Uruguay,858,35.8
+Venezuela (Bolivarian Republic of),862,29.6
+Australia,36,37.9
+New Zealand,554,38.0
+Fiji,242,27.9
+New Caledonia,540,33.6
+Papua New Guinea,598,22.4
+Solomon Islands,90,19.9
+Vanuatu,548,21.1
+Guam,316,31.4
+Kiribati,296,23.0
+Micronesia,583,24.4
+French Polynesia,258,33.6
+Samoa,882,21.8
+Tonga,776,22.4
+Belarus,112,40.3
+Bulgaria,100,44.6
+Czechia,203,43.2
+Hungary,348,43.3
+Poland,616,41.7
+Republic of Moldova,498,37.6
+Romania,642,43.2
+Russian Federation,643,39.6
+Slovakia,703,41.2
+Ukraine,804,41.2
+Channel Islands,830,42.6
+Denmark,208,42.3
+Estonia,233,42.4
+Finland,246,43.1
+Iceland,352,37.5
+Ireland,372,38.2
+Latvia,428,43.9
+Lithuania,440,45.1
+Norway,578,39.8
+Sweden,752,41.1
+United Kingdom,826,40.5
+Albania,8,36.4
+Bosnia and Herzegovina,70,43.1
+Croatia,191,44.3
+Greece,300,45.6
+Italy,380,47.3
+Malta,470,42.6
+Montenegro,499,38.8
+Macedonia,807,39.1
+Portugal,620,46.2
+Serbia,688,41.6
+Slovenia,705,44.5
+Spain,724,44.9
+Austria,40,43.5
+Belgium,56,41.9
+France,250,42.3
+Germany,276,45.7
+Luxembourg,442,39.7
+Netherlands,528,43.3
+Switzerland,756,43.1
+Canada,124,41.1
+United States of America,840,38.3

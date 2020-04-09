@@ -1,0 +1,236 @@
+Country,Country code,Population Density
+Burundi,108,463.0
+Comoros,174,467.3
+Djibouti,262,42.6
+Eritrea,232,35.1
+Ethiopia,231,115.0
+Kenya,404,94.5
+Madagascar,450,47.6
+Malawi,454,202.9
+Mauritius,480,626.5
+Mayotte,175,727.5
+Mozambique,508,39.7
+Réunion,638,358.1
+Rwanda,646,525.0
+Seychelles,690,213.8
+Somalia,706,25.3
+South Sudan,728,18.3
+Uganda,800,228.9
+United Republic of Tanzania,834,67.4
+Zambia,894,24.7
+Zimbabwe,716,38.4
+Angola,24,26.4
+Cameroon,120,56.2
+Central African Republic,140,7.8
+Chad,148,13.0
+Congo,178,16.2
+Democratic Republic of the Congo,180,39.5
+Equatorial Guinea,226,50.0
+Gabon,266,8.6
+Sao Tome and Principe,678,228.3
+Botswana,72,4.1
+Swaziland,748,67.5
+Lesotho,426,70.6
+Namibia,516,3.1
+South Africa,710,48.9
+Benin,204,107.5
+Burkina Faso,854,76.4
+Cabo Verde,132,138.0
+Côte d'Ivoire,384,83.0
+Gambia,270,238.8
+Ghana,288,136.6
+Guinea,324,53.4
+Guinea-Bissau,624,70.0
+Liberia,430,52.5
+Mali,466,16.6
+Mauritania,478,4.5
+Niger,562,19.1
+Nigeria,566,226.3
+Saint Helena,654,15.6
+Senegal,686,87.0
+Sierra Leone,694,110.5
+Togo,768,152.2
+Algeria,12,18.4
+Egypt,818,102.8
+Libya,434,3.9
+Morocco,504,82.7
+Sudan,729,24.8
+Tunisia,788,76.1
+Western Sahara,732,2.2
+Armenia,51,104.1
+Azerbaijan,31,122.7
+Bahrain,48,2238.9
+Cyprus,196,130.7
+Georgia,268,57.4
+Iraq,368,92.6
+Israel,376,400.0
+Jordan,400,114.9
+Kuwait,414,239.7
+Lebanon,422,667.2
+Oman,512,16.5
+Qatar,634,248.2
+Saudi Arabia,682,16.2
+State of Palestine,275,847.4
+Syrian Arab Republic,760,95.3
+Turkey,792,109.6
+United Arab Emirates,784,118.3
+Yemen,887,56.5
+Kazakhstan,398,7.0
+Kyrgyzstan,417,34.0
+Tajikistan,762,68.1
+Turkmenistan,795,12.8
+Uzbekistan,860,78.7
+Afghanistan,4,59.6
+Bangladesh,50,1265.2
+Bhutan,64,20.2
+India,356,464.1
+Iran (Islamic Republic of),364,51.6
+Maldives,462,1801.8
+Nepal,524,203.3
+Pakistan,586,286.5
+Sri Lanka,144,341.5
+China,156,153.3
+Hong Kong,344,7140.0
+"China, Macao SAR",446,21717.1
+Taiwan,158,672.6
+Dem. People's Republic of Korea,408,214.1
+Japan,392,346.9
+Mongolia,496,2.1
+Republic of Korea,410,527.3
+Brunei Darussalam,96,83.0
+Cambodia,116,94.7
+Indonesia,360,151.0
+Lao People's Democratic Republic,418,31.5
+Malaysia,458,98.5
+Myanmar,104,83.3
+Philippines,608,367.5
+Singapore,702,8357.6
+Thailand,764,136.6
+Timor-Leste,626,88.7
+Viet Nam,704,313.9
+Anguilla,660,166.7
+Antigua and Barbuda,28,222.6
+Aruba,533,593.1
+Bahamas,44,39.3
+Barbados,52,668.3
+"Bonaire, Sint Eustatius and Saba",535,79.9
+British Virgin Islands,92,201.6
+Cayman Islands,136,273.8
+Cuba,192,106.4
+Curaçao,531,369.6
+Dominica,212,96.0
+Dominican Republic,214,224.5
+Grenada,308,330.9
+Guadeloupe,312,245.8
+Haiti,332,413.7
+Jamaica,388,273.4
+Martinique,474,354.0
+Montserrat,500,50.0
+Puerto Rico,630,322.5
+Saint Barthélemy,652,449.3
+Saint Kitts and Nevis,659,204.6
+Saint Lucia,662,301.0
+Saint Martin (French part),663,729.4
+Saint Vincent and the Grenadines,670,284.5
+Sint Maarten (Dutch part),534,1261.2
+Trinidad and Tobago,780,272.8
+Turks and Caicos Islands,796,40.8
+United States Virgin Islands,850,298.4
+Belize,84,17.4
+Costa Rica,188,99.8
+El Salvador,222,313.0
+Guatemala,320,167.2
+Honduras,340,88.5
+Mexico,484,66.3
+Nicaragua,558,55.0
+Panama,591,58.0
+Argentina,32,16.5
+Bolivia (Plurinational State of),68,10.8
+Brazil,76,25.4
+Chile,152,25.7
+Colombia,170,45.9
+Ecuador,218,71.0
+Falkland Islands (Malvinas),238,0.30000000000000004
+French Guiana,254,3.6
+Guyana,328,4.0
+Paraguay,600,18.0
+Peru,604,25.8
+Suriname,740,3.8
+Uruguay,858,19.8
+Venezuela (Bolivarian Republic of),862,32.2
+Australia,36,3.3
+New Zealand,554,18.3
+Fiji,242,49.1
+New Caledonia,540,15.6
+Papua New Guinea,598,19.8
+Solomon Islands,90,24.5
+Vanuatu,548,25.2
+Guam,316,312.6
+Kiribati,296,147.5
+Marshall Islands,584,328.9
+Micronesia,583,164.3
+Nauru,520,541.7
+Northern Mariana Islands,580,125.1
+Palau,585,39.3
+American Samoa,16,276.0
+Cook Islands,184,73.2
+French Polynesia,258,76.7
+Niue,570,6.2
+Samoa,882,70.1
+Tokelau,772,135.0
+Tonga,776,146.8
+Tuvalu,798,393.1
+Wallis and Futuna Islands,876,80.3
+Belarus,112,46.6
+Bulgaria,100,64.0
+Czechia,203,138.6
+Hungary,348,106.7
+Poland,616,123.6
+Republic of Moldova,498,122.8
+Romania,642,83.6
+Russian Federation,643,8.9
+Slovakia,703,113.5
+Ukraine,804,75.5
+Channel Islands,830,915.0
+Denmark,208,136.5
+Estonia,233,31.3
+Faroe Islands,234,35.0
+Finland,246,18.2
+Iceland,352,3.4
+Ireland,372,71.7
+Isle of Man,833,149.2
+Latvia,428,30.3
+Lithuania,440,43.4
+Norway,578,14.8
+Sweden,752,24.6
+United Kingdom,826,280.6
+Albania,8,105.0
+Andorra,20,164.4
+Bosnia and Herzegovina,70,64.3
+Croatia,191,73.4
+Gibraltar,292,3369.1
+Greece,300,80.9
+Holy See,336,1838.6
+Italy,380,205.6
+Malta,470,1379.8
+Montenegro,499,46.7
+Macedonia,807,82.6
+Portugal,620,111.3
+San Marino,674,565.6
+Serbia,688,99.9
+Slovenia,705,103.2
+Spain,724,93.7
+Austria,40,109.3
+Belgium,56,382.7
+France,250,119.2
+Germany,276,240.4
+Liechtenstein,438,238.4
+Luxembourg,442,241.7
+Monaco,492,26338.3
+Netherlands,528,508.2
+Switzerland,756,219.0
+Bermuda,60,1245.5
+Canada,124,4.2
+Greenland,304,0.1
+Saint Pierre and Miquelon,666,25.2
+United States of America,840,36.2

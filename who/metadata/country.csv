@@ -1,0 +1,243 @@
+Country,ADM0_NAME,ADM0_SOVRN,ADM0_VIZ_NAME,ISO_2_CODE,ISO_3_CODE
+AW,ARUBA,Netherlands,Aruba,AW,ABW
+AF,AFGHANISTAN,Afghanistan,Afghanistan,AF,AFG
+AO,ANGOLA,Angola,Angola,AO,AGO
+AI,ANGUILLA,United Kingdom of Great Britain and Northern Ireland,Anguilla,AI,AIA
+AL,ALBANIA,Albania,Albania,AL,ALB
+AD,ANDORRA,Andorra,Andorra,AD,AND
+AE,UNITED ARAB EMIRATES,United Arab Emirates,United Arab Emirates,AE,ARE
+AR,ARGENTINA,Argentina,Argentina,AR,ARG
+AM,ARMENIA,Armenia,Armenia,AM,ARM
+AS,AMERICAN SAMOA,United States of America,American Samoa,AS,ASM
+AG,ANTIGUA AND BARBUDA,Antigua and Barbuda,Antigua and Barbuda,AG,ATG
+AU,AUSTRALIA,Australia,Australia,AU,AUS
+AT,AUSTRIA,Austria,Austria,AT,AUT
+AZ,AZERBAIJAN,Azerbaijan,Azerbaijan,AZ,AZE
+BI,BURUNDI,Burundi,Burundi,BI,BDI
+BE,BELGIUM,Belgium,Belgium,BE,BEL
+BJ,BENIN,Benin,Benin,BJ,BEN
+BQ,"BONAIRE, SINT EUSTATIUS AND SABA",Netherlands,"Bonaire, Sint Eustatius and Saba",BQ,BES
+BF,BURKINA FASO,Burkina Faso,Burkina Faso,BF,BFA
+BD,BANGLADESH,Bangladesh,Bangladesh,BD,BGD
+BG,BULGARIA,Bulgaria,Bulgaria,BG,BGR
+BH,BAHRAIN,Bahrain,Bahrain,BH,BHR
+BS,BAHAMAS,Bahamas,Bahamas,BS,BHS
+BA,BOSNIA AND HERZEGOVINA,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH
+BL,SAINT BARTHELEMY,France,Saint Barthélemy,BL,BLM
+BY,BELARUS,Belarus,Belarus,BY,BLR
+BZ,BELIZE,Belize,Belize,BZ,BLZ
+BM,BERMUDA,United Kingdom of Great Britain and Northern Ireland,Bermuda,BM,BMU
+BO,PLURINATIONAL STATE OF BOLIVIA,Plurinational State of Bolivia,Bolivia (Plurinational State of),BO,BOL
+BR,BRAZIL,Brazil,Brazil,BR,BRA
+BB,BARBADOS,Barbados,Barbados,BB,BRB
+BN,BRUNEI DARUSSALAM,Brunei Darussalam,Brunei Darussalam,BN,BRN
+BT,BHUTAN,Bhutan,Bhutan,BT,BTN
+BW,BOTSWANA,Botswana,Botswana,BW,BWA
+CF,CENTRAL AFRICAN REPUBLIC,Central African Republic,Central African Republic,CF,CAF
+CA,CANADA,Canada,Canada,CA,CAN
+CC,COCOS (KEELING) ISLANDS,Australia,Cocos (Keeling) Islands,CC,CCK
+CH,SWITZERLAND,Switzerland,Switzerland,CH,CHE
+CL,CHILE,Chile,Chile,CL,CHL
+CN,CHINA,China,China,CN,CHN
+CM,CAMEROON,Cameroon,Cameroon,CM,CMR
+CK,COOK ISLANDS,New Zealand,Cook Islands,CK,COK
+CO,COLOMBIA,Colombia,Colombia,CO,COL
+KM,COMOROS,Comoros,Comoros,KM,COM
+CV,CABO VERDE,Cabo Verde,Cabo Verde,CV,CPV
+CR,COSTA RICA,Costa Rica,Costa Rica,CR,CRI
+CU,CUBA,Cuba,Cuba,CU,CUB
+CW,CURACAO,Netherlands,Curacao,CW,CUW
+CX,CHRISTMAS ISLAND,Australia,Christmas Island,CX,CXR
+KY,CAYMAN ISLANDS,United Kingdom of Great Britain and Northern Ireland,Cayman Islands,KY,CYM
+CY,CYPRUS,Cyprus,Cyprus,CY,CYP
+CZ,CZECH REPUBLIC,Czech Republic,Czechia,CZ,CZE
+DE,GERMANY,Germany,Germany,DE,DEU
+DJ,DJIBOUTI,Djibouti,Djibouti,DJ,DJI
+DM,DOMINICA,Dominica,Dominica,DM,DMA
+DK,DENMARK,Denmark,Denmark,DK,DNK
+DO,DOMINICAN REPUBLIC,Dominican Republic,Dominican Republic,DO,DOM
+DZ,ALGERIA,Algeria,Algeria,DZ,DZA
+EC,ECUADOR,Ecuador,Ecuador,EC,ECU
+EG,EGYPT,Egypt,Egypt,EG,EGY
+ER,ERITREA,Eritrea,Eritrea,ER,ERI
+EH,WESTERN SAHARA,Western Sahara,Western Sahara,EH,ESH
+ES,SPAIN,Spain,Spain,ES,ESP
+EE,ESTONIA,Estonia,Estonia,EE,EST
+ET,ETHIOPIA,Ethiopia,Ethiopia,ET,ETH
+FI,FINLAND,Finland,Finland,FI,FIN
+FJ,FIJI,Fiji,Fiji,FJ,FJI
+FK,FALKLAND ISLANDS (MALVINAS),United Kingdom of Great Britain and Northern Ireland,Falkland Islands (Malvinas),FK,FLK
+FR,FRANCE,France,France,FR,FRA
+FO,FAROE ISLANDS,Denmark,Faroe Islands,FO,FRO
+FM,FEDERATED STATES OF MICRONESIA,Federated States of Micronesia,Micronesia (Federated States of),FM,FSM
+GA,GABON,Gabon,Gabon,GA,GAB
+GB,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,United Kingdom of Great Britain and Northern Ireland,The United Kingdom,GB,GBR
+GE,GEORGIA,Georgia,Georgia,GE,GEO
+GG,GUERNSEY,United Kingdom of Great Britain and Northern Ireland,Guernsey,GG,GGY
+GH,GHANA,Ghana,Ghana,GH,GHA
+GI,GIBRALTAR,United Kingdom of Great Britain and Northern Ireland,Gibraltar,GI,GIB
+GN,GUINEA,Guinea,Guinea,GN,GIN
+GP,GUADELOUPE,France,Guadeloupe,GP,GLP
+GM,GAMBIA,Gambia,Gambia,GM,GMB
+GW,GUINEA-BISSAU,Guinea-Bissau,Guinea-Bissau,GW,GNB
+GQ,EQUATORIAL GUINEA,Equatorial Guinea,Equatorial Guinea,GQ,GNQ
+GR,GREECE,Greece,Greece,GR,GRC
+GD,GRENADA,Grenada,Grenada,GD,GRD
+GL,GREENLAND,Denmark,Greenland,GL,GRL
+GT,GUATEMALA,Guatemala,Guatemala,GT,GTM
+GF,FRENCH GUIANA,France,French Guiana,GF,GUF
+GU,GUAM,United States of America,Guam,GU,GUM
+GY,GUYANA,Guyana,Guyana,GY,GUY
+HN,HONDURAS,Honduras,Honduras,HN,HND
+HR,CROATIA,Croatia,Croatia,HR,HRV
+HT,HAITI,Haiti,Haiti,HT,HTI
+HU,HUNGARY,Hungary,Hungary,HU,HUN
+ID,INDONESIA,Indonesia,Indonesia,ID,IDN
+IM,ISLE OF MAN,United Kingdom of Great Britain and Northern Ireland,Isle of Man,IM,IMN
+IN,INDIA,India,India,IN,IND
+IE,IRELAND,Ireland,Ireland,IE,IRL
+IR,ISLAMIC REPUBLIC OF IRAN,Islamic Republic of Iran,Iran (Islamic Republic of),IR,IRN
+IQ,IRAQ,Iraq,Iraq,IQ,IRQ
+IS,ICELAND,Iceland,Iceland,IS,ISL
+IL,ISRAEL,Israel,Israel,IL,ISR
+IT,ITALY,Italy,Italy,IT,ITA
+JM,JAMAICA,Jamaica,Jamaica,JM,JAM
+JE,JERSEY,United Kingdom of Great Britain and Northern Ireland,Jersey,JE,JEY
+JO,JORDAN,Jordan,Jordan,JO,JOR
+JP,JAPAN,Japan,Japan,JP,JPN
+KZ,KAZAKHSTAN,Kazakhstan,Kazakhstan,KZ,KAZ
+KE,KENYA,Kenya,Kenya,KE,KEN
+KG,KYRGYZSTAN,Kyrgyzstan,Kyrgyzstan,KG,KGZ
+KH,CAMBODIA,Cambodia,Cambodia,KH,KHM
+KI,KIRIBATI,Kiribati,Kiribati,KI,KIR
+KN,SAINT KITTS AND NEVIS,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA
+KR,REPUBLIC OF KOREA,Republic of Korea,Republic of Korea,KR,KOR
+KW,KUWAIT,Kuwait,Kuwait,KW,KWT
+LA,LAO PEOPLE'S DEMOCRATIC REPUBLIC,Lao People's Democratic Republic,Lao People's Democratic Republic,LA,LAO
+LB,LEBANON,Lebanon,Lebanon,LB,LBN
+LR,LIBERIA,Liberia,Liberia,LR,LBR
+LY,LIBYA,Libya,Libya,LY,LBY
+LC,SAINT LUCIA,Saint Lucia,Saint Lucia,LC,LCA
+LI,LIECHTENSTEIN,Liechtenstein,Liechtenstein,LI,LIE
+LK,SRI LANKA,Sri Lanka,Sri Lanka,LK,LKA
+LS,LESOTHO,Lesotho,Lesotho,LS,LSO
+LT,LITHUANIA,Lithuania,Lithuania,LT,LTU
+LU,LUXEMBOURG,Luxembourg,Luxembourg,LU,LUX
+LV,LATVIA,Latvia,Latvia,LV,LVA
+MF,SAINT MARTIN,France,Saint Martin,MF,MAF
+MA,MOROCCO,Morocco,Morocco,MA,MAR
+MC,MONACO,Monaco,Monaco,MC,MCO
+MD,REPUBLIC OF MOLDOVA,Republic of Moldova,Republic of Moldova,MD,MDA
+MG,MADAGASCAR,Madagascar,Madagascar,MG,MDG
+MV,MALDIVES,Maldives,Maldives,MV,MDV
+MX,MEXICO,Mexico,Mexico,MX,MEX
+MH,MARSHALL ISLANDS,Marshall Islands,Marshall Islands,MH,MHL
+MK,NORTH MACEDONIA,North Macedonia,North Macedonia,MK,MKD
+ML,MALI,Mali,Mali,ML,MLI
+MT,MALTA,Malta,Malta,MT,MLT
+MM,MYANMAR,Myanmar,Myanmar,MM,MMR
+ME,MONTENEGRO,Montenegro,Montenegro,ME,MNE
+MN,MONGOLIA,Mongolia,Mongolia,MN,MNG
+MP,"NORTHERN MARIANA ISLANDS, COMMONWEALTH OF THE",United States of America,Northern Mariana Islands (Commonwealth of the),MP,MNP
+MZ,MOZAMBIQUE,Mozambique,Mozambique,MZ,MOZ
+MR,MAURITANIA,Mauritania,Mauritania,MR,MRT
+MS,MONTSERRAT,United Kingdom of Great Britain and Northern Ireland,Montserrat,MS,MSR
+MQ,MARTINIQUE,France,Martinique,MQ,MTQ
+MU,MAURITIUS,Mauritius,Mauritius,MU,MUS
+MW,MALAWI,Malawi,Malawi,MW,MWI
+MY,MALAYSIA,Malaysia,Malaysia,MY,MYS
+YT,MAYOTTE,France,Mayotte,YT,MYT
+NA,NAMIBIA,Namibia,Namibia,NA,NAM
+NC,NEW CALEDONIA,France,New Caledonia,NC,NCL
+NE,NIGER,Niger,Niger,NE,NER
+NF,NORFOLK ISLAND,Australia,Norfolk Island,NF,NFK
+NG,NIGERIA,Nigeria,Nigeria,NG,NGA
+NI,NICARAGUA,Nicaragua,Nicaragua,NI,NIC
+NU,NIUE,New Zealand,Niue,NU,NIU
+NL,NETHERLANDS,Netherlands,Netherlands,NL,NLD
+NO,NORWAY,Norway,Norway,NO,NOR
+NP,NEPAL,Nepal,Nepal,NP,NPL
+NR,NAURU,Nauru,Nauru,NR,NRU
+NZ,NEW ZEALAND,New Zealand,New Zealand,NZ,NZL
+OM,OMAN,Oman,Oman,OM,OMN
+PK,PAKISTAN,Pakistan,Pakistan,PK,PAK
+PA,PANAMA,Panama,Panama,PA,PAN
+PN,PITCAIRN ISLANDS,United Kingdom of Great Britain and Northern Ireland,Pitcairn Islands,PN,PCN
+PE,PERU,Peru,Peru,PE,PER
+PH,PHILIPPINES,Philippines,Philippines,PH,PHL
+PW,PALAU,Palau,Palau,PW,PLW
+PL,POLAND,Poland,Poland,PL,POL
+PR,PUERTO RICO,United States of America,Puerto Rico,PR,PRI
+KP,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Democratic People's Republic of Korea,Democratic People's Republic of Korea,KP,PRK
+PT,PORTUGAL,Portugal,Portugal,PT,PRT
+PY,PARAGUAY,Paraguay,Paraguay,PY,PRY
+PS,OCCUPIED PALESTINIAN TERRITORY,occupied Palestinian territory,"occupied Palestinian territory, including east Jerusalem",PS,PSE
+PF,FRENCH POLYNESIA,France,French Polynesia,PF,PYF
+QA,QATAR,Qatar,Qatar,QA,QAT
+RE,RÉUNION,France,Réunion,RE,REU
+RO,ROMANIA,Romania,Romania,RO,ROU
+RU,RUSSIAN FEDERATION,Russian Federation,Russian Federation,RU,RUS
+RW,RWANDA,Rwanda,Rwanda,RW,RWA
+SA,SAUDI ARABIA,Saudi Arabia,Saudi Arabia,SA,SAU
+SD,SUDAN,Sudan,Sudan,SD,SDN
+SN,SENEGAL,Senegal,Senegal,SN,SEN
+SG,SINGAPORE,Singapore,Singapore,SG,SGP
+SH,SAINT HELENA,United Kingdom of Great Britain and Northern Ireland,Saint Helena,SH,SHN
+SJ,SVALBARD AND JAN MAYEN ISLANDS,Norway,Svalbard and Jan Mayen Islands,SJ,SJM
+SB,SOLOMON ISLANDS,Solomon Islands,Solomon Islands,SB,SLB
+SL,SIERRA LEONE,Sierra Leone,Sierra Leone,SL,SLE
+SV,EL SALVADOR,El Salvador,El Salvador,SV,SLV
+SM,SAN MARINO,San Marino,San Marino,SM,SMR
+SO,SOMALIA,Somalia,Somalia,SO,SOM
+PM,SAINT PIERRE AND MIQUELON,France,Saint Pierre and Miquelon,PM,SPM
+RS,SERBIA,Serbia,Serbia,RS,SRB
+SS,SOUTH SUDAN,South Sudan,South Sudan,SS,SSD
+ST,SAO TOME AND PRINCIPE,Sao Tome and Principe,Sao Tome and Principe,ST,STP
+SR,SURINAME,Suriname,Suriname,SR,SUR
+SK,SLOVAKIA,Slovakia,Slovakia,SK,SVK
+SI,SLOVENIA,Slovenia,Slovenia,SI,SVN
+SE,SWEDEN,Sweden,Sweden,SE,SWE
+SZ,ESWATINI,Eswatini,Eswatini,SZ,SWZ
+SX,SINT MAARTEN,Netherlands,Sint Maarten,SX,SXM
+SC,SEYCHELLES,Seychelles,Seychelles,SC,SYC
+SY,SYRIAN ARAB REPUBLIC,Syrian Arab Republic,Syrian Arab Republic,SY,SYR
+TC,TURKS AND CAICOS ISLANDS,United Kingdom of Great Britain and Northern Ireland,Turks and Caicos Islands,TC,TCA
+TD,CHAD,Chad,Chad,TD,TCD
+TG,TOGO,Togo,Togo,TG,TGO
+TH,THAILAND,Thailand,Thailand,TH,THA
+TJ,TAJIKISTAN,Tajikistan,Tajikistan,TJ,TJK
+TK,TOKELAU,New Zealand,Tokelau,TK,TKL
+TM,TURKMENISTAN,Turkmenistan,Turkmenistan,TM,TKM
+TL,TIMOR-LESTE,Timor-Leste,Timor-Leste,TL,TLS
+TO,TONGA,Tonga,Tonga,TO,TON
+TT,TRINIDAD AND TOBAGO,Trinidad and Tobago,Trinidad and Tobago,TT,TTO
+TN,TUNISIA,Tunisia,Tunisia,TN,TUN
+TR,TURKEY,Turkey,Turkey,TR,TUR
+TV,TUVALU,Tuvalu,Tuvalu,TV,TUV
+TZ,UNITED REPUBLIC OF TANZANIA,United Republic of Tanzania,United Republic of Tanzania,TZ,TZA
+UG,UGANDA,Uganda,Uganda,UG,UGA
+UA,UKRAINE,Ukraine,Ukraine,UA,UKR
+UY,URUGUAY,Uruguay,Uruguay,UY,URY
+US,UNITED STATES OF AMERICA,United States of America,United States of America,US,USA
+UZ,UZBEKISTAN,Uzbekistan,Uzbekistan,UZ,UZB
+VA,HOLY SEE,Holy See,Holy See,VA,VAT
+VC,SAINT VINCENT AND THE GRENADINES,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT
+VE,BOLIVARIAN REPUBLIC OF VENEZUELA,Bolivarian Republic of Venezuela,Venezuela (Bolivarian Republic of),VE,VEN
+VG,BRITISH VIRGIN ISLANDS,United Kingdom of Great Britain and Northern Ireland,British Virgin Islands,VG,VGB
+VI,UNITED STATES VIRGIN ISLANDS,United States of America,United States Virgin Islands,VI,VIR
+VN,VIET NAM,Viet Nam,Viet Nam,VN,VNM
+VU,VANUATU,Vanuatu,Vanuatu,VU,VUT
+WF,WALLIS AND FUTUNA,France,Wallis and Futuna,WF,WLF
+WS,SAMOA,Samoa,Samoa,WS,WSM
+YE,YEMEN,Yemen,Yemen,YE,YEM
+ZA,SOUTH AFRICA,South Africa,South Africa,ZA,ZAF
+ZM,ZAMBIA,Zambia,Zambia,ZM,ZMB
+ZW,ZIMBABWE,Zimbabwe,Zimbabwe,ZW,ZWE
+CD,DEMOCRATIC REPUBLIC OF THE CONGO,Democratic Republic of the Congo,Democratic Republic of the Congo,CD,COD
+CG,CONGO,Congo,Congo,CG,COG
+PG,PAPUA NEW GUINEA,Papua New Guinea,Papua New Guinea,PG,PNG
+JT,JOHNSTON ATOLL,United States of America,Johnston Atoll,JT,JTN
+UM,MIDWAY ISLANDS,United States of America,Midway Islands,UM,MID
+WK,WAKE ISLAND,United States of America,Wake Island,WK,WAK
+CI,COTE D IVOIRE,Cote d Ivoire,Côte d’Ivoire,CI,CIV
+XK,KOSOVO,Kosovo,Kosovo[1],XK,XKX
