@@ -8,11 +8,11 @@ ADDITIONAL PRECAUTIONARY MEASURES TO PREVENT FURTHER IMPORTATION OF COVID-19 CAS
 
 Published Date: 15 Mar 2020
 
-          Singapore will implement additional precautionary measures to
+          Singapore will implement additional precautionary measures to
 further reduce the risk of importation of COVID-19 to Singapore. These
 include travel advisories against all non-essential travel abroad, and
 further restrictions on travellers coming into Singapore.
-2.        Globally, there are now more than 150,000 COVID-19 cases and
+2.        Globally, there are now more than 150,000 COVID-19 cases and
 more than 5,000 deaths across 135 countries, and the numbers are
 increasing rapidly. There have been more than 25,000 new cases since as
 recently as 12 March (when the Multi-Ministry Taskforce last issued
@@ -23,7 +23,7 @@ now more cases reported outside of China daily than that reported in
 China at the height of its epidemic. The number of new cases imported
 into mainland China from overseas has also surpassed its number of
 locally transmitted new infections.
-3.        In the past three days [1] alone, Singapore has seen an
+3.        In the past three days [1] alone, Singapore has seen an
 increase of 25 new cases. Of these, more than three-quarters were
 imported cases, of which close to 90 percent were Singapore Residents
 (Singapore Citizens and Permanent Residents) and Singapore Long Term
@@ -34,7 +34,7 @@ the purpose of seeking medical care, which imposes a significant burden
 on Singapore’s healthcare resources during this critical period when we
 are focused on containing the situation within Singapore.
 BORDER RESTRICTIONS
-4.        Based on this latest situation, the Multi-Ministry Taskforce
+4.       Based on this latest situation, the Multi-Ministry Taskforce
 will put in place additional border restriction measures. From 16 March
 2020, 2359 hours, all travellers (including Singapore Residents, Long
 Term Pass holders, and short-term visitors) entering Singapore with
@@ -47,7 +47,7 @@ their family members own. They may also be swabbed for testing for
 COVID-19, even if asymptomatic. This is because of the risk of community
 transmission in these countries and evidence of cases that have been
 imported from these countries into Singapore.
-5.        In addition to the SHN requirement, from 16 March 2020, 2359
+5.        In addition to the SHN requirement, from 16 March 2020, 2359
 hours, all short-term visitors who are nationals of any ASEAN country
 will have to submit requisite information on their health to the
 Singapore Overseas Mission in the country they are resident before their
@@ -58,42 +58,42 @@ approval will be verified by the Immigration and Checkpoints Authority
 arrive in Singapore without the necessary approval will be denied entry
 into Singapore.They are therefore advised to secure the approval before
 making definitive travel bookings.
-6.        The Ministry of Manpower (MOM) will also introduce new
+6.        The Ministry of Manpower (MOM) will also introduce new
 measures for Foreign Domestic Workers entering Singapore. More details
 will be announced by MOM.
-7.        As previously announced, residents and long-term pass holders
+7.        As previously announced, residents and long-term pass holders
 returning from mainland China (outside Hubei province [4]), Iran, Italy,
 France, Germany, Republic of Korea, and Spain will continue to be issued
 a 14-day SHN upon return to Singapore, while short-term visitors from
 these areas will not be allowed to enter or transit through Singapore.
-8.        All travellers entering Singapore and exhibiting fever and/or
+8.        All travellers entering Singapore and exhibiting fever and/or
 other symptoms of respiratory illness are required to undergo a COVID-19
 swab test at the checkpoints, regardless of travel history. Such
 travellers will also be issued a 14-day SHN, which they will have to
 serve in full even if the result of the swab test is negative. Those who
 meet the clinical suspect case definition will be conveyed to the
 hospital for follow-up.
-9.        Persons under SHN will have to remain in their place of
+9.        Persons under SHN will have to remain in their place of
 residence at all times for 14 days after entering Singapore.
-10.       Singapore’s border control measures in relation to COVID-19,
+10.       Singapore’s border control measures in relation to COVID-19,
 including the new ones announced in this press statement, are summarised
 in the Annex. These border restrictions will be reviewed in 30 days. The
 Taskforce may extend the border restriction measures to more countries
 as the global and local situation evolves.
 TRAVEL ADVISORY
-11.       With immediate effect, Singaporeans are advised to defer all
+11.       With immediate effect, Singaporeans are advised to defer all
 non-essential travel abroad. This advisory will apply for 30 days, and
 will be reviewed thereafter. This is to reduce the risk of Singaporeans
 contracting COVID-19 infection while overseas during this global
 pandemic.
-12.       Singaporeans who have made plans to travel abroad during the
+12.       Singaporeans who have made plans to travel abroad during the
 March school holidays are advised to review their plans_._ All
 travellers will be subject to the prevailing travel measures imposed by
 their destination countries, and those imposed by Singapore upon their
 return home. As the situation remains uncertain and will continue to
 evolve, Singaporeans are advised to review their travel plans for the
 coming months after the March school holidays as well.
-13.       As Singapore’s measures will evolve according to the global
+13.       As Singapore’s measures will evolve according to the global
 situation, Singaporeans should check the MOH website
 (https://www.moh.gov.sg/covid-19) for the latest measures.
 
@@ -131,7 +131,7 @@ LIST OF COUNTRIES/ REGIONS AND BORDER CONTROL MEASURES
 +-----------------------+-----------------------+-----------------------+
 | [NEW] ASEAN countries | 14-day SHN            | 14-day SHN            |
 |                       |                       |                       |
-|                       |                       | Short-term visitors   |
+|                       |                       | Short-term visitors   |
 |                       |                       | who are ASEAN         |
 |                       |                       | nationals will also   |
 |                       |                       | be required to submit |
@@ -145,6 +145,6 @@ LIST OF COUNTRIES/ REGIONS AND BORDER CONTROL MEASURES
 | United Kingdom        |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 
- 
 
- 
+
+

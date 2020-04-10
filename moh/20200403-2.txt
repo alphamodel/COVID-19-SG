@@ -7,98 +7,98 @@
 
 Published Date: 03 Apr 2020
 
-          16 more cases[1] of COVID-19 infection have been discharged
+  16 more cases[1] of COVID-19 infection have been discharged
 from hospitals or community isolation facilities. In all, 282 have fully
 recovered from the infection and have been discharged from hospitals or
 community isolation facilities.
 
-2.            As of 3 April 2020, 12pm, the Ministry of Health (MOH) has
+2.  As of 3 April 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 65 cases of COVID-19 infection in
 Singapore, of which nine are imported and 56 are local cases who have no
 recent travel history abroad.
 
-•             The nine imported cases[2] had travel history to Europe,
+•  The nine imported cases[2] had travel history to Europe,
 North America, Middle East and ASEAN.
-•             40 cases[3] are linked to previous cases or clusters.
-•             16 cases[4] are currently unlinked, and contact tracing is
+•  40 cases[3] are linked to previous cases or clusters.
+•  16 cases[4] are currently unlinked, and contact tracing is
 ongoing.
 
 LINKS BETWEEN PREVIOUS CASES FOUND
 
-3.            Further epidemiological investigations and contact tracing
-have uncovered links between previously announced and new cases. 
+3.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases.
 
-a)            One of the newly confirmed case (Case 1094) is linked to
+a)  One of the newly confirmed case (Case 1094) is linked to
 three previous cases (Cases 540, 807 and 856), forming a new cluster at
-Ce La Vi (1 Bay Front Avenue). 
+Ce La Vi (1 Bay Front Avenue).
 
-b)            One of the newly confirmed case (Case 1052) is linked to
+b)  One of the newly confirmed case (Case 1052) is linked to
 five previous cases (Cases 384, 670, 728, 792 and 855), forming a new
-cluster at Singapore Cricket Club (A Connaught Drive). 
+cluster at Singapore Cricket Club (A Connaught Drive).
 
-c)            One of the newly confirmed case (Case 1104) is linked to
+c)  One of the newly confirmed case (Case 1104) is linked to
 three previous cases (Cases 956, 967 and 1019), forming a new cluster at
 a construction site at Project Glory (50 Market Street).
 
-d)            11 additional cases are linked to the cluster at S11
+d)  11 additional cases are linked to the cluster at S11
 Dormitory @ Punggol (2 Seletar North Link), which has a total of 24
 confirmed cases now (Cases 826, 829, 852, 860, 946, 947, 966, 979, 982,
 993, 1035, 1039, 1047, 1050, 1066, 1074, 1083, 1084, 1089, 1107, 1108,
 1110, 1111 and 1112).
 
-e)            Eight additional cases are linked to the cluster at
+e)  Eight additional cases are linked to the cluster at
 Westlite Toh Guan dormitory (18 Toh Guan Road East), which has a total
 of 18 confirmed cases now (Cases 655, 875, 922, 924, 925, 926, 934, 977,
 1011, 1012, 1054, 1062, 1068, 1072, 1100, 1101, 1106 and 1113).
 
-f)             Three additional cases are linked to the cluster at
+f)  Three additional cases are linked to the cluster at
 Mustafa Centre (145 Syed Alwi Road), which has a total of 14 cases now
 (Cases 616, 788, 866, 908, 911, 938, 1001, 1015, 1024, 1026, 1046, 1056,
 1093 and 1096).
 
-g)            One additional case is linked to the cluster at a
+g)  One additional case is linked to the cluster at a
 construction site at Maxwell MRT station (50 Neil Road), which has a
 total of six cases now (Cases 869, 900, 1000, 1009, 1034 and 1069).
 
-h)            One additional case is linked to the cluster at Keppel
+h)  One additional case is linked to the cluster at Keppel
 Shipyard (51 Pioneer Sector 1), which has a total of four cases now
 (Cases 878, 898, 907 and 1076).
 
-i)             One additional case is linked to the cluster at Lee Ah
+i)  One additional case is linked to the cluster at Lee Ah
 Mooi Old Age Home (1 Thomson Lane), which has a total of 13 cases now
 (Cases 918, 973, 976, 983, 984, 985, 986, 987, 988, 989, 990, 1004 and
 1055).
 
-j)             One additional case is linked to the cluster at Dover
+j)  One additional case is linked to the cluster at Dover
 Court International School (301 Dover Road), which has a total of nine
 confirmed cases now (Cases 556, 618, 626, 662, 686, 713, 729, 761 and
 1098).
 
-k)            One additional case is linked to the cluster at Wilby
+k)  One additional case is linked to the cluster at Wilby
 Residences (25 Wilby Road), which has a total of nine confirmed cases
 now (Cases 439, 678, 793, 818, 848, 864, 873, 980 and 1075).
 
-l)             One additional case is linked to the cluster at Hero’s
+l)  One additional case is linked to the cluster at Hero’s
 (69 Circular Road), which has a total of nine confirmed cases now (Cases
 192, 556, 657, 670, 714, 813, 940, 1013 and 1097).
 
-4.            Contact tracing is underway for 127 locally transmitted
+4.  Contact tracing is underway for 127 locally transmitted
 cases to establish any links to previous cases or travel history to
 affected countries or regions.
 
-5.            Please refer to the Annex for a summary of the confirmed
+5.  Please refer to the Annex for a summary of the confirmed
 cases, and the MOH website for the situation report
 (www.moh.gov.sg/covid-19/situation-report).
 
- 
+
 
 UPDATE ON CONDITION OF CONFIRMED CASES
 
-6.            To date, a total of 282 cases have fully recovered from
+6.  To date, a total of 282 cases have fully recovered from
 the infection and have been discharged from hospitals or community
 isolation facilities.
 
-7.            Of the 473 confirmed cases who are still in hospital, most
+7.  Of the 473 confirmed cases who are still in hospital, most
 are stable or improving. 25 are in critical condition in the intensive
 care unit. 354 cases who are clinically well but still test positive for
 COVID-19 are isolated and cared for at Concord International Hospital,
@@ -108,14 +108,14 @@ complications due to COVID-19 infection
 
 UPDATE ON CONTACT TRACING FOR CONFIRMED CASES
 
-8.            Contact tracing for the confirmed cases is ongoing. Once
+8.  Contact tracing for the confirmed cases is ongoing. Once
 identified, MOH will closely monitor all close contacts. As a
 precautionary measure, they will be quarantined for 14 days from their
 last exposure to the patient. In addition, all other identified contacts
 who have a low risk of being infected will be under active surveillance,
 and will be contacted daily to monitor their health status.
 
-9.            As of 3 April 2020, 12pm, MOH has identified 15,442 close
+9.  As of 3 April 2020, 12pm, MOH has identified 15,442 close
 contacts who have been quarantined. Of these, 5,007 are currently
 quarantined, and 10,435 have completed their quarantine.
 
@@ -131,4 +131,4 @@ MINISTRY OF HEALTH
 1107, 1108, 1110, 1111, 1112 and 1113.
 [4] Cases 1053, 1061, 1063, 1067, 1070, 1071, 1073, 1077, 1078, 1079,
 1080, 1081, 1082, 1091, 1102 and 1114.
- 
+

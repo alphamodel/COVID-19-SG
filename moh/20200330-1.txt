@@ -7,27 +7,27 @@
 
 Published Date: 30 Mar 2020
 
-                16 more cases of COVID-19 infection have been discharged
+                16 more cases of COVID-19 infection have been discharged
 from hospitals or community isolation facilities (Cases 203, 228, 321,
 357, 398, 629, 210, 239, 247, 253, 263, 280, 345, 376, 466 and 486). In
 all, 228 have fully recovered from the infection and have been
 discharged.
-2.             As of 30 March 2020, 12pm, the Ministry of Health (MOH)
+2.  As of 30 March 2020, 12pm, the Ministry of Health (MOH)
 has confirmed and verified an additional 35 cases of COVID-19 infection
 in Singapore, of which nine are imported and 26 are local cases who have
 no recent travel history abroad.
-•      The nine imported cases[1] had travel history to Europe, North
+•      The nine imported cases[1] had travel history to Europe, North
 America, South America, Middle East and ASEAN.
-•      12 cases[2] are linked to previous cases or clusters.
-•       14 cases[3] are currently unlinked, and contact tracing is
+•      12 cases[2] are linked to previous cases or clusters.
+•       14 cases[3] are currently unlinked, and contact tracing is
 ongoing.
 LINKS BETWEEN PREVIOUS CASES FOUND
-3.             Further epidemiological investigations and contact
+3.  Further epidemiological investigations and contact
 tracing have uncovered links between previously announced and new cases.
 This was made possible with the assistance of the Singapore Police
 Force.
 
-a)        47 of the confirmed cases (Cases 94, 96, 107, 112, 114, 115,
+a)  47 of the confirmed cases (Cases 94, 96, 107, 112, 114, 115,
 116, 117, 118, 120, 121, 122, 125, 127, 128, 129, 130, 131, 133, 134,
 137, 139, 140, 142, 144, 145, 146, 148, 149, 150, 155, 156, 157, 158,
 159, 160, 161, 164, 166, 174, 179, 185, 186, 196, 201, 218 and 224) are
@@ -35,54 +35,54 @@ linked to a private dinner function at SAFRA Jurong on 15 February. Two
 (Cases 142 and 144) are linked to boulder+ Gym and Church of Singapore
 (Bukit Timah).
 
-               i.         Six of the confirmed cases (Cases 142, 162,
+               i.  Six of the confirmed cases (Cases 142, 162,
 163, 305, 345 and 443) are linked to boulder+ Gym (12 Kallang Avenue).
 
-              ii.         Five of the confirmed cases (Cases 144, 208,
+              ii.  Five of the confirmed cases (Cases 144, 208,
 214, 235 and 283) are linked to the Church of Singapore (Bukit Timah)
 (2B Hindhede Road).
-b)        Three  of the confirmed cases (Cases 183, 252 and 310) are
+b)  Three  of the confirmed cases (Cases 183, 252 and 310) are
 linked to Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6).
-c)         26 of the confirmed cases[4] are linked to a cluster at PCF
+c)  26 of the confirmed cases[4] are linked to a cluster at PCF
 Sparkletots Preschool @ Fengshan Blk 126 (126 Bedok North Street 2). 16
-of the cases[5] are staff at the preschool, and 10[6] are family members
+of the cases[5] are staff at the preschool, and 10[6] are family members
 of Case 601.
-d)         Eight of the confirmed cases (Cases 556, 618, 626, 662, 686,
+d)  Eight of the confirmed cases (Cases 556, 618, 626, 662, 686,
 713, 729 and 761) are linked to a cluster at Dover Court International
 School (301 Dover Road). Seven are staff at the school and Case 729 is a
 contact of Case 618.
-e)        Five of the confirmed cases (Cases 581, 689, 724, 740 and 796)
+e)  Five of the confirmed cases (Cases 581, 689, 724, 740 and 796)
 are linked to a cluster at SingPost Centre (10 Eunos Road 8).
-f)          Three of the confirmed cases (Cases 745, 802 and 810) are
+f)  Three of the confirmed cases (Cases 745, 802 and 810) are
 linked to a cluster at The Wedding Brocade (1 Yishun Industrial Street
 1).
-g)        Four of the confirmed cases (Cases 826, 829, 852 and 860) are
+g)  Four of the confirmed cases (Cases 826, 829, 852 and 860) are
 linked to a new cluster at S11 Dormitory @ Punggol (2 Seletar North
 Link).
-h)        Seven of the confirmed cases (Cases 439, 678, 793, 818, 848,
+h)  Seven of the confirmed cases (Cases 439, 678, 793, 818, 848,
 864 and 873) are linked to a new cluster at Wilby Residences (25 Wilby
 Road).
-i)          Five of the confirmed cases (Cases 192, 556, 657, 670 and
+i)  Five of the confirmed cases (Cases 192, 556, 657, 670 and
 813) are linked to a new cluster at Hero’s (69 Circular Road).
-4.             Contact tracing is underway for 79 locally transmitted
+4.  Contact tracing is underway for 79 locally transmitted
 cases to establish any links to previous cases or travel history to
 affected countries or regions.
-5.             Please refer to the Annex for a summary of the confirmed
+5.  Please refer to the Annex for a summary of the confirmed
 cases.
 CASES FROM PUBLIC HEALTHCARE SECTOR
-6.             Case 853 is a 20 year-old male Malaysian national who is
+6.  Case 853 is a 20 year-old male Malaysian national who is
 a Singapore Work Pass holder, and had been in Malaysia from 16 March to
 17 March. He reported onset of symptoms on 28 March, and subsequent test
 results confirmed COVID-19 infection on 29 March afternoon. He is
 currently warded in an isolation room at the National Centre for
 Infectious Diseases.
-7.             He is employed as a porter at NCID, and had not gone to
+7.  He is employed as a porter at NCID, and had not gone to
 work after onset of symptoms.
 UPDATE ON CONDITION OF CONFIRMED CASES
-8.             To date, a total of 228 cases have fully recovered from
+8.  To date, a total of 228 cases have fully recovered from
 the infection and have been discharged from hospitals or community
 isolation facilities.
-9.             Of the 420 confirmed cases who are still in hospital,
+9.  Of the 420 confirmed cases who are still in hospital,
 most are stable or improving. 19 are in critical condition in the
 intensive care unit. 228 cases who are clinically well but still test
 positive for COVID-19 are isolated and cared for at Concord
@@ -90,29 +90,29 @@ International Hospital, Mount Elizabeth Hospital, Gleneagles Hospital
 and the Community Isolation Facility at D’Resort NTUC. Three have passed
 away from complications due to COVID-19 infection.
 UPDATE ON CONTACT TRACING FOR CONFIRMED CASES
-10.          Contact tracing for the confirmed cases is ongoing. Once
+10.  Contact tracing for the confirmed cases is ongoing. Once
 identified, MOH will closely monitor all close contacts. As a
 precautionary measure, they will be quarantined for 14 days from their
 last exposure to the patient. In addition, all other identified contacts
 who have a low risk of being infected will be under active surveillance,
 and will be contacted daily to monitor their health status.
-11.          As of 30 March 2020, 12pm, MOH has identified 12,984 close
+11.  As of 30 March 2020, 12pm, MOH has identified 12,984 close
 contacts who have been quarantined. Of these, 4,737 are currently
 quarantined, and 8,247 have completed their quarantine.
 
 ------------------------------------------------------------------------
 
-[1] Cases 847, 851, 857, 858, 862, 871, 872, 874 and 877.
+[1] Cases 847, 851, 857, 858, 862, 871, 872, 874 and 877.
 
-[2] Cases 845, 848, 849, 852, 860, 861, 863, 864, 865, 867, 870 and 873.
+[2] Cases 845, 848, 849, 852, 860, 861, 863, 864, 865, 867, 870 and 873.
 
-[3] Cases 846, 850, 853, 854, 855, 856, 859, 866, 868, 869, 875, 876,
+[3] Cases 846, 850, 853, 854, 855, 856, 859, 866, 868, 869, 875, 876,
 878 and 879.
 
-[4] Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605,
+[4] Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605,
 609, 610, 612, 614, 617, 624, 638, 660, 705, 706, 707, 708, 716 and 746.
 
-[5] Cases 516, 583, 584, 601, 602, 603, 604, 605, 609, 610, 612, 614,
+[5] Cases 516, 583, 584, 601, 602, 603, 604, 605, 609, 610, 612, 614,
 617, 624, 660 and 716.
 
-[6] Cases 521, 566, 567, 572, 638, 705, 706, 707, 708 and 746.
+[6] Cases 521, 566, 567, 572, 638, 705, 706, 707, 708 and 746.

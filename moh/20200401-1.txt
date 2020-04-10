@@ -7,7 +7,7 @@ FIVE MORE CASES DISCHARGED; 74 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 Published Date: 01 Apr 2020
 
-          Five more cases of COVID-19 infection have been discharged
+  Five more cases of COVID-19 infection have been discharged
 from hospitals or community isolation facilities (Cases 246, 257, 539,
 709 and 827). In all, 245 have fully recovered from the infection and
 have been discharged from hospitals or community isolation facilities.
@@ -43,7 +43,7 @@ Road), which has a total of seven confirmed cases now (Cases 192, 556,
 4. Contact tracing is underway for 115 locally transmitted cases to
 establish any links to previous cases or travel history to affected
 countries or regions.
-5. Please refer to the Annex for a summary of the confirmed cases.
+5. Please refer to the Annex for a summary of the confirmed cases.
 CASES FROM PUBLIC HEALTHCARE SECTOR
 Case 951
 6. Case 951 is a 29 year-old female Singapore Citizen who has no recent

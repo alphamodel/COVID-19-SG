@@ -15,16 +15,16 @@ fully recovered from the infection and have been discharged.
 and verified an additional 42 cases of COVID-19 infection in Singapore,
 of which 24 are imported and 18 are local cases who have no recent
 travel history abroad.
-•   The 24 imported cases¹ had travel history to Europe, North America,
+•  The 24 imported cases¹ had travel history to Europe, North America,
 Middle East, ASEAN and other parts of Asia.
-•   Eight cases² are linked to previous cases.
-•   10 cases³ are currently unlinked, and contact tracing is ongoing.
+•  Eight cases² are linked to previous cases.
+•  10 cases³ are currently unlinked, and contact tracing is ongoing.
 3. All Singapore Citizens, Permanent Residents and Long Term Pass
 holders returning to Singapore are issued a 14-day Stay-Home Notice
 (SHN). From 25 March, 2359 hours, UK and US returnees will serve their
 14-day SHN in dedicated facilities. The SHN requirements will be
 strictly enforced so as to reduce the risk of community transmission
-from imported cases.  
+from imported cases.
 LINKS BETWEEN PREVIOUS CASES FOUND
 4. Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases. This was
@@ -36,9 +36,9 @@ a) 47 of the confirmed cases (Cases 94, 96, 107, 112, 114, 115, 116,
 linked to a private dinner function at SAFRA Jurong on 15 February. Two
 (Cases 142 and 144) are linked to boulder+ Gym and Church of Singapore
 (Bukit Timah).
-      i. Six of the confirmed cases (Cases 142, 162, 163, 305, 345 and
+  i. Six of the confirmed cases (Cases 142, 162, 163, 305, 345 and
 443) are linked to boulder+ Gym (12 Kallang Avenue).
-      ii. Five of the confirmed cases (Cases 144, 208, 214, 235 and 283)
+  ii. Five of the confirmed cases (Cases 144, 208, 214, 235 and 283)
 are linked to the Church of Singapore (Bukit Timah) (2B Hindhede Road).
 b) Three of the confirmed cases (Cases 183, 252 and 310) are linked to
 Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6).
@@ -57,7 +57,7 @@ new cluster at The Wedding Brocade (1 Yishun Industrial Street 1).
 5. Contact tracing is underway for 71 locally transmitted cases to
 establish any links to previous cases or travel history to affected
 countries or regions.
-6. Please refer to the Annex for a summary of the confirmed cases.
+6. Please refer to the Annex for a summary of the confirmed cases.
 CASES FROM PUBLIC HEALTHCARE SECTOR
 7. Case 741 (announced on 28 March) is a 42 year-old Singapore Permanent
 Resident who has no travel history to affected countries or regions. She

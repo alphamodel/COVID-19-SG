@@ -8,7 +8,7 @@ UPDATE ON LOCAL SITUATION REGARDING SEVERE PNEUMONIA CLUSTER IN WUHAN
 Published Date: 05 Jan 2020
 
 As of 3pm, 5 January 2020, the Ministry of Health (MOH) has not been
-notified of any new suspect cases.  
+notified of any new suspect cases.
 
 Epidemiological investigations, clinical assessment and laboratory test
 results from the suspect case reported on 4 January 2020 involving a 3
@@ -18,8 +18,8 @@ Wuhan. The case has also tested negative for SARS and MERS-CoV. The
 cause of her pneumonia is Respiratory Syncytial Virus, a common cause
 for childhood respiratory infection.
 
-As medical practitioners are on the lookout for cases with pneumonia who
-have recently returned from Wuhan, Singapore is likely to see more
+As medical practitioners are on the lookout for cases with pneumonia who
+have recently returned from Wuhan, Singapore is likely to see more
 suspect cases that will need to be investigated for possible links to
 the Wuhan cluster. MOH will continue to monitor the situation closely.
 We urge the public to remain vigilant and to adopt good personal hygiene

@@ -8,11 +8,11 @@ THREE MORE CASES DISCHARGED, 47 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 Published Date: 18 Mar 2020
 
-         Three more cases of COVID-19 infection have been discharged
+         Three more cases of COVID-19 infection have been discharged
 from hospital (Cases 101, 118 and 201). In all, 117 have fully recovered
 from the infection and have been discharged from hospital.
 
-2.        As of 18 March 2020, 12pm, the Ministry of Health (MOH) has
+2.        As of 18 March 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified 47 more cases of COVID-19 infection in Singapore.
 Of these:
 
@@ -32,11 +32,11 @@ Of these:
     and Case 311 is linked to Case 234); and
 -   Five are currently unlinked (Cases 273, 275, 288, 290, 302).
 
-     
+
 
 LINKS BETWEEN PREVIOUS CASES FOUND
 
-3.       Further epidemiological investigations and contact tracing have
+3.       Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases. This was
 made possible with the assistance of the Singapore Police Force.
 
@@ -59,16 +59,16 @@ linked to a private dinner function at SAFRA Jurong on 15 February. Two
 (Cases 142 and 144) are linked to boulder+ Gym and Church of Singapore
 (Bukit Timah).
 
--    Four of the confirmed cases (Cases 142, 162, 163 and 305) are
+-    Four of the confirmed cases (Cases 142, 162, 163 and 305) are
     linked to boulder+ Gym (12 Kallang Avenue).
 
--    Five of the confirmed cases (Cases 144, 208, 214, 235 and 283) are
+-    Five of the confirmed cases (Cases 144, 208, 214, 235 and 283) are
     linked to the Church of Singapore (Bukit Timah) (2B Hindhede Road).
 
-d)  Three of the confirmed cases (Cases 183, 252 and 310) are linked to
+d)  Three of the confirmed cases (Cases 183, 252 and 310) are linked to
 Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6).
 
-4.       Investigations on these clusters are ongoing. In addition to
+4.       Investigations on these clusters are ongoing. In addition to
 the clusters, our investigations have identified the following links
 between cases:
 
@@ -92,44 +92,44 @@ between cases:
 -   Case 303 is linked to Case 248; and
 -   Case 311 is linked to Case 234.
 
-5.       Contact tracing is underway for the other 17 locally
+5.       Contact tracing is underway for the other 17 locally
 transmitted cases to establish any links to previous cases or travel
 history to affected countries or regions.
 
- 
-6.       Please refer to the Annex for a summary of the confirmed cases.
+
+6.       Please refer to the Annex for a summary of the confirmed cases.
 
 UPDATE ON CONDITION OF CONFIRMED CASES
 
-7.      To date, a total of 117 cases have fully recovered from the
+7.      To date, a total of 117 cases have fully recovered from the
 infection and have been discharged from hospital. Of the 196 confirmed
 cases who are still in hospital, most are stable or improving. 15 are in
 critical condition in the intensive care unit.
 
 UPDATE ON CONTACT TRACING FOR CONFIRMED CASES
 
-8.       Contact tracing for the confirmed cases is ongoing. Once
+8.       Contact tracing for the confirmed cases is ongoing. Once
 identified, MOH will closely monitor all close contacts. As a
 precautionary measure, they will be quarantined for 14 days from their
 last exposure to the patient. In addition, all other identified contacts
 who have a low risk of being infected will be under active surveillance,
 and will be contacted daily to monitor their health status.
 
-9.     As of 18 March 2020, 12pm, MOH has identified 6,250 close
+9.     As of 18 March 2020, 12pm, MOH has identified 6,250 close
 contacts who have been quarantined. Of these, 2,221 are currently
 quarantined, and 4,029 have completed their quarantine.
 
 HEALTH ADVISORY
-10.      Singaporeans are advised to defer all travel abroad.
+10.     Singaporeans are advised to defer all travel abroad.
 
-11.      All travellers should monitor their health closely for two
+11.      All travellers should monitor their health closely for two
 weeks upon return to Singapore and seek medical attention promptly if
 they feel unwell. Travellers should inform their doctor of their travel
 history. If they have a fever or respiratory symptoms (e.g. cough,
 shortness of breath), they should wear a mask and call the clinic ahead
 of the visit.
 
-12.      Travellers and members of the public should adopt the following
+12.      Travellers and members of the public should adopt the following
 precautions at all times:
 
 -   Avoid close contact with people who are unwell or showing symptoms
@@ -144,8 +144,8 @@ precautions at all times:
     dispose the soiled tissue paper in the rubbish bin immediately; and
 -   Seek medical attention promptly if you are feeling unwell.
 
-     
 
-13.      MOH will continue to monitor the situation closely. As medical
+
+13.      MOH will continue to monitor the situation closely. As medical
 practitioners are on the lookout for suspect cases, Singapore is likely
 to see more cases that will need to be investigated.

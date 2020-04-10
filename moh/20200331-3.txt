@@ -7,7 +7,7 @@
 
 Published Date: 31 Mar 2020
 
-         12 more cases of COVID-19 infection have been discharged from
+  12 more cases of COVID-19 infection have been discharged from
 hospitals or community isolation facilities (Cases 222, 242, 248, 262,
 290, 298, 318, 401, 462, 570, 766 and 776). In all, 240 have fully
 recovered from the infection and have been discharged.
@@ -32,7 +32,7 @@ Eunos Road 8), which has a total of six confirmed cases now (Cases 581,
 establish any links to previous cases or travel history to affected
 countries or regions. In the past week[4], MOH has uncovered links for
 33 previously unlinked cases.
-5. Please refer to the Annex for a summary of the confirmed cases.
+5. Please refer to the Annex for a summary of the confirmed cases.
 CASES FROM PUBLIC HEALTHCARE SECTOR
 6. Case 891 is a 22 year-old male Indian national who is a Long Term
 Pass holder with no recent travel history. He reported onset of symptoms

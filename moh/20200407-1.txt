@@ -7,13 +7,13 @@
 
 Published Date: 07 Apr 2020
 
-1.     33 more cases[1] of COVID-19 infection have been discharged from
+1.     33 more cases[1] of COVID-19 infection have been discharged from
 hospitals or community isolation facilities. In all, 377 have fully
 recovered from the infection and have been discharged from hospitals or
 community isolation facilities.
 
-2.     As of 7 April 2020, 12pm, the Ministry of Health (MOH) has
-confirmed and verified an additional 106 cases of COVID-19 infection in
+2.     As of 7 April 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 106 cases of COVID-19 infection in
 Singapore. The breakdown is as follows:
 
 -   Imported Cases[2]: 3
@@ -21,12 +21,12 @@ Singapore. The breakdown is as follows:
 -   Linked to other cases[3]: 10
 -   Pending contact tracing[4]: 41
 
-3.     Among the linked cases, 39 cases were linked to clusters at
+3.     Among the linked cases, 39 cases were linked to clusters at
 foreign worker dormitories and 23 were linked to non-dormitory clusters.
 
 LINKS BETWEEN PREVIOUS CASES FOUND
 
-4.     Further epidemiological investigations and contact tracing have
+4.     Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases.
 
 a.  10 additional cases are linked to the cluster at S11 Dormitory @
@@ -57,7 +57,7 @@ g.  One additional case is linked to the cluster at Cochrane Lodge II
     956, 967, 1104, 1240 and 1349).
 h.  Three additional cases are linked to the cluster at a construction
     site at Project Glory (50 Market Street), which has a total of 21
-    confirmed cases now (Cases 956, 967, 1019, 1078, 1079, 1104, 1120, 
+    confirmed cases now (Cases 956, 967, 1019, 1078, 1079, 1104, 1120,
     1124, 1149, 1162, 1181, 1191, 1226, 1271, 1273, 1341, 1346, 1349,
     1421, 1448 and 1449).
 i.  Seven additional cases are linked to the cluster at Mustafa Centre
@@ -68,7 +68,7 @@ j.  Three additional cases are linked to the cluster at Lee Ah Mooi Old
     918, 973, 976, 983, 984, 985, 986, 987, 988, 989, 990, 1004, 1055,
     1412, 1413 and 1414).
 
-5.     Contact tracing is underway for unlinked cases to establish any
+5.     Contact tracing is underway for unlinked cases to establish any
 links to previous cases or travel history to affected countries or
 regions. Please refer to the MOH website for the situation report
 (www.moh.gov.sg/covid-19/situation-report).
@@ -77,44 +77,44 @@ CASES FROM PUBLIC HEALTHCARE SECTOR
 
 Case 1315 (Announced on 6 April)
 
-6.     Case 1315 is a 22 year-old female Singapore Citizen with no
+6.     Case 1315 is a 22 year-old female Singapore Citizen with no
 recent travel history to affected countries or regions. She reported
 onset of symptoms on 4 April, and subsequent test results confirmed
 COVID-19 infection on 5 April. She is currently warded in an isolation
 room at the National Centre for Infectious Diseases.
 
-7.     She is employed as a nurse at Singapore General Hospital (SGH),
+7.     She is employed as a nurse at Singapore General Hospital (SGH),
 but had not gone to work since onset of symptoms.
 
 Case 1376
 
-8.     Case 1376 is a 35 year-old female Singapore Citizen with no
+8.     Case 1376 is a 35 year-old female Singapore Citizen with no
 recent travel history to affected countries or regions. She reported
 onset of symptoms on 5 April, and subsequent test results confirmed
 COVID-19 infection on 6 April. She is currently warded in an isolation
 room at Ng Teng Fong General Hospital (NTFGH).
 
-9.     She is employed as a nurse at NTFGH. Prior to hospital admission,
+9.     She is employed as a nurse at NTFGH. Prior to hospital admission,
 she had gone to work for a few hours on 5 April.
 
 Case 1385
 
-10.     Case 1385 is a 61 year-old female Singapore Citizen with no
+10.     Case 1385 is a 61 year-old female Singapore Citizen with no
 recent travel history to affected countries or regions. She reported
 onset of symptoms on 1 April, and subsequent test results confirmed
 COVID-19 infection on 6 April. She is currently warded in an isolation
 room at SGH.
 
-11.     She is employed as a healthcare assistant at Hougang Polyclinic,
+11.     She is employed as a healthcare assistant at Hougang Polyclinic,
 but had not gone to work since onset of symptoms.
 
 UPDATE ON CONDITION OF CONFIRMED CASES
 
-12.     To date, a total of 377 cases have fully recovered from the
+12.     To date, a total of 377 cases have fully recovered from the
 infection and have been discharged from hospitals or community isolation
 facilities.
 
-13.     Of the 627 confirmed cases who are still in hospital, most are
+13.     Of the 627 confirmed cases who are still in hospital, most are
 stable or improving. 29 are in critical condition in the intensive care
 unit. 471 cases who are clinically well but still test positive for
 COVID-19 are isolated and cared for at Concord International Hospital,
@@ -124,14 +124,14 @@ away from complications due to COVID-19 infection.
 
 UPDATE ON CONTACT TRACING FOR CONFIRMED CASES
 
-14.     Contact tracing for the confirmed cases is ongoing. Once
+14.     Contact tracing for the confirmed cases is ongoing. Once
 identified, MOH will closely monitor all close contacts. As a
 precautionary measure, they will be quarantined for 14 days from their
 last exposure to the patient. In addition, all other identified contacts
 who have a low risk of being infected will be under active surveillance,
 and will be contacted daily to monitor their health status.
 
-15.     As of 7 April 2020, 12pm, MOH has identified 17,819 close
+15.     As of 7 April 2020, 12pm, MOH has identified 17,819 close
 contacts who have been quarantined. Of these, 4,618 are currently
 quarantined, and 13,201 have completed their quarantine.
 
@@ -170,5 +170,5 @@ MINISTRY OF HEALTH
 
 [7] Cases 616, 788, 866, 908, 911, 938, 1001, 1015, 1024, 1025, 1026,
 1046, 1056, 1093, 1096, 1127, 1180, 1188, 1189, 1199, 1200, 1201, 1209,
-1219, 1259, 1260, 1277, 1282, 1169, 1214, 1246, 1295, 1315, 1316, 1326, 
+1219, 1259, 1260, 1277, 1282, 1169, 1214, 1246, 1295, 1315, 1316, 1326,
 1340, 1343, 1361, 1385, 1387, 1417, 1431, 1433, 1435 and 1443.
