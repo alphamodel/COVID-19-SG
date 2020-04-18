@@ -9,7 +9,6 @@ This repository collects Singapore and Malaysia COVID-19 data from multiple data
 
 Clearly, this repository provides information about Singapore and Malaysia COVID-19. However, we believe that the full tracking records of when and what information are available to public is a more interesting piece for information. And thus, we tried to using git as a tool to show what is changed in the press release files throughout the time line, when are these press release files become public available. By combining these information, we believe one can form a more complete picture about the reactions of government in this outbreak.
 
-
 ## Description
 
 - `cases`: information about each case. The content is maintained in a partial append-only manner, which means each file contains all information available at the date specified by file name. If one only the latest file is need, then the last file contains all information needed.
