@@ -5,6 +5,10 @@
 
 This repository collects Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. The updating frequency is *10 minutes*. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status. From April 19th, daily files are created at 12 AM SGT due to two days' press releases were updated after 12 AM SGT.
 
+## What is in this repository
+
+Clearly, this repository provide information about Singapore and Malaysia COVID-19. However, we believe that the full tracking records of when and what information are available to public is a more interesting piece for information. And thus, we tried to using git as a tool to show what is changed in the press release files throughout the time line, when are these press release files become public available. By combining these information, we believe one can form a more thorght information about the reactions of government in this outbreak.
+
 ## Description
 
 - `cases`: information about each case. The content is maintained in a partial append-only manner, which means each file contains all information available at the date specified by file name. If one only the latest file is need, then the last file contains all information needed.
