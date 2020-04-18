@@ -1,5 +1,4 @@
 group,type,filterable,filter_desc,section,date
-1000,所属感染群及关联病例尚未更新,,,,
 121.001,接触者,,,,
 121,大士南客工宿舍,1,大士南客工宿舍（Tuas South Dormitory），4月17日被列为感染群。,客工感染群,2020-4-17
 120,Avery Lodge客工宿舍,1,Avery Lodge客工宿舍（Avery Lodge Dormitory），4月17日被列为感染群。,客工感染群,2020-4-17
@@ -233,7 +232,6 @@ group,type,filterable,filter_desc,section,date
 19.81,家人,,,,
 19.3,密切接触,,,,
 19,神召会恩典堂,1,不止一名病例曾去过神召会恩典堂（Grace Assembly of God）位于东陵和武吉巴督的教堂。,,
-18.997529,接触者,,,,
 18.997488,接触者,,,,
 18.997484,接触者,,,,
 18.997428,接触者,,,,
