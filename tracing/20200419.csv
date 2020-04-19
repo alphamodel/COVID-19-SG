@@ -82,5 +82,6 @@ date,suspect_positive,suspect_negative,suspect_test_pending,close_contacts,close
 2020-4-14,3252,,,,,,610,28,2604,10,1,25,334,12797,17849,,https://www.moh.gov.sg/news-highlights/details/25-more-cases-discharged-334-new-cases-of-covid-19-infection-confirmed
 2020-4-15,3699,,,,,,651,26,3012,10,0,41,447,,,,https://www.moh.gov.sg/news-highlights/details/41-more-cases-discharged-447-new-cases-of-covid-19-infection-confirmed
 2020-4-16,4427,,,,,,682,23,3712,10,0,31,728,,,,https://www.moh.gov.sg/news-highlights/details/31-more-cases-discharged-728-new-cases-of-covid-19-infection-confirmed
-2020-4-17,5050,,,,,,707,22,4310,11,1,25,623,,,,
-2020-4-18,5992,,,,,,745,23,5212,12,1,38,942,,,,
+2020-4-17,5050,,,,,,707,22,4310,11,1,25,623,,,,https://www.moh.gov.sg/news-highlights/details/25-more-cases-discharged-623-new-cases-of-covid-19-infection-confirmed
+2020-4-18,5992,,,,,,745,23,5213,11,0,38,942,,,,https://www.moh.gov.sg/news-highlights/details/38-more-cases-discharged-942-new-cases-of-covid-19-infection-confirmed
+2020-4-19,6588,,,,,,771,22,5784,11,0,26,596,,,,https://www.moh.gov.sg/news-highlights/details/26-more-cases-discharged-596-new-cases-of-covid-19-infection-confirmed
