@@ -119,3 +119,6 @@ MINISTRY OF HEALTH
 603, 660, 676, 705, 741, 845, 873, 907, 1136, 1272, 1335, 1386, 1398,
 1431, 1548, 2212, 2504, 2535, 2537, 2563, 3332, 3364, 3468, 3657, 3970
 and 4754.
+Note: Some cases that were confirmed and verified after 12pm, 18 April
+had been included in the clusters case listing. We have amended the
+listing to exclude them from the Annex of the 18 April release.
