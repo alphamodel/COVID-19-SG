@@ -3,7 +3,7 @@
 
 ![COVID-19 Singapore & Malaysia](./covid-sg.png)
 
-This repository collects Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. The updating frequency is *10 minutes*. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status. From April 19th, daily files are created at 12 AM SGT due to two days' press releases were updated after 12 AM SGT.
+This repository collects Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. The updating frequency is *10 minutes*. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status. From April 19th, daily files are created at 12 AM SGT because two days' press releases were updated after 12 AM SGT.
 
 ## What is in this repository
 
