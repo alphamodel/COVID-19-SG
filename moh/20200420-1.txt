@@ -1,21 +1,64 @@
-1,426 New Cases of Covid-19 Infection
+33 More Cases Discharged, 1,426 New Cases of Covid-19 Infection
+Confirmed
 
 
 
-1,426 NEW CASES OF COVID-19 INFECTION
+33 MORE CASES DISCHARGED, 1,426 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 20 Apr 2020
 
-             As of 20 April 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 1,426 cases of COVID-19 infection
-in Singapore, the vast majority of whom are Work Permit holders residing
-in foreign worker dormitories. 16 cases are Singaporeans/ Permanent
-Residents.
-
-2.       We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-
+       As of 20 April 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 1,426 cases of COVID-19 infection
+in Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 25 (18 Singaporeans/Permanent Residents [1]
+and 7 Work Passes)
+The number of new cases in the community has decreased, from an average
+of 39 cases per day in the week before, to an average of 29 per day in
+the past week. The number of unlinked cases in the community has
+remained relatively constant, with an average of 20 cases per day for
+the past two weeks. We will continue to closely monitor these numbers,
+as well as the cases detected through our surveillance programme.
+C) WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 32
+The number of new cases amongst Work Permit holders residing outside
+dormitories has continued to increase, from an average of 13 cases per
+day in the week before, to an average of 24 per day in the past week.
+D) WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 1,369
+The main increase today continues to be for Work Permit holders residing
+in dormitories, where we are picking up many more cases because of
+extensive testing. These are not new infections as the workers are
+staying in their rooms and many have not reported sick. But when the
+teams go in to test them, many turn out to be positive. Most of these
+cases have a mild illness and are being monitored in the community
+isolation facilities or general ward of our hospitals. None of them is
+in the intensive care unit.
+2.  Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3.     Of the new cases, 63% are linked to known clusters, while the
+rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.       In the past week (13 April to 19 April), MOH has uncovered
+links for 484 previously unlinked cases.
+5.    Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.    33 more cases [2] of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 801 have fully
+recovered from the infection and have been discharged from hospitals or
+community isolation facilities.
+7.      Of the 3,420 confirmed cases who are still in hospital, most are
+stable or improving. 23 are in critical condition in the intensive care
+unit. 3,782 cases who are clinically well but still test positive for
+COVID-19 are isolated and cared for at community facilities. 11 have
+passed away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 20 APRIL 2020
+[1] Updated from the afternoon press release as two more cases had been
+classified following contact tracing.
+[2] Cases 35, 307, 384, 413, 615, 692, 948, 965, 1044, 1045, 1127, 1168,
+1189, 1229, 1234, 1265, 1333, 1341, 1378, 1389, 1413, 1426, 1561, 1610,
+1737, 1743, 1913, 2562, 2939, 3307, 3848, 4115 and 5295.
