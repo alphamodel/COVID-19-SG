@@ -8,16 +8,16 @@ Confirmed
 
 Published Date: 22 Apr 2020
 
-  As of 22 April 2020, 12pm, the Ministry of Health (MOH) has confirmed
-and verified an additional 1,016 cases of COVID-19 infection in
-Singapore. The breakdown is as follows:
+     As of 22 April 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 1,016 cases of COVID-19 infection
+in Singapore. The breakdown is as follows:
 
-a) Imported cases: 0
+A) IMPORTED CASES: 0
 
 There are no imported cases today.
 
-b)  Cases in the community: 17 (15 Singaporeans/Permanent Residents, 2
-Work Passes)
+B)  CASES IN THE COMMUNITY: 17 (15 SINGAPOREANS/PERMANENT RESIDENTS, 2
+WORK PASSES)
 
 The number of new cases in the community has decreased, from an average
 of 36 cases per day in the week before, to an average of 25 per day in
@@ -27,13 +27,13 @@ average of 17 per day in the past week. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
 
-c)  Work Permit holders (residing outside dormitories): 32
+C)  WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 32
 
 The number of new cases amongst Work Permit holders residing outside
 dormitories has continued to increase, from an average of 14 cases per
 day in the week before, to an average of 30 per day in the past week.
 
-d)  Work Permit holders (residing in dormitories): 967
+D)  WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 967
 
 The main increase today continues to be for Work Permit holders residing
 in dormitories, where we are picking up many more cases because of
