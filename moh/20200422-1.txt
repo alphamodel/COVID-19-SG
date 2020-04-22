@@ -1,18 +1,88 @@
-1,016 New Cases of Covid-19 Infection
+57 More Cases Discharged, 1,016 New Cases of Covid-19 Infection
+Confirmed
 
 
 
-1,016 NEW CASES OF COVID-19 INFECTION
+57 MORE CASES DISCHARGED, 1,016 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 22 Apr 2020
 
-              As of 22 April 2020, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed an additional 1,016 cases of COVID-19
-infection in Singapore, the vast majority of whom are Work Permit
-holders residing in foreign worker dormitories. 15 cases are
-Singaporeans/ Permanent Residents.
+As of 22 April 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 1,016 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
-2.  We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+a) Imported cases: 0
+
+There are no imported cases today.
+
+b)  Cases in the community: 17 (15 Singaporeans/Permanent Residents, 2
+Work Passes)
+
+The number of new cases in the community has decreased, from an average
+of 36 cases per day in the week before, to an average of 25 per day in
+the past week. The number of unlinked cases in the community has
+decreased, from an average of 21 cases per day in the week before, to an
+average of 17 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+c)  Work Permit holders (residing outside dormitories): 32
+
+The number of new cases amongst Work Permit holders residing outside
+dormitories has continued to increase, from an average of 14 cases per
+day in the week before, to an average of 30 per day in the past week.
+
+d)  Work Permit holders (residing in dormitories): 967
+
+The main increase today continues to be for Work Permit holders residing
+in dormitories, where we are picking up many more cases because of
+extensive testing. Most of these cases have a mild illness and are being
+monitored in the community isolation facilities or general ward of our
+hospitals. None of them is in the intensive care unit.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 73% are linked to known clusters, while
+the rest are pending contact tracing.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+4.  In the past week (15 April to 21 April), MOH has
+uncovered links for 918 previously unlinked cases.
+
+5.  Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  57 more cases[1] of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all, 896
+have fully recovered from the infection and have been discharged from
+hospitals or community isolation facilities.
+
+7.  Of the 4,234 confirmed cases who are still in hospital,
+most are stable or improving. 25 are in critical condition in the
+intensive care unit. 4,999 cases who are clinically well but still test
+positive for COVID-19 are isolated and cared for at community
+facilities. 12 have passed away from complications due to COVID-19
+infection.
+
+8.  Case 1071, an 84 year-old female Singapore Citizen, has
+passed away from complications due to COVID-19 infection on 21 April
+2020 night. She was confirmed to have COVID-19 infection on 2 April.
+Khoo Teck Puat Hospital has reached out to her family and is extending
+assistance to them.
+
+
+
+------------------------------------------------------------------------
+
+[1] Cases 142, 347, 433, 459, 501, 540, 546, 549, 556, 582, 631, 634,
+732, 779, 791, 818, 860, 863, 866, 888, 943, 945, 957, 977, 986, 1003,
+1012, 1042, 1048, 1051, 1056, 1080, 1131, 1132, 1180, 1220, 1231, 1303,
+1368, 1390, 1405, 1479, 1534, 1535, 1615, 1622, 1720, 1730, 1965, 2174,
+2240, 2540, 2559, 2957, 3316, 4160 and 7083.
