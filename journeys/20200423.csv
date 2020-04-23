@@ -9817,7 +9817,7 @@ id,group,place,date,age,gender,hospital,status,status_id,symptom,stay,transporta
 8188,1000,,2020-4-21,,,,确诊,confirm,,,,
 8189,1000,,2020-4-21,,,,确诊,confirm,,,,
 8190,1000,,2020-4-21,,,,确诊,confirm,,,,
-8190,1000,,2020-4-23,,,,病逝,dead,,,,
+8190,1000,,2020-4-23,,,,出院,discharge,,,,
 8191,1000,,2020-4-21,,,,确诊,confirm,,,,
 8192,1000,,2020-4-21,,,,确诊,confirm,,,,
 8193,1000,,2020-4-21,,,,确诊,confirm,,,,
