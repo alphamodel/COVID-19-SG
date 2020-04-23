@@ -1,20 +1,72 @@
-1,037 New Cases of Covid-19 Infection
+36 More Cases Discharged, 1,037 New Cases of Covid-19 Infection
+Confirmed
 
 
 
-1,037 NEW CASES OF COVID-19 INFECTION
+36 MORE CASES DISCHARGED, 1,037 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 23 Apr 2020
 
-1. As of 23 April 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 1,037 cases of COVID-19 infection
-in Singapore, the vast majority of whom are Work Permit holders residing
-in foreign worker dormitories. 21 cases are Singaporeans/ Permanent
-Residents.
-2. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
-MINISTRY OF HEALTH
-23 APRIL 2020
+1. As of 23 April 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 1,037 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+  A) IMPORTED CASES: 0
+  There are no imported cases today.
+  B) CASES IN THE COMMUNITY: 25 (22 Singaporeans/Permanent
+Residents¹, 3 Work Passes)
+The number of new cases in the community has decreased, from an average
+of 34 cases per day in the week before, to an average of 25 per day in
+the past week. The number of unlinked cases in the community has
+decreased slightly, from an average of 20 cases per day in the week
+before, to an average of 18 per day in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+  C) WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 30
+The number of new cases amongst Work Permit holders residing outside
+dormitories has continued to increase, from an average of 16 cases per
+day in the week before, to an average of 30 per day in the past week.
+  D) WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 982
+The main increase today continues to be for Work Permit holders residing
+in dormitories, where we are picking up many more cases because of
+extensive testing. Most of these cases have a mild illness and are being
+monitored in the community isolation facilities or general ward of our
+hospitals. None of them is in the intensive care unit.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 75% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4. In the past week (16 April to 22 April), MOH has uncovered links for
+1,024 previously unlinked cases.
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 36 more cases² of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 924 have fully
+recovered from the infection and have been discharged from hospitals or
+community isolation facilities.
+7. As our care protocols adapt based on our understanding of the
+disease, we have re-categorised the confirmed cases to more accurately
+reflect where the confirmed cases are being cared for. There are
+currently 1,368 confirmed cases who are still in hospital. Of these,
+most are stable or improving, and 26 are in critical condition in the
+intensive care unit. 8,874 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 12 have passed away from
+complications due to COVID-19 infection.
+8. Case 8190, a 46 year-old male Indian national, has passed away on 23
+April. He was confirmed to have COVID-19 infection on 19 April, and had
+been warded at Khoo Teck Puat Hospital. Police investigations into his
+death are ongoing.
+[1] Updated from the afternoon press release as one more case had been
+classified following contact tracing.
+[2] Cases 188, 359, 491, 550, 596, 597, 633, 702, 740, 910, 912, 968,
+969, 971, 1013, 1031, 1197, 1223, 1241, 1244, 1285, 1291, 1345, 1410,
+1704, 1810, 1951, 2011, 2270, 2273, 2291, 2403, 2978, 3336, 7117 and
+8190.
+
+
 
