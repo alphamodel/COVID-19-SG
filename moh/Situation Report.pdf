@@ -1,0 +1,1617 @@
+ <!DOCTYPE html> <html lang="en"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>
+	COVID-19 situation reports
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link href="//use.fontawesome.com/releases/v5.0.10/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=12.1.7126.29688' ><link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=12.1.7126.29688' > <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=12.1.7126.29688' > <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=12.1.7126.29688' media='print'> <script type="text/javascript">var sf_appPath='/';</script>
+            <script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "webpage",
+  "targetaudience": "General audience",
+  "targetcountry": "global",
+  "publishingoffice": "department-of-communications",
+  "healthtopic": "Coronavirusinfections"
+});</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QFSQRT');</script>
+<!-- End Google Tag Manager --><meta property="og:locale" content="en_US" /><meta property="og:title" content="COVID-19 situation reports" /><meta property="og:description" content="Situation reports provide the latest updates on the COVID-19 outbreak. These include updated numbers of infected people and location, and actions that WHO and countries are taking to respond to the outbreak. " /><meta property="og:image" content="https://www.who.int/images/default-source/digital-health/covid19-dashboard.tmb-1200v.jpg?sfvrsn=c8b3c070_1" /><style type="text/css" media="all">#navigationToScrape *, 
+.top-header * {
+  box-sizing: border-box;
+}
+</style><meta name="twitter:card" content="summary_large_image" /><meta name="Generator" content="Sitefinity 12.2.7226.0 PU" /><link rel="canonical" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports" /><meta name="description" content="Situation reports provide the latest updates on the COVID-19 outbreak. These include updated numbers of infected people and location, and actions that WHO and countries are taking to respond to the outbreak. " /></head> <body class="sf-body "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=4bMApOb58R6igmkUEZ0eXnm0PEgvUiTnhsfn6A-1P1gfSL_IW0XrmgbYjQdBixgYLa7JpLMbAfpATfipeprqFLbk1dWupgV7LOjSKpxm7IbworeAI5Am-kCTPlujrcVMmoNTIa3A0e7HgAOF2d9KcPcoV9t-tgSgbvDaMqLy2PxS-9aFSMf_voKOGBuAUm7W0&amp;t=486cc2a0" type="text/javascript"></script><script src="/ScriptResource.axd?d=EydukmxBmDstn7gSYzQESNtW4chsGOj6cnwd6XGO4PTvqc2JM9S68UeRAhd1oooQoMCYHdbpV0kPbdU50nR61_QuA4zP1x2FzgyPGkAvnPRPA-9it3rqsxJTRKApdDTZwQcjCuVfdACofX9zZz-O2oHkPDYqF8Dc_yo6A8sCDorrbpp_GtLwDhVtBFo5eJAE0&amp;t=486cc2a0" type="text/javascript"></script> <div class="sf-main-site main-site main"> <!-- header:on --> <!--noindex--><!--stopindex--> <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-container">
+        <nav class="sf-geo-navigation">
+            
+            <ul id="sf-primary-geo-navigation" class="sf-primary-geo-navigation">
+                
+
+                <li class="active sf-no-logo">
+                    <a href="https://www.who.int/" class="mobile nav-logo">
+                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_18" alt="World Health Organization"/>
+                    </a>
+                    <a href="https://www.who.int/" class="desktop">Global</a>
+                </li>
+
+                
+                <li class=" has-children">
+                    <a href="#">Regions</a>
+
+                    <div class="sf-secondary-geo-navigation-container">
+                        <div class="sf-secondary-geo-navigation-wrapper">
+                            <div class="sf-geo-navigation-title">
+                                <div class="nav-header">
+                                    <span class="nav-logo">
+                                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_18" alt="World Health Organization" />
+                                    </span>
+
+
+                                    <span class="nav-title">WHO Regional websites</span>
+
+                                    <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                </div>
+
+
+                            </div>
+
+                            <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+                                        <li class=" col-md-4">
+                                            <a href="https://www.afro.who.int/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/africa.png?sfvrsn=3204f957_16"  alt="Africa" />
+
+                                                <span>Africa</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.paho.org/hq/index.php?lang=en">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/americas.png?sfvrsn=9efd6df3_14"  alt="Americas" />
+
+                                                <span>Americas</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://who.int/southeastasia">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/south-east-asia.png?sfvrsn=68e76dc2_14"  alt="South-East Asia" />
+
+                                                <span>South-East Asia</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="http://www.euro.who.int/en/home">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/europe.png?sfvrsn=c7d5c5a5_14"  alt="Europe" />
+
+                                                <span>Europe</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="http://www.emro.who.int/index.html">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/eastern-mediterranean.png?sfvrsn=71211e18_14"  alt="Eastern Mediterranean" />
+
+                                                <span>Eastern Mediterranean</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/westernpacific/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/western-pacific.png?sfvrsn=88cbdcd5_14"  alt="Western Pacific" />
+
+                                                <span>Western Pacific</span>
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+ </div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <div class="navigation-search"> <span> <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i> </span> </div> <!--Navigation search:off--> 
+
+
+
+
+
+    <!-- Searchblox form -->
+    <div id="search2">
+        <form id="search-form" action="/home/search" method="get" target="_self">
+
+            <!-- Searchblox overlay -->
+            <label for="search_who">
+                <input name="query"
+                       id="q"
+                       class="searchInput"
+                       title="Search WHO.int"
+                       type="text"
+                       placeholder="Search WHO.int"
+                       value=""
+                       autocomplete="off">
+
+                <input type="hidden" name="page" value="1">
+                <input type="hidden" name="pagesize" value="10">
+                <input type="hidden" name="sortdir" value="desc">
+                <input type="hidden" name="sort" value="relevance">
+
+                <input type="hidden" name="default" value="AND">
+
+                <input type="hidden" name="f.Countries.size" value="100">
+                <input type="hidden" name="f.Lang.filter" value="en">
+                <input type="hidden" name="f.RegionalSites.size" value="100">
+                <input type="hidden" name="f.Topics.size" value="100">
+                <input type="hidden" name="f.contenttype.size" value="100">
+                <input type="hidden" name="f.doctype.size" value="101">
+                <input type="hidden" name="facet.field" value="RegionalSites">
+                <input type="hidden" name="facet.field" value="Topics">
+                <input type="hidden" name="facet.field" value="doctype">
+                <input type="hidden" name="facet.field" value="Countries">
+                <input type="hidden" name="facet.field" value="contenttype">
+                <input type="hidden" name="facet.field" value="Lang">
+
+                <input type="hidden" name="tune" value="true">
+                <input type="hidden" name="tune.0" value="3">
+                <input type="hidden" name="tune.1" value="2">
+                <input type="hidden" name="tune.2" value="2">
+                <input type="hidden" name="tune.3" value="3">
+                <input type="hidden" name="tune.4" value="180">
+                <input type="hidden" name="tune.5" value="75">
+
+                <span id="clear-search" class="search-clear">
+                    <i class="fa fa-times-circle fa-loaded fa-2x"></i>
+                </span>
+            </label>
+
+            <button id="searchSubmit " class="search-button" title="Search  " data-reactid="8 ">
+                <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+            </button>
+        </form>
+    </div>
+ 
+
+
+<div class="language-selector language-selector-header">
+    <ul class="sf-lang-selector list-inline">
+            <li>
+                    <a data-available-culture="ar" href="" onclick="openLinkWithTranslation('ar'); return false;" class="disabled header" style="display:none">العربية</a>
+            </li>
+            <li>
+                    <a data-available-culture="zh" href="" onclick="openLinkWithTranslation('zh'); return false;" class="disabled header" style="display:none">中文</a>
+            </li>
+            <li>
+                    <a data-available-culture="en" href="" onclick="openLinkWithTranslation('en'); return false;" class="selected header" style="display:none">English</a>
+            </li>
+            <li>
+                    <a data-available-culture="fr" href="" onclick="openLinkWithTranslation('fr'); return false;" class="disabled header" style="display:none">fran&#231;ais</a>
+            </li>
+            <li>
+                    <a data-available-culture="ru" href="" onclick="openLinkWithTranslation('ru'); return false;" class="disabled header" style="display:none">русский</a>
+            </li>
+            <li>
+                    <a data-available-culture="es" href="" onclick="openLinkWithTranslation('es'); return false;" class="disabled header" style="display:none">espa&#241;ol</a>
+            </li>
+    </ul>
+</div>
+
+
+
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+ <div class="header-logo logos-container"> <a href="/" title="Home" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Home" class="logo svg" /> </a> </div> </div> </div> </div> 
+<div class="row" data-sf-element="Row">
+    <div id="MainHeader_TEC2026FA002_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+
+
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+    </div>
+</div>
+ </div> <!-- logo:off --> <div id="navigationToScrape" class="navigation"> 
+<div class="row navWrapper" data-sf-element="Row">
+    <div class="nav-container">
+        <!--Main desktop navigation:on-->
+        <ul class="nav"></ul>
+        <!--Main desktop navigation:off-->
+    </div>
+
+    <ul class="nav-mobile"></ul>
+
+    <div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+    <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/" target="_self">Home</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/health-topics" target="_self">Health Topics</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T75121FDA161_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/health-topics/">All topics &raquo;</a></li><li><a href="/health-topics/#A">A</a></li><li><a href="/health-topics/#B">B</a></li><li><a href="/health-topics/#C">C</a></li><li><a href="/health-topics/#D">D</a></li><li><a href="/health-topics/#E">E</a></li><li><a href="/health-topics/#F">F</a></li><li><a href="/health-topics/#G">G</a></li><li><a href="/health-topics/#H">H</a></li><li><a href="/health-topics/#I">I</a></li><li><a href="/health-topics/#J">J</a></li><li><a href="/health-topics/#K">K</a></li><li><a href="/health-topics/#L">L</a></li><li><a href="/health-topics/#M">M</a></li><li><a href="/health-topics/#N">N</a></li><li><a href="/health-topics/#O">O</a></li><li><a href="/health-topics/#P">P</a></li><li><a href="/health-topics/#Q">Q</a></li><li><a href="/health-topics/#R">R</a></li><li><a href="/health-topics/#S">S</a></li><li><a href="/health-topics/#T">T</a></li><li><a href="/health-topics/#U">U</a></li><li><a href="/health-topics/#V">V</a></li><li><a href="/health-topics/#W">W</a></li><li><a href="/health-topics/#X">X</a></li><li><a href="/health-topics/#Y">Y</a></li><li><a href="/health-topics/#Z">Z</a></li></ul></div>
+
+</div>
+
+</div>
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts" target="_self">Resources &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/data" target="_self">Data</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/fact-sheets" target="_self">Fact sheets</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/facts-in-pictures" target="_self">Facts in pictures</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/publications" target="_self">Publications</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/questions-answers" target="_self">Questions &amp; answers</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular" target="_self">Popular &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/ebola-virus-disease" target="_self">Ebola virus disease</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/nutrition" target="_self">Nutrition</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/hepatitis" target="_self">Hepatitis</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death" target="_self">Top 10 causes of death</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19)" target="_self">Coronavirus disease (COVID-19)</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div><a href="https://www.who.int/news-room/events/detail/2020/03/03/default-calendar/world-hearing-day-2020-hearing-for-life"><strong>World Hearing Day&raquo;</strong></a></div></div>
+
+</div>
+
+
+    <a href="https://www.who.int/news-room/initiatives/world-hearing-day-2020">
+            <div class="sf-image ">
+        <img class="lazy"
+             data-src="/images/default-source/who-campaigns/world-hearing-day/whd-2020/202002-campaign-menu-world-hearing-day.tmb-340v.jpg?Culture=en&amp;sfvrsn=f9397705_2"
+             data-image="/images/default-source/who-campaigns/world-hearing-day/whd-2020/202002-campaign-menu-world-hearing-day.tmb-340v.jpg?Culture=en&amp;sfvrsn=f9397705_2"
+             title="World Hearing Day"
+             alt="World Hearing Day"
+             
+              />
+
+    </div>
+
+    </a>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/countries" target="_self">Countries</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204039_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204043_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/countries/en/">All countries&nbsp;&raquo;</a></li><li><a href="/countries/en/#A">A</a></li><li><a href="/countries/en/#B">B</a></li><li><a href="/countries/en/#C">C</a></li><li><a href="/countries/en/#D">D</a></li><li><a href="/countries/en/#E">E</a></li><li><a href="/countries/en/#F">F</a></li><li><a href="/countries/en/#G">G</a></li><li><a href="/countries/en/#H">H</a></li><li><a href="/countries/en/#I">I</a></li><li><a href="/countries/en/#J">J</a></li><li><a href="/countries/en/#K ">K</a></li><li><a href="/countries/en/#L ">L</a></li><li><a href="/countries/en/#M ">M</a></li><li><a href="/countries/en/#N ">N</a></li><li><a href="/countries/en/#O ">O</a></li><li><a href="/countries/en/#P ">P</a></li><li><a href="/countries/en/#Q ">Q</a></li><li><a href="/countries/en/#R ">R</a></li><li><a href="/countries/en/#S ">S</a></li><li><a href="/countries/en/#T ">T</a></li><li><a href="/countries/en/#U ">U</a></li><li><a href="/countries/en/#V ">V</a></li><li><a href="/countries/en/#W ">W</a></li><li><a href="/countries/en/#X ">X</a></li><li><a href="/countries/en/#Y ">Y</a></li><li><a href="/countries/en/#Z ">Z</a></li></ul></div>
+
+</div>
+
+</div>
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions" target="_self">Regions &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/africa" target="_self">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/americas" target="_self">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/south-east-asia" target="_self">South-East Asia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/europe" target="_self">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/eastern-mediterranean" target="_self">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/western-pacific" target="_self">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries" target="_self">WHO in countries &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/overview" target="_self">Overview</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/data-statistics" target="_self">Statistics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies" target="_self">Cooperation strategies</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="navigation-title"><a href="https://www.who.int/emergencies/crises/cod/en/">Democratic Republic of the Congo&nbsp;&raquo;</a></div></div>
+
+</div>
+
+
+    <a href="https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo">
+            <div class="sf-image ">
+        <img class="lazy"
+             data-src="/images/default-source/ebola-drc/ebola-drc-4-630px-jpg.tmb-340v.jpg?sfvrsn=d52a48d0_21"
+             data-image="/images/default-source/ebola-drc/ebola-drc-4-630px-jpg.tmb-340v.jpg?sfvrsn=d52a48d0_21"
+             title="chronic-disease-tanzania"
+             alt="An old man in Tanzania, having his blood pressure checked"
+             
+              />
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+WHO
+            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">©</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+    </div>
+
+    </a>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="navigation-title">&nbsp;</div></div>
+
+</div>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/news-room" target="_self">Newsroom</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news" target="_self">All news &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/releases" target="_self">News releases</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/statements" target="_self">Statements</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/notes-for-media" target="_self">Notes for media</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/commentaries" target="_self">Commentaries</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/events" target="_self">Events</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/feature-stories" target="_self">Feature stories</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/speeches" target="_self">Speeches</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/spotlights" target="_self">Spotlights</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/newsletters" target="_self">Newsletters</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/media-distribution-list" target="_self">Media distribution list</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/news-room/headlines">Headlines&nbsp;&raquo;</a></li></ul></div>
+
+</div>
+
+
+
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="https://www.who.int/news-room/detail#:ItemDefaultUrl #" aria-label="#: Title #" role="link">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    function loadScript(url, callback) {
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        if (script.readyState) {  //IE
+            script.onreadystatechange = function () {
+                if (script.readyState === "loaded" || script.readyState === "complete") {
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {  //Others
+            script.onload = function () {
+                callback();
+            };
+        }
+
+        script.src = url;
+        document.body.appendChild(script);
+    }
+
+    window.onload = function () {
+        loadScript("//kendo.cdn.telerik.com/2018.1.221/js/kendo.ui.core.min.js", function () {
+            var remoteDataSource = new kendo.data.DataSource({
+                type: "odata-v4",
+                transport: {
+                    read: "/api/news/newsitems?sf_provider=OpenAccessDataProvider&sf_culture=en&$top=3&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType&$filter=publishingoffices/any(s:s eq db6766a8-4c21-4211-af4d-947fb91c0091)"
+                }
+            });
+            $("#listView").kendoListView({
+                dataSource: remoteDataSource,
+                pageable: true,
+                template: kendo.template($("#template").html()),
+                dataBound: function () {
+                    this.wrapper.removeClass("k-widget");
+                    this.wrapper.removeClass("k-listview");
+                }
+            });
+        });
+    };
+</script>
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/news-room/campaigns">Campaigns and initiatives&nbsp;&raquo;</a></li></ul></div>
+
+</div>
+
+
+    <a href="https://www.who.int/news-room/campaigns/year-of-the-nurse-and-the-midwife-2020">
+            <div class="sf-image ">
+        <img class="lazy"
+             data-src="/images/default-source/temporary/year-of-the-nurse-and-the-midwife/yomn-banner.tmb-340v.jpg?Culture=en&amp;sfvrsn=681d964d_3"
+             data-image="/images/default-source/temporary/year-of-the-nurse-and-the-midwife/yomn-banner.tmb-340v.jpg?Culture=en&amp;sfvrsn=681d964d_3"
+             title="Year of the Nurse and the Midwife 2020"
+             alt="Year of the Nurse and the Midwife 2020"
+             
+              />
+
+    </div>
+
+    </a>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="/news-room/campaigns/year-of-the-nurse-and-the-midwife-2020">Year of the Nurse and the Midwife 2020</a></div>
+
+</div>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/emergencies" target="_self">Emergencies</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204040_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies" target="_self">Focus on &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/bangladesh-rohingya" target="_self">Bangladesh Rohingya</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo" target="_self">Democratic Republic of the Congo</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/ebola-virus-disease" target="_self">Ebola virus disease</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/iraq" target="_self">Iraq</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/nigeria" target="_self">Nigeria</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov)" target="_self">Coronavirus disease outbreak (COVID-2019)</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/somalia" target="_self">Somalia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/south-sudan" target="_self">South Sudan</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/syrian-arab-republic" target="_self">Syrian Arab Republic</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/yemen" target="_self">Yemen</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/all-emergencies" target="_self">All emergencies &#187;</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news" target="_self">Latest &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/by-country" target="_self">By country</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/outbreaks-by-disease" target="_self">By disease</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news-(dons)" target="_self">Disease Outbreak News</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record" target="_self">Weekly Epidemiological Record</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/health-emergency-highlights" target="_self">Health Emergency Highlights</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/travel-advice" target="_self">Travel advice</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/contact" target="_self">Contact</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks" target="_self">WHO in emergencies &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/funding" target="_self">Funding</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/contingency-fund" target="_self">Training</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/partners-networks" target="_self">Partners &amp; networks</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/research-development" target="_self">Research &amp; development</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/attacks-on-health-care" target="_self">Attacks on health care</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/health-cluster" target="_self">Health cluster</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/partners-and-networks/public-health-emergency-dashboard" target="_blank">Public Health Emergency Dashboard</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov)">Coronavirus disease outbreak (COVID-19) &raquo;</a></li></ul></div>
+
+</div>
+
+
+    <a href="https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard">
+            <div class="sf-image ">
+        <img class="lazy"
+             data-src="/images/default-source/health-topics/coronavirus/map.tmb-340v.jpg?sfvrsn=56a52e7a_6"
+             data-image="/images/default-source/health-topics/coronavirus/map.tmb-340v.jpg?sfvrsn=56a52e7a_6"
+             title="Click here for the COVID-19 dashboard"
+             alt="Click here for the COVID-19 dashboard"
+             
+              />
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+WHO
+            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">©</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+    </div>
+
+    </a>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/about-us" target="_self">About Us</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about" target="_self">About WHO  &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/our-values" target="_self">Our values</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/who-we-are" target="_self">Who we are</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/what-we-do" target="_self">What we do</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/where-we-work" target="_self">Where we work</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/programmes" target="_self">Programmes</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/who-we-work-with" target="_blank">Collaboration and partnerships</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/ethics" target="_self">Ethics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/director-general" target="_self">Director-General</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/who-academy" target="_self">WHO Academy</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/about-us/contact-us" target="_self">Contact us &#187;</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance" target="_blank">Governing bodies &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance/world-health-assembly" target="_self">World Health Assembly</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance/executive-board" target="_self">Executive Board</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability" target="_self">Accountability &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/13th-general-programme-of-work-(gpw13)" target="_blank">General Programme of Work</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/budget" target="_blank">Programme Budget Portal</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/funding" target="_self">Invest in WHO</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/financial-programmatic-reports" target="_self">Financial reports</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="navigation-title"><a href="/about/what-we-do/who-brochure">Better health for everyone&nbsp;&raquo;</a></div></div>
+
+</div>
+
+
+    <a href="https://www.who.int/about/what-we-do/who-brochure">
+            <div class="sf-image ">
+        <img class="lazy"
+             data-src="/images/default-source/publications/brochure/boy-malawi.tmb-340v.jpg?Culture=en&amp;sfvrsn=41439f93_12"
+             data-image="/images/default-source/publications/brochure/boy-malawi.tmb-340v.jpg?Culture=en&amp;sfvrsn=41439f93_12"
+             title="boy_malawi"
+             alt="boy_malawi"
+             
+              />
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+WHO
+            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">©</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+    </div>
+
+    </a>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+ </div>
+</div>
+ </div> </header> <!--/noindex--><!--startindex--> <!-- header:off --> <section class="sf-content content"> 
+<div id="PageContent_TA51A0481002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+<!--noindex--><!--stopindex-->
+<div>
+    <ul class="sf-breadscrumb breadcrumb">
+                <li><a href="/">Home</a><span>/</span></li>
+                <li><a href="/emergencies">Emergencies</a><span>/</span></li>
+                <li><a href="/emergencies/diseases">Diseases</a><span>/</span></li>
+                <li><a href="/emergencies/diseases/novel-coronavirus-2019">Coronavirus disease 2019</a><span>/</span></li>
+                <li class="active">Situation reports</li>
+    </ul>
+</div>
+<!--/noindex--><!--startindex-->
+
+<script type="application/ld+json">
+    {"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.who.int","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.who.int/emergencies","name":"Emergencies"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.who.int/emergencies/diseases","name":"Diseases"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019","name":"Coronavirus disease 2019"}},{"@type":"ListItem","position":5,"item":{"@id":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports","name":"Situation reports"}}],"itemListOrder":"ItemListOrderAscending","@context":"http://schema.org","@type":"BreadcrumbList"}
+</script>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_TA51A0481001_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Body content"><div id="PageContent_C001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="section-heading">
+
+            <h1>Coronavirus disease (COVID-2019) situation reports</h1>
+
+</div><div class="row" data-sf-element="Row">
+    <div id="PageContent_C002_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+
+
+
+
+
+
+
+
+    <div class="left-navigation--wrapper accordion">
+        <div class="sf-section-navigation">
+            <h2>
+                <div class="hamburger hamburger--spin js-hamburger">
+                    <div class="hamburger-box">
+                        <div class="hamburger-inner"></div>
+                    </div>
+                </div>
+                Section navigation
+            </h2>
+        </div>
+        <div id="sidebar" class="sf-sidebar sidebar">
+            <div class="sidebar__inner">
+                <ul class="sf-accordion-list accordion-list accordion-list--siblings">
+
+                        <li class="sidebar-breadcrumb">
+                                        <a href="/emergencies/diseases/novel-coronavirus-2019" class="single-node"><i class="fas fa-angle-left"></i>Coronavirus disease 2019</a>
+
+                        </li>
+
+        <li class="sidebar-current">
+            Situation reports
+        </li>
+                    
+
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/media-resources" class="accordion-title accordionTitle">Media resources</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings" class="accordion-title accordionTitle">Press briefings</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/media-resources/news" class="accordion-title accordionTitle">News</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/advice-for-public" class="accordion-title accordionTitle">Advice for public</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" class="accordion-title accordionTitle">Myth busters</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks" class="accordion-title accordionTitle">When and how to use masks</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/advice-for-public/videos" class="accordion-title accordionTitle">Videos</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/advice-for-public/healthy-parenting" class="accordion-title accordionTitle">Advocacy</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance" class="accordion-title accordionTitle">Technical guidance</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations" class="accordion-title accordionTitle">Unity Studies: Early Investigation Protocols</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/patient-management" class="accordion-title accordionTitle">Case management</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance" class="accordion-title accordionTitle">National laboratories</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions" class="accordion-title accordionTitle">Surveillance, rapid response teams, and case investigation</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-prevention-and-control" class="accordion-title accordionTitle">Infection prevention and control</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/points-of-entry-and-mass-gatherings" class="accordion-title accordionTitle">Points of entry and mass gatherings</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it" class="accordion-title accordionTitle">Naming the coronavirus disease (COVID-19) and the virus that causes it</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/risk-communication-and-community-engagement" class="accordion-title accordionTitle">Risk communication and community engagement</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/country-readiness" class="accordion-title accordionTitle">Country-level coordination, planning, and monitoring</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/critical-preparedness-readiness-and-response-actions-for-covid-19" class="accordion-title accordionTitle">Critical preparedness, readiness and response actions for COVID-19</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/guidance-for-schools-workplaces-institutions" class="accordion-title accordionTitle">Guidance for schools, workplaces &amp; institutions</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers" class="accordion-title accordionTitle">Health Workers</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/humanitarian-operations-camps-and-other-fragile-settings" class="accordion-title accordionTitle">Humanitarian operations, camps and other fragile settings</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/maintaining-essential-health-services-and-systems" class="accordion-title accordionTitle">Maintaining Essential Health Services and Systems</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/technical-guidance/covid-19-critical-items" class="accordion-title accordionTitle">Essential resource planning</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/travel-advice" class="accordion-title accordionTitle">Travel advice</a>
+                    </li>
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/donors-and-partners" class="accordion-title accordionTitle">Donors and partners</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/donors-and-partners/funding" class="accordion-title accordionTitle">Funding</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/training" class="accordion-title accordionTitle">Training &amp; Exercises</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/training/simulation-exercise" class="accordion-title accordionTitle">Simulation exercise</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/training/online-training" class="accordion-title accordionTitle">Online training</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li class="has-sublevel">
+                <a href="/emergencies/diseases/novel-coronavirus-2019/donate" class="accordion-title accordionTitle">COVID-19 Response Fund</a>
+                            <span class="slicknav_arrow  js-accordionTrigger"></span>
+                <ul class="accordion-content accordionItem is-collapsed" aria-hidden="true">
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/donate/who-response-in-countries" class="accordion-title accordionTitle">WHO Response in Countries</a>
+                    </li>
+                    
+                </ul>
+        </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/who-director-general-s-special-envoys-on-covid-19-preparedness-and-response" class="accordion-title accordionTitle">WHO Director-General’s Special Envoys on COVID-19 Preparedness and Response&#160;</a>
+                    </li>
+        <li>
+                <a href="/emergencies/diseases/novel-coronavirus-2019/strategies-plans-and-operations" class="accordion-title accordionTitle">Strategies, plans and operations</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+    </div>
+    <div id="PageContent_C002_Col01" class="sf_colsIn col-md-9" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C012_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1 - For list templates"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C006_Col00" class="sf_colsIn col-md-1" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C006_Col01" class="sf_colsIn col-md-10" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200423-sitrep-94-covid-19.pdf?sfvrsn=b8304bf0_4">Situation report - 94</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />23 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200422-sitrep-93-covid-19.pdf?sfvrsn=35cf80d7_4">Situation report - 93</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />22 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200421-sitrep-92-covid-19.pdf?sfvrsn=38e6b06d_6">Situation report - 92</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />21 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200420-sitrep-91-covid-19.pdf?sfvrsn=fcf0670b_4">Situation report - 91</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />20 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200419-sitrep-90-covid-19.pdf?sfvrsn=551d47fd_4">Situation report - 90</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />19 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200418-sitrep-89-covid-19.pdf?sfvrsn=3643dd38_2">Situation report - 89</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />18 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200417-sitrep-88-covid-191b6cccd94f8b4f219377bff55719a6ed.pdf?sfvrsn=ebe78315_6">Situation report - 88</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />17 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200416-sitrep-87-covid-19.pdf?sfvrsn=9523115a_2">Situation report - 87</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />16 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200415-sitrep-86-covid-19.pdf?sfvrsn=c615ea20_6">Situation report - 86</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />15 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200414-sitrep-85-covid-19.pdf?sfvrsn=7b8629bb_4">Situation report - 85</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />14 April 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200413-sitrep-84-covid-19.pdf?sfvrsn=44f511ab_2"><strong>Situation report - 84</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />13 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200412-sitrep-83-covid-19.pdf?sfvrsn=697ce98d_4">Situation report - 83</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />12 April 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200411-sitrep-82-covid-19.pdf?sfvrsn=74a5d15_2"><strong>Situation report - 82</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />11 April 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200410-sitrep-81-covid-19.pdf?sfvrsn=ca96eb84_2"><strong>Situation report - 81</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />10 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200409-sitrep-80-covid-19.pdf?sfvrsn=1b685d64_6">Situation report - 80</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />9 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200408-sitrep-79-covid-19.pdf?sfvrsn=4796b143_6">Situation report - 79</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />8 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200407-sitrep-78-covid-19.pdf?sfvrsn=bc43e1b_2">Situation report - 78</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />7 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200406-sitrep-77-covid-19.pdf?sfvrsn=21d1e632_2">Situation report - 77</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />6 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200405-sitrep-76-covid-19.pdf?sfvrsn=6ecf0977_4">Situation report - 76</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />5 April 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200404-sitrep-75-covid-19.pdf?sfvrsn=99251b2b_4">Situation report - 75</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />4 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200403-sitrep-74-covid-19-mp.pdf?sfvrsn=4e043d03_14">Situation report - 74</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />3 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6">Situation report - 73</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />2 April 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200401-sitrep-72-covid-19.pdf?sfvrsn=3dd8971b_2"><strong>Situation report - 72</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />1 April 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200331-sitrep-71-covid-19.pdf?sfvrsn=4360e92b_8">S</a><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200331-sitrep-71-covid-19.pdf?sfvrsn=4360e92b_8">ituation report - 71</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />31 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200330-sitrep-70-covid-19.pdf?sfvrsn=7e0fe3f8_4">Situation report - 70</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />30 March 2020<strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200329-sitrep-69-covid-19.pdf?sfvrsn=8d6620fa_8"></a></strong></p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200329-sitrep-69-covid-19.pdf?sfvrsn=8d6620fa_8">Situation report - 69</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />29 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200328-sitrep-68-covid-19.pdf?sfvrsn=384bc74c_8">Situation report - 68</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />28 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200327-sitrep-67-covid-19.pdf?sfvrsn=b65f68eb_4">Situation report - 67</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />27 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200326-sitrep-66-covid-19.pdf?sfvrsn=9e5b8b48_2">Situation report - 66</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />26 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200325-sitrep-65-covid-19.pdf?sfvrsn=ce13061b_2">Situation report - 65</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />25 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200324-sitrep-64-covid-19.pdf?sfvrsn=723b221e_2">Situation report - 64</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />24 March 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200323-sitrep-63-covid-19.pdf?sfvrsn=b617302d_4"></a><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200323-sitrep-63-covid-19.pdf?sfvrsn=b617302d_4">Situation report - 63</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />23 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200322-sitrep-62-covid-19.pdf?sfvrsn=755c76cd_2">Situation report - 62</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />22 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200321-sitrep-61-covid-19.pdf?sfvrsn=ce5ca11c_2">Situation report - 61</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />21 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200320-sitrep-60-covid-19.pdf?sfvrsn=d2bb4f1f_2">Situation report - 60</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />20 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200319-sitrep-59-covid-19.pdf?sfvrsn=c3dcdef9_2"><strong>Situation report - 59</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />19 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200318-sitrep-58-covid-19.pdf?sfvrsn=20876712_2"><strong>Situation report - 58</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />18 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200317-sitrep-57-covid-19.pdf?sfvrsn=a26922f2_4"><strong>Situation report - 57</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />17 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200316-sitrep-56-covid-19.pdf?sfvrsn=9fda7db2_6"><strong>Situation report - 56</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />16 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200315-sitrep-55-covid-19.pdf?sfvrsn=33daa5cb_8">Situation report - 55</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />15 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200314-sitrep-54-covid-19.pdf?sfvrsn=dcd46351_8">Situation report - 54</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />14 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200313-sitrep-53-covid-19.pdf?sfvrsn=adb3f72_2"><strong>Situation report - 53</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />13 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200312-sitrep-52-covid-19.pdf?sfvrsn=e2bfc9c0_4">Situation report - 52</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />12 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200311-sitrep-51-covid-19.pdf?sfvrsn=1ba62e57_10">Situation report - 51</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />11 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200310-sitrep-50-covid-19.pdf?sfvrsn=55e904fb_2"><strong>Situation report - 50</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />10 March 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200309-sitrep-49-covid-19.pdf?sfvrsn=70dabe61_4">Situation report - 49</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />09 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200308-sitrep-48-covid-19.pdf?sfvrsn=16f7ccef_4"><strong>Situation report - 48</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />08 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200307-sitrep-47-covid-19.pdf?sfvrsn=27c364a4_4"><strong>Situation report - 47</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />07 March 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4"><strong>Situation report - 46</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />06 March 2020</p><p><a href="/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-45-covid-19.pdf?sfvrsn=ed2ba78b_4"><strong>Situation report - 45</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />05 March 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=93937f92_6">Situation report - 44</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />04 March 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200303-sitrep-43-covid-19.pdf?sfvrsn=76e425ed_2">Situation report - 43</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />03 March 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200302-sitrep-42-covid-19.pdf?sfvrsn=224c1add_2">Situation report - 42</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />02 March 2020</p><p><a href="/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2"><strong>Situation report - 41</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />01 March 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200229-sitrep-40-covid-19.pdf?sfvrsn=849d0665_2">Situation report - 40</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />29 February 2020</p><p><strong><a href="/docs/default-source/coronaviruse/situation-reports/20200228-sitrep-39-covid-19.pdf?sfvrsn=5bbf3e7d_4">Situation report - 39</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />28 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200227-sitrep-38-covid-19.pdf?sfvrsn=2db7a09b_4">Situation report - 38</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />27 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200226-sitrep-37-covid-19.pdf?sfvrsn=2146841e_2">Situation report - 37</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />26 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200225-sitrep-36-covid-19.pdf?sfvrsn=2791b4e0_2"><strong>Situation report - 36</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />25 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2"><strong>Situation report - 35</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />24 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200223-sitrep-34-covid-19.pdf?sfvrsn=44ff8fd3_2"><strong>Situation report - 34</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />23 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200222-sitrep-33-covid-19.pdf?sfvrsn=c9585c8f_4"><strong>Situation report - 33</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />22 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200221-sitrep-32-covid-19.pdf?sfvrsn=4802d089_2">Situation report - 32</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />21 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200220-sitrep-31-covid-19.pdf?sfvrsn=dfd11d24_2"><strong>Situation report - 31</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />20 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200219-sitrep-30-covid-19.pdf?sfvrsn=3346b04f_2">Situation report - 30</a></strong><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />19 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200218-sitrep-29-covid-19.pdf?sfvrsn=6262de9e_2"><strong>Situation report - 29</strong></a><br />Coronavirus&nbsp;disease 2019 (COVID-19)&nbsp;<br />18 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200217-sitrep-28-covid-19.pdf?sfvrsn=a19cf2ad_2"><strong>Situation report - 28</strong></a><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />17 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_4"><strong>Situation report - 27</strong></a><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />16 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200215-sitrep-26-covid-19.pdf?sfvrsn=a4cc6787_2">Situation report - 26</a></strong><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />15 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200214-sitrep-25-covid-19.pdf?sfvrsn=61dda7d_2">Situation report - 25</a></strong><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />14 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200213-sitrep-24-covid-19.pdf?sfvrsn=9a7406a4_4">Situation report - 24</a></strong><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />13 February 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200212-sitrep-23-ncov.pdf?sfvrsn=41e9fb78_4">Situation report - 23</a></strong><br />Coronavirus disease 2019 (COVID-19)&nbsp;<br />12 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf?sfvrsn=fb6d49b1_2"><strong>Situation report - 22</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />11 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf?sfvrsn=947679ef_2"><strong>Situation report - 21</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />10 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200209-sitrep-20-ncov.pdf?sfvrsn=6f80d1b9_4"><strong>Situation report - 20</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />9 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200208-sitrep-19-ncov.pdf?sfvrsn=6e091ce6_4"><strong>Situation report - 19</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />8 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200207-sitrep-18-ncov.pdf?sfvrsn=fa644293_2"><strong>Situation report - 18</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />7 February 2020</p><div><strong style="background-color:transparent;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;"><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200206-sitrep-17-ncov.pdf?sfvrsn=17f0dca_4">Situation report - 17</a></strong><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />6 February 2020</div><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_4">Situation report - 16&nbsp;- Erratum</a></strong><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />5 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200204-sitrep-15-ncov.pdf?sfvrsn=88fe8ad6_4"><strong>Situation report - 15</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />4 February 2020<a href="/docs/default-source/coronaviruse/situation-reports/20200203-sitrep-14-ncov.pdf?sfvrsn=f7347413_4"><strong></strong></a></p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200203-sitrep-14-ncov.pdf?sfvrsn=f7347413_4"><strong>Situation report - 14 - Erratum</strong><strong>&nbsp;</strong></a><strong></strong><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />3 February 2020<strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200202-sitrep-13-ncov-v3.pdf?sfvrsn=195f4010_6"></a></strong></p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200202-sitrep-13-ncov-v3.pdf?sfvrsn=195f4010_6">Situation report - 13</a></strong><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />2 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200201-sitrep-12-ncov.pdf?sfvrsn=273c5d35_2"><strong>Situation report - 12</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />1 February 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200131-sitrep-11-ncov.pdf?sfvrsn=de7c0f7_4"><strong>Situation report - 11</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />31 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200130-sitrep-10-ncov.pdf?sfvrsn=d0b2e480_2"><strong>Situation report - 10</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />30 January 2020</p><p><strong><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200129-sitrep-9-ncov-v2.pdf?sfvrsn=e2c8915_2">Situation report - 9</a></strong><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />29 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200128-sitrep-8-ncov-cleared.pdf?sfvrsn=8b671ce5_2"><strong>Situation report - 8</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />28 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200127-sitrep-7-2019--ncov.pdf?sfvrsn=98ef79f5_2"><strong>Situation report - 7</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />27 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4"><strong>Situation report - 6</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />26 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200125-sitrep-5-2019-ncov.pdf?sfvrsn=429b143d_8"><strong>Situation report - 5</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />25 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200124-sitrep-4-2019-ncov.pdf?sfvrsn=9272d086_8"><strong>Situation report - 4</strong></a><br />Novel Coronavirus (2019-nCoV)&nbsp;<br />24 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200123-sitrep-3-2019-ncov.pdf?sfvrsn=d6d23643_8"><strong>Situation report - 3</strong></a><br />Novel Coronavirus (2019-nCoV)<br />23 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf?sfvrsn=4d5bcbca_2"><strong>Situation report - 2</strong></a><br />Novel Coronavirus (2019-nCoV)<br />22 January 2020</p><p><a target="_blank" href="/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4"><strong>Situation report - 1</strong></a><br />Novel Coronavirus (2019-nCoV)<br />21 January 2020</p><p>&nbsp;</p></div>
+
+</div>
+
+
+
+<div class="list-view highlight-widget horizontal-title-and-image bg-light">
+    <div class="list-view--item highlight-widget--content">
+<a href="https://confirmsubscription.com/h/d/18DFE0FD1CC9DA69" class="link-container" aria-label="Media distribution list" role="link">
+        <div class="table-cell">
+            <div class="thumb">
+                <div class="background-image background-image--small" data-image="/images/default-source/hero-images/newspaper.tmb-768v.jpg?Culture=en&amp;sfvrsn=131fbfdb_6" style="background-image: url('/images/default-source/hero-images/newspaper.tmb-131v.jpg?Culture=en&amp;sfvrsn=131fbfdb_6')"></div>
+            </div>
+        </div>
+
+        <div class="table-cell info">
+                <p class="heading text-underline">Media distribution list</p>
+
+                <p class="sub-title">To receive media products from WHO, please subscribe to the WHO media distribution list.</p>
+
+        </div>
+
+</a>    </div>
+</div>
+
+    </div>
+    <div id="PageContent_C006_Col02" class="sf_colsIn col-md-1" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+    </div>
+    <div id="PageContent_C012_Col01" class="sf_colsIn col-sm-3 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2 - For list templates">
+
+<div class="list-view horizontal-title-only highlight-widget bg-white">
+    <div class="list-view--item highlight-widget--content">
+
+<a href="https://www.who.int/csr/don/archive/year/2020/en/" class="link-container" aria-label="For updates on this outbreak before 21 January 2020, see WHO’s Disease Outbreak News" role="link">
+        <div class="info">
+                <div class="flex-row">
+                    <div class="flex-col">
+                        <p class="heading text-underline">For updates on this outbreak before 21 January 2020, see WHO’s Disease Outbreak News</p>
+                    </div>
+                </div>
+            
+        </div>
+
+</a>    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+ </section> <!-- footer:on --> <!--noindex--><!--stopindex--> <footer id="sf-footer"> <div class="main-footer"> 
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links" target="_self">What we do</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/countries" target="_self">Countries</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/programs" target="_self">Programmes</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/frequently-asked-questions" target="_self">Frequently asked questions</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/employment" target="_self">Employment</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/procurement" target="_self">Procurement</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions" target="_self">Regions</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/regions/africa" target="_self">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/americas" target="_self">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/south-east-asia" target="_self">South-East Asia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/europe" target="_self">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/eastern-mediterranen" target="_self">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/western-pacific" target="_self">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us" target="_self">About us</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/director-general" target="_self">Director-General</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/world-health-assembly" target="_self">World Health Assembly</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/executive-board" target="_self">Executive Board</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/member-states" target="_self">Member States</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/integrity-hotline" target="_self">Ethics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/copyright" target="_self">Permissions and licensing</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/copyright/cyber-security" target="_self">Cyber security</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="button button-dark-background" style="text-align:center;"><a href="/news-room/newsletters">Subscribe to our newsletters</a></div></div>
+
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA199_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+</div>
+
+</div>
+ 
+ <div class="footer-logo"> <a href="/" title="Home"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Home" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="https://www.who.int/about/privacy/en/">Privacy Legal Notice</a></div>
+
+</div>
+ </div> <div class="col-md-4"> 
+
+
+<div class="social-share--add-this follow-us--footer">
+    <div class="addthis_inline_follow_toolbox"></div>
+</div>
+
+ </div> <div class="col-md-4 copyright"> <span>
+                                ©
+                            </span>
+
+                            2020
+
+                            
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="https://www.who.int/about/copyright/en/">WHO</a></div>
+
+</div>
+ </div> </div> </div> </div> </footer> <!--/noindex--><!--startindex--> <!-- footer:off --> </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="/Frontend-Assembly/SitefinityWebApp/Mvc/Scripts/LanguageSelectorAdvanced/language-selector.min.js?package=WHO&amp;v=MjIzNzkwMDM%3d" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/lib/jquery.sticky.min.js?package=WHO" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/vertical-sticky-navigation.min.js?package=WHO" type="text/javascript"></script><script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803f964fe6c9599" type="text/javascript"></script><script type="text/javascript">
+$( document ).ready(function() {
+  jQuery(function ($) {
+if ( $("#search2 #search-form").length ) {
+$("#search2 #search-form").find("input").last().after(
+"<input type='hidden' name='cname' value='highlight-en'/>"
++"<input type='hidden' name='cname' value='emronew'/>"
++"<input type='hidden' name='cname' value='who'/>"
++"<input type='hidden' name='cname' value='euro'/>"
++"<input type='hidden' name='cname' value='afro'/>"
++"<input type='hidden' name='cname' value='amro'/>"
++"<input type='hidden' name='cname' value='pmnch'/>"
++"<input type='hidden' name='cname' value='searo'/>"
++"<input type='hidden' name='cname' value='workforcealliance'/>"
++"<input type='hidden' name='cname' value='wpro'/>"
++"<input type='hidden' name='f.RegionalSites.filter' value='Global'/>"
++"<input type='hidden' name='f.contenttype.filter' value='html'/>")
+}
+});
+});
+</script><input data-custom-language-selector='ar' type='hidden' value='https://www.who.int/ar/home'><input data-custom-language-selector='zh' type='hidden' value='https://www.who.int/zh/home'><input data-custom-language-selector='en' type='hidden' value='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports'><input data-custom-language-selector='fr' type='hidden' value='https://www.who.int/fr/home'><input data-custom-language-selector='ru' type='hidden' value='https://www.who.int/ru/home'><input data-custom-language-selector='es' type='hidden' value='https://www.who.int/es/home'> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=12.1.7126.29688'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=12.1.7126.29688'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=12.1.7126.29688'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=12.1.7126.29688'></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Situation reports",
+            "description": "Situation reports provide the latest updates on the COVID-19 outbreak. These include updated numbers of infected people and location, and actions that WHO and countries are taking to respond to the outbreak. "
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=12.1.7126.29688'></script> <script async src="https://platform.twitter.com/widgets.js"></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>
