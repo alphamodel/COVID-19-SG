@@ -1,17 +1,79 @@
-897 New Cases of Covid-19 Infection
+38 More Cases Discharged; 897 New Cases of Covid-19 Infection Confirmed
 
 
 
-897 NEW CASES OF COVID-19 INFECTION
+38 MORE CASES DISCHARGED; 897 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 24 Apr 2020
 
-                As of 24 April 2020, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed an additional 897 cases of COVID-19
-infection in Singapore, the vast majority of whom are Work Permit
-holders residing in foreign worker dormitories. 13 cases are
-Singaporeans/ Permanent Residents.
-2.            We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+            As of 24 April 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 897 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A)   IMPORTED CASES: 0
+There are no imported cases today.
+B)   CASES IN THE COMMUNITY: 25 (13 Singaporeans/Permanent Residents, 12
+Work Passes)
+The number of new cases in the community has decreased, from an average
+of 31 cases per day in the week before, to an average of 25 per day in
+the past week. The number of unlinked cases in the community has also
+decreased, from an average of 20 cases per day in the week before, to an
+average of 17 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C)   WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 19
+The number of new cases amongst Work Permit holders residing outside
+dormitories has continued to increase, from an average of 19 cases per
+day in the week before, to an average of 28 per day in the past week.
+D)   WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 853
+The main increase today continues to be for Work Permit holders residing
+in dormitories, where we are picking up many more cases because of
+extensive testing. Most of these cases have a mild illness and are being
+monitored in the community isolation facilities or general ward of our
+hospitals. None of them is in the intensive care unit.
+2.          Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+3.          Of the new cases, 68% are linked to known clusters, while
+the rest are pending contact tracing.
+4.          MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to PCF Sparkletots
+Preschool @ Fengshan Blk 126 (126 Bedok North Street 2) for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.         In the past week (17 April to 23 April), MOH has uncovered
+links for 1,132 previously unlinked cases.
+6.         Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B for details.
+CASES FROM PUBLIC HEALTHCARE SECTOR
+Case 11580
+7.         Case 11580 is a 43 year-old female Singapore Citizen who has
+no recent travel history to affected countries or regions. She reported
+onset of symptoms on 20 April, and subsequent test results confirmed
+COVID-19 infection on 23 April. She is currently warded at the National
+Centre for Infectious Diseases.
+8.         She is employed as a nurse at Bukit Merah Polyclinic but had
+not gone to work since onset of symptoms.
+UPDATE ON CONDITION OF CONFIRMED CASES
+9.         38 more cases[1] of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 956 have fully
+recovered from the infection and have been discharged from hospitals or
+community isolation facilities.
+10.         There are currently 1,229 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 24 are in critical
+condition in the intensive care unit. 9,878 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 12 have passed
+away from complications due to COVID-19 infection.
+11.         The cause of death for Case 8190 was multiple injuries
+consistent with those resulting from a fall from height, and was not due
+to complications from COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Cases 130, 181, 182, 342, 441, 489, 830, 1014, 1030, 1098, 1139,
+1200, 1208, 1245, 1337, 1347, 1369, 1443, 1451, 1557, 1576, 1662, 1953,
+2412, 2507, 2610, 2926, 3105, 3385, 3831, 4366, 4436, 4695, 5522, 5697,
+6438, 6559 and 8664.
