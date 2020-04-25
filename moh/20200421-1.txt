@@ -1,9 +1,9 @@
-39 More Cases Discharged, 1,111 New Cases of Covid-19 Infection
+38 More Cases Discharged, 1,111 New Cases of Covid-19 Infection
 Confirmed
 
 
 
-39 MORE CASES DISCHARGED, 1,111 NEW CASES OF COVID-19 INFECTION CONFIRMED
+38 MORE CASES DISCHARGED, 1,111 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 21 Apr 2020
@@ -56,8 +56,8 @@ to Annex B for details.
 
 UPDATE ON CONDITION OF CONFIRMED CASES
 
-6.     39 more cases [1] of COVID-19 infection have been discharged from
-hospitals or community isolation facilities. In all, 839 have fully
+6.     38 more cases [1] of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 825 have fully
 recovered from the infection and have been discharged from hospitals or
 community isolation facilities.
 
@@ -71,5 +71,5 @@ MINISTRY OF HEALTH
 21 APRIL 2020
 [1] Cases 147, 300, 360, 610, 613, 620, 655, 743, 849, 896, 938, 988,
 999, 1082, 1103, 1123, 1170, 1383, 1446, 1530, 1544, 1599, 1643, 1733,
-1758, 1841, 1937, 1949, 1994, 2182, 2208, 2485, 2539, 2736, 3014, 3448,
-4162, 4779 and 5472.
+1758, 1841, 1937, 1949, 1994, 2182, 2208, 2485, 2539, 2736, 3014, 4162,
+4779 and 5472.

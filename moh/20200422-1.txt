@@ -60,7 +60,7 @@ Please refer to Annex B for details.
 UPDATE ON CONDITION OF CONFIRMED CASES
 
 6.  57 more cases[1] of COVID-19 infection have been
-discharged from hospitals or community isolation facilities. In all, 896
+discharged from hospitals or community isolation facilities. In all, 882
 have fully recovered from the infection and have been discharged from
 hospitals or community isolation facilities.
 
@@ -83,6 +83,6 @@ assistance to them.
 
 [1] Cases 142, 347, 433, 459, 501, 540, 546, 549, 556, 582, 631, 634,
 732, 779, 791, 818, 860, 863, 866, 888, 943, 945, 957, 977, 986, 1003,
-1012, 1042, 1048, 1051, 1056, 1080, 1131, 1132, 1180, 1220, 1231, 1303,
-1368, 1390, 1405, 1479, 1534, 1535, 1615, 1622, 1720, 1730, 1965, 2174,
+1012, 1042, 1048, 1051, 1056, 1080, 1131, 1132, 1154, 1180, 1220, 1231,
+1303, 1368, 1390, 1405, 1479, 1534, 1535, 1615, 1622, 1720, 1730, 1965,
 2240, 2540, 2559, 2957, 3316, 4160 and 7083.
