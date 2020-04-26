@@ -16,7 +16,7 @@ A) IMPORTED CASES: 0
 
 There are no imported cases today.
 
-B)  CASES IN THE COMMUNITY: 17 (15 SINGAPOREANS/PERMANENT RESIDENTS, 2
+B)    CASES IN THE COMMUNITY: 17 (15 SINGAPOREANS/PERMANENT RESIDENTS, 2
 WORK PASSES)
 
 The number of new cases in the community has decreased, from an average
@@ -27,13 +27,13 @@ average of 17 per day in the past week. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
 
-C)  WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 32
+C)    WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 32
 
 The number of new cases amongst Work Permit holders residing outside
 dormitories has continued to increase, from an average of 14 cases per
 day in the week before, to an average of 30 per day in the past week.
 
-D)  WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 967
+D)    WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 967
 
 The main increase today continues to be for Work Permit holders residing
 in dormitories, where we are picking up many more cases because of
@@ -41,37 +41,37 @@ extensive testing. Most of these cases have a mild illness and are being
 monitored in the community isolation facilities or general ward of our
 hospitals. None of them is in the intensive care unit.
 
-2.  Details of these trends can be found in MOH’s daily
+2.             Details of these trends can be found in MOH’s daily
 situation Report (www.moh.gov.sg/covid-19/situation-report). Please
 refer to Annex A for the summary of the confirmed cases.
 
-3.  Of the new cases, 73% are linked to known clusters, while
+3.             Of the new cases, 73% are linked to known clusters, while
 the rest are pending contact tracing.
 
 LINKS BETWEEN PREVIOUS CASES FOUND
 
-4.  In the past week (15 April to 21 April), MOH has
+4.             In the past week (15 April to 21 April), MOH has
 uncovered links for 918 previously unlinked cases.
 
-5.  Further epidemiological investigations and contact
+5.             Further epidemiological investigations and contact
 tracing have uncovered links between previously announced and new cases.
 Please refer to Annex B for details.
 
 UPDATE ON CONDITION OF CONFIRMED CASES
 
-6.  57 more cases[1] of COVID-19 infection have been
+6.             57 more cases[1] of COVID-19 infection have been
 discharged from hospitals or community isolation facilities. In all, 882
 have fully recovered from the infection and have been discharged from
 hospitals or community isolation facilities.
 
-7.  Of the 4,234 confirmed cases who are still in hospital,
+7.             Of the 4,234 confirmed cases who are still in hospital,
 most are stable or improving. 25 are in critical condition in the
 intensive care unit. 4,999 cases who are clinically well but still test
 positive for COVID-19 are isolated and cared for at community
 facilities. 12 have passed away from complications due to COVID-19
 infection.
 
-8.  Case 1071, an 84 year-old female Singapore Citizen, has
+8.             Case 1071, an 84 year-old female Singapore Citizen, has
 passed away from complications due to COVID-19 infection on 21 April
 2020 night. She was confirmed to have COVID-19 infection on 2 April.
 Khoo Teck Puat Hospital has reached out to her family and is extending
