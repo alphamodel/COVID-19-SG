@@ -77,7 +77,7 @@ clinically well but still test positive for COVID-19. 14 have passed
 away from complications due to COVID-19 infection.
 
 8.  Cases 1595 and 9682 have passed away from complications due
-to COVID-19 infection on 27 April 2020. Case 1592 was an 82 year-old
+to COVID-19 infection on 27 April 2020. Case 1595 was an 82 year-old
 male Singapore Citizen who was confirmed to have COVID-19 infection on 8
 April. Case 9682 was an 81 year-old male Singapore Citizen, who was
 confirmed to have COVID-19 infection on 20 April. The National Centre
@@ -89,7 +89,6 @@ extending assistance to them.
 MINISTRY OF HEALTH
 27 APRIL 2020
 
-[1]  Cases 350, 334, 412, 467, 551, 612, 715, 795, 916, 1058, 1075,
-1102, 1157, 1178, 1251, 1456, 1485, 1761, 1882, 2146, 2633, 2803, 3108,
-3539, 3628, 3984, 5568, 6247, 7088, 7101, 8655, 9934, 10129, 10130 and
-12352.
+[1] Cases 350, 334, 412, 467, 551, 612, 715, 795, 916, 1058, 1075, 1102,
+1157, 1178, 1251, 1456, 1485, 1761, 1882, 2146, 2633, 2803, 3108, 3539,
+3628, 3984, 5568, 6247, 7088, 7101, 8655, 9934, 10129, 10130 and 12352.
