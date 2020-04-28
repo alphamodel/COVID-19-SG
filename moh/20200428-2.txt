@@ -1,18 +1,144 @@
-528 New Cases of Covid-19 Infection
+Comprehensive Medical Strategy for Covid-19
 
 
 
-528 NEW CASES OF COVID-19 INFECTION
+COMPREHENSIVE MEDICAL STRATEGY FOR COVID-19
 
 
 Published Date: 28 Apr 2020
 
-As of 28 April 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 528 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Eight cases are Singaporeans/ Permanent
-Residents.
+               The Multi-Ministry Taskforce has a comprehensive medical
+strategy to ensure that individuals infected with COVID-19 receive
+prompt and quality medical treatment. Since the start of the outbreak, a
+total of 1,095 COVID-19 patients, out of 14,423 confirmed cases, have
+recovered and been discharged. The number of COVID-19 related deaths has
+remained low, at 14 deaths.[1] Our healthcare workers will continue to
+do their best to keep the complications and deaths arising from COVID-19
+as low as possible.
+MEDICAL PLAN
+2.             The clinical and scientific data from managing COVID-19
+patients, as well as the current epidemiological evidence on the
+infection, have provided the bases for a comprehensive medical plan. The
+plan guides the admission of patients into the appropriate tiered
+facilities for medical care and support, the transfer of patients
+between these facilities according to their needs, and the discharge of
+patients who are well and no longer infectious. The aim here is to
+deploy our medical resources optimally so as to prevent our healthcare
+system from being overwhelmed.
+3.             The majority of patients picked up by our testing have
+mild or no symptoms. Such patients are generally admitted to a Community
+Care Facility (CCF) where most recover with minimal intervention.
+Patients in these facilities are monitored closely in case they need to
+be transferred to hospital for better management and support. Those with
+severe conditions are cared for in Intensive Care Units (ICU). Such
+patients may display serious symptoms or have other risk factors and
+co-morbidities. As of 27 April, 12pm, there are 1,451 COVID-19 cases in
+hospitals, and 20 in ICU.
+4.             Infectious disease experts have studied the progression
+of COVID-19 infections in patients. Patients who remain well at Day 14
+of illness are likely to remain clinically stable and generally do not
+require any further medical care. We transfer such patients to a
+step-down Community Recovery Facility (CRF). Those who have been
+previously admitted into our hospitals may also be transferred to a CRF
+when they recover from their acute illness.
+5.             To support this plan, we have established a number of
+CCFs and CRFs. We have also augmented our healthcare workforce and
+deployed them to provide the appropriate level of care in the different
+facilities and settings, according to the needs of patients.
+SCALING UP OF MEDICAL FACILITIES
+6.             Persons with acute respiratory infections but are
+clinically well are issued with five-day medical certificates and are
+asked to isolate themselves at home. Those who meet the clinical case
+definitions for COVID-19 are tested and asked to self-isolate at home as
+they await their test results. Those who are unable to self-isolate in
+their homes can do so in a Swab Isolation Facility (SIF) while awaiting
+their test results. To date, we have built a capacity of 4,000 beds in
+the SIFs, in locations such as Civil Service Club @ Loyang and hotels.
+Those who are clinically unwell are referred immediately to hospitals
+for further assessment and treatment.
+7.             The CCF capacity has been rapidly increased, starting
+with about 500 beds at D’Resort NTUC to about 10,000 spaces currently,
+including at the Singapore EXPO and Changi Exhibition Centre. We are
+continuing to expand our CCFs, aiming to double their capacity to 20,000
+beds by end-June. This includes the CCFs we are setting up within some
+of the migrant worker dormitories so that workers with mild symptoms can
+be quickly isolated and monitored, with the medical posts deployed in
+the dormitories providing the necessary medical support.
+8.             We now have a capacity of over 2,000 beds in CRF sites,
+situated in several SAF camps. We have started to move some patients
+from CCF to CRF and will monitor their progress with a view to scaling
+up the CRF to accommodate more patients. We intend to ramp up our CRF
+capacity to more than 10,000 beds by end-June.
+9.             To ensure that there is available hospital capacity to
+care for COVID-19 patients, public hospitals have postponed non-urgent
+elective procedures. New capacity in isolation wards and intensive care
+units have been created by repurposing existing beds and hospital
+facilities, and acquiring additional medical equipment such as
+ventilators. In addition, public hospitals have established
+collaborations with private sector healthcare providers to provide
+further treatment capacity, and to help care for existing patients with
+chronic medical conditions. Private hospitals continue to support our
+public hospitals in attending to patients with less serious acute
+clinical conditions. Healthcare institutions have also started
+teleconsultation services for follow-up on their patients.
+AUGMENTING OUR HEALTHCARE WORKFORCE
+10.             This expansion of our medical facilities has to be
+supported by a healthcare workforce. We have taken a two-pronged
+approach: One, we have tapped on private sector healthcare
+professionals, retirees and volunteers; and two, we are making full use
+of technology as an enabler.
+11.             The Ministry of Health (MOH) has sought the support of
+healthcare professionals in the private sector, and encouraged them to
+join the newly launched SG Healthcare Corps. Since its launch on 7
+April, about 3,000 healthcare professionals across all job groups have
+signed up. MOH will be expanding the SG Healthcare Corps to include more
+healthcare professionals, as well as non-healthcare professionals. We
+are also re-deploying manpower from industries affected by COVID-19 to
+enable them to take on new roles in our hospitals. For example,
+Singapore Airlines (SIA) cabin crew are filling the role of care
+ambassadors. They provide administrative support and attend to patients,
+under the supervision of nursing staff.
+12.             We are also leveraging technology to deliver the same or
+enhanced outcomes with less time and effort. For instance,
+round-the-clock care in CCFs is made possible by the use of medical
+kiosks and teleconsultations. Devices such as pulse oximeters and health
+apps are used to monitor patient well-being.
+WHOLE-OF-SOCIETY EFFORT
+13.             We have been able to mobilise our medical facilities and
+provide such enhanced support within a very short time because of a
+Whole-of-Society effort, bringing together government agencies and the
+private sector.
 
-2        We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+-   For example, the CCF site at Singapore Expo was made possible
+    through the hard work of people across multiple organisations
+    including Temasek Holdings, Singapore Expo (as venue operator),
+    Surbana Jurong (to set up the facility), IHiS (tech enablement such
+    as care management, electronic medical records and vital signs
+    monitoring), Resorts World Sentosa (as managing agent), PSA (project
+    management), ST Engineering (tech solutions), Certis Cisco (to
+    provide security), Parkway Pantai, Woodlands Health Campus and the
+    Singapore Armed Forces (to provide the medical teams).
+-   Likewise, the CCF at Changi Exhibition Centre was set up and run by
+    MINDEF-affiliated organisations, along with partners such as Experia
+    Events (venue owner), Surbana Jurong (as design consultant), the
+    Defence Science and Technology Agency as well as DSO National
+    Laboratories (tech solution providers like temperature screening and
+    cleaning of PPEs), ST Engineering (to provide robots for food
+    delivery), Mandarin Oriental (managing agent) and Raffles Medical
+    Group (for medical care).
+
+
+
+14.             We appreciate the contributions of everyone who has
+worked round the clock to make all this happen, and who are continuing
+to serve in different roles in our national medical plan. Through their
+combined efforts, we are able to take care of all infected patients, and
+ensure we have sufficient healthcare capacity for the longer term.
+COVID-19 may be with us for a long time, and we must have sufficient
+capacity to care for everyone who is ill. The expanded healthcare
+facilities and manpower will put us on a strong footing as we plan ahead
+for the gradual relaxation of the circuit breaker measures.
+
+------------------------------------------------------------------------
+
+[1] As of 27 April 2020, 12pm.
