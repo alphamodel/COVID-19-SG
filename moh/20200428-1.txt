@@ -72,9 +72,9 @@ hospitals or community isolation facilities. In all, 1,128 have fully
 recovered from the infection and have been discharged from hospitals or
 community isolation facilities.
 
-9.    There are currently 1,889 confirmed cases who are still in
+9.    There are currently 1,689 confirmed cases who are still in
 hospital. Of these, most are stable or improving, and 21 are in critical
-condition in the intensive care unit. 11,920 are isolated and cared for
+condition in the intensive care unit. 12,120 are isolated and cared for
 at community facilities. These are those who have mild symptoms, or are
 clinically well but still test positive for COVID-19. 14 have passed
 away from complications due to COVID-19 infection.
