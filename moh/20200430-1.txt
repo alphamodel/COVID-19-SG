@@ -1,32 +1,90 @@
-Special Video Conference of Health Ministers of Asean and the United
-States On Covid-19
+56 More Cases Discharged, 528 New Cases of Covid-19 Infection Confirmed
 
 
 
-SPECIAL VIDEO CONFERENCE OF HEALTH MINISTERS OF ASEAN AND THE UNITED STATES ON COVID-19
+56 MORE CASES DISCHARGED, 528 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 30 Apr 2020
 
-               Minister for Health Mr Gan Kim Yong participated in the
-Special Video Conference of Health Ministers of ASEAN and the United
-States, held on 30 April 2020.
-2.           The Special Video Conference was convened by the Republic
-of Indonesia, in its capacity as the chair of the ASEAN Health Ministers
-Meeting, to enhance cooperation between ASEAN and the US on the response
-towards the COVID-19 pandemic. The attendees comprised Health Ministers
-from ASEAN Member States, US Secretary of Health and Human Services, and
-the ASEAN Secretary General.
-3.           Mr Gan shared on three areas where ASEAN and the US can
-expand cooperation to manage the pandemic, one of which is the conduct
-of joint research for the development of therapeutics and vaccines for
-COVID-19. This is the only way to shorten the crisis and until then,
-countries should continue to flatten the curve and keep infections low
-for as long as possible in order to ensure healthcare systems are not
-overwhelmed. Mr Gan also emphasised the importance of ensuring supply
-chain connectivity and minimising the impact on the welfare of peoples
-and societies.
-4.            Noting that the COVID-19 crisis will test our
-institutions, healthcare systems, standards of governance, social
-capital and resilience, Mr Gan highlighted the need for unity amongst
-the international community in the fight against COVID-19.
+1.     As of 30 April 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 528 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+
+a.  IMPORTED CASES: 0
+
+    There are no imported cases today.
+
+b.  CASES IN THE COMMUNITY: 9 (6 Singaporeans/Permanent Residents, 3
+    Work Passes)
+
+    The number of new cases in the community has decreased, from an
+    average of 25 cases per day in the week before, to an average of 14
+    per day in the past week. The number of unlinked cases in the
+    community has also decreased, from an average of 17 cases per day in
+    the week before, to an average of 7 per day in the past week.We will
+    continue to closely monitor these numbers, as well as the cases
+    detected through our surveillance programme.
+
+c.  WORK PERMIT HOLDERS (RESIDING OUTSIDE DORMITORIES): 31
+
+    There is an increase today in the number of new cases amongst Work
+    Permit holders residing outside dormitories. The vast majority of
+    these cases are workers in the construction sector serving their
+    Stay-Home Notice (SHN) requirements.  Based on weekly averages, the
+    number has decreased, from an average of 29 cases per day in the
+    week before, to an average of 19 per day in the past week.
+
+d.  WORK PERMIT HOLDERS (RESIDING IN DORMITORIES): 488
+
+The main increase today continues to be for Work Permit holders residing
+in dormitories, where we are picking up many more cases because of
+extensive testing. Most of these cases have a mild illness and are being
+monitored in the community isolation facilities or general ward of our
+hospitals. Three are in the intensive care unit (ICU) [1].
+
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+
+3.     Of the new cases, 85% are linked to known clusters, while the
+rest are pending contact tracing.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+4.     In the past week (23 April to 29 April), MOH has uncovered links
+for 1,066 previously unlinked cases.
+
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     56 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 1,244 have fully
+recovered from the infection and have been discharged from hospitals or
+community isolation facilities.
+
+7.     There are currently 1,708 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 22 are in critical
+condition in the intensive care unit. 13,202 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 15 have passed
+away from complications due to COVID-19 infection.
+
+8.     Case 703, a 58 year-old female Singapore Citizen, has passed away
+from complications due to COVID-19 infection on 30 April 2020. She was
+confirmed to have COVID-19 infection on 26 March. Ng Teng Fong General
+Hospital has reached out to her family and is extending assistance to
+them.
+
+MINISTRY OF HEALTH
+
+30 APRIL 2020
+
+------------------------------------------------------------------------
+
+[1] Two had been admitted to hospital on 18 April and 19 April
+respectively, and were transferred to the ICU when their condition had
+deteriorated. The other was admitted directly to the ICU, and was
+confirmed to have COVID-19 infection subsequently.
