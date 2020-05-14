@@ -1,9 +1,11 @@
-<HTML>
-<HEAD>
-<TITLE>Internal Server Error</TITLE>
-</HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
-<H1>Internal Server Error</H1>
-<H2>Error 500</H2>
-</BODY>
-</HTML>
+name,value
+总病例,25346
+单日新病例,675
+重症,19
+病情稳定,-
+治愈,4824
+境外输入,580
+本地感染,-
+感染源仍在调查中,-
+感染群总结,
+最后编辑时间,最后更新：5月14日9:48AM（截至5月13日卫生部文告）
