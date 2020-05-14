@@ -10,8 +10,7 @@ Published Date: 14 May 2020
 
 As of 14 May 2020, 12pm, the Ministry of Health (MOH) has confirmed and
 verified an additional 752 cases of COVID-19 infection in Singapore. The
-breakdown
-is as follows:
+breakdown is as follows:
 A) IMPORTED CASES: 0
 There are no imported cases today.
 B) CASES IN THE COMMUNITY: 2 (2 SINGAPOREANS/PERMANENT RESIDENTS)
@@ -44,8 +43,7 @@ workers.
 the
 summary of the confirmed cases.
 3. Of the new cases, 99% are linked to known clusters, while the rest
-are
-pending contact tracing.
+are pending contact tracing.
 LINKS BETWEEN PREVIOUS CASES FOUND
 4. In the past week (7 May to 13 May), MOH has uncovered links for 147
 previously unlinked cases.
