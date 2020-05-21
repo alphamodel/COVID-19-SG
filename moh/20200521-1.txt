@@ -1,23 +1,74 @@
-448 New Cases of Covid-19 Infection
+910 More Cases Discharged, 448 New Cases of Covid-19 Infection Confirmed
 
 
 
-448 NEW CASES OF COVID-19 INFECTION
+910 MORE CASES DISCHARGED, 448 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 21 May 2020
 
          As of 21 May 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 448 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. 13 cases are Singaporeans/ Permanent
-Residents. Of these, seven cases were picked up from our active
-surveillance and screening of nursing home residents and pre-school
-staff, and four are part of a family cluster linked to a dormitory.
-Epidemiological investigations are ongoing for the other two cases.
-2.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified an additional 448 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY[1]:__ 14 (13 Singaporeans/Permanent Residents,
+1 Work Permit holder)
+The number of new cases in the community has decreased, from an average
+of 7 cases per day in the week before, to an average of 6 per day in the
+past week. The number of unlinked cases in the community has remained
+stable at an average of 2 per day in the past two weeks. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+Of the 13 Singaporeans/ Permanent Residents cases, 7 cases were picked
+up as a result of our active surveillance and screening of nursing home
+residents and pre-school staff, and four are part of a family cluster
+linked to a dormitory. Epidemiological investigations are ongoing for
+the remaining two cases.
+C) CASES RESIDING IN DORMITORIES: 434
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+4.        MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to Natureland East
+Coast (907 East Coast Road), Wing Fong Court (10 Lorong 14 Geylang) and
+112 Neythal Road  for the past two incubation periods (i.e. 28 days),
+the clusters have now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.        In the past week (14 May to 20 May), MOH has uncovered links
+for 6 previously unlinked cases.
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      910 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 12,117 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.         There are currently 901 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 10 are in critical
+condition in the intensive care unit. 16,771 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 23 have passed
+away from complications due to COVID-19 infection.
+9.    Case 4689, a 73 year-old male Singapore Citizen, has passed away
+from complications due to COVID-19 infection on 21 May 2020. He was
+confirmed to have COVID-19 infection on 17 April, and had a history of
+hypertension, hyperlipidaemia and hypothyroidism. The National Centre
+for Infectious Diseases has reached out to his family and is extending
+assistance to them.
 MINISTRY OF HEALTH
 21 MAY 2020
+[1] Previously we had tracked the work permit holders living outside
+dormitories as a separate category, and put a large number of these
+workers on Stay Home Notices (SHN). The SHN for these workers has since
+expired. Hence we have now updated the definition of “Cases in the
+Community” to include all cases (including amongst Work Permit holders)
+who are detected outside of the dormitories.
 
