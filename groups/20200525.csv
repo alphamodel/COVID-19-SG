@@ -447,6 +447,7 @@ group,type,filterable,filter_desc,section,date,initial_count,coordinates,close_d
 19.81,家人,,,,,,,,
 19.3,密切接触,,,,,,,,
 19,神召会恩典堂,,不止一名病例曾去过神召会恩典堂（Grace Assembly of God）位于东陵和武吉巴督的教堂。,社区,2020-2-12,2,"1.2943057,103.8163859",,the Grace Assembly of God
+18.998155,接触者,,,,,,,,
 18.998141,接触者,,,,,,,,
 18.998137,接触者,,,,,,,,
 18.9981345,接触者,,,,,,,,
@@ -456,6 +457,7 @@ group,type,filterable,filter_desc,section,date,initial_count,coordinates,close_d
 18.998108,接触者,,,,,,,,
 18.998104,家人及接触者,,,,,,,,
 18.998103,家人及接触者,,,,,,,,
+18.9981025,接触者,,,,,,,,
 18.998102,家人,,,,,,,,
 18.998098,家人,,,,,,,,
 18.9980975,接触者,,,,,,,,
