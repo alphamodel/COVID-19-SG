@@ -7,7 +7,7 @@
 
 Published Date: 26 May 2020
 
-         As of 26 May 2020, 12pm, the Ministry of Health (MOH) has
+       As of 26 May 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 383 cases of COVID-19 infection in
 Singapore. The lower number of cases today is partly due to fewer tests
 being conducted. The breakdown is as follows:
@@ -28,23 +28,23 @@ We continue to pick up many cases amongst Work Permit holders residing
 in dormitories, including in factory-converted dormitories, because of
 extensive testing in these premises, as part of our process to verify
 and test the status of all workers.
-2.  Details of these trends can be found in MOH’s daily situation Report
+2. Details of these trends can be found in MOH’s daily situation Report
 (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
 the summary of the confirmed cases.
-3.     Of the new cases, 99% are linked to known clusters, while the
-rest are pending contact tracing.
+3.    Of the new cases, 99% are linked to known clusters, while the rest
+are pending contact tracing.
 LINKS BETWEEN PREVIOUS CASES FOUND
-4.      In the past week (19 May to 25 May), MOH has uncovered links for
-3 previously unlinked cases.
-5.     Further epidemiological investigations and contact tracing have
+4.   In the past week (19 May to 25 May), MOH has uncovered links for 3
+previously unlinked cases.
+5.  Further epidemiological investigations and contact tracing have
 uncovered links between previously announced and new cases. Please refer
 to Annex B and Annex C for details.
 UPDATE ON CONDITION OF CONFIRMED CASES
-6.     706 more cases of COVID-19 infection have been discharged from
+6.   706 more cases of COVID-19 infection have been discharged from
 hospitals or community isolation facilities. In all, 16,444 have fully
 recovered from the infection and have been discharged from hospitals or
 community care facilities.
-7.        There are currently 585 confirmed cases who are still in
+7.     There are currently 585 confirmed cases who are still in
 hospital. Of these, most are stable or improving, and 8 are in critical
 condition in the intensive care unit. 15,291 are isolated and cared for
 at community facilities. These are those who have mild symptoms, or are
