@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="FntwjkgSTLOoPWD4dqNQOA6V2MmliioeXfKsV6CA3RIurV7Na7KlD5ELPKY8WNHlc1S+BEhb0Nxh/1ppEnLl9Q+Ap1xU2yLcWqMyzRrgtBM=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZlGQECFfC0JIOvgdap2IQRV78Kw8HGgUNbNf6eV1g3hXVe95ZovaUBCSLmv6uJ+fpdvXImJnFZJhuCaBri5zhd+29vfNMbjNMzfCbZoUTJU=" />
 </div>
 
 <script type="text/javascript">
@@ -486,35 +486,72 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="container">
 <div class="row"><div class="col-md-12"><h4>Ministry of Health</h4></div></div>
 <div class="row">
-<div class="col-md-7">
+<div class="col-md-9">
 <ul class="footer__links">
 <li>Public
 <ul>
-<li> <a href="/news-highlights">News Highlights</a></li>
-<li> <a href="/cost-financing/healthcare-schemes-subsidies">Schemes &amp; Subsidies</a></li>
-<li> <a title="" href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/healthcare-professionals-search" target="">Healthcare Locator</a></li>
-<li> <a href="/resources-statistics/infectious-disease-statistics/2020/weekly-infectious-diseases-bulletin">Disease Updates</a></li>
-<li> <a href="/resources-statistics">Resources &amp; Statistics</a></li>
-<li> <a title="" href="https://www.healthhub.sg/myhealth#ChildrenHealth" target="">My Health Record</a></li>
+<li><a href="/news-highlights">News Highlights</a>
+</li>
+<li><a href="/cost-financing/healthcare-schemes-subsidies">Schemes &amp; Subsidies</a>
+<ul><li><a href="https://www.moh.gov.sg/cost-financing/fee-benchmarks-and-bill-amount-information">Fee Benchmarks and Bill Amount Information</a></li></ul>
+</li>
+<li><a href="http://hcidirectory.sg/hcidirectory/ ">Healthcare Locator</a>
+<ul>
+<li><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/healthcare-professionals-search ">Search for Healthcare Professionals </a></li>
+<li><a href="https://www.moh.gov.sg/suspensions-revocations-from-healthcare-financing-schemes ">Suspensions/Revocations from Healthcare Financing Schemes</a></li>
+<li><a href="https://www.moh.gov.sg/enforcement-actions-for-breaches-of-regulatory-requirements ">Enforcement Actions for Breaches of Regulatory Requirements</a></li>
 </ul>
 </li>
+<li><a href="https://www.moh.gov.sg/diseases-updates/being-prepared-for-a-pandemic ">Disease Updates</a>
+<ul>
+<li><a href="https://www.moh.gov.sg/resources-statistics/infectious-disease-statistics/2020/weekly-infectious-diseases-bulletin">Weekly Infectious Diseases Bulletin </a></li>
+<li><a href="https://www.moh.gov.sg/diseases-updates">Overview of Diseases </a></li>
+</ul>
+</li>
+<li><a href="/resources-statistics">Resources &amp; Statistics</a>
+<ul>
+<li><a href="https://www.moh.gov.sg/e-consultation">E-Consultation</a></li>
+<li><a href="https://www.moh.gov.sg/research-grants">Research Grants</a></li>
+</ul>
+</li>
+<li><a href="https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%3A%2F%2Fhealth1.auth.sg%2Foam%2Ffed%26Target%3Dhttp%253A%252F%252Feservices.healthhub.sg%252Fidp%252F%253Fs%253Dappointments%2526target%253D%252FAppointments%252FProfiles%253Frel%253Dself%2526ssaf%253D0%26NameIdFormat%3Demail%26esrvcID%3DHPB-HH-SP&amp;TAM_OP=login ">My Health Record</a>
+<ul>
+<li><a href="https://www.healthhub.sg/myhealth#ChildrenHealth">Children's Health</a></li>
+<li><a href="https://www.healthhub.sg/myhealth#PersonalHealth">Personal Health</a></li>
+</ul>
+</li>
+</ul>
+</li>
+
 <li>Healthcare Professionals
 <ul>
-<li> <a href="/licensing-and-regulation">Licensing &amp; Regulation</a></li>
-<li> <a title="" href="https://www.moh.gov.sg/hpp/all-healthcare-professionals" target="">Healthcare Professionals Portal</a></li>
-<li> <a href="/policies-and-legislation">Policies &amp; Guidelines</a></li>
+<li><a href="/licensing-and-regulation/regulations-guidelines-and-circulars">Licensing &amp; Regulation</a></li><li><a href="/hpp/all-healthcare-professionals">Healthcare Professionals Portal</a>
+<ul>
+<li><a href="https://www.moh.gov.sg/hpp/dentists">Dentist </a></li>
+<li><a href="https://www.moh.gov.sg/hpp/tcm-practitioners">TCM Practitioner</a></li>
+<li><a href="https://www.moh.gov.sg/hpp/pharmacists">Pharmacist</a></li>
+<li><a href="https://www.moh.gov.sg/hpp/allied-health-professionals">Allied Health Professionals</a></li>
+<li><a href="https://www.moh.gov.sg/hpp/nurses">Nurse</a></li>
+<li><a href="https://www.moh.gov.sg/hpp/doctors ">Doctor</a></li>
+</ul>
+</li>
+<li><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/guidelines ">Policies &amp; Guidelines</a>
+<ul>
+<li><a href="https://www.moh.gov.sg/policies-and-legislation">Legislation</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Who We Are
 <ul>
-<li> <a href="/about-moh">About MOH</a></li>
-<li> <a href="/home/our-healthcare-system">Our Healthcare System</a></li>
-<li> <a href="/about-moh/senior-management">Senior Management</a></li>
+<li><a href="/about-moh">About MOH</a></li>
+<li><a href="/home/our-healthcare-system">Our Healthcare System</a></li>
+<li><a href="https://www.moh.gov.sg/about-moh/senior-management ">Senior Management</a></li>
 </ul>
 </li>
 </ul>
 </div>
-<div class="col-md-5">
+<div class="col-md-3">
 <ul class="footer__social-links">
 <li> <a href="https://www.facebook.com/sghealthministry/" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-facebook-alt" aria-hidden="true"></i><span style="display:none">facebook</span></a></li>
 <li> <a href="https://twitter.com/sporemoh?lang=en" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-twitter" aria-hidden="true"></i><span style="display:none">twitter</span></a></li>
@@ -527,9 +564,7 @@ Sys.Application._enableHistoryInScriptManager();
 <ul class="footer__right-links">
 <li> <a href="/forms">Forms</a></li>
 <li> <a href="/contact-us">Contact Us</a></li>
-<li> <a title="" href="https://crms.moh.gov.sg/mohfeedback.aspx" target="_blank">Feedback</a></li>
-<li><a href="https://www.jusfeedback.asia/Community/se/705E3ECB2B7C0A8E?Agency=MOH&amp;Svc=MOH%20Wesbite&amp;eLnk=www.moh.gov.sg&amp;Cat=Citizen" target="_blank">Rate this Website</a></li>
-<li><a href="https://www.reach.gov.sg/" target="_blank">REACH</a></li>
+<li> <a href="https://crms.moh.gov.sg/mohfeedback.aspx" target="_blank">Feedback</a></li>
 </ul>
 </div>
 </div>
@@ -549,9 +584,8 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="col-md-5">
 <ul class="footer__right">
 <li class="footer__copyright">© 2019 Government of Singapore</li>
-<li class="footer__lastupdated last-updated">Last Updated 01 Nov 2019</li>
+<li class="footer__lastupdated last-updated">Last Updated DD MM YYYY</li>
 </ul>
-<style>.tags {padding-bottom:3rem;}</style>
 </div>
 </div>
 </div>
