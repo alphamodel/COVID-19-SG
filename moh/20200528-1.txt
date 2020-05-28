@@ -1,83 +1,69 @@
-Revised Discharge Criteria for Covid-19 Patients
+1,018 More Cases Discharged; 373 New Cases of Covid-19 Infection
+Confirmed
 
 
 
-REVISED DISCHARGE CRITERIA FOR COVID-19 PATIENTS
+1,018 MORE CASES DISCHARGED; 373 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 28 May 2020
 
-       The Multi-Ministry Taskforce has studied and evaluated the latest
-local and international clinical and scientific evidence which show that
-viable virus was not found in COVID-19 patients after the second week of
-illness despite the persistence of polymerase chain reaction (PCR)
-detection of ribonucleic acid (RNA). This means that COVID-19 patients
-are not likely to be infectious after Day 14 of illness and are not
-infectious by Day 21 of illness.
-2.        The Taskforce will therefore revise the discharge criteria for
-COVID-19 patients in Singapore. With immediate effect, all COVID-19
-patients who are assessed to be clinically well by Day 21 of onset of
-illness can be discharged without the need for further PCR tests. This
-revised approach will allow recovered patients who are well and no
-longer infectious to return to the community in a timely manner.
-SCIENTIFIC EVIDENCE STRONGLY SUPPORTS TIME-BASED DISCHARGE
-3.        There is consensus amongst infectious diseases experts based
-on the clinical data presented locally and internationally that the risk
-of secondary transmission of COVID-19 is unlikely by Day 14 of onset of
-illness [1] . COVID-19 patients are usually most infectious one to two
-days before the onset of symptoms and the infectivity declines
-thereafter. After Day 14, while PCR tests may pick up minute fragments
-of the COVID-19 virus RNA, these RNA fragments are no longer
-transmissible and infective to others and the virus is no longer viable.
-This means the patient is no longer infectious beyond this period.
-4.        This is corroborated by local research. The recent position
-statement on the period of infectivity by the National Centre for
-Infectious Diseases and the Chapter of Infectious Disease Physicians,
-Academy of Medicine, Singapore, noted that viable COVID-19 virus was not
-found after the second week of illness despite the persistence of PCR
-detection of RNA. Local and international clinical observations
-therefore support the discharge of well patients after Day 14 from the
-onset of illness.
-5.      Internationally, various countries that adopt or recommend a
-time-based discharge policy include the South Korea, United Kingdom,
-United States, Estonia and Ireland. These countries have typically
-discharged patients after a range of seven to 14 days from onset of
-symptoms. South Korea discharges asymptomatic patients from isolation
-after three weeks from date of confirmation. More recently, on 27 May
-2020, the World Health Organization (WHO) has also recommended a
-time-based discharge criteria. WHO recommends that patients who are
-clinically well can now be discharged after 10 days from the onset of
-illness, plus at least three days without respiratory symptoms or fever.
-EXTRA PRECAUTION OF DISCHARGE AFTER DAY 21
-6.      The majority of COVID-19 patients in Singapore have mild or no
-symptoms, and the majority are admitted to a community care facility
-where most recover with minimal intervention. Those with higher risk or
-more serious conditions requiring close medical care are admitted to
-hospitals. Patients will remain isolated in a community facility until
-after 21 days.
-7.       While clinical evidence has shown that patients are generally
-non-infectious from Day 14 of illness, we will continue to isolate all
-patients until Day 21 of onset of illness as an extra precaution. All
-COVID-19 patients who are assessed to be clinically well after 21 days
-from the onset of illness can be discharged from isolation without the
-need for further tests, but they will be given leave to remain at home
-(or place of residence like dormitories) for a further 7 days to rest
-and recover. After Day 28, these recovered individuals can return to
-work.
-8.     This revised discharge criteria will not be applied to patients
-who have a history of being immunocompromised. Such patients will still
-require two negative PCR tests before discharge, as they may still
-continue to shed viable virus for prolonged period because of their
-impaired immunity.
-9.     The Multi-Ministry Taskforce will continue to review the latest
-evidence with medical experts as the situation evolves, and make
-evidence-based adjustments to Singapore’s medical plan for COVID-19
-patients, to ensure the wellbeing of all patients.
-MINISTRY OF HEALTH
-28 MAY 2020
+                As of 28 May 2020, 12pm, the Ministry of Health (MOH)
+has confirmed and verified an additional 373 cases of COVID-19 infection
+in Singapore. The breakdown is as follows:
+  A) IMPORTED CASES: 0
+There are no imported cases today.
+  B) CASES IN THE COMMUNITY: 1 (1 Work Pass holder)
+The number of new cases in the community has decreased, from an average
+of 6 cases per day in the week before, to an average of 5 per day in the
+past week. The number of unlinked cases in the community has remained
+stable at an average of 2 per day in the past two weeks. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+Today’s community case was picked up through our active screening of
+preschool staff, and was asymptomatic. MOH will conduct a serological
+test to determine if this was a past or current infection.
+  C) CASES RESIDING IN DORMITORIES: 372
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.             Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+3.             Of the new cases, 99% are linked to known clusters, while
+the rest are pending contact tracing.
+4.             More than 39,000 preschool staff[1] have so far been
+tested as part of our proactive screening. Of these, 13 staff had tested
+positive using the polymerase chain reaction (PCR) test, which is a
+sensitive test that could pick up minute fragments of the COVID-19 virus
+ribonucleic acid (RNA). To determine if these were past or current
+infections, MOH has done an epidemiological study of these cases. Of the
+13 cases, 11 of their serological tests have come back positive, which
+is indicative of past infections. These individuals were unlikely to be
+infectious by the time they were tested during the recent screening, but
+could be shedding minute fragments of the virus RNA, which were no
+longer transmissible and infective to others. Two test results are
+pending, including today’s case.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.             In the past week (21 May to 27 May), MOH has uncovered
+links for 2 previously unlinked cases.
+6.             Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.             1,018 more cases of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all,
+18,294 have fully recovered from the infection and have been discharged
+from hospitals or community care facilities.
+8.             There are currently 510 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 7 are in critical
+condition in the intensive care unit. 14,422 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 23 have passed
+away from complications due to COVID-19 infection.
 
-[1] In clinical practice, the onset of illness is defined as the date
-when the symptoms are reported by symptomatic patients or the date of
-first positive polymerase chain reaction (PCR) test or seven days before
-first positive serology test for asymptomatic patients.
+------------------------------------------------------------------------
 
+[1] Includes ECDA’s preschools, MOE kindergartens and pre-school
+sections in private education institutes.
