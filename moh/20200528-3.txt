@@ -1,86 +1,83 @@
-Roadmap Ahead to Phase Two
+Revised Discharge Criteria for Covid-19 Patients
 
 
 
-ROADMAP AHEAD TO PHASE TWO
+REVISED DISCHARGE CRITERIA FOR COVID-19 PATIENTS
 
 
 Published Date: 28 May 2020
 
-      Singapore will be exiting the Circuit Breaker and embarking on
-Phase One of re-opening on 2 June 2020. We expect more than three
-quarters of the economy to resume operations by then. The Multi-Ministry
-Taskforce will carefully monitor the effects of increased activity in
-this phase. If the community infection rates remain low and stable over
-the subsequent two weeks, we can decide by the middle of June to proceed
-with Phase Two, which could then happen before the end of June.
-PLANS FOR PHASE TWO
-2.     Phase Two will entail the resumption of a broader range of
-activities. We expect almost the entire economy to re-open, subject to
-safe management measures being in place. This broader re-opening will
-see the resumption of the following:
-3.       RETAIL, F&B, AND OTHER SERVICES. Most business activities will
-be allowed to resume operations in Phase Two, subject to safe management
-measures, group size and capacity limits being met. These businesses
-include retail, food and beverage dine-in, personal health and wellness,
-as well as home-based services. Sports and other public facilities, e.g.
-stadia, swimming pools, will be opened too. Further details on
-sector-specific safe management measures will be provided by relevant
-agencies closer to the start of Phase Two.
-4.    We will adopt a more cautious approach for higher-risk activities.
-These typically involve large numbers of people interacting with one
-another, often in enclosed spaces, and for prolonged periods of time.
-Overseas and local experience has indicated that these settings can seed
-large clusters of infected persons. Such activities include:
-a. Religious services and congregations;
-b. Cultural venues such as art galleries, libraries and museums;
-c. Large-scale events and venues, such as conferences, exhibitions,
-concerts and trade fairs; and
-d. Entertainment venues such as bars, nightclubs, karaoke outlets,
-cinemas, theatres, and other indoor and outdoor attractions.
-5.      For such activities, the relevant government agencies will be
-engaging businesses and organisations on how they might resume safely,
-with the necessary safe management measures and safeguards needed.
-Subject to the appropriate measures being in place, we will discuss with
-these entities the timing of when they can resume activities in Phase
-Two.
-6.   SOCIAL INTERACTIONS AND FAMILY VISITS. Under Phase Two, masks will
-remain compulsory whenever outside one’s home. Small-group social
-gatherings of up to five persons will be allowed. Within the home,
-households may receive up to five visitors per day.
-7.     As seniors are especially vulnerable, they should continue to
-exercise extra caution and stay at home as much as possible. We
-recognise that this can be challenging, especially for seniors with care
-and/or psychosocial needs. To better support them and their caregivers,
-more senior services and programmes (e.g. senior care centres) will
-resume with the appropriate safe management measures in place. Some
-face-to-face social services for other vulnerable groups will resume
-with safe management measures.
-8.     SCHOOLS. As announced on 19 May 2020, schools will fully re-open
-from end June, while Institutes of Higher Learning will gradually
-increase the number of students back on campus at any one time for
-face-to-face learning.
-9.      We have provided a broad overview of the timeline leading up to
-Phase Two and the likely easing of measures that will take place.
-Depending on the COVID-19 situation and our risk assessment, we will
-continue to ease measures (e.g. on the size of gatherings) gradually
-until we reach a new normal in Phase Three, a state in which we expect
-to remain until an effective vaccine or treatment for COVID-19 is
-developed.
-SOCIAL RESPONSIBILITY IS KEY
-10.   Phase Two is a significant step in transiting to a new COVID-safe
-normal. As restrictions are eased, it becomes even more critical that
-each of us exercises social responsibility to ensure that community
-transmission remains low as we resume more activities. As we have seen
-both locally and overseas, it takes only a single person acting
-irresponsibly to cause a cluster. We need everyone to play their part,
-observe good personal hygiene, adhere to safe management measures, and
-avoid crowded places. Employers and employees will need to continue
-implementing safe management measures and act in a responsible manner at
-all times.
-11.    We can look forward to moving to Phase Two and beyond if each of
-us plays our part. Together, we can and we must achieve a COVID-safe
-Singapore.
+       The Multi-Ministry Taskforce has studied and evaluated the latest
+local and international clinical and scientific evidence which show that
+viable virus was not found in COVID-19 patients after the second week of
+illness despite the persistence of polymerase chain reaction (PCR)
+detection of ribonucleic acid (RNA). This means that COVID-19 patients
+are not likely to be infectious after Day 14 of illness and are not
+infectious by Day 21 of illness.
+2.        The Taskforce will therefore revise the discharge criteria for
+COVID-19 patients in Singapore. With immediate effect, all COVID-19
+patients who are assessed to be clinically well by Day 21 of onset of
+illness can be discharged without the need for further PCR tests. This
+revised approach will allow recovered patients who are well and no
+longer infectious to return to the community in a timely manner.
+SCIENTIFIC EVIDENCE STRONGLY SUPPORTS TIME-BASED DISCHARGE
+3.        There is consensus amongst infectious diseases experts based
+on the clinical data presented locally and internationally that the risk
+of secondary transmission of COVID-19 is unlikely by Day 14 of onset of
+illness [1] . COVID-19 patients are usually most infectious one to two
+days before the onset of symptoms and the infectivity declines
+thereafter. After Day 14, while PCR tests may pick up minute fragments
+of the COVID-19 virus RNA, these RNA fragments are no longer
+transmissible and infective to others and the virus is no longer viable.
+This means the patient is no longer infectious beyond this period.
+4.        This is corroborated by local research. The recent position
+statement on the period of infectivity by the National Centre for
+Infectious Diseases and the Chapter of Infectious Disease Physicians,
+Academy of Medicine, Singapore, noted that viable COVID-19 virus was not
+found after the second week of illness despite the persistence of PCR
+detection of RNA. Local and international clinical observations
+therefore support the discharge of well patients after Day 14 from the
+onset of illness.
+5.      Internationally, various countries that adopt or recommend a
+time-based discharge policy include the South Korea, United Kingdom,
+United States, Estonia and Ireland. These countries have typically
+discharged patients after a range of seven to 14 days from onset of
+symptoms. South Korea discharges asymptomatic patients from isolation
+after three weeks from date of confirmation. More recently, on 27 May
+2020, the World Health Organization (WHO) has also recommended a
+time-based discharge criteria. WHO recommends that patients who are
+clinically well can now be discharged after 10 days from the onset of
+illness, plus at least three days without respiratory symptoms or fever.
+EXTRA PRECAUTION OF DISCHARGE AFTER DAY 21
+6.      The majority of COVID-19 patients in Singapore have mild or no
+symptoms, and the majority are admitted to a community care facility
+where most recover with minimal intervention. Those with higher risk or
+more serious conditions requiring close medical care are admitted to
+hospitals. Patients will remain isolated in a community facility until
+after 21 days.
+7.       While clinical evidence has shown that patients are generally
+non-infectious from Day 14 of illness, we will continue to isolate all
+patients until Day 21 of onset of illness as an extra precaution. All
+COVID-19 patients who are assessed to be clinically well after 21 days
+from the onset of illness can be discharged from isolation without the
+need for further tests, but they will be given leave to remain at home
+(or place of residence like dormitories) for a further 7 days to rest
+and recover. After Day 28, these recovered individuals can return to
+work.
+8.     This revised discharge criteria will not be applied to patients
+who have a history of being immunocompromised. Such patients will still
+require two negative PCR tests before discharge, as they may still
+continue to shed viable virus for prolonged period because of their
+impaired immunity.
+9.     The Multi-Ministry Taskforce will continue to review the latest
+evidence with medical experts as the situation evolves, and make
+evidence-based adjustments to Singapore’s medical plan for COVID-19
+patients, to ensure the wellbeing of all patients.
 MINISTRY OF HEALTH
 28 MAY 2020
+
+[1] In clinical practice, the onset of illness is defined as the date
+when the symptoms are reported by symptomatic patients or the date of
+first positive polymerase chain reaction (PCR) test or seven days before
+first positive serology test for asymptomatic patients.
 
