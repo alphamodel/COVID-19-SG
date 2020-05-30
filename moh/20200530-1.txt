@@ -1,23 +1,69 @@
-506 New Cases of Covid-19 Infection
+1,096 More Cases Discharged, 506 New Cases of Covid-19 Infection
+Confirmed
 
 
 
-506 NEW CASES OF COVID-19 INFECTION
+1,096 MORE CASES DISCHARGED, 506 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 30 May 2020
 
-          As of 30 May 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 506 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are five cases in the community, of whom two are Singaporeans/Permanent
-Residents and three are Work Pass holders.
-
-2.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+         As of 30 May 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 506 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 5 (2 Singaporeans/Permanent Residents, 1 Work
+Pass holder, 2 Work Permit holders)
+Amongst the 2 SC/PR cases today, 1 is a non-teaching preschool staff who
+was picked up as a result of our proactive screening to prepare for the
+phased reopening of preschools. MOH will conduct a serological test to
+determine if this was a past or current infection. The other case is
+currently unlinked.
+Amongst the 3 Work Pass and Work Permit holders, 1 was a contact of
+previous confirmed cases, and had already been placed on quarantine
+earlier. Another was tested before he was due to start work on a
+plumbing project at a preschool. Epidemiological investigations are
+ongoing for the remaining case.
+Overall, the number of new cases in the community has decreased, from an
+average of 7 cases per day in the week before, to an average of 4 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 501
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+4.        MOH has looked into the cases of three Prisons inmates (Cases
+8650, 11178 and 23195) and one staff nurse from Singapore Prison
+Service’s medical service provider (Case 11927) who had earlier tested
+positive for COVID-19. We have established that they were not
+epidemiologically linked to one another, and did not constitute a
+cluster. The cases had been included earlier in our daily updates on new
+COVID cases.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.      In the past week (23 May to 29 May), MOH has uncovered links for
+1 previously unlinked case.
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      1,096 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 20,727 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.       There are currently 374 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 7 are in critical
+condition in the intensive care unit. 13,242 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 23 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 30 MAY 2020
-
-
