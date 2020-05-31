@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         r=o.createElement('script');r.async=1;
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script><script type="text/javascript" src="https://assets.wogaa.sg/scripts/wogaa.js"></script><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nOwcRLA17O-loIxGAkl8OyYLM-olt2c7iHH0AuOhkOXnq_qArjrniyUOx-64p6X6TtWl5rR1ZK5Xr_1XvA0lVJ3rFXYihh-0F88wbvBgOcyR0&amp;t=637139978801333078&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.2.6653.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3afb750197-2019-436f-a24b-69c5ccbcfa14%3a7a90d6a" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/foundation.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/jquery-ui.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick-theme.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/magnific-popup.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/line-awesome-font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/style.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/navbar.min.css" type="text/css" rel="stylesheet" /><style type="text/css" media="all">.tooltip{
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script><script type="text/javascript" src="https://assets.wogaa.sg/scripts/wogaa.js"></script><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nOwcRLA17O-loIxGAkl8OyYLM-olt2c7iHH0AuOhkOXnq_qArjrniyUOx-64p6X6TtWl5rR1ZK5Xr_1XvA0lVJ3rFXYihh-0F88wbvBgOcyR0&amp;t=637208893339610771&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.2.6653.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3afb750197-2019-436f-a24b-69c5ccbcfa14%3a7a90d6a" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/foundation.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/jquery-ui.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick-theme.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/magnific-popup.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/line-awesome-font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/style.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/navbar.min.css" type="text/css" rel="stylesheet" /><style type="text/css" media="all">.tooltip{
    position:absolute !important; 
 }
 
@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="6tPJaGLdFYPLRzhI+SiRSRuT5gaqcKbAXzGrRPChlIbEfa5U0ovUkNJ7e//7KbtFnON/d3BPVyQl7PtDd70D6voslgFl4SstLNmsEJjk994=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Gw+4wRQom+1TGdxKuORbsFGgdXufkbsrBXAOXlUSnYv1JKRZpzZhBbKZwwXwFI7putMq1NPtexV2/cA1y0l35E1Xhf6OE4b7+Shzt26a09k=" />
 </div>
 
 <script type="text/javascript">
@@ -422,14 +422,14 @@ Sys.Application._enableHistoryInScriptManager();
             </div>
         </div>
     </div>
-</div><div class='sfContentBlock'><div class="alert alert-warning alert-dismissible" style="margin-bottom:0px">
-    <div class="container">
-        <a style="transform:translateY(40%)" href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
-        <p style="margin-bottom:0"><span style="font-family: Arial; font-size: 16px;">We are aware of scam calls impersonating MOH officers. When in doubt, please verify the authenticity of phone calls by calling <strong><span style="text-decoration: underline;">MOH hotline at 1800-333-9999</span></strong>.</span></p>
+</div>
+    <div class="alert alert-warning alert-dismissible" style="margin-bottom:0px">
+        <div class="container">
+            <a style="transform:translateY(40%)" href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+            <p style="margin-bottom:0">We are aware of scam calls impersonating MOH officers. When in doubt, please verify the authenticity of phone calls by calling <strong><span style="text-decoration: underline;">MOH hotline at 1800-333-9999</span></strong>.</p>
+        </div>
     </div>
-</div>
 
-</div>
 
 
 
