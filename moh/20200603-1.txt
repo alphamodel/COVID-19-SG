@@ -1,23 +1,97 @@
-569 New Cases of Covid-19 Infection
+407 More Cases Discharged, 569 New Cases of Covid-19 Infection Confirmed
 
 
 
-569 NEW CASES OF COVID-19 INFECTION
+407 MORE CASES DISCHARGED, 569 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 03 Jun 2020
 
-    As of 3 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 569 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are seven cases in the community, of whom one is a Singaporean/Permanent
-Resident and six are Work Pass holders.
+    As of 3 June 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 569 cases of COVID-19 infection in Singapore.
+The breakdown is as follows:
 
-2.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+A) IMPORTED CASES: 0
+
+There are no imported cases today.
+
+B) CASES IN THE COMMUNITY: 7 (1 Singaporean/Permanent Resident, 3 Work
+Pass holders, 3 Work Permit holders)
+
+Epidemiological investigations are ongoing for the Singaporean/Permanent
+Resident case, which is currently unlinked.
+
+All 6 Work Pass and Work Permit holders had been identified as contacts
+of previously confirmed cases, and had already been placed on quarantine
+earlier.
+
+Overall, the number of new cases in the community has decreased, from an
+average of 6 cases per day in the week before, to an average of 4 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+
+C) CASES RESIDING IN DORMITORIES: 562
+
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+
+3.   Of the new cases, 99% are linked to known clusters, while the rest
+are pending contact tracing.
+
+4.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the dormitory
+at 1 North Coast Drive for the past two incubation periods (i.e. 28
+days), the cluster has now been closed.
+
+5.   We had previously informed that of the preschool staff who have
+been proactively screened so far, 14 had tested positive using the
+polymerase chain reaction (PCR) test. Of these, 12 were likely to be
+past infections, based on epidemiological investigations, including
+their positive serological test results [1]. One more serological test
+has come back positive today, indicating a likely past infection. In
+all, more than 39,000 preschool staff [2] have been tested, and only one
+case was likely to be a current infection at the point of screening, as
+announced on 29 May.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+6.   In the past week (27 May to 2 June), MOH has uncovered links for 7
+previously unlinked cases.
+
+7.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+8.     407 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 23,582 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+9.     There are currently 334 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 5 are in critical
+condition in the intensive care unit. 12,465 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 24 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 3 JUNE 2020
+
+==
+[1] Cases whose serological tests are positive are likely have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
+[2] Includes ECDA’s preschools, MOE kindergartens and pre-school
+sections in private education institutes.
 
