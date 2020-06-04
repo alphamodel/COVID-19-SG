@@ -1,23 +1,77 @@
-517 New Cases of Covid-19 Infection
+322 More Cases Discharged, 517 New Cases of Covid-19 Infection Confirmed
 
 
 
-517 NEW CASES OF COVID-19 INFECTION
+322 MORE CASES DISCHARGED, 517 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 04 Jun 2020
 
-1. As of 4 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 517 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 15 cases in the community, of whom two are Singaporeans/Permanent
-Residents and 13 are Work Pass holders. All 15 cases were close contacts
-of earlier confirmed cases, and have already been placed on quarantine.
-They are all asymptomatic, but we had swabbed them to confirm and verify
-their status.
-2. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+1. As of 4 June 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 517 cases of COVID-19 infection in Singapore.
+The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 15 (2 Permanent Residents, 6 Work Pass
+holders, 7 Work Permit holders)
+All 15 cases were close contacts of earlier confirmed cases, and have
+already been placed on quarantine. They are all asymptomatic, but we had
+swabbed them to confirm and verify their status during quarantine.
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if these are current or past infections.¹
+Of the 15 cases, 13 (including 1 Permanent Resident) reside in a
+shophouse at Veerasamy Road with an earlier confirmed case (Case 33273).
+Amongst them, 3 have positive serological test results, which is
+indicative of past infections. 8 serological tests have come back
+negative, and 2 results are pending.
+The remaining Work Pass holder was a housemate of an earlier confirmed
+case (Case 33599) at Bendemeer Road, and has been quarantined at a
+government quarantine facility since 30 May. His serological test has
+come back positive, which is indicative of a past infection.
+The remaining Permanent Resident case is a household contact of
+previously confirmed cases (Cases 21538 and 29273), and has been placed
+on quarantine since 7 May. Epidemiological investigations are ongoing to
+determine if this is a past infection.
+Overall, the number of new cases in the community has increased, from an
+average of 5 cases per day in the week before, to an average of 6 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 502
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 99% are linked to known clusters, while the rest
+are pending contact tracing.
+4. MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the dormitory
+at 3 Buroh Lane for the past two incubation periods (i.e. 28 days), the
+cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5. In the past week (28 May to 3 June), MOH has uncovered links for 5
+previously unlinked cases.
+6. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7. 322 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 23,904 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8. There are currently 303 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 5 are in critical condition in
+the intensive care unit. 12,691 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 24 have passed away from
+complications due to COVID-19 infection.
+[1] Cases whose serological tests are positive are likely have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 MINISTRY OF HEALTH
 4 JUNE 2020
