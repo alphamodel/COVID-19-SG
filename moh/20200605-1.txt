@@ -37,9 +37,9 @@ Epidemiological investigations are ongoing for the remaining case.
 
 Besides the polymerase chain reaction (PCR) test, we also conducted
 serological tests to determine if some of these cases are current or
-past infections.  The serological test results of 3 cases (Cases 36970,
-36971 and 36973) have come back positive, which indicate likely past
-infections. Results are pending for the rest.
+past infections. [1] The serological test results of 3 cases (Cases
+36970, 36971 and 36973) have come back positive, which indicate likely
+past infections. Results are pending for the rest.
 
 Overall, the number of new cases in the community has increased, from an
 average of 5 cases per day in the week before, to an average of 6 per
@@ -98,3 +98,7 @@ away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 5 JUNE 2020
+[1] Cases whose serological tests are positive are likely have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
