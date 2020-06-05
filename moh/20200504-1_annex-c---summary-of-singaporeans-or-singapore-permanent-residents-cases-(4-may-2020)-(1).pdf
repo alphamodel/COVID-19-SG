@@ -5,18 +5,18 @@
 <html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
 <head><title>
 	MOH | Not seeing the page you want?
-</title><meta charset="utf-8" /><meta http-equiv="x-ua-compatible" content="ie=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" /><link rel="shortcut icon" href="../assets/MOH_Corp/img/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="../assets/MOH_Corp/img/Icon-60.png" /><meta name="google-site-verification" content="w4zqH9fAlbYTbkWlHAyXH85MFv78fhJhgC919EyPpko" /><meta name="robots" content="noindex" /><meta name="description" content="Ministry of Health (MOH) is an innovative, people-centred organisation, committed to medical excellence, the promotion of good health, the reduction of illness and access to good and affordable healthcare for all Singaporeans, appropriate to their needs." /><meta name="robots" content="noindex" /><meta name="googlebot" content="noindex" /><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-53N52TR');</script><script type="text/javascript">(function(h,o,t,j,a,r){
+</title><meta charset="utf-8" /><meta http-equiv="x-ua-compatible" content="ie=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" /><link rel="shortcut icon" href="../assets/MOH_Corp/img/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="../assets/MOH_Corp/img/Icon-60.png" /><meta name="google-site-verification" content="w4zqH9fAlbYTbkWlHAyXH85MFv78fhJhgC919EyPpko" /><meta name="robots" content="noindex" /><meta name="description" content="Ministry of Health (MOH) is an innovative, people-centred organisation, committed to medical excellence, the promotion of good health, the reduction of illness and access to good and affordable healthcare for all Singaporeans, appropriate to their needs." /><meta name="robots" content="noindex" /><meta name="googlebot" content="noindex" /><script type="text/javascript">(function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
         h._hjSettings={hjid:1465941,hjsv:6};
         a=o.getElementsByTagName('head')[0];
         r=o.createElement('script');r.async=1;
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script><script type="text/javascript" src="https://assets.wogaa.sg/scripts/wogaa.js"></script><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nOwcRLA17O-loIxGAkl8OyYLM-olt2c7iHH0AuOhkOXnq_qArjrniyUOx-64p6X6TtWl5rR1ZK5Xr_1XvA0lVJ3rFXYihh-0F88wbvBgOcyR0&amp;t=637208893339610771&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.2.6653.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3afb750197-2019-436f-a24b-69c5ccbcfa14%3a7a90d6a" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/foundation.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/jquery-ui.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick-theme.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/magnific-popup.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/line-awesome-font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/style.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/navbar.min.css" type="text/css" rel="stylesheet" /><style type="text/css" media="all">.tooltip{
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script><script type="text/javascript" src="https://assets.wogaa.sg/scripts/wogaa.js"></script><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53N52TR');</script><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nOwcRLA17O-loIxGAkl8OyYLM-olt2c7iHH0AuOhkOXnq_qArjrniyUOx-64p6X6TtWl5rR1ZK5Xr_1XvA0lVJ3rFXYihh-0F88wbvBgOcyR0&amp;t=637208893339610771&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.2.6653.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3afb750197-2019-436f-a24b-69c5ccbcfa14%3a7a90d6a" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/foundation.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/jquery-ui.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/slick-theme.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/magnific-popup.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/line-awesome-font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/style.css" type="text/css" rel="stylesheet" /><link href="/assets/MOH_Corp/css/navbar.min.css" type="text/css" rel="stylesheet" /><style type="text/css" media="all">.tooltip{
    position:absolute !important; 
 }
 
@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yaY6A/KHjJMr1I8W7lWQkGjyntBwl96AVTk5pfJPE0uBxWhS6hQqaZvxzBCmHc9HytK1wdFdfDlppDu+CxPZb5nV8qN94NUogR9hBtePXjQ=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="F7NsGsRcJCQLQU3cGcA6mnmeF259kiky5TAUsKj0CST4gLLqDOyqPb8PlI1/JIoBWvq5ujoB6BcXS5Jfcf0UOkkHPm736xbiWarMRAKr1K0=" />
 </div>
 
 <script type="text/javascript">
@@ -609,7 +609,15 @@ Sys.Application._enableHistoryInScriptManager();
               </div>
         </footer>
     
-<script type="text/javascript">function myFunction() {
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56164365-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+ 
+        gtag('config', 'UA-56164365-1');
+    </script><script type="text/javascript" src="https://va.ecitizen.gov.sg/CFP/Script/Jquery/jquery.min.js"></script><script type="text/javascript" src="https://va.ecitizen.gov.sg/CFP/VA/MOH/js/custom_widget.js"></script><script type="text/javascript">function myFunction() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
   var btnText = document.getElementById("myBtn");
@@ -626,15 +634,7 @@ Sys.Application._enableHistoryInScriptManager();
 }
 jQuery(document).ready(function(){
   jQuery('.navbar-default > .container').wrap('<div style="position:relative"></div>');
-});</script><!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56164365-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
- 
-        gtag('config', 'UA-56164365-1');
-    </script><script type="text/javascript" src="https://va.ecitizen.gov.sg/CFP/Script/Jquery/jquery.min.js"></script><script type="text/javascript" src="https://va.ecitizen.gov.sg/CFP/VA/MOH/js/custom_widget.js"></script>
+});</script>
 <script type="text/javascript">
 //<![CDATA[
 ;(function() {
