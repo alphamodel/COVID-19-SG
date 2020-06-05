@@ -1,28 +1,100 @@
-261 New Cases of Covid-19 Infection
+305 More Cases Discharged, 261 New Cases of Covid-19 Infection Confirmed
 
 
 
-261 NEW CASES OF COVID-19 INFECTION
+305 MORE CASES DISCHARGED, 261 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 05 Jun 2020
 
   As of 5 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 261 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 11 cases in the community, of whom 6 are Singaporeans/Permanent
-Residents and 5 are Work Pass holders. The lower number of cases today
-is partly due to fewer swabs being conducted.
+confirmed and verified an additional 261 cases of COVID-19 infection in
+Singapore. The lower number of cases today is partly due to fewer swabs
+being conducted. The breakdown is as follows:
 
-2.  Amongst the 11 cases, 6 are linked to previously confirmed
-cases, and had already been placed on quarantine, and 1 is linked to a
-dormitory cluster. Epidemiological investigations are ongoing for the
-remaining 4.
+A)  IMPORTED CASES: 0
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+There are no imported cases today.
+
+B)  CASES IN THE COMMUNITY: 11 (6 Singaporeans/Permanent
+Residents, 5 Work Permit holders)
+
+Of the 11 cases in the community, 8 are asymptomatic, but we had swabbed
+them as part of our proactive surveillance or to verify their status
+during quarantine.
+
+Amongst the 6 Singaporeans/Permanent Residents, 5 are linked to
+previously confirmed cases, and had already been placed on quarantine. 1
+is a Permanent Resident who stays at Cassia @ Penjuru dormitory, and was
+proactively tested as part of our efforts to clear the dormitories.
+
+Amongst the 5 Work Permit holders, 4 had been picked up as a result of
+our proactive screening. Of these, 3 were tested before they are due to
+start work in essential services, and 1 was tested as part of our
+screening of migrant workers residing at shophouses located at Balestier
+Road, due to their proximity to another cluster in the same area.
+Epidemiological investigations are ongoing for the remaining case.
+
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if some of these cases are current or
+past infections.  The serological test results of 3 cases (Cases 36970,
+36971 and 36973) have come back positive, which indicate likely past
+infections. Results are pending for the rest.
+
+Overall, the number of new cases in the community has increased, from an
+average of 5 cases per day in the week before, to an average of 6 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+
+C)  CASES RESIDING IN DORMITORIES: 250
+
+We continue to pick up many cases amongst Work Permit holders residing
+in dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 97% are linked to known clusters, while
+the rest are pending contact tracing.
+
+4.  MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to Acacia Home (30
+Admiralty Street) for the past two incubation periods (i.e. 28 days),
+the cluster has now been closed.
+
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.  In the past week (29 May to 4 June), MOH has uncovered
+links for 6 previously unlinked cases.
+
+6.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.  305 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 24,209 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+8.  There are currently 307 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 4 are in critical
+condition in the intensive care unit. 12,643 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 24 have passed
+away from complications due to COVID-19 infection.
+
+
 
 MINISTRY OF HEALTH
 5 JUNE 2020
