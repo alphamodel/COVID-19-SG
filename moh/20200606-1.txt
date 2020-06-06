@@ -1,18 +1,82 @@
-344 New Cases of Covid-19 Infection
+350 More Cases Discharged, 344 New Cases of Covid-19 Infection Confirmed
 
 
 
-344 NEW CASES OF COVID-19 INFECTION
+350 MORE CASES DISCHARGED, 344 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 06 Jun 2020
 
-              As of 6 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 344 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 7 cases in the community, of whom 3 are Singaporeans/Permanent
-Residents and 4 are Work Pass holders.
-2.           We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight
+               As of 6 June 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 344 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+  A)   IMPORTED CASES: 0
+There are no imported cases today.
+  B)   CASES IN THE COMMUNITY: 7 (3 Singaporeans/Permanent Residents, 4
+Work Permit holders)
+Of the 7 cases in the community, 5 are asymptomatic, but we had swabbed
+them as part of our proactive surveillance and screening.
+Amongst the 3 Singaporeans/Permanent Residents, 1 (Case 37304) is a
+family member of a previously confirmed case, and had already been
+quarantined earlier. Another (Case 37553) is a cleaner at the preschool
+section of an international school, and was tested as part our proactive
+screening of preschool staff. Epidemiological investigations are ongoing
+for the remaining case (Case 37515).
+All 4 Work Permit holders had been picked up as a result of proactive
+screening. Of these, 3 (Cases 37225, 37425 and 37426) were tested as
+part of our efforts to screen workers in essential services, and 1 (Case
+37514) was tested as part of our screening of migrant workers deployed
+at public healthcare institutions. He had been doing building
+maintenance works at Khoo Teck Puat Hospital and had not interacted with
+hospital staff or patients.
+Overall, the number of new cases in the community has increased, from an
+average of 5 cases per day in the week before, to an average of 7 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+  C)   CASES RESIDING IN DORMITORIES: 337
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.               Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+3.               Of the new cases, 98% are linked to known clusters,
+while the rest are pending contact tracing.
+4.               MOH has been monitoring existing clusters for any
+further transmission. As there have been no more cases linked to the
+construction site at 15 Serangoon North Avenue 1 for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.               In the past week (30 May to 5 June), MOH has uncovered
+links for 7 previously unlinked cases.
+6.               Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B and Annex C for details.
+CASES FROM PUBLIC HEALTHCARE SECTOR
+Case 37515
+7.               Case 37515 is a 27 year-old male Singapore Citizen who
+has no recent travel history to affected countries or regions. He was
+confirmed to have COVID-19 infection on 5 June, and is currently warded
+at the National Centre for Infectious Diseases.
+8.               He is employed as a physiotherapist at Tampines
+Polyclinic but had not gone to work since onset of symptoms.
+UPDATE ON CONDITION OF CONFIRMED CASES
+9.               350 more cases of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all,
+24,559 have fully recovered from the infection and have been discharged
+from hospitals or community care facilities.
+10.               There are currently 308 confirmed cases who are still
+in hospital. Of these, most are stable or improving, and 4 are in
+critical condition in the intensive care unit. 12,635 are isolated and
+cared for at community facilities. These are those who have mild
+symptoms, or are clinically well but still test positive for COVID-19.
+25 have passed away from complications due to COVID-19 infection.
+11.               Case 11714, a 41 year-old male Chinese national, has
+passed away on 4 June 2020. He was confirmed to have COVID-19 infection
+on 22 April. He had recovered from the infection, and was discharged on
+17 May. He collapsed on 4 June and the Coroner has certified that the
+cause of death was massive pulmonary thromboembolism following
+SARS-CoV-2 infection.
