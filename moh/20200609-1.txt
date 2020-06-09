@@ -1,22 +1,94 @@
-218 New Cases of Covid-19 Infection
+509 More Cases Discharged, 218 New Cases of Covid-19 Infection Confirmed
 
 
 
-218 NEW CASES OF COVID-19 INFECTION
+509 MORE CASES DISCHARGED, 218 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 09 Jun 2020
 
 1.     As of 9 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 218 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are six cases in the community, all of whom are Work Pass holders. There
-are no Singaporean/ Permanent Resident cases.
+confirmed and verified an additional 218 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
-2.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+a.  IMPORTED CASES: 0
+
+    There are no imported cases today.
+
+b.  CASES IN THE COMMUNITY: 6 (4 Work Pass holders, 2 Work Permit
+    holders)
+
+    There are no Singaporean/ Permanent Resident cases today. Amongst
+    the 6 Work Pass/ Work Permit holders, 3 (Cases 38520, 38521 and
+    38522) are housemates of a previously confirmed case, and had
+    already been quarantined in government quarantine facilities
+    earlier. They are asymptomatic, but we had swabbed them to verify
+    their status during quarantine.
+
+    The other 3 cases (Cases 38516, 38547 and 38548) are also
+    asymptomatic and had been picked up as a result of our proactive
+    screening of workers in essential services, including the
+    construction and marine sectors.
+
+    Overall, the number of new cases in the community has increased,
+    from an average of 4 cases per day in the week before, to an average
+    of 9 per day in the past week. The number of unlinked cases in the
+    community has also increased, from an average of 2 cases per day in
+    the week before, to an average of 4 per day in the past week. This
+    is partly due to our active surveillance and screening of targeted
+    groups, which have picked up more cases in the past week [1]. We
+    will continue to closely monitor these numbers, as well as the cases
+    detected through our surveillance programme.
+
+c.  CASES RESIDING IN DORMITORIES: 212
+
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+
+3.     Of the new cases, 97% are linked to known clusters, while the
+rest are pending contact tracing.
+
+4.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the
+construction site at Tanah Merah Coast Road and the dormitory at 17C
+Tuas Road for the past two incubation periods (i.e. 28 days), the
+clusters have now been closed.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.     In the past week (2 June to 8 June), MOH has uncovered links for
+5 previously unlinked cases.
+
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.     509 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 25,877 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+8.     There are currently 248 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 3 are in critical
+condition in the intensive care unit. 12,364 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 25 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 9 JUNE 2020
+
+------------------------------------------------------------------------
+
+[1] These include surveillance testing of workers in essential services,
+staff in preschools, and school staff and students above the age of 12
+who are diagnosed with acute respiratory infection (ARI) at first
+presentation to a doctor, as well as those with prolonged ARI symptoms.
