@@ -1,22 +1,118 @@
-422 New Cases of Covid-19 Infection
+754 More Cases Discharged, 422 New Cases of Covid-19 Infection Confirmed
 
 
 
-422 NEW CASES OF COVID-19 INFECTION
+754 MORE CASES DISCHARGED, 422 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 11 Jun 2020
 
   As of 11 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 422 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 5 cases in the community, of whom 1 is a Singaporean and 4 are Work
-Pass holders.
+confirmed and verified an additional 422 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
-2.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+A)  IMPORTED CASES: 0
+
+There are no imported cases today.
+
+B)  CASES IN THE COMMUNITY: 5¹ (1 Singaporean, 2 Work Pass
+holders, 2 Work Permit holders)
+
+Of the 5 cases in the community, 2 had been picked up as a result of our
+proactive surveillance and screening, and 2 had already been placed on
+quarantine.
+
+All 4 Work Pass/ Work Permit holders are asymptomatic but had been
+detected due to our proactive screening. Amongst them, 1 (Case 39071)
+was tested as he works as a security guard at a dormitory at Tampines
+Street 62. Another (Case 39321) was swabbed as part of our efforts to
+screen workers in essential services. The other 2 cases (Cases 39013 and
+39039) are housemates of previously confirmed cases, and had already
+been quarantined earlier. They were swabbed during quarantine to verify
+their status.
+
+Epidemiological investigations are ongoing for the Singaporean case
+(Case 39004).
+
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if some of these cases are current or
+past infections.2 The serological test results of 3 cases (Cases 39039,
+39071 and 39321) have come back positive, which indicate likely past
+infections. Results are pending for the rest.
+
+Overall, the number of new cases in the community has increased, from an
+average of 6 cases per day in the week before, to an average of 8 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 1 case per day in the week before, to
+an average of 4 per day in the past week. This is partly due to our
+active surveillance and screening of targeted groups, which have picked
+up more cases in the past week. We will continue to closely monitor
+these numbers, as well as the cases detected through our surveillance
+programme.
+
+C)  CASES RESIDING IN DORMITORIES: 416
+
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 99% are linked to known clusters, while
+the rest are pending contact tracing.
+
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+4.  In the past week (4 June to 10 June), MOH has uncovered
+links for 10 previously unlinked cases.
+
+5.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  754 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 27,286 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.  There are currently 227 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 11,849 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 25 have passed
+away from complications due to COVID-19 infection.
+
+8.  Case 39327, a 44 year-old male Indian national, has passed
+away on 8 June 2020. He had developed chest and epigastric pain on 28
+May, and had sought medical treatment at a General Practitioner clinic.
+He was found unconscious at his place of residence on 8 June and
+conveyed to Singapore General Hospital’s emergency department. He was
+confirmed to have COVID-19 infection on 10 June after his demise. The
+cause of death was ischaemic heart disease.³
+
+
 
 MINISTRY OF HEALTH
 11 JUNE 2020
+
+1  Besides these 5 cases, an additional case (Case 39327) has passed
+away on 8 June 2020. The cause of death was ischaemic heart disease.
+
+2  Cases whose serological tests are positive are likely have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
+
+3  Only cases where the attending doctor or pathologist attributes the
+primary or underlying cause of death as due to COVID-19 infection will
+be added to the COVID-19 death count. This is consistent with
+international practice for classifying deaths.
