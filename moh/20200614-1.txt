@@ -1,20 +1,80 @@
-407 New Cases of Covid-19 Infection
+781 More Cases Discharged, 407 New Cases of Covid-19 Infection Confirmed
 
 
 
-407 NEW CASES OF COVID-19 INFECTION
+781 MORE CASES DISCHARGED, 407 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 14 Jun 2020
 
-            As of 14 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 407 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 9 cases in the community, of whom 4 are Singaporeans/Permanent
-Residents and 5 are Work Pass holders.
-2.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 14 June 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 407 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 1
+There is an imported case today involving a Bangladeshi national who
+arrived in Singapore on 10 June to seek medical treatment that is not
+related to COVID-19 infection. His health declaration submitted before
+immigration clearance indicated he did not have any COVID-19 symptoms,
+and had not been diagnosed or suspected to have COVID-19 infection. He
+was subsequently tested for COVID-19 after arrival in Singapore and his
+results came back positive on 13 June. Contact tracing is ongoing, and
+identified close contacts have been placed on quarantine.
+B) CASES IN THE COMMUNITY: 9 (4 Singaporeans, 1 Work Pass holder, 4 Work
+Permit holders)
+Of the 9 cases in the community, 8 had been picked up as a result of our
+proactive surveillance and screening, and 1 had already been placed on
+quarantine.
+Amongst the 4 Singaporean cases, 3 (Cases 40268, 40479 and 40480) were
+detected due to our proactive surveillance of persons working at
+dormitories, even though 2 of them (Cases 40268 and 40480) are
+asymptomatic. The remaining case (Case 40571) is a family member of a
+previously confirmed case, and had already been quarantined earlier. He
+is asymptomatic, and had been swabbed during quarantine to verify his
+status.
+All 5 Work Pass/ Work Permit holders were picked up as a result of our
+proactive screening. 2 of them (Cases 40269 and 40478) work at
+dormitories, and were swabbed as part of our surveillance. The remaining
+three (Cases 40558, 40559 and 40560) were tested as part of our efforts
+to screen workers in essential services.
+Overall, the number of new cases in the community has remained stable at
+an average of 8 per day in the past two weeks. The number of unlinked
+cases in the community has also remained stable at an average of 8 per
+day in the past two weeks. We will continue to closely monitor these
+numbers, as well as the cases detected through our surveillance
+programme.
+C) CASES RESIDING IN DORMITORIES: 397
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+4.      We announced yesterday that a student at St Anthony’s Canossian
+Secondary School has tested positive for COVID-19. As a precaution, 47
+students and 12 staff who had been in close contact with the student
+have been put on Leave of Absence by the Ministry of Education or Home
+Quarantine Order by MOH. All 47 students have been tested for COVID-19,
+and their test results have all come back negative. The results for the
+staff are pending.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.       In the past week (7 June to 13 June), MOH has uncovered links
+for 13 previously unlinked cases.
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      781 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 29,589 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.         There are currently 238 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 10,751 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 14 JUNE 2020
