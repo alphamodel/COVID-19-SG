@@ -56,22 +56,22 @@ situation Report (www.moh.gov.sg/covid-19/situation-report). Please
 refer to Annex A for the summary of the confirmed cases.
 3.            Of the new cases, 98% are linked to known clusters, while
 the rest are pending contact tracing.
-4.           MOH has been monitoring existing clusters for any further
+4.            MOH has been monitoring existing clusters for any further
 transmission. As there have been no more cases linked to the dormitory
 at 50A Tuas Link 4 for the past two incubation periods (i.e. 28 days),
 the cluster has now been closed.
 LINKS BETWEEN PREVIOUS CASES FOUND
-5.           In the past week (5 June to 11 June), MOH has uncovered
+5.            In the past week (5 June to 11 June), MOH has uncovered
 links for 11 previously unlinked cases.
-6.           Further epidemiological investigations and contact tracing
+6.            Further epidemiological investigations and contact tracing
 have uncovered links between previously announced and new cases. Please
 refer to Annex B and Annex C for details.
 UPDATE ON CONDITION OF CONFIRMED CASES
-7.           754 more cases of COVID-19 infection have been discharged
+7.            754 more cases of COVID-19 infection have been discharged
 from hospitals or community isolation facilities. In all, 28,040 have
 fully recovered from the infection and have been discharged from
 hospitals or community care facilities.
-8.           There are currently 239 confirmed cases who are still in
+8.            There are currently 239 confirmed cases who are still in
 hospital. Of these, most are stable or improving, and 2 are in critical
 condition in the intensive care unit. 11,546 are isolated and cared for
 at community facilities. These are those who have mild symptoms, or are
