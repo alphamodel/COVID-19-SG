@@ -1,96 +1,101 @@
-Support for Seniors In Phase Two
+775 More Cases Discharged, 247 New Cases of Covid-19 Infection Confirmed
 
 
 
-SUPPORT FOR SENIORS IN PHASE TWO
+775 MORE CASES DISCHARGED, 247 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 17 Jun 2020
 
-  The Multi-Ministry Taskforce announced that Phase Two will
-commence on 19 June 2020, as community infection rates have remained
-generally stable in Phase One. Seniors are especially vulnerable and
-should be extra careful as more activities resume in Phase Two.
-
-APPROACH FOR PHASE TWO
-
-2.  In Phase Two, with more activities and interactions, there
-will likely be a higher risk of community transmission. Therefore, we
-encourage seniors to continue to stay home as much as possible and to
-limit their interactions to a small regular circle of close contacts.
-Households may receive up to five visitors a day, and visitors of
-households with seniors should take extra care to maintain a safe
-distance from seniors, and practise good hand hygiene. Seniors should
-continue to avoid peak hours if they need to go out.
-
-MORE SENIOR-CENTRIC ACTIVITIES WILL RESUME IN PHASE TWO
-
-_Senior-centric activities may resume with precautions_
-
-3.  Senior-centric activities organised by the People’s
-Association, Health Promotion Board, Sport Singapore, and the Council
-for Third Age (C3A) may resume. However, in order to keep interactions
-low, these will be limited only to activities that can be done
-individually, with no sharing of equipment between participants.
-Examples include computer classes and health talks. These sessions will
-be kept small for a start, and with safe distancing measures in place.
-Since Phase One, Senior Activity Centres and Community Resource,
-Engagement and Support Team (CREST) providers have progressively resumed
-some individual activities on-site to address seniors’ psychosocial
-needs, with restrictions on duration and total number of persons per
-session. From Phase Two, we will ease these restrictions to allow more
-seniors to benefit from these programmes, so long as safe distancing
-measures are in place.
-
-_More eldercare services resume_
-
-4.  We will also resume day care services at most Senior Care
-Centres and Active Ageing Hubs on 29 June 2020, to support seniors and
-their caregivers who have to return to work in Phase Two. Providers will
-contact clients and their caregivers to make the necessary arrangements
-to return to the centre. All care staff will be tested for COVID-19
-before resumption of day care services. We have tested more than 3,600
-staff of non-residential community care services so far, and all results
-were negative. This complements other measures such as safe distancing,
-limiting group interactions, and ensuring good infection control
-practices such as hand hygiene and wearing of masks, which providers
-will continue to enforce to give clients and their caregivers peace of
-mind.
-
-_Face-to-face visitations at residential care homes may resume_
-
-5.  We recognise that it has been a difficult period for
-family members and caregivers who wish to visit their loved ones at
-nursing homes. Visits will resume gradually and cautiously in Phase Two,
-starting from 19 Jun. All nursing homes will need to put in place
-additional precautionary measures to protect their residents, such as
-setting aside dedicated visitation areas or safe distancing precautions,
-and some would only start receiving visitors later after ensuring that
-these measures are properly implemented. We would like to appeal to
-family members for their patience and understanding.
-
-6.  To minimise the risk of infection within the nursing
-homes, each resident will be allowed a total of two designated visitors,
-and only one may visit each day, with each visit limited to 30 minutes.
-Visitors will be screened prior to entry, and should not visit if
-unwell. In addition, the total number of visitors allowed each day in a
-home will also be capped through appointments, especially during the
-initial period, including the coming weekend of 20 June to 21 June.
-Caregivers are thus encouraged to work with the nursing homes to make
-appointments in advance, and to visit over the following weeks, instead
-of rushing to visit over the coming weekend. We will review these
-visitor management measures in the coming weeks, and may adjust
-accordingly, depending on the risk of community transmission.
-
-STEADY STEPS TOWARDS A NEW NORMAL
-
-7.  We will continue to monitor the situation closely, with
-the aim of continuing to ease measures until we reach a new normal in
-Phase Three. We all have a role to play to make this happen. If we stay
-disciplined and adhere to the safe management measures, we will be able
-to take steady steps forward, and resume the activities we enjoy.
-
-
-
+1. As of 17 June 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 247 cases of COVID-19 infection in Singapore.
+The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 5 (2 Singaporeans/Permanent Residents, 3 Work
+Permit holders)
+Of the 5 cases in the community, 2 had been picked up as a result of our
+proactive surveillance and screening, and the remaining 3 had already
+been placed on quarantine.
+Amongst the 2 Singaporean cases, 1 (Case 41145) is asymptomatic but was
+tested as his work involves interacting with security guards at
+dormitories. The other case (Case 41152) is a family member of a
+previously confirmed case, and had already been quarantined earlier. She
+had been swabbed during quarantine to verify her status.
+Amongst the 3 Work Pass/ Work Permit holders, 2 (Cases 41030 and 41250)
+had been identified as contacts of previously confirmed cases, and had
+already been quarantined at government quarantine facilities. They had
+been swabbed during quarantine to verify their status, even though Case
+41030 is asymptomatic. The remaining case also does not have symptoms,
+but was tested as part of our efforts to screen workers in essential
+services.
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if these cases are current or past
+infections.¹ The serological test result for Case 41030 has come back
+positive, which indicates likely past infection. The test results for
+the remaining cases are pending.
+Overall, the number of new cases in the community has decreased, from an
+average of 9 cases per day in the week before, to an average of 7 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 4 cases per day in the week before,
+to an average of 3 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 242
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 99% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4. In the past week (10 June to 16 June), MOH has uncovered links for 11
+previously unlinked cases.
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 775 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 31,938 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 257 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 2 are in critical condition in
+the intensive care unit. 8,995 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 26 have passed away from
+complications due to COVID-19 infection.
+COVID-19 TEST FOR PERSONS UNDER STAY-HOME NOTICE
+8. The Multi-Ministry Taskforce announced on 15 June 2020 that all
+inbound and outbound travellers who enter Singapore from 17 June 2020,
+2359 hours, and leave Singapore from 17 June, 2359 hours, respectively
+will be required to pay for their COVID-19 tests, where applicable. In
+addition, incoming travellers who are not Singapore Citizens or
+Permanent Residents, who enter Singapore from 17 June 2020, 2359 hours,
+will be required to pay for their stay at dedicated Stay-Home Notice
+(SHN) facilities, where applicable.
+9. We recognise that there may be Singapore citizens and Permanent
+Residents who had left Singapore before the prevailing travel advisory
+was issued on 27 March 2020, and who may be returning in the near
+future.  For such cases, we will allow a grace period, and if they
+return and enter Singapore by 31 August 2020, we will waive the cost of
+the COVID-19 tests.
+10. We will not automatically swab all persons who are aged 12 or
+younger before the end of their SHN, as we recognise that the tests
+could pose difficulties for young children. However, if any of their
+close contacts are found to be positive, we will initiate the swab tests
+for them.
+11. For avoidance of doubt, all travellers, including Singapore Citizens
+and Permanent Residents, who last left Singapore from 27 March 2020
+despite the prevailing travel advisory, will have to continue to bear
+the costs of their stay at dedicated SHN facilities where applicable, as
+well as the cost of their COVID-19 tests.
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 MINISTRY OF HEALTH
 17 JUNE 2020
