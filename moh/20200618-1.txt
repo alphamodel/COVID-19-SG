@@ -1,20 +1,124 @@
-257 New Cases of Covid-19 Infection
+Enablers to Support Safe Re-opening
 
 
 
-257 NEW CASES OF COVID-19 INFECTION
+ENABLERS TO SUPPORT SAFE RE-OPENING
 
 
 Published Date: 18 Jun 2020
 
-          As of 18 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 257 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 4 cases in the community, of whom 1 is a Singapore Permanent
-Resident and 3 are Work Pass holders.
-2       We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+               The Multi-Ministerial Taskforce has announced the start
+of Phase 2 after 18 June 2020, 2359 hours. As we ease the restrictions
+under Phase 1, we will need to continue to step up our precautionary
+measures to enable a safe resumption of activities. Our expanded
+COVID-19 testing regime, and the use of technology to facilitate
+efficient contact tracing, are part of these efforts and key enablers to
+support a safe re-opening of our economy and society.
+EXPANSION OF TESTING STRATEGY
+2.            Our current testing strategy is focused on active case
+finding among the community and active surveillance testing amongst
+targeted groups who are more vulnerable or have a higher risk of
+exposure to COVID-19. We have plans to increase capacity to 40,000
+tests/day.
+3.           We have applied this increased testing capacity in several
+ways.First, we have STEPPED UP THE TESTING OF CLOSE CONTACTS. Previously
+we would only quarantine the close contacts of confirmed cases. Now we
+test all of them before the start of quarantine.If anyone tests
+positive, we start contract tracing again based on this person’s
+activity map. In this way, we broaden the list of suspect cases, and are
+able to isolate them early, and stop the virus from spreading.
+4.           Second, we aim to TEST ALL INDIVIDUALS WHO ARE DIAGNOSED
+WITH ACUTE RESPIRATORY INFECTION (ARI) AT FIRST PRESENTATION TO A
+DOCTOR. There is clinical and scientific evidence to show that a person
+is most infectious right before and immediately after the start of
+symptoms. Testing individuals diagnosed with ARI would therefore allow
+us to detect infected individuals early to quickly contain further
+spread. We have since the start of June done this for selected
+individuals including seniors 65 years old and above, healthcare
+workers, and staff and older students[1] at our educational
+institutions[2]. With more individuals returning to workplaces as our
+economy re-opens, we will EXTEND TESTING TO ALL INDIVIDUALS AGED 45 AND
+ABOVE WHO ARE DIAGNOSED WITH ARI from later next week, as the risks of
+severe COVID-19 infection increases from age 45. This will progressively
+be extended to more groups subsequently.
+5.           We encourage all individuals with respiratory symptoms to
+see a doctor immediately, so that they can be tested if necessary. The
+COVID-19 tests ordered by the doctors at our polyclinics and Public
+Health Preparedness Clinics (PHPCs) are fully subsidised.
+6.           Finally, we will continue to do MORE ACTIVE SURVEILLANCE
+TESTING IN THE COMMUNITY. In May, we had completed testing of all staff
+and residents of the Ministry of Health and Ministry of Social and
+Family Development residential homes, and all preschool and early
+intervention staff before resumption of full preschool services. We have
+also started regular testing of workers returning to work in the
+construction, marine and process sectors, and frontline workers
+supporting our COVID-19 operations. We will continue to monitor the
+situation, and based on our assessment of risks, we will progressively
+expand our screening tests to more groups in the community.
+7.           To make testing more convenient, we will be SETTING UP
+MORE REGIONAL SCREENING CENTRES (RSC) to support the needs of our
+population. This will help to bring testing services closer to our
+people, so that individuals with ARI, or those requiring regular routine
+testing because they work in higher risk sectors, can gain access to
+such services conveniently.
+SAFEENTRY AND TRACETOGETHER TO STRENGTHEN CONTACT TRACING
+8.           Quick and effective contract tracing is critical in
+containing the pandemic. Once someone tests positive for COVID-19, the
+work of contact tracing begins. We need to do activity mapping, and
+identify close contacts, so as to ring-fence and contain any further
+spread of the virus. Technology is a key enabler to allow us to conduct
+meticulous contact tracing in a fast and efficient manner. Digital tools
+like SafeEntry and TraceTogether help augment the manual contact tracing
+process, and enable us to re-open confidently.
+9.           Currently, all businesses and services that are in
+operation are required to use SafeEntry, which helps to establish
+specific times of entry and exit in enclosed venues for all visitors,
+employees, associates and vendors. SafeEntry data helps to fill a
+patient’s activity map quickly, so that activity mappers do not start on
+a blank slate. The records also help to jog the patient’s memory, which
+again helps to cut the time needed to do activity mapping. In parallel,
+TraceTogether’s proximity data helps the authorities to quickly identify
+people who have been in close contact with the patient. These digital
+tools work in tandem to facilitate more accurate and faster contact
+tracing.
+10.           As we re-open and resume more activities in Phase 2, we
+should be prepared for more community cases to emerge. As such, raising
+the adoption level of TraceTogether is even more critical in this phase,
+and beyond. There are currently 2 million users of the TraceTogether app
+in Singapore. We encourage everyone to download and use the app. To
+ensure everyone benefits from the TraceTogether Programme, we will be
+providing TraceTogether Tokens to those who do not have smartphones or
+the requisite smartphones for the app to work properly. The
+TraceTogether Tokens will be rolled out from end June onwards, starting
+with the elderly and then progressively to the rest of the population.
+Details will be provided at a later date.
+11.           These tools will help us improve the speed and accuracy
+of our contact tracing efforts. When close contacts are quickly notified
+and quarantined, we can stem the transmission, and prevent further
+spread in the community.
+COLLECTIVE EFFORT FOR A SAFE TRANSITION
+12.           Along with our testing strategy and contract tracing
+efforts, the implementation of strong infection control measures by all
+stakeholders will help us to re-open in a safe way. All individuals must
+play their part, and continue to practice strict safe distancing and
+good personal hygiene, to reduce the risk of transmissions. With our
+collective efforts, we can look forward to a safe re-opening and
+resumption of activities.
+
+
+
+
+
 MINISTRY OF HEALTH
 18 JUNE 2020
+
+------------------------------------------------------------------------
+
+[1] This refers to students aged 13-years-old and above. For younger
+students, doctors will assess if a test is required, as younger children
+require different clinical considerations than older children.
+
+[2] This includes preschools (including early intervention centres),
+primary and secondary schools (including student care centres), special
+education schools, Institutes of Higher Learning and Private Education
+Institutions.
