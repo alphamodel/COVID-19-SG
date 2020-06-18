@@ -1,124 +1,76 @@
-Enablers to Support Safe Re-opening
+774 More Cases Discharged, 257 New Cases of Covid-19 Infection Confirmed
 
 
 
-ENABLERS TO SUPPORT SAFE RE-OPENING
+774 MORE CASES DISCHARGED, 257 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 18 Jun 2020
 
-               The Multi-Ministerial Taskforce has announced the start
-of Phase 2 after 18 June 2020, 2359 hours. As we ease the restrictions
-under Phase 1, we will need to continue to step up our precautionary
-measures to enable a safe resumption of activities. Our expanded
-COVID-19 testing regime, and the use of technology to facilitate
-efficient contact tracing, are part of these efforts and key enablers to
-support a safe re-opening of our economy and society.
-EXPANSION OF TESTING STRATEGY
-2.            Our current testing strategy is focused on active case
-finding among the community and active surveillance testing amongst
-targeted groups who are more vulnerable or have a higher risk of
-exposure to COVID-19. We have plans to increase capacity to 40,000
-tests/day.
-3.           We have applied this increased testing capacity in several
-ways.First, we have STEPPED UP THE TESTING OF CLOSE CONTACTS. Previously
-we would only quarantine the close contacts of confirmed cases. Now we
-test all of them before the start of quarantine.If anyone tests
-positive, we start contract tracing again based on this person’s
-activity map. In this way, we broaden the list of suspect cases, and are
-able to isolate them early, and stop the virus from spreading.
-4.           Second, we aim to TEST ALL INDIVIDUALS WHO ARE DIAGNOSED
-WITH ACUTE RESPIRATORY INFECTION (ARI) AT FIRST PRESENTATION TO A
-DOCTOR. There is clinical and scientific evidence to show that a person
-is most infectious right before and immediately after the start of
-symptoms. Testing individuals diagnosed with ARI would therefore allow
-us to detect infected individuals early to quickly contain further
-spread. We have since the start of June done this for selected
-individuals including seniors 65 years old and above, healthcare
-workers, and staff and older students[1] at our educational
-institutions[2]. With more individuals returning to workplaces as our
-economy re-opens, we will EXTEND TESTING TO ALL INDIVIDUALS AGED 45 AND
-ABOVE WHO ARE DIAGNOSED WITH ARI from later next week, as the risks of
-severe COVID-19 infection increases from age 45. This will progressively
-be extended to more groups subsequently.
-5.           We encourage all individuals with respiratory symptoms to
-see a doctor immediately, so that they can be tested if necessary. The
-COVID-19 tests ordered by the doctors at our polyclinics and Public
-Health Preparedness Clinics (PHPCs) are fully subsidised.
-6.           Finally, we will continue to do MORE ACTIVE SURVEILLANCE
-TESTING IN THE COMMUNITY. In May, we had completed testing of all staff
-and residents of the Ministry of Health and Ministry of Social and
-Family Development residential homes, and all preschool and early
-intervention staff before resumption of full preschool services. We have
-also started regular testing of workers returning to work in the
-construction, marine and process sectors, and frontline workers
-supporting our COVID-19 operations. We will continue to monitor the
-situation, and based on our assessment of risks, we will progressively
-expand our screening tests to more groups in the community.
-7.           To make testing more convenient, we will be SETTING UP
-MORE REGIONAL SCREENING CENTRES (RSC) to support the needs of our
-population. This will help to bring testing services closer to our
-people, so that individuals with ARI, or those requiring regular routine
-testing because they work in higher risk sectors, can gain access to
-such services conveniently.
-SAFEENTRY AND TRACETOGETHER TO STRENGTHEN CONTACT TRACING
-8.           Quick and effective contract tracing is critical in
-containing the pandemic. Once someone tests positive for COVID-19, the
-work of contact tracing begins. We need to do activity mapping, and
-identify close contacts, so as to ring-fence and contain any further
-spread of the virus. Technology is a key enabler to allow us to conduct
-meticulous contact tracing in a fast and efficient manner. Digital tools
-like SafeEntry and TraceTogether help augment the manual contact tracing
-process, and enable us to re-open confidently.
-9.           Currently, all businesses and services that are in
-operation are required to use SafeEntry, which helps to establish
-specific times of entry and exit in enclosed venues for all visitors,
-employees, associates and vendors. SafeEntry data helps to fill a
-patient’s activity map quickly, so that activity mappers do not start on
-a blank slate. The records also help to jog the patient’s memory, which
-again helps to cut the time needed to do activity mapping. In parallel,
-TraceTogether’s proximity data helps the authorities to quickly identify
-people who have been in close contact with the patient. These digital
-tools work in tandem to facilitate more accurate and faster contact
-tracing.
-10.           As we re-open and resume more activities in Phase 2, we
-should be prepared for more community cases to emerge. As such, raising
-the adoption level of TraceTogether is even more critical in this phase,
-and beyond. There are currently 2 million users of the TraceTogether app
-in Singapore. We encourage everyone to download and use the app. To
-ensure everyone benefits from the TraceTogether Programme, we will be
-providing TraceTogether Tokens to those who do not have smartphones or
-the requisite smartphones for the app to work properly. The
-TraceTogether Tokens will be rolled out from end June onwards, starting
-with the elderly and then progressively to the rest of the population.
-Details will be provided at a later date.
-11.           These tools will help us improve the speed and accuracy
-of our contact tracing efforts. When close contacts are quickly notified
-and quarantined, we can stem the transmission, and prevent further
-spread in the community.
-COLLECTIVE EFFORT FOR A SAFE TRANSITION
-12.           Along with our testing strategy and contract tracing
-efforts, the implementation of strong infection control measures by all
-stakeholders will help us to re-open in a safe way. All individuals must
-play their part, and continue to practice strict safe distancing and
-good personal hygiene, to reduce the risk of transmissions. With our
-collective efforts, we can look forward to a safe re-opening and
-resumption of activities.
-
-
-
-
-
+        As of 18 June 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 257 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 4 (1 Permanent Resident, 3 Work Permit
+holders)
+Of the 4 cases in the community, 3 had already been placed on quarantine
+earlier, and the remaining case had been picked up as a result of our
+proactive surveillance and screening.
+The Permanent Resident case (Case 41273) was detected due to our
+proactive screening of workers in essential services, although he is
+asymptomatic.
+All 3 Work Permit holders (Cases 41297, 41315 and 41410) had been
+identified as contacts of previously confirmed cases, and had already
+been quarantined at government quarantine facilities. They were swabbed
+during quarantine to verify their status, even though 2 of them (Cases
+41297 and 41410) are asymptomatic.
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if these cases are current or past
+infections [1]. The serological test results for Cases 41297, 41315 and
+41273 have come back positive, which indicate likely past infections.
+The test result for the remaining case is pending.
+Overall, the number of new cases in the community has decreased, from an
+average of 8 cases per day in the week before, to an average of 7 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 4 cases per day in the week before,
+to an average of 3 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 253
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+4.       MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to Orange Valley
+Nursing Home (6 Simei Street 3) for the past two incubation periods
+(i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.       In the past week (11 June to 17 June), MOH has uncovered links
+for 5 previously unlinked cases.
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.     774 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 32,712 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.       There are currently 225 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 8,510 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 18 JUNE 2020
-
-------------------------------------------------------------------------
-
-[1] This refers to students aged 13-years-old and above. For younger
-students, doctors will assess if a test is required, as younger children
-require different clinical considerations than older children.
-
-[2] This includes preschools (including early intervention centres),
-primary and secondary schools (including student care centres), special
-education schools, Institutes of Higher Learning and Private Education
-Institutions.
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
