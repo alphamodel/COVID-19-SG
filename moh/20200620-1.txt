@@ -1,24 +1,72 @@
-218 New Cases of Covid-19 Infection
+765 More Cases Discharged; 218 New Cases of Covid-19 Infection Confirmed
 
 
 
-218 NEW CASES OF COVID-19 INFECTION
+765 MORE CASES DISCHARGED; 218 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 20 Jun 2020
 
-               As of 20 June 2020, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed an additional 218 cases of COVID-19
-infection in Singapore, the vast majority of whom are Work Permit
-holders residing in foreign worker dormitories. Based on our
-investigations so far, there are 2 cases in the community, both of whom
-are Work Pass holders. There are no Singaporean/ Permanent Resident
-cases.
-2.          We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-
-
-
+                  As of 20 June 2020, 12pm, the Ministry of Health (MOH)
+has confirmed and verified an additional 218 cases of COVID-19 infection
+in Singapore. The breakdown is as follows:
+  A) IMPORTED CASES: 0
+There are no imported cases today.
+  B) CASES IN THE COMMUNITY: 2 (2 Work Permit holders)
+There are no Singaporean/ Permanent Resident cases today.
+Of the 2 cases in the community, 1 had been picked up as a result of our
+proactive surveillance and screening, and the other had already been
+placed on quarantine.
+Case 41673 had been identified as a contact of previously confirmed
+cases, and had already been quarantined at a government quarantine
+facility. He had been swabbed during quarantine to verify his status,
+even though he is asymptomatic. Case 41848 is also asymptomatic, and was
+detected as a result of our efforts to screen workers in essential
+services.
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if these cases are current or past
+infections.[1] The serological test results for both cases have come
+back positive, which indicate likely past infections.
+Overall, the number of new cases in the community has decreased, from an
+average of 8 cases per day in the week before, to an average of 4 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 3 cases per day in the week before,
+to an average of 2 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+  C) CASES RESIDING IN DORMITORIES: 216
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.              Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+3.             Of the new cases, 98% are linked to known clusters,
+while the rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.             In the past week (13 June to 19 June), MOH has uncovered
+links for 7 previously unlinked cases.
+5.             Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.             765 more cases of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all,
+34,224 have fully recovered from the infection and have been discharged
+from hospitals or community care facilities.
+7.             There are currently 185 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 7,398 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 20 JUNE 2020
+
+------------------------------------------------------------------------
+
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
