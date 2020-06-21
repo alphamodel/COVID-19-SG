@@ -1,20 +1,82 @@
-262 New Cases of Covid-19 Infection
+718 More Cases Discharged 262 New Cases of Covid-19 Infection Confirmed
 
 
 
-262 NEW CASES OF COVID-19 INFECTION
+718 MORE CASES DISCHARGED 262 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 21 Jun 2020
 
-    As of 21 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 262 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 9 cases in the community, of whom 3 are Singaporeans/Permanent
-Residents and 6 are Work Pass holders.
-2.  We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+     As of 21 June 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 262 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 10¹ (3 Singaporeans/ Permanent Residents, 3
+Work Pass holders, 4 Work Permit holders)
+Of the 10 cases in the community, 8 had been picked up as a result of
+our proactive surveillance and screening, and the remaining 2 had
+already been placed on quarantine earlier.
+Amongst the 3 Singaporean/Permanent Resident cases, 1 (Case 41884) was
+tested as part of our proactive screening of students² at our Institutes
+of Higher Learning who are diagnosed with acute respiratory infection
+(ARI) at first presentation to a doctor. He is a student at Nanyang
+Technological University, but has not gone to the university since early
+April 2020. The remaining 2 cases (Cases 41956 and 42115) had been
+detected due to our proactive surveillance of persons working or living
+at dormitories, even though they are asymptomatic.
+All 7 Work Pass/ Work Permit holders were tested even though they are
+asymptomatic. Amongst them, 2 (Cases 42003 and 42100) had been
+identified as contacts of previously confirmed cases, and had already
+been quarantined at government quarantine facilities. They were swabbed
+during quarantine to verify their status. Another 3 cases (Cases 42098,
+42112 and 42116) were tested as part of our efforts to screen workers in
+essential services. The remaining 2 cases (Cases 42113 and 42114) were
+detected through our proactive screening of persons working at
+dormitories.
+Overall, the number of new cases in the community has decreased, from an
+average of 8 cases per day in the week before, to an average of 4 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 252
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.    Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.    Of the new cases, 97% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.    In the past week (14 June to 20 June), MOH has uncovered links for
+5 previously unlinked cases.
+5.    Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6,    718 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 34,942 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.    There are currently 179 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 6,948 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 21 JUNE 2020
+
+------------------------------------------------------------------------
+
+¹Updated from the afternoon press release as one more case has been
+re-classified following contact tracing.
+²Includes students aged 13-years-old and above studying at secondary
+schools (including student care centres), special education schools,
+Institutes of Higher Learning and Private Education Institutions. For
+younger students, doctors will assess if a test is required.
+
+
