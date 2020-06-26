@@ -1,20 +1,94 @@
-219 New Cases of Covid-19 Infection
+221 More Cases Discharged, 219 New Cases of Covid-19 Infection Confirmed
 
 
 
-219 NEW CASES OF COVID-19 INFECTION
+221 MORE CASES DISCHARGED, 219 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 26 Jun 2020
 
-1. As of 26 June 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 219 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 6 cases in the community, of whom 5 are Singaporeans/ Permanent
-Residents and 1 is a Work Pass holder.
-2. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+1. As of 26 June 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 219 cases of COVID-19 infection in Singapore.
+The breakdown is as follows:
+A) IMPORTED CASES: 0
+There are no imported cases today.
+B) CASES IN THE COMMUNITY: 6 (5 Singaporeans, 1 Work Pass holder)
+Of the 6 cases in the community, 2 had been picked up as a result of our
+proactive surveillance and screening, and 2 had already been placed on
+quarantine earlier.
+Amongst the 5 Singaporean cases, 3 (Cases 42787, 42940 and 42943) had
+been tested after we had identified them as close contacts of previous
+cases. Of these, 2 (Cases 42787 and 42943) had already been quarantined,
+and were swabbed during quarantine to verify their status. Case 42808
+was detected due to our proactive surveillance of persons working at
+dormitories, even though he is asymptomatic. From 3 June 2020, we have
+been conducting surveillance tests for non-residential community care
+staff in settings such as kidney dialysis centres, home care services,
+day hospices, and senior care centres as we transition into Phase One
+and Phase Two. To date, we have tested more than 5,500 staff  (out of an
+estimated 5,700 staff to be tested), and one (Case 42987) has come back
+positive. Her serological test result has also come back positive, which
+indicates likely past infection¹.
+One of the new cases today had met a large group of social contacts for
+sports and social activities. Such behaviour increases the risk of
+transmission and has resulted in his contacts being quarantined. We will
+be investigating this case. We advise the public to abide by the spirit
+of the rule to limit social gatherings to not more than 5 persons.
+The Work Pass holder (Case 42955) had been swabbed after we identified
+him as a contact of previous cases.
+Overall, the number of new cases in the community has increased, from an
+average of 4 cases per day in the week before, to an average of 5 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 2 per day in the past two weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 213
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 98% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4. In the past week (19 June to 25 June), MOH has uncovered links for 7
+previously unlinked cases.
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+CASES FROM PUBLIC HEALTHCARE SECTOR
+Case 42940
+6. Case 42940 is a 23 year-old male Singapore Citizen who has no recent
+travel history to affected countries or regions. He was confirmed to
+have COVID-19 infection on 25 June, and is currently warded at Ng Teng
+Fong General Hospital (NTFGH).
+7. He is employed as a nurse at NTFGH but had not gone to work since
+onset of symptoms.
+Case 42987
+8. Case 42987 is a 27 year-old female Singapore Citizen who has no
+recent travel history to affected countries or regions. She was
+confirmed to have COVID-19 infection on 25 June, and is currently warded
+at the National Centre for Infectious Diseases. Her serological test
+result has come back positive.
+9. She is asymptomatic. Prior to hospital admission, she had gone to
+work at Vanguard Senior Care Centre (Woodlands).
+UPDATE ON CONDITION OF CONFIRMED CASES
+10. 221 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 36,825 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+11. There are currently 183 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 5,921 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 MINISTRY OF HEALTH
 26 JUNE 2020
+
