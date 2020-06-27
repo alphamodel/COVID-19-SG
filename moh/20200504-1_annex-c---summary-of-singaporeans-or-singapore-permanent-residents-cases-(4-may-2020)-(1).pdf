@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Qn+L/p0v5wyk42f96Piv+ivUywFC7oyKSl3oNeKCDAM31+EsNcqeQdP45waqVvOHlslaRX62i3u2DnSVXdYE2lYcN/pDx68lCNZ+nWnC2S8=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Us8g8VEgfjnl9cRL2E9oEOkXmtkTVLh6wwP5PaWErbxiY8DnB2fKYKPQo0w3wqkBM1/Ao6CwBYEPaidxcP+4VFpMOIUwxRq5Gmz40dST6J0=" />
 </div>
 
 <script type="text/javascript">
@@ -565,6 +565,7 @@ Sys.Application._enableHistoryInScriptManager();
 <li> <a href="/forms">Forms</a></li>
 <li> <a href="/contact-us">Contact Us</a></li>
 <li> <a href="https://crms.moh.gov.sg/mohfeedback.aspx" target="_blank">Feedback</a></li>
+<li> <a href="https://www.jusfeedback.asia/Community/se/705E3ECB2B7C0A8E?Agency=MOH&amp;Svc=MOH%20Wesbite&amp;eLnk=www.moh.gov.sg&amp;Cat=Citizen">Rate This Website</a></li>
 </ul>
 </div>
 </div>
