@@ -1,23 +1,108 @@
-215 New Cases of Covid-19 Infection
+511 More Cases Discharged, 215 New Cases of Covid-19 Infection Confirmed
 
 
 
-215 NEW CASES OF COVID-19 INFECTION
+511 MORE CASES DISCHARGED, 215 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 01 Jul 2020
 
-               As of 1 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 215 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 10 cases in the community, of whom 6 are Singaporeans/ Permanent
-Residents and 4 are Work Pass holders. In addition, there are 4 imported
-cases, all of whom had been placed on Stay-Home Notice or isolated upon
-arrival in Singapore.
+            As of 1 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 215 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
+A)  IMPORTED CASES: 4 (3 Singaporeans/ Permanent Residents, 1 Work
+Permit holder)
 
+All 3 Singaporeans/ Permanent Residents (Cases 43950, 44155 and 44156)
+had returned to Singapore from Pakistan on 19 June and 20 June. They
+were  placed on Stay-Home Notice upon arrival in Singapore, and had been
+conveyed in separate dedicated transport to SHN facilities to commence
+their 14-day isolation. They are asymptomatic, and had been tested while
+serving their SHN.
 
-2.  We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+The remaining case (Case 44158) had been tested upon arrival at Tanjong
+Pagar Terminal, and was isolated while awaiting his test result.
+
+B)  CASES IN THE COMMUNITY: 10 (6 Singaporeans, 4 Work Permit holders)
+
+Of the 10 cases in the community, 2 had been picked up as a result of
+our proactive surveillance and screening, and 3 had already been placed
+on quarantine earlier.
+
+Amongst the 6 Singaporean cases, 1 (Case 44052) had been identified as a
+contact of a previously confirmed case, and had already been quarantined
+earlier. Epidemiological investigations are ongoing for the remaining
+cases, of whom 3 (Cases 44073, 44075 and 44118) had been swabbed under
+our enhanced community testing after being diagnosed with acute
+respiratory infection.
+
+Amongst the 4 Work Permit holders, 2 (Cases 44051 and 44053) been
+identified as contacts of previously confirmed cases, and had already
+been quarantined earlier. They were tested during quarantine to verify
+their status, even though they are asymptomatic. The remaining 2 cases
+(Cases 44076 and 44137) are also asymptomatic and were detected due to
+our proactive screening of workers in essential services.
+
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if some of these cases are current or
+past infections.[1] The serological test result for Case 44076 has come
+back positive, which indicates likely past infection. The test results
+for the remaining cases are pending.
+
+Overall, the number of new cases in the community has increased, from an
+average of 4 cases per day in the week before, to an average of 8 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 2 cases per day in the week before,
+to an average of 4 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+C)  CASES RESIDING IN DORMITORIES: 201
+
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 95% are linked to known clusters, while
+the rest are pending contact tracing.
+
+4.  MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the dormitories
+at 48 Toh Guan Road East and 7 Senoko South Road for the past two
+incubation periods (i.e. 28 days), the clusters have now been closed.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.  In the past week (24 June to 30 June), MOH has uncovered
+links for 7 previously unlinked cases.
+
+6.  Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.  511 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 39,011 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+8.  There are currently 209 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 4,876 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
