@@ -1,21 +1,108 @@
-188 New Cases of Covid-19 Infection
+Continued Vigilance Needed With Reopening
 
 
 
-188 NEW CASES OF COVID-19 INFECTION
+CONTINUED VIGILANCE NEEDED WITH REOPENING
 
 
 Published Date: 02 Jul 2020
 
-               As of 2 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 188 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 10 cases in the community, of whom 8 are Singaporeans/ Permanent
-Residents and 2 are Work Pass holders. In addition, there is an imported
-case who had been placed on Stay-Home Notice upon arrival in Singapore.
-2.           We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+                As we resume more of our economic and social activities,
+we must continue to stay vigilant and uphold safe distancing measures.
+The Ministry of Health (MOH) has stepped up surveillance and contact
+tracing of the community cases in June. These have been cases that were
+identified through our expanded testing strategy including regular
+surveillance testing in higher risk settings, and also testing of those
+diagnosed with acute respiratory infection (ARI) at first presentation
+to a doctor. Once a case is detected, MOH will quickly identify all
+potential close contacts, and test and isolate individuals to protect
+the community from further transmission. But we will also need everyone
+to do their part to help control the spread of the infection.
+CLOSELY MONITORING AND AGGRESSIVE RING-FENCING OF COMMUNITY CASES
+2.           In the past week, we have seen an average of 8 new
+community cases a day, of which an average of 4 cases a day are
+unlinked. This is an increase from around 5 community cases a day in the
+last week of Phase One, with about 2 a day being unlinked.
+3.           Many of these cases are picked up from our expanded testing
+strategy, where we test more extensively among key population groups in
+the community.
+  a.  We carry out active surveillance of population groups who are
+deemed vulnerable or who have a higher risk of exposure to COVID-19.
+These include workers in the construction, marine and process sectors,
+and frontline workers supporting our COVID-19 operations.
+  b.  As we re-open our borders and to facilitate travel, we have
+started testing incoming travellers before the end of their Stay-Home
+Notice period.
+  c.  We have also expanded our strategy to test all individuals aged 13
+and above who are diagnosed with ARI at first presentation to a doctor.
+4.           Once cases are identified, MOH will utilise a combination
+of technology tools such as TraceTogether and SafeEntry, as well as
+professional judgment, to contact trace rapidly and quarantine close
+contacts. Over time, our speed to isolation has improved, and the
+average time taken between identification of case to the issuance of a
+quarantine order to close contacts is now less than a day. To ring-fence
+and prevent further spread, we also test all close contacts of confirmed
+COVID-19 cases in the community, at the start and end of their
+quarantine period.
+MANAGEMENT OF CASES AT 111 TAMPINES STREET 11
+5.           Our early detection and aggressive case finding efforts
+have helped us to quickly pick up and ring-fence cases. One example is
+our management of the cases at Block 111 Tampines Street 11. As part of
+our proactive screening of COVID-19 frontline workers, MOH picked up a
+positive case on 23 June involving a 66-year-old Singaporean male[1] who
+works at a dormitory which is a known cluster. Six of his household
+members[2] were subsequently tested positive for COVID-19 as part of
+contact tracing. Separately, on 27 June, a 15 year-old female
+Singaporean[3] residing in the same block reported sick and was
+confirmed to have COVID-19 infection after testing. One of her household
+members[4] also tested positive for COVID-19 as part of contact tracing.
+6.           Epidemiological investigations are ongoing to establish if
+the cases across these two households are linked. However, as a
+precautionary measure, MOH has placed the 58 households residing within
+the same section of the block as the two households with confirmed cases
+under active phone surveillance and is facilitating COVID-19 testing for
+them and their visitors. Other households within the same block do not
+need to be tested as they do not share the same set of lifts and
+stairwell.
+7.           Thus far, MOH has contacted 160 individuals, comprising
+residents and visitors of the affected households, and have facilitated
+testing for them at a nearby clinic. Of the 60 individuals who have been
+tested, so far all have been found to be negative for COVID-19.
+8.           As these households and visitors are not close contacts of
+the confirmed cases, they are assessed to have a low risk of being
+infected. They are therefore not placed on quarantine but put under
+active phone surveillance as a precautionary measure. They will be
+contacted daily by MOH to monitor their health status, for up to 14
+days, till 12 July. Identified residents can continue their essential
+daily activities if they are well, including going to work or school,
+but are encouraged to minimise non-essential activities especially while
+awaiting their COVID-19 test results. They are advised to monitor their
+health. Should they develop acute respiratory infection symptoms, they
+should seek immediate medical attention at nearby Public Health
+Preparedness Clinics (PHPCs) or polyclinics.
+9.           In addition to our testing and contact tracing efforts, the
+Town Council has also taken steps to clean and disinfect the common
+areas in the entire block.As a further precautionary measure, the Town
+Council has also stepped up cleaning and disinfection of surrounding
+blocks.
+10.          Residents can call MOH at 1800-333-9999 if they have
+queries.
+STAYING VIGILANT
+11.          As we resume more activities under Phase Two, we must
+expect the number of cases to increase. We will need to continue to stay
+vigilant. The implementation of strong safe management measures, safe
+distancing measures and strict infection control measures by everyone is
+also key to reducing spread. Individuals should also use the
+TraceTogether and SafeEntry applications to facilitate contact tracing,
+and quickly see a doctor if they have respiratory symptoms. Together
+with everyone’s collective efforts, we can keep COVID-19 under control
+while we progressively resume activities safely.
 MINISTRY OF HEALTH
 2 JULY 2020
+
+------------------------------------------------------------------------
+
+[1] Case 42616
+[2] Cases 42943, 43261, 43263, 43146, 43262 and 44052
+[3] Case 43297
+[4] Case 44053
