@@ -1,31 +1,100 @@
-183 New Cases of Covid-19 Infection
+276 More Cases Discharged 183 New Cases of Covid-19 Infection Confirmed
 
 
 
-183 NEW CASES OF COVID-19 INFECTION
+276 MORE CASES DISCHARGED 183 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 06 Jul 2020
 
-       As of 6 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 183 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 23 cases in the community, of whom 3 are Singaporeans/ Permanent
-Residents and 20 are Work Pass holders. From our preliminary
-investigations, of these 23 cases, 5 were close contacts of earlier
-cases, and had already been placed on quarantine. Another 7 are migrant
-workers who reside together at a temporary accommodation arranged by
-their company. These cases were identified from our periodic screening
-of workers in essential services who are living outside the dormitories,
-and some may be past infections. Epidemiological investigations are
-ongoing for the other cases.
+      As of 6 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 183 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
-2.     In addition, there are 3 imported cases, all of whom had been
-placed on Stay-Home Notice upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-
+A)    IMPORTED CASES: 3 (2 Singaporeans, 1 Work Pass holder)
+Amongst the 3 imported cases, 2 are Singaporeans who returned to
+Singapore from Yemen on 24 June and India on 23 June respectively. The
+remaining case (Case 44962) is a Filipino who returned to Singapore from
+the Philippines on 24 June. She is a Work Pass holder who is currently
+employed in Singapore. All of them had been placed on 14-day Stay-Home
+Notice (SHN) upon arrival in Singapore, and had been tested while
+serving their SHN.
+B) CASES IN THE COMMUNITY: 23 (3 Singaporeans, 1 Work Pass holder, 19
+Work Permit holders)
+Of the 23 cases in the community, 18 had been picked up as a result of
+our proactive surveillance and screening, and 3 had already been placed
+on quarantine earlier.
+17 of the community cases today are linked to previous cases or
+clusters. Of these, 13 had been detected as part of our proactive
+screening of workers in essential services or individuals working in
+dormitories, even though they are all asymptomatic. Amongst them, 7¹ are
+migrant workers who reside together at a temporary accommodation
+arranged by their company. Their PCR test results indicate low viral
+loads, detectable only after many amplification cycles, which means
+these may be past infections. We will conduct serological tests for
+these workers to determine if they have current or past infections but
+in the meantime, MOH is investigating the possible exposures and links,
+and will take appropriate action to prevent further transmission.
+Another 3 cases² (Cases 44937, 44990 and 44996) had been identified as
+contacts of previously confirmed cases, and had been tested during their
+quarantine to determine their status. Epidemiological investigations are
+ongoing for the remaining case (Case 44858) which is linked to
+ASPRI-Westlite Papan dormitory.
+6 of the community cases are currently unlinked. Of these, 5 cases
+(Cases 44924, 44926, 44931, 44932 and 44936) were tested as they work in
+essential services, even though they are all asymptomatic. The remaining
+case (Case 44944) had been tested under our enhanced community testing
+to test all individuals aged 13 and above who are diagnosed with acute
+respiratory infection at first presentation to a doctor. This allows us
+to detect infected individuals early and to quickly contain further
+spread.
+Overall, the number of new cases in the community has increased, from an
+average of 7 cases per day in the week before, to an average of 12 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 4 cases per day in the week before,
+to an average of 5 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+In the past week, from 29 June to 5 July, about 4 in 10 of the community
+cases have been tested serology positive, indicating that they are
+likely past infections³.
+C) CASES RESIDING IN DORMITORIES: 157
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.     Of the new cases, 97% are linked to known clusters, while the
+rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.    In the past week (29 June to 5 July), MOH has uncovered links for
+5 previously unlinked cases.
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     276 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 40,717 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.     There are currently 208 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 4,032 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 6 JULY 2020
+
+------------------------------------------------------------------------
+
+¹Cases 44921, 44922, 44928, 44929, 44930, 44934 and 44935.
+²Updated from the afternoon press release as 2 cases have been
+re-categorised following further investigation.
+³Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
+
