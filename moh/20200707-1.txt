@@ -1,128 +1,77 @@
-Controlling the Infection In Phase Two of Re-opening
+285 More Cases Discharged, 157 New Cases of Covid-19 Infection Confirmed
 
 
 
-CONTROLLING THE INFECTION IN PHASE TWO OF RE-OPENING
+285 MORE CASES DISCHARGED, 157 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 07 Jul 2020
 
-             The Multi-Ministry Taskforce has been closely monitoring
-the COVID-19 situation. There has been an increase in the number of
-community cases as we resume more economic and social activities
-following the end of the Circuit Breaker.  Proactive measures are in
-place to uncover and contain cases early. Linked cases are detected and
-isolated quickly through aggressive ring-fencing. Unlinked cases are
-picked up early from active surveillance and routine testing of targeted
-groups, and expanded testing for those diagnosed with acute respiratory
-infection (ARI)[1].
+1. As of 7 July 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 157 cases of COVID-19 infection in Singapore.
+The breakdown is as follows:
+A) IMPORTED CASES: 3 (1 Work Pass holder, 2 Dependant’s Pass holders)
+Amongst the 3 imported cases, 2 (Cases 45123 and 45147) are Indian
+nationals who are Dependant’s Pass holders, and have returned to
+Singapore from India on 23 June. The remaining case (Case 45024) is a
+Filipino who returned to Singapore from the Philippines on 19 June. She
+is a Work Pass holder who is currently employed in Singapore. All of
+them had been placed on 14-day Stay-Home Notice (SHN) upon arrival in
+Singapore, and had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 20 (12 Singaporeans/ Permanent Residents, 3
+Work Pass holders, 5 Work Permit holders)
+Of the 20 cases in the community, 6 were picked up as a result of our
+proactive surveillance and screening, and 11 had already been placed on
+quarantine earlier. 11 of the cases are asymptomatic, and were all
+detected through our proactive testing.
+12 of the community cases today are linked to previous cases or
+clusters. Of these, 11 had been identified as contacts of previously
+confirmed cases, and had been tested during their quarantine to
+determine their status. The remaining case (Case 45087) was swabbed as
+part of our proactive screening of workers in essential services, even
+though he is asymptomatic.
+8 of the community cases are currently unlinked. Of these, 5 cases
+(Cases 45085, 45089, 45090, 45091 and 45092) were tested as they work in
+essential services, even though they are all asymptomatic. The remaining
+cases (Cases 45027, 45149 and 45164) were swabbed under our enhanced
+community testing to test all individuals aged 13 and above who are
+diagnosed with acute respiratory infection at first presentation to a
+doctor. This allows us to detect infected individuals early and to
+quickly contain further spread.
+Overall, the number of new cases in the community has increased, from an
+average of 8 cases per day in the week before, to an average of 14 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 4 cases per day in the week before,
+to an average of 6 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 134
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 94% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4. In the past week (30 June to 6 July), MOH has uncovered links for 6
+previously unlinked cases.
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 285 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 41,002 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 219 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 1 is in critical condition in
+the intensive care unit. 3,893 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 26 have passed away from
+complications due to COVID-19 infection.
+MINISTRY OF HEALTH
+7 JULY 2020
 
-2.   While the number of unlinked current infections in the
-community remains low, it is indicative of undetected cases in the
-community. Apart from the early detection and isolation measures in
-place, continued vigilance and adherence to safe management measures on
-everyone’s part are important to reduce the spread of infection and
-protect our loved ones.
-
-DECLINE IN TOTAL DAILY CASES; CONTINUED EFFORT TO CLEAR MIGRANT WORKER
-DORMITORIES
-
-3.  The total daily new cases has been on the decline since
-the Circuit Breaker period in April and May 2020.  While migrant worker
-dormitory cases continue to constitute the majority of daily cases, they
-have fallen. The Inter-agency Taskforce (ITF) is continuing its efforts
-to systematically test and clear workers and dormitories.
-
-SOME IMPORTED CASES; ISOLATION UNDER SHN PREVENTS COMMUNITY TRANSMISSION
-
-4.  Over the past week, 20 imported cases were detected.
-This is after a long period where we did not experience imported cases.
-The majority of these cases are returning Singapore Citizens and
-Permanent Residents, and a few are Work Pass or Dependant’s Pass holders
-who have been approved to return to Singapore.
-
-5.  Our border controls remain tight. Travellers are
-isolated under Stay-Home Notices (SHN) on arrival, and tested should
-they become unwell or before they end their SHN. This prevents community
-transmission from imported cases. Even as we gradually reopen our
-borders, we will continue to assess the risk, and have strict border
-controls to protect our Singapore community.
-
-UPTICK IN COMMUNITY CASES; MAJORITY ARE LINKED CASES DETECTED EARLY BY
-AGGRESSIVE RING-FENCING
-
-6.  In the past week, we have seen an average of 12 new
-community cases a day, up from around 8 community cases a day in the
-prior week. Over half of the community cases (57%) since the start of
-Phase One are linked.
-
-7.  The majority of linked cases are detected through active
-case finding and aggressive ring-fencing efforts around confirmed cases.
-Through our contact tracing efforts, close contacts are identified early
-and put on quarantine quickly. This prevents onward transmission in the
-community. Our analysis of the recent cases indicate that households are
-the most common mode of transmission. There are also some transmissions
-happening at workplaces, especially in settings that are at the
-frontline of COVID-19 operations. There are fewer transmission taking
-place through social gatherings for now. This is partly because of the
-tight restrictions imposed on such activities. Continued vigilance is
-therefore necessary as we progressively resume more social activities in
-Phase Two.
-
-CLOSE TO HALF OF UNLINKED CASES ARE PAST INFECTIONS; MANY IN
-CONSTRUCTION OR CONSTRUCTION-RELATED OCCUPATIONS
-
-8.   Regular testing of targeted groups[2] and testing for
-those diagnosed with ARI[3]. have helped detect unlinked cases in the
-community. Of the unlinked cases, about 6 in 10 were asymptomatic, and
-almost half are likely to be past infections as they tested positive
-under serology tests.
-
-9.  Notably, about half of community unlinked cases have
-been from the construction sector or construction-related occupations
-such as building trades workers and electrical instrument fitters.
-Serology testing has found that about two-thirds of these
-construction-related cases are likely to be past infections that are
-unlikely to be currently infectious, which could have been transmissions
-from earlier construction or migrant worker clusters. This shows that
-the construction sector continues to be a higher risk setting for
-transmission, as the nature of work can make it more challenging to
-maintain strict safe management and distancing measures. The Building
-and Construction Authority has been working closely with the industry
-and relevant Trade Associations and Chambers to implement the COVID-Safe
-restart criteria before projects are allowed to resume. Regular testing
-is an important aspect for early detection of cases to reduce further
-spread.
-
-10.  The remaining unlinked cases in the community continue to
-be in the low single digits currently. Our ARI testing has scaled up
-significantly in the recent two weeks, which has helped to pick up these
-cases. They are an important indicator of underlying community spread.
-
-STAYING VIGILANT
-
-11.  As we resume more activities under Phase Two, we must be
-prepared for the number of cases to increase. Apart from the early
-detection and isolation measures that are in place, adherence to strong
-safe management measures, safe distancing measures and strict infection
-control measures by everyone is key to reducing spread. Individuals
-should also use the TraceTogether and SafeEntry applications to
-facilitate contact tracing. We strongly encourage anyone who is not
-feeling well to see a doctor, who is best placed to provide clinical
-assessment including whether testing is needed as a safeguard and
-precaution, so that cases can be detected early. Through everyone’s
-collective efforts, we can keep COVID-19 under control while we
-progressively resume activities safely.
-
-------------------------------------------------------------------------
-
-[1] For those aged 13 and above.
-
-[2] With increased testing capacity, the Multi-Ministry Task Force has
-expanded community testing to include active surveillance testing of
-targeted groups who are more vulnerable or have higher risk of exposure
-to COVID-19. In this regard, we have been conducting regular testing of
-workers who returned to work in the construction, marine and process
-sectors, and workers supporting our frontline COVID-19 operations.
-
-[3] For those aged 13 and above.
