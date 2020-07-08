@@ -1,78 +1,99 @@
-100 Nurses Recognised With Nurses’ Merit Award
+321 More Cases Discharged, 158 New Cases of Covid-19 Infection Confirmed
 
 
 
-100 NURSES RECOGNISED WITH NURSES’ MERIT AWARD
+321 MORE CASES DISCHARGED, 158 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 08 Jul 2020
 
-         100 nurses were presented with the Nurses’ Merit Award (NMA)
-on 8 July 2020. The NMA started in 1976 and is awarded to nurses who
-have displayed noteworthy and exceptional performance, participated in
-professional development, and contributed to raising the nursing
-profession. Nurses are nominated for the award by their healthcare
-institutions and selected by a panel set up by the Ministry of Health
-(MOH).
-2.          The award recipients come from various care settings,
-spanning the community care sector, private hospitals and public
-healthcare institutions. See Annex A for the list of award recipients.
-3.         The award comes with a medal to be worn as part of the
-nurse’s uniform and a cash prize of $1,000.
-KEY MILESTONES OF NURSING IN SINGAPORE 2020
-4.         2020 marks the 135th anniversary of nursing in Singapore. It
-has also been designated by the World Health Organization as The Year of
-the Nurse and Midwife.
-5.         Over the years, the role of a nurse has expanded to
-encompass community nursing, education, research and technology, to
-achieve better care outcomes for our patients. The nursing workforce has
-also grown, from 36,000 in 2013 to more than 42,000 today. Over the
-years, our nurses have adapted and developed skillsets that ensured that
-their knowledge and practices remain relevant, as the healthcare system
-continues to evolve, with advancements in evidence-based medicine and
-healthcare technology.
-COMMUNITY NURSING COMPETENCY FRAMEWORK
-6.         To support the professional growth and development of
-nurses, new opportunities and pathways for upgrading must continue to be
-created. The Community Nursing Competency Framework (CNCF) was launched
-in January 2020. It defines the scope of work, roles and professional
-competencies required of nurses practising in community care settings at
-various stages of their career. With the framework in place, there will
-be greater clarity on the roles of community nurses, and the training
-and development of these nurses can be better structured and organised.
-The competency framework marks the profession’s aspirations to meet the
-growing needs of the ageing population in Singapore and presents
-alternative development as well as careers opportunities for nurses. The
-Framework is available online at
-https://www.nna.gov.sg/resources-tools/nursing-competency-framework.
-NATIONAL NURSING ACADEMY
-7.         In March 2020, the National Nursing Academy (NNA) website
-was published with a vision to champion professional development of
-nurses. Its mission is to promote lifelong learning, provide
-accessibility to continuing education and training, and enable
-continuous professional development with robust workplace-based
-programmes.
-8.         The website provides a platform to facilitate the learning
-needs and portability of workplace-based training of nurses across
-institutions and settings. In the longer term, nurses will be able to
-sign up for courses listed on the website to grow clinical skills and
-knowledge in areas they want to further develop. This will enable nurses
-to build on nursing competencies attained since graduating from their
-pre-registration nursing programmes. Healthcare institutions may also
-use the list of courses to plan their staff training and development.
-Course providers, including Institutes of Higher Learning, may identify
-learning gaps and develop programme and courses to address these gaps.
-They may also look up information on the website to guide them on the
-process of how their courses and programmes may be accredited. The NNA
-website is accessible at www.nna.gov.sg.
-COMMEMORATIVE BOOK ON 135TH ANNIVERSARY OF NURSING IN SINGAPORE
-9.         As Singapore fights the battle against COVID-19, our
-dedicated nurses have been working tirelessly at the frontline – in our
-healthcare institutions, community care facilities, dormitories, nursing
-homes and at checkpoints – to keep Singapore safe.
-10.         To mark 135 years of nursing in Singapore, recognise the
-contributions of our nurses and celebrate their professional journeys, a
-commemorative book on nursing will be launched later this month. The
-book will showcase the noble profession of nursing, highlighting nurses’
-selfless sacrifice through a compilation of personal stories from our
-nurses over the years.
+1.      As of 8 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 158 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+a)     IMPORTED CASES: 3 (1 Singaporean, 2 Dependant's Pass holders)
+Amongst the 3 imported cases, 2 (Cases 45196 and 45197) are Indian
+nationals who are Dependant's Pass holders, and have returned to
+Singapore from India on 26 June. The remaining case (Case 45241) is a
+Singaporean who returned to Singapore from the Philippines on 26 June.
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and had been tested while serving their SHN.
+b)     CASES IN THE COMMUNITY: 9 (4 Singaporeans/ Permanent Residents,
+2 Work Pass holders, 3 Work Permit holders)
+Of the 9 cases in the community, 4 were picked up as a result of our
+proactive surveillance and screening, and 2 had already been placed on
+quarantine earlier. 6 of the cases are asymptomatic, and were all
+detected through our proactive testing.
+3 of the community cases today are linked to previous cases or clusters.
+Of these, 2 (Cases 45250 and 45307) had been identified as contacts of
+previously confirmed cases, and had been tested during their quarantine
+to determine their status. The remaining case (Case 45288) is
+asymptomatic, and was detected as a result of our proactive screening of
+workers in essential services.
+6 of the community cases are currently unlinked. Of these, 3 cases
+(Cases 45290, 45289 and 45291) were tested as they work in essential
+services, even though they are asymptomatic. The remaining 3 cases
+(Cases 45183, 45227 and 45242) were swabbed under our enhanced community
+testing to test all individuals aged 13 and above who are diagnosed with
+acute respiratory infection at first presentation to a doctor. This
+allows us to detect infected individuals early and to quickly contain
+further spread. Epidemiological investigations are ongoing for these
+cases.
+Overall, the number of new cases in the community has increased, from an
+average of 8 cases per day in the week before, to an average of 14 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 4 cases per day in the week before,
+to an average of 6 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+c)     CASES RESIDING IN DORMITORIES: 146
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.  Details of these trends can be found in MOH's daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 96% are linked to known clusters, while the
+rest are pending contact tracing.
+4.      The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. The following dormitories have been
+cleared, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+10 Tuas South Street 12;
+109 Ubi Avenue 4;
+11 Defu Lane 1;
+12 Kwong Min Road;
+18 Woodlands Industrial Park E1;
+55 Genting Lane; and
+6 Tuas View Square.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.      In the past week (1 July to 7 July), MOH has uncovered links for
+2 previously unlinked cases.
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      321 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 41,323 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.      There are currently 215 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 3,734 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
+9.      Case 45227, a 69 year-old male Singaporean, has passed away on 7
+July 2020. He had been found unresponsive at his place of residence and
+was conveyed to Sengkang General Hospital's emergency department on 7
+July. He was confirmed to have COVID-19 infection on the same day. He
+had a history of diabetes mellitus, hypertension, hyperlipidaemia,
+hypothyroidism and chronic kidney disease. The preliminary cause of
+death is cardiorespiratory failure, pending further investigations by
+the Coroner¹.
+[1] Only cases where the attending doctor or pathologist attributes the
+primary or underlying cause of death as due to COVID-19 infection will
+be added to the COVID-19 death count. This is consistent with
+international practice for classifying deaths.
