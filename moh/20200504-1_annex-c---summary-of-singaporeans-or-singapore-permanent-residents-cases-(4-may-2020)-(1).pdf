@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="rkdhOOav0U54xknTZ7RnTePTtXMO5UoRxHTBsKWmotbpevonZ8tYzEispHODJMNHfLpVnCSiS1e/2Q1Gv8XyXD5utTj7tfsPyJo2JpZwA88=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="BqPkUK+75IeSCxh6p1lFYP1dmB3pBGOWC1zKKLqUmojockBaHsctuzuwjP9d6N7+HwVhbQ3G3u0LsaWQl0dVBoSRlzViBzBYK+BCB+c3/Dc=" />
 </div>
 
 <script type="text/javascript">
@@ -191,6 +191,14 @@ Sys.Application._enableHistoryInScriptManager();
                                                                     <strong>Enforcement Actions for Breaches of Regulatory Requirements </strong>
                                                                     <div>
                                                                         List of enforcement actions taken by MOH under the PHMCA, MRA and DRA
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/upcoming-and-completed-healthcare-facilities"  >
+                                                                    <strong>Upcoming and Completed Healthcare Facilities </strong>
+                                                                    <div>
+                                                                        View all upcoming and completed healthcare facilities.
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -497,9 +505,12 @@ Sys.Application._enableHistoryInScriptManager();
 </li>
 <li><a href="http://hcidirectory.sg/hcidirectory/ ">Healthcare Locator</a>
 <ul>
+
+<li><a href="https://www.moh.gov.sg/home/search-for-healthcare-institutions">Search for Healthcare Institutions</a></li>
 <li><a href="https://www.moh.gov.sg/hpp/all-healthcare-professionals/healthcare-professionals-search ">Search for Healthcare Professionals </a></li>
 <li><a href="https://www.moh.gov.sg/suspensions-revocations-from-healthcare-financing-schemes ">Suspensions/Revocations from Healthcare Financing Schemes</a></li>
 <li><a href="https://www.moh.gov.sg/enforcement-actions-for-breaches-of-regulatory-requirements ">Enforcement Actions for Breaches of Regulatory Requirements</a></li>
+<li><a href="https://www.moh.gov.sg/upcoming-and-completed-healthcare-facilities">Upcoming and Completed Healthcare Facilities</a></li>
 </ul>
 </li>
 <li><a href="https://www.moh.gov.sg/diseases-updates/being-prepared-for-a-pandemic ">Disease Updates</a>
