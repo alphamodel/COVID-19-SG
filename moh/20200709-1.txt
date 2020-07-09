@@ -1,27 +1,102 @@
-125 New Cases of Covid-19 Infection
+322 More Cases Discharged, 125 New Cases of Covid-19 Infection Confirmed
 
 
 
-125 NEW CASES OF COVID-19 INFECTION
+322 MORE CASES DISCHARGED, 125 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 09 Jul 2020
 
-       As of 9 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 125 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 21 cases in the community, of whom 4 are Singaporeans/ Permanent
-Residents and 17 are Work Pass holders. From our preliminary
-investigations, of these 21 cases, 5 were close contacts of earlier
-cases, and had already been placed on quarantine. Epidemiological
-investigations are ongoing for the other cases.
-2.    In addition, there is 1 imported case who had been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+        As of 9 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 125 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
+A) IMPORTED CASES: 1 (1 Permanent Resident)
+There is an imported case today involving a Singapore Permanent Resident
+who returned to Singapore from India on 23 June. She had been placed on
+14-day Stay-Home Notice (SHN) upon arrival in Singapore, and had been
+tested while serving SHN.
+B) CASES IN THE COMMUNITY: 21 (4 Singaporeans/ Permanent Residents, 3
+Work Pass holders, 14 Work Permit holders)
+Of the 21 cases in the community, 11 were picked up as a result of our
+proactive surveillance and screening, and 5 had already been placed on
+quarantine earlier. 15 of the cases are asymptomatic, and were all
+detected through our proactive testing.
+10 of the community cases today are linked to previous cases or
+clusters. Of these, 5 (Cases 45369, 45370, 45371, 45420 and 45465) had
+been identified as contacts of previously confirmed cases, and had been
+tested during their quarantine to determine their status. The remaining
+5 cases (Cases 45357, 45358, 45361, 45362 and 45366) are all
+asymptomatic, and were detected as a result of our proactive screening
+of workers in essential services.
+11 of the community cases are currently unlinked. Of these, 6 cases were
+detected from our proactive testing. 4 of them (Cases 45360, 45364,
+45365 and 45422) were tested as they work in essential services, even
+though they are asymptomatic. The other 2 cases (Cases 45356 and 45363)
+were swabbed as part of our efforts to screen individuals working in
+frontline COVID-19 operations. Of the remaining cases, 4 (Cases 45345,
+45347, 45354 and 45373) were swabbed under our enhanced community
+testing to test all individuals aged 13 and above who are diagnosed with
+acute respiratory infection at first presentation to a doctor. This
+allows us to detect infected individuals early and to quickly contain
+further spread. Epidemiological investigations are ongoing for these
+cases, as well as the remaining case (Case 45379).
+Overall, the number of new cases in the community has increased, from an
+average of 9 cases per day in the week before, to an average of 16 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 4 cases per day in the week before,
+to an average of 8 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 103
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 91% are linked to known clusters, while the
+rest are pending contact tracing.
+4.        We announced on 2 July that MOH has placed 58 households
+residing at Block 111 Tampines Street 11 under active phone surveillance
+and would be facilitating COVID-19 testing for them and their visitors.
+This is a precautionary measure after MOH had detected 9 confirmed cases
+from 2 households residing at the block. All infected individuals from
+these 2 households have been isolated earlier and are recovering in
+hospitals or community care facilities. In total, 123 residents and
+visitors have been tested so far, and all the results have come back
+negative for COVID-19. Epidemiological investigations are ongoing, but
+thus far there is no evidence of spread beyond the 2 households. MOH
+will continue to closely monitor the situation.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.       In the past week (2 July to 8 July), MOH has uncovered links
+for 3 previously unlinked cases.
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      322 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 41,645 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.        There are currently 197 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 3,554 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
+9.       Case 43688, a 38 year-old male Bangladeshi national, has passed
+away on 7 July 2020. He had been conveyed to Ng Teng Fong General
+Hospital on 28 June after suffering a seizure, and subsequently
+developed intracranial haemorrhage. He was confirmed to have COVID-19
+infection on 28 June. The preliminary cause of death is
+cardiorespiratory failure, pending further investigations by the
+Coroner. ¹
 MINISTRY OF HEALTH
 9 JULY 2020
 
+[1] Only cases where the attending doctor or pathologist attributes the
+primary or underlying cause of death as due to COVID-19 infection will
+be added to the COVID-19 death count. This is consistent with
+international practice for classifying deaths.
 
