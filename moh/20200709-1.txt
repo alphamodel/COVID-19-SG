@@ -85,7 +85,7 @@ condition in the intensive care unit. 3,554 are isolated and cared for
 at community facilities. These are those who have mild symptoms, or are
 clinically well but still test positive for COVID-19. 26 have passed
 away from complications due to COVID-19 infection.
-9.       Case 43688, a 38 year-old male Bangladeshi national, has passed
+9.      Case 43688, a 38 year-old male Bangladeshi national, has passed
 away on 7 July 2020. He had been conveyed to Ng Teng Fong General
 Hospital on 28 June after suffering a seizure, and subsequently
 developed intracranial haemorrhage. He was confirmed to have COVID-19
