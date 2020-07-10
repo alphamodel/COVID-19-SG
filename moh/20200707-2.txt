@@ -17,7 +17,7 @@ picked up early from active surveillance and routine testing of targeted
 groups, and expanded testing for those diagnosed with acute respiratory
 infection (ARI)[1].
 
-2.   While the number of unlinked current infections in the
+2.               While the number of unlinked current infections in the
 community remains low, it is indicative of undetected cases in the
 community. Apart from the early detection and isolation measures in
 place, continued vigilance and adherence to safe management measures on
@@ -27,7 +27,7 @@ protect our loved ones.
 DECLINE IN TOTAL DAILY CASES; CONTINUED EFFORT TO CLEAR MIGRANT WORKER
 DORMITORIES
 
-3.  The total daily new cases has been on the decline since
+3.              The total daily new cases has been on the decline since
 the Circuit Breaker period in April and May 2020.  While migrant worker
 dormitory cases continue to constitute the majority of daily cases, they
 have fallen. The Inter-agency Taskforce (ITF) is continuing its efforts
@@ -35,13 +35,13 @@ to systematically test and clear workers and dormitories.
 
 SOME IMPORTED CASES; ISOLATION UNDER SHN PREVENTS COMMUNITY TRANSMISSION
 
-4.  Over the past week, 20 imported cases were detected.
+4.              Over the past week, 20 imported cases were detected.
 This is after a long period where we did not experience imported cases.
 The majority of these cases are returning Singapore Citizens and
 Permanent Residents, and a few are Work Pass or Dependant’s Pass holders
 who have been approved to return to Singapore.
 
-5.  Our border controls remain tight. Travellers are
+5.              Our border controls remain tight. Travellers are
 isolated under Stay-Home Notices (SHN) on arrival, and tested should
 they become unwell or before they end their SHN. This prevents community
 transmission from imported cases. Even as we gradually reopen our
@@ -51,12 +51,12 @@ controls to protect our Singapore community.
 UPTICK IN COMMUNITY CASES; MAJORITY ARE LINKED CASES DETECTED EARLY BY
 AGGRESSIVE RING-FENCING
 
-6.  In the past week, we have seen an average of 12 new
+6.              In the past week, we have seen an average of 12 new
 community cases a day, up from around 8 community cases a day in the
 prior week. Over half of the community cases (57%) since the start of
 Phase One are linked.
 
-7.  The majority of linked cases are detected through active
+7.              The majority of linked cases are detected through active
 case finding and aggressive ring-fencing efforts around confirmed cases.
 Through our contact tracing efforts, close contacts are identified early
 and put on quarantine quickly. This prevents onward transmission in the
@@ -72,13 +72,13 @@ Phase Two.
 CLOSE TO HALF OF UNLINKED CASES ARE PAST INFECTIONS; MANY IN
 CONSTRUCTION OR CONSTRUCTION-RELATED OCCUPATIONS
 
-8.   Regular testing of targeted groups[2] and testing for
+8.               Regular testing of targeted groups[2] and testing for
 those diagnosed with ARI[3]. have helped detect unlinked cases in the
 community. Of the unlinked cases, about 6 in 10 were asymptomatic, and
 almost half are likely to be past infections as they tested positive
 under serology tests.
 
-9.  Notably, about half of community unlinked cases have
+9.              Notably, about half of community unlinked cases have
 been from the construction sector or construction-related occupations
 such as building trades workers and electrical instrument fitters.
 Serology testing has found that about two-thirds of these
@@ -94,14 +94,14 @@ restart criteria before projects are allowed to resume. Regular testing
 is an important aspect for early detection of cases to reduce further
 spread.
 
-10.  The remaining unlinked cases in the community continue to
+10.          The remaining unlinked cases in the community continue to
 be in the low single digits currently. Our ARI testing has scaled up
 significantly in the recent two weeks, which has helped to pick up these
 cases. They are an important indicator of underlying community spread.
 
 STAYING VIGILANT
 
-11.  As we resume more activities under Phase Two, we must be
+11.          As we resume more activities under Phase Two, we must be
 prepared for the number of cases to increase. Apart from the early
 detection and isolation measures that are in place, adherence to strong
 safe management measures, safe distancing measures and strict infection
