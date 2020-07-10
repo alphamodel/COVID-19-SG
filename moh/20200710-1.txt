@@ -1,32 +1,97 @@
-191 New Cases of Covid-19 Infection (10 July)
+135 More Cases Discharged; 191 New Cases of Covid-19 Infection Confirmed
 
 
 
-191 NEW CASES OF COVID-19 INFECTION (10 JULY)
+135 MORE CASES DISCHARGED; 191 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 10 Jul 2020
 
-      As of 10 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 191 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 16 cases in the community, of whom 7 are Singaporeans/ Permanent
-Residents and 9 are Work Pass holders. From our preliminary
-investigations, of these 16 cases, 8 were close contacts of earlier
-cases, and had already been placed on quarantine. Epidemiological
-investigations are ongoing for the other cases.
-2.     In addition, there is 1 imported case who had been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+        As of 10 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 191 cases of COVID-19 infection in
+Singapore. The breakdown is as follows:
 
-
-
-
-
+A) IMPORTED CASES: 1 (1 Permanent Resident)
+There is an imported case today involving a Singapore Permanent Resident
+who returned to Singapore from India on 6 July. She had been placed on
+14-day Stay-Home Notice (SHN) upon arrival in Singapore, and had been
+tested while serving SHN.
+B) CASES IN THE COMMUNITY: 16 (7 Singaporeans, 5 Work Pass holders, 4
+Work Permit holders)
+Of the 16 cases in the community, 5 were picked up as a result of our
+proactive surveillance and screening, and 8 had already been placed on
+quarantine earlier. 10 of the cases are asymptomatic, and were all
+detected through our proactive testing.
+8 of the community cases today are linked to previous cases or clusters.
+All of them had been identified as contacts of previously confirmed
+cases, and had been tested during their quarantine to determine their
+status. Of these, two cases (Cases 45482 and 45495) are family members
+of a known family cluster at 111 Tampines Street 11, and had earlier
+been quarantined. Thus far there is no evidence of spread beyond the 2
+affected households that were previously announced. [1] MOH will
+continue to closely monitor the situation.
+8 of the community cases are currently unlinked. Of these, 5 cases were
+detected from our proactive testing. 4 of them (Cases 45497, 45498,
+45499 and 45500) were detected as a result of our proactive screening of
+workers in essential services, even though 3 of them are asymptomatic.
+Another (Case 45496) was swabbed as part of our efforts to screen
+individuals working in frontline COVID-19 operations. The remaining 3
+cases (Cases 45479, 45481 and 45597) were symptomatic, and had been
+tested under our enhanced community testing to test all individuals aged
+13 and above who are diagnosed with acute respiratory infection at first
+presentation to a doctor. The serological test result for Case 45479 is
+positive, which indicates likely past infection.[2]
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Overall, the number of new cases in the community has increased, from an
+average of 9 cases per day in the week before, to an average of 16 per
+day in the past week. The number of unlinked cases in the community has
+also increased, from an average of 5 cases per day in the week before,
+to an average of 9 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 174
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.   Of the new cases, 94% are linked to known clusters, while the rest
+are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.   In the past week (3 July to 9 July), MOH has uncovered links for 4
+previously unlinked cases.
+5.   Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.   135 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 41,780 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.   There are currently 203 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 3,604 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 26 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 10 JULY 2020
 
 
+
+------------------------------------------------------------------------
+
+[1] In total, 123 residents and visitors have been tested so far, and
+all the results have come back negative for COVID-19.
+
+[2] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
