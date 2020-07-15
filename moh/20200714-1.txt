@@ -10,12 +10,12 @@ Published Date: 14 Jul 2020
                 As of 14 July 2020, 12pm, the Ministry of Health (MOH)
 has confirmed and verified an additional 347 cases of COVID-19 infection
 in Singapore. The breakdown of the cases is as follows:
-  A)  IMPORTED CASES: 2 (2 Singaporeans)
+  A) IMPORTED CASES: 2 (2 Singaporeans)
 There are 2 imported cases today who are both Singaporeans who returned
 to Singapore from India on 9 July. They had been placed on 14-day
 Stay-Home Notice (SHN) upon arrival in Singapore, and had been tested
 while serving SHN.
-  B)  CASES IN THE COMMUNITY: 7 (1 Singaporean, 3 Work Pass holders, 3
+  B) CASES IN THE COMMUNITY: 7 (1 Singaporean, 3 Work Pass holders, 3
 Work Permit holders)
 Of the 7 cases in the community, 4 were picked up as a result of our
 proactive surveillance and screening, and 3 had already been placed on
@@ -42,7 +42,7 @@ increased, from an average of 6 cases per day in the week before, to an
 average of 7 per day in the past week. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
-  C)  CASES RESIDING IN DORMITORIES: 338
+  C) CASES RESIDING IN DORMITORIES: 338
 We continue to pick up cases amongst Work Permit holders residing in
 dormitories, including in factory-converted dormitories, because of
 extensive testing in these premises, as part of our process to verify
@@ -50,9 +50,9 @@ and test the status of all workers.
 2.            Details of these trends can be found in MOH’s daily
 situation Report (www.moh.gov.sg/covid-19/situation-report). Please
 refer to Annex A for the summary of the confirmed cases.
-3.            Of the new cases, 99% are linked to known clusters, while
+3.           Of the new cases, 99% are linked to known clusters, while
 the rest are pending contact tracing.
-4.            We have to date tested and cleared more than 215,000
+4.           We have to date tested and cleared more than 215,000
 workers (or two-thirds of those living in dormitories). Work is ongoing
 to prepare these dormitories to be declared cleared, and for workers to
 resume work. We are on track to clear about 80% of workers staying in
@@ -64,23 +64,23 @@ of them came from dormitories with higher prevalence of COVID-19
 infection, we can expect a higher number of confirmed cases in the next
 few days from this group of migrant workers.
 LINKS BETWEEN PREVIOUS CASES FOUND
-5.            In the past week (7 July to 13 July), MOH has uncovered
+5.           In the past week (7 July to 13 July), MOH has uncovered
 links for 9 previously unlinked cases.
-6.            Further epidemiological investigations and contact tracing
+6.           Further epidemiological investigations and contact tracing
 have uncovered links between previously announced and new cases. Please
 refer to Annex B and Annex C for details.
 UPDATE ON CONDITION OF CONFIRMED CASES
-7.            196 more cases of COVID-19 infection have been discharged
+7.           196 more cases of COVID-19 infection have been discharged
 from hospitals or community isolation facilities. In all, 42,737 have
 fully recovered from the infection and have been discharged from
 hospitals or community care facilities.
-8.            There are currently 161 confirmed cases who are still in
+8.           There are currently 161 confirmed cases who are still in
 hospital. Of these, most are stable or improving, and none is in the
 intensive care unit. 3,704 are isolated and cared for at community
 facilities. These are those who have mild symptoms, or are clinically
 well but still test positive for COVID-19. 27 have passed away from
 complications due to COVID-19 infection.
-9.            Case 17168, a 62 year-old male Singapore Citizen, has
+9.           Case 17168, a 62 year-old male Singapore Citizen, has
 passed away from complications due to COVID-19 infection on 14 July
 2020. He was confirmed to have COVID-19 infection on 30 April, and had a
 history of diabetes mellitus, hypertension and hyperlipidaemia. Sengkang
