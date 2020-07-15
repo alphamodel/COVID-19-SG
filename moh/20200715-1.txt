@@ -1,24 +1,98 @@
-249 New Cases of Covid-19 Infection
+251 More Cases Discharged, 249 New Cases of Covid-19 Infection Confirmed
 
 
 
-249 NEW CASES OF COVID-19 INFECTION
+251 MORE CASES DISCHARGED, 249 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 15 Jul 2020
 
-     As of 15 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 249 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 16 cases in the community, all of whom are Work Pass holders. From
-our preliminary investigations, of these 16 cases, 4 were close contacts
-of earlier cases, and had already been placed on quarantine.
-Epidemiological investigations are ongoing for the other cases.
-2.   In addition, there are 5 imported cases who had been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
-3.    We are still working through the details of the cases today, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+      As of 15 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 249 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 5 (1 Singaporean, 1 Work Pass holder, 1 Student’s
+Pass holder, 1 Long-Term Visit Pass holder, 1 Short-Term Visit Pass
+holder)
+Amongst the 5 imported cases, 1 (Case 46809) is a Singaporean who
+returned from India on 3 July. Another 2 cases (Cases 46744 and 46795)
+are Work Pass or Student’s Pass holders who are currently employed or
+study in Singapore.  Another case (Case 46743) is a Long-Term Visit Pass
+holder whose spouse is a Singapore Permanent Resident. All of them had
+been placed on 14-day Stay-Home Notice (SHN) upon arrival in Singapore,
+and had been tested while serving their SHN.
+The remaining case (Case 46802) had been conveyed in a dedicated
+transport from Changi Airport to a vessel at Jurong Port upon arrival in
+Singapore, where he had remained until he was placed on quarantine at a
+government quarantine facility.
+B) CASES IN THE COMMUNITY: 15 [1] (3 Work Pass holders, 12 Work Permit
+holders)
+Of the 15 cases in the community, 11 were picked up as a result of our
+proactive surveillance and screening, and 3 had already been placed on
+quarantine earlier. 14 of the cases are asymptomatic, and were detected
+through our proactive testing.
+5 of the community cases today are linked to previous cases or clusters.
+Of these, 3 cases (Cases 46766, 46942 and 46943) had been identified as
+contacts of previously confirmed cases, and had been tested during their
+quarantine to determine their status, even though they are asymptomatic.
+The remaining 2 cases (Cases 46807 and 46812) are also asymptomatic, and
+were swabbed as part of our periodic screening of workers in the
+construction sector.
+10 of the community cases are currently unlinked. Of these, 9 cases had
+been detected as a result of our screening of workers in essential
+services who are living outside the dormitories. Epidemiological
+investigations are ongoing for the remaining case (Case 46730), who was
+swabbed under our enhanced community testing to test all individuals
+aged 13 and above who are diagnosed with acute respiratory infection at
+first presentation to a doctor. This allows us to detect infected
+individuals early and to quickly contain further spread.
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Overall, the number of new cases in the community has decreased, from an
+average of 14 cases per day in the week before, to an average of 13 per
+day in the past week. The number of unlinked cases in the community has
+increased, from an average of 6 cases per day in the week before, to an
+average of 8 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 229
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.   Of the new cases, 94% are linked to known clusters, while the rest
+are pending contact tracing.
+4.   The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. The dormitory at 11 Tuas Avenue 10 has
+been cleared, and now houses only recovered individuals and those who
+have recently tested negative for COVID-19 infection. As such, the
+cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.   In the past week (8 July to 14 July), MOH has uncovered links for
+11 previously unlinked cases.
+6.   Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.    251 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 42,988 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.   There are currently 159 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 3,704 are isolated and cared for at community facilities.
+These are those who have mild symptoms, or are clinically well but still
+test positive for COVID-19. 27 have passed away from complications due
+to COVID-19 infection.
 MINISTRY OF HEALTH
 15 JULY 2020
+==
+[1] Updated from the afternoon press release as one case has been
+re-classified following contact tracing.
