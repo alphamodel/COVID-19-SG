@@ -1,180 +1,113 @@
-Keeping Our Guard Up to Avoid Resurgence of Cases
+321 More Cases Discharged, 327 New Cases of Covid-19 Infection Confirmed
 
 
 
-KEEPING OUR GUARD UP TO AVOID RESURGENCE OF CASES
+321 MORE CASES DISCHARGED, 327 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 17 Jul 2020
 
-               The Multi-Ministry Taskforce has been closely monitoring
-the global and local COVID-19 situation. Several countries are
-experiencing a resurgence of cases after a general resumption of
-activities. There are useful lessons to be learnt from their
-experiences, in particular the key drivers of infection, to inform our
-strategies to control the infection locally. Even as we gradually resume
-travel corridors, we will continue to assess the risk, and have strict
-border controls to prevent community transmission from imported cases.
+1.     As of 17 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 327 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
 
-2.             We continue to take aggressive actions to detect and
-ring-fence local transmissions. Our testing for those diagnosed with
-Acute Respiratory Infection (ARI) [1] has scaled up significantly over
-the past few weeks, which has helped to pick up new cases. They are an
-important indicator of underlying community spread. While the number of
-unlinked current infections in the community remains low, everyone must
-play their part and exercise social responsibility. Continued vigilance
-and adherence to safe management measures on everyone’s part remains
-important to reduce the spread of infection and protect our loved ones.
+a.  IMPORTED CASES: 3 (1 Singaporean, 1 Dependant’s Pass holder, 1
+    Long-Term Visit Pass holder)
 
+    Amongst the 3 imported cases, 1 (Case 47522) is a Singaporean who
+    returned from the Philippines on 6 July. The remaining cases are
+    children who are Dependant’s Pass or Long-Term Visit Pass holders
+    who arrived in Singapore from India on 26 June (Case 47389) and 15
+    July (Case 47529). All of them had been placed on 14-day Stay-Home
+    Notice (SHN) upon arrival in Singapore, and had been tested while
+    serving their SHN.
 
+b.  CASES IN THE COMMUNITY: 9 (6 Singaporeans, 2 Work Pass holders, 1
+    Work Permit holder)
 
-GLOBAL CASES CONTINUE TO RISE; SOME COUNTRIES EXPERIENCING RESURGENCE
+    Of the 9 cases in the community, 1 was picked up as a result of our
+    proactive surveillance and screening, and 4 had already been placed
+    on quarantine earlier. 5 of the cases are asymptomatic, and were
+    detected through our proactive testing.
 
-3.             Globally, there are now more than 13 million reported
-COVID-19 cases and more than 500,000 deaths. Many countries such as the
-United States and Brazil are still reporting large surges in case
-numbers. Several countries are experiencing a resurgence of cases and
-have been reporting large clusters following a period of low to no
-cases.
+    8 of the community cases today are linked to previous cases or
+    clusters. Of these, 4 cases (Cases 47434, 47445, 47504 and 47521)
+    had been identified as contacts of previously confirmed cases, and
+    had been placed on quarantine earlier. They were tested during their
+    quarantine to determine their status, even though 3 of them are
+    asymptomatic. Another case (Case 47502) was identified from our
+    testing of individuals working in frontline COVID-19 operations. The
+    remaining 3 cases (Cases 47242, 47508 and 47509) were swabbed under
+    our enhanced community testing to test all individuals aged 13 and
+    above who are diagnosed with acute respiratory infection at first
+    presentation to a doctor. This allows us to detect infected
+    individuals early and to quickly contain further spread.
 
-4.             There are useful lessons to draw from these overseas
-experiences, especially on the efficacy of safe management measures and
-potential gaps that could have led to infection outbreaks. For instance,
-there were cases in Israel and Victoria (Australia) that were attributed
-to non-compliance to social distancing measures (e.g. going out when
-unwell, organising large parties). Clusters had also been observed in
-Hong Kong due to reported falling compliance to mask-wearing in
-restaurants and cafes. There are also useful reminders of the inherent
-risk in settings where there is close, prolonged contact among
-individuals. For example, South Korea reported clusters in religious
-gatherings at churches/temples and in workplaces, while both South Korea
-and Tokyo (Japan) reported clusters traced to night-life establishments.
+    There is 1 community case (Case 47229) today who is currently
+    unlinked. She had been hospitalised for reasons not related to
+    COVID-19 and was subsequently tested positive following her demise.
+    Epidemiological investigations of the case is in progress. In the
+    meantime, all the identified close contacts of the case have been
+    isolated and placed on quarantine, and will be tested at the start
+    and end of their quarantine period so that we can detect
+    asymptomatic cases. We will also conduct serological tests for the
+    household contacts.
 
-5.             We cannot afford to be complacent in Singapore,
-especially after we have resumed most activities after a long circuit
-breaker period. Experts have advised that COVID-19 can be transmitted
-through very small water droplets, which are released when speaking,
-coughing or sneezing. Everyone is reminded that they should have their
-masks on and wear them properly when outside of their homes, except when
-eating or drinking or exercising. For those who are not feeling well or
-for vulnerable groups such as the elderly and persons with concurrent
-medical conditions, it is also advisable to wear medical masks or
-reusable masks with better filtration capabilities, like the recent ones
-that the government has distributed to all Singaporeans.Everyone should
-continue to avoid crowds, especially in enclosed spaces. Even though we
-are no longer in the Circuit Breaker period, everyone is encouraged to
-keep their social circles constant, and continue to interact through
-non-physical means as much as possible. Individuals should not gather in
-groups of more than 5 to minimise risk of transmission and large
-clusters forming. Every step taken towards reducing the risk of spread,
-goes a long way towards keeping our community and loved ones safe.
+    Overall, the number of new cases in the community has decreased,
+    from an average of 16 cases per day in the week before, to an
+    average of 11 per day in the past week. The number of unlinked cases
+    in the community has also decreased, from an average of 8 cases per
+    day in the week before, to an average of 6 per day in the past
+    week. We will continue to closely monitor these numbers, as well as
+    the cases detected through our surveillance programme.
 
+c.  CASES RESIDING IN DORMITORIES: 315
 
+ We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
 
-MAINTAIN STRICT BORDER CONTROLS
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
 
-6.             We will adjust our border controls, in line with the
-COVID-19 situation abroad and the assessed risk of importation from
-arriving travellers. Given the resurgence of cases in these regions [2],
-travellers entering Singapore after 19 July 2020, 2359 hours, who have
-recent travel history, including transit, to Victoria (Australia);
-Japan; and Hong Kong within the last 14 days will be required to serve
-their Stay-Home Notice (SHN) at dedicated SHN facilities instead of
-their own place of residence. They will also need to undergo a COVID-19
-test before they end their SHN as is the current requirement.
+3.     Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
 
-7.             All travellers who left Singapore from 27 March 2020
-despite the prevailing travel advisory, and travellers who are not
-Singapore Citizens or Permanent Residents are required to pay for their
-stay at dedicated SHN facilities.
+LINKS BETWEEN PREVIOUS CASES FOUND
 
-8.             As the global situation evolves, we will continue to
-update our border measures. Travellers planning to enter Singapore
-should be prepared to be subjected to the prevailing border measures
-upon entry, including payment for their stay at dedicated SHN facilities
-where applicable.
+4.     In the past week (10 July to 16 July), MOH has uncovered links
+for 13 previously unlinked cases.
 
-9.             The Multi-Ministry Taskforce continues to work on all
-fronts, to protect against the various sources of risk in our vulnerable
-segments, at the workplace, in schools, religious venues, and our border
-controls.
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
 
+UPDATE ON CONDITION OF CONFIRMED CASES
 
+6.     321 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 43,577 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
 
-COMMUNITY CASES REMAIN ELEVATED; HOWEVER UNLINKED ARI COMMUNITY CASES
-ARE IN LOW SINGLE-DIGITS
+7.     There are currently 165 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 3,684 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 
-10.             In the past week, we have seen an average of around 12
-new community cases a day, similar to the figures in the first week of
-July. Around half of the community cases over the past two weeks are
-linked. We continue to actively test close contacts of confirmed cases
-to ring-fence possible onward transmissions, and regularly test targeted
-groups [3] to help us detect unlinked cases in the community. Of the
-unlinked cases, about 7 in 10 were asymptomatic, and almost half are
-likely to be past infections as they tested positive under serology
-tests.
-
-11.             The remaining cases in the community continue to be in
-the low single digits. We have significantly scaled up testing of those
-with ARI symptoms at first presentation, and are now testing around
-2,400 ARI cases a day on average. We monitor the cases closely, as it is
-an indicator of underlying transmissions in the community. At this
-point, the prevalence in the community remains low, but we will continue
-to be vigilant as undetected cases can easily lead to clusters. Apart
-from the early detection and isolation measures that are in place,
-individuals should also use the TraceTogether and SafeEntry applications
-to facilitate contact tracing and help protect their loved ones, and see
-a doctor if they are not feeling well.
-
-
-
-UPDATE ON PROGRESS OF CLEARANCE OF DORMITORIES
-
-12.             The Inter-agency Taskforce (ITF) is continuing efforts
-to systematically test and clear workers and dormitories. As of 16 July
-2020, around 232,000 workers have either recovered, or have been tested
-to be free from the virus. The ITF is in the final stretch of this work,
-and expects to complete the testing of all workers by mid-August.
-
-13.             We continue to expedite the safe resumption of work for
-all of the migrant workers in the dormitories. There are presently
-workers who have recovered from COVID-19 and are ready to return to
-work. However, they currently cannot do so as some residents in their
-dormitories/blocks are still serving their isolation. In consultation
-with the Ministry of Health, the ITF has put in place additional
-decontamination measures to allow these recovered workers to leave the
-dormitories to resume work safely, without compromising public health.
-This will be implemented progressively over the next week. Employers
-will be able to check the AccessCode details of their workers through
-the Safe@Work eService on the Ministry of Manpower’s website.
-
-STAYING VIGILANT
-
-14.             As we resume more activities under Phase Two, we must
-double down on our efforts to control the spread of the virus. We
-strongly encourage anyone who is not feeling well to go see a doctor,
-who is best placed to provide clinical assessment including whether
-testing is needed as a safeguard and precaution, so that cases can be
-detected early. Through everyone’s collective efforts, we can keep
-COVID-19 under control while we progressively resume activities safely.
-
-
-
-MINISTRY OF HEALTH
-
-17 JULY 2020
+8.     Case 47229, a 72 year-old female Singapore Citizen, has passed
+away on 15 July 2020. She had been conveyed to the National University
+Hospital’s emergency department on 15 July for reasons not related to
+COVID-19, and had a history of diabetes mellitus. She was confirmed to
+have COVID-19 infection on 16 July after her demise. The cause of death
+is intracerebral haemorrhage. [1]
 
 ------------------------------------------------------------------------
 
-[1] For those aged 13 and above.
-
-[2] Sources: Victoria State Department of Health and Human Services;
-Ministry of Health, Labour and Welfare, Japan; Hong Kong Centre for
-Health Protection (as of 17 Jul).
-[3] Community testing includes active surveillance testing of targeted
-groups who are more vulnerable or have higher risk of exposure to
-COVID-19. In this regard, we have been conducting regular testing
-of workers who returned to work in the construction, marine and process
-sectors, and workers supporting our frontline COVID-19 operations.
-
-
+[1] Only cases where the attending doctor or pathologist attributes the
+primary or underlying cause of death as due to COVID-19 infection will
+be added to the COVID-19 death count. This is consistent with
+international practice for classifying deaths.
