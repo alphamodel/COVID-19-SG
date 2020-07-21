@@ -1,45 +1,91 @@
-President’s Award for Nurses 2020
+213 More Cases Discharged, 399 New Cases of Covid-19 Infection Confirmed
 
 
 
-PRESIDENT’S AWARD FOR NURSES 2020
+213 MORE CASES DISCHARGED, 399 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 21 Jul 2020
 
-      Five nurses have been honoured with the President’s Award for
-Nurses this year, the highest accolade in Singapore’s nursing
-profession. This brings the total number of recipients since the
-inception of the award in 2000 to 77.
-2.    This national award recognises nurses who have shown sustained
-outstanding performance and contributions to patient care delivery,
-education, research and administration.
-3.    The award is open to all registered nurses from healthcare
-institutions in the public, private, and community care sectors, as well
-as the educational institutions. Nurses are nominated by their
-institutions, public or peers, and interviewed by a panel chaired by Dr
-Chia Shi-Lu.
-4.    This year’s award recipients include two from acute hospitals, and
-one each from hospice, national speciality centre and community nursing
-settings. Of the five recipients, two are Advanced Practice Nurses.
-5.    The five recipients are:
-- MS CHIN SOH MUN
-Director of Nursing, Dover Park Hospice
-- DR ALICE CHUA FOONG SIN
-Assistant Director of Nursing, Advanced Practice Nurse, National Cancer
-Centre Singapore
-- MS KALA D/O NARAYANASAMY
-Deputy Director of Nursing, Woodlands Health Campus
-- MS TAY YEE KIAN
-Assistant Director of Nursing, Advanced Practice Nurse, Regional Health
-System Office, National University Health System
-- MS PATRICIA YONG YUEH LI
-Deputy Director of Nursing, Singapore General Hospital
-7.    Each awardee received a trophy, a certificate signed by President
-and a $10,000 cash prize that can be used for their professional and
-personal development. More information on the award recipients is in the
-Annex.
+          As of 21 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 399 cases of COVID-19 infection in
+Singapore. The higher number of cases today is mainly due to a batch of
+test results from the previous day reported to MOH after the 12pm
+cut-off for yesterday’s reporting. The breakdown of the cases is as
+follows:
+A) IMPORTED CASES: 3 (2 Work Pass holders, 1 Special Pass holder)
+Amongst the imported cases, 2 (Cases 48148 and 48149) arrived in
+Singapore from India on 9 July. They are Work Pass holders who are
+currently employed in Singapore. They had been placed on 14-day
+Stay-Home Notice (SHN) upon arrival in Singapore, and had been tested
+while serving their SHN.
+The remaining case (Case 48146) had arrived in Singapore from the
+Philippines on 19 July, and was conveyed directly to the National Centre
+for Infectious Diseases as he was symptomatic. He is a seaman currently
+holding a Special Pass who will join a vessel that called in our Port.
+B) CASES IN THE COMMUNITY: 9 (1 Singaporean, 3 Work Pass holders, 5 Work
+Permit holders)
+Of the 9 cases in the community, 7 were picked up as a result of our
+proactive surveillance and screening, and 2 had already been placed on
+quarantine earlier. 8 of the cases are asymptomatic, and were detected
+through our proactive testing.
+3 of the community cases today are linked to previous cases or clusters.
+Of these, 2 (Cases 48259 and 48513) had been identified as contacts of
+previously confirmed cases, and had been placed on quarantine earlier.
+They are asymptomatic and were tested during quarantine to determine
+their status. The remaining case (Case 48154) is also asymptomatic, and
+was swabbed as part of our efforts to screen individuals working in
+frontline COVID-19 operations.
+6 of the community cases are currently unlinked. All of them were
+detected from our proactive screening of workers in essential services
+who are living outside the dormitories, even though 5 of them are
+asymptomatic.
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Overall, the number of new cases in the community has decreased, from an
+average of 13 cases per day in the week before, to an average of 10 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 7 cases per day in the week before,
+to an average of 6 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 387
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 96% are linked to known clusters, while the
+rest are pending contact tracing.
+4.      The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. Woodlands Lodge II (190 Woodlands
+Industrial Park E7) and SSKBJV Dormitory (31A Tanah Merah Coast Road)
+have been cleared, and now house only recovered individuals and those
+who have recently tested negative for COVID-19 infection. As such, the
+clusters have now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.      In the past week (14 July to 20 July), MOH has uncovered links
+for 2 previously unlinked cases in the community.
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.     213 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 44,584 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.       There are currently 170 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 3,653 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 21 JULY 2020
-
-
