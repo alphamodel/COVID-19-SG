@@ -1,20 +1,95 @@
-310 New Cases of Covid-19 Infection
+211 More Cases Discharged; 310 New Cases of Covid-19 Infection Confirmed
 
 
 
-310 NEW CASES OF COVID-19 INFECTION
+211 MORE CASES DISCHARGED; 310 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 22 Jul 2020
 
       As of 22 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 310 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 7 cases in the community, of whom 3 are Singaporeans/ Permanent
-Residents and 4 are Work Pass holders.
-2.      In addition, there are 6 imported cases who had been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified an additional 310 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 6 (3 Singaporeans/ Permanent Residents, 3 Work Pass
+holders)
+Amongst the imported cases, 3 (Cases 48551, 48552 and 48821) are
+Singaporeans/Permanent Residents who returned to Singapore from India on
+12 July, and from Kazakhstan on 10 July. The remaining 3 (Cases 48535,
+48579 and 48820) are Work Pass holders who are currently employed in
+Singapore. They arrived in Singapore from the Philippines on 8 July and
+10 July. All of them had been placed on 14-day Stay-Home Notice (SHN)
+upon arrival in Singapore, and had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 7 (3 Singaporeans, 3 Work Pass holders, 1
+Work Permit holder)
+Of the 7 cases in the community, 6 were picked up as a result of our
+proactive surveillance and screening, and 1 had already been placed on
+quarantine earlier. 6 of the cases are asymptomatic, and were detected
+through our proactive testing.
+2 of the community cases today are linked to previous cases or clusters.
+Of these, 1 (Case 48550) had been identified as a contact of a
+previously confirmed case, and had been placed on quarantine earlier.
+She was tested during quarantine to determine her status, even though
+she is asymptomatic. The remaining case (Case 48695) was swabbed as part
+of our efforts to screen individuals working in frontline COVID-19
+operations, and had been detected before symptoms onset.
+5 of the community cases are currently unlinked. All of them were
+detected from our proactive screening of workers in essential services
+who are living outside the dormitories, even though they are
+asymptomatic.
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Overall, the number of new cases in the community has decreased, from an
+average of 13 cases per day in the week before, to an average of 9 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 8 cases per day in the week before,
+to an average of 5 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 297
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 98% are linked to known clusters, while the
+rest are pending contact tracing.
+4.      The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. The following dormitories have been
+cleared, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+-   Cochrane Lodge II (49 Admiralty Road West);
+-   Hulett Dormitory (20 Senoko Drive);
+-   Shaw Lodge (12 Shaw Road);
+-   Tampines Dormitory (2 Tampines Place);
+-   31 Sungei Kadut Avenue; and
+-   230 Woodlands Industrial Park E5.
+
+5.      In the past week (15 July to 21 July), MOH has uncovered links
+for 2 previously unlinked cases in the community.
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.     211 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 44,795 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.      There are currently 150 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 3,772 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+
+MINISTRY OF HEALTH
+22 JULY 2020
