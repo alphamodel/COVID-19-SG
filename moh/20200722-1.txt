@@ -65,7 +65,6 @@ workers residing in dormitories. The following dormitories have been
 cleared, and now house only recovered individuals and those who have
 recently tested negative for COVID-19 infection. As such, the clusters
 have now been closed.
-LINKS BETWEEN PREVIOUS CASES FOUND
 
 -   Cochrane Lodge II (49 Admiralty Road West);
 
@@ -79,6 +78,7 @@ LINKS BETWEEN PREVIOUS CASES FOUND
 
 -   230 Woodlands Industrial Park E5.
 
+LINKS BETWEEN PREVIOUS CASES FOUND
 5.      In the past week (15 July to 21 July), MOH has uncovered links
 for 2 previously unlinked cases in the community.
 6.      Further epidemiological investigations and contact tracing have
