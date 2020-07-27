@@ -1,24 +1,60 @@
-469 New Cases of Covid-19 Infection
+171 More Cases Discharged, 469 New Cases of Covid-19 Infection Confirmed
 
 
 
-469 NEW CASES OF COVID-19 INFECTION
+171 MORE CASES DISCHARGED, 469 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 27 Jul 2020
 
-       As of 27 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 469 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 2 cases in the community, of whom 1 is a Singaporean and 1 is a Work
-Pass holder.
-2.    In addition, there are 15 imported cases who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+          As of 27 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 469 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 15 (2 Singaporeans, 7 Work Pass holders, 4 Work
+Permit holders, 2 Dependant’s Pass holders)
+Amongst the 15 imported cases, 2 (Cases 50694 and 50695) are
+Singaporeans who returned to Singapore from India on 15 July. Another 11
+cases are Work Pass or Work Permit holders who are currently employed in
+Singapore. They arrived in Singapore from India or the Philippines
+between 14 July and 15 July. Another 2 cases (Cases 50454 and 50696) are
+Dependant’s Pass holders who arrived from India on 12 July and 14 July.
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 2 (1 Singaporean, 1 Work Pass holder)
+Both cases in the community are linked to previous cases or clusters,
+and were detected due to our proactive screening of persons working at
+dormitories, even though they are asymptomatic.
+Overall, the number of new cases in the community has decreased, from an
+average of 10 cases per day in the week before, to an average of 5 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 5 cases per day in the week before,
+to an average of 3 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 452
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.      171 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 45,692 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.      There are currently 179 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 4,940 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 27 JULY 2020
-
-
