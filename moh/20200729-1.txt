@@ -1,22 +1,114 @@
-334 New Cases of Covid-19 Infection
+205 More Cases Discharged, 334 New Cases of Covid-19 Infection Confirmed
 
 
 
-334 NEW CASES OF COVID-19 INFECTION
+205 MORE CASES DISCHARGED, 334 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 29 Jul 2020
 
-1.      As of 29 July 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 334 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there
-are 3 cases in the community, of whom 2 are Singaporeans/ Permanent
-Residents and 1 is a Work Pass holder.
+1.     As of 29 July 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 334 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
 
-2.     In addition, there are 4 imported cases, who had been placed on
-Stay-Home Notice upon arrival in Singapore.
+a.  IMPORTED CASES: 4 (1 Singaporean, 1 Work Pass holder, 2 Student’s
+    Pass holders)
 
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+    Amongst the 4 imported cases, 1 (Case 51546) is a Singaporean who
+    returned to Singapore from India on 17 July. Another case
+    (Case 51536) is a Work Pass holder who is currently employed in
+    Singapore, and had arrived from the Philippines on 15 July. The
+    remaining 2 cases (Cases 51340 and 51560) are Student’s Pass holders
+    who arrived from India on 14 July, and from Indonesia on 17 July.
+    All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+    arrival in Singapore, and were serving their SHN at dedicated
+    facilities. They had been tested while serving their SHN.
+
+b.  CASES IN THE COMMUNITY: 3 (2 Singaporeans, 1 Work Pass holder)
+
+
+
+    All 3 cases in the community today are linked to previous cases or
+    clusters. Cases 51369, 51609 and 51610 had been identified as
+    contacts of previously confirmed cases, and had been placed on
+    quarantine earlier. They were tested during quarantine to determine
+    their status, even though they are asymptomatic.
+
+    Overall, the number of new cases in the community has decreased,
+    from an average of 9 cases per day in the week before, to an average
+    of 4 per day in the past week. The number of unlinked cases in the
+    community has also decreased, from an average of 5 cases per day in
+    the week before, to an average of 2 per day in the past week. We
+    will continue to closely monitor these numbers, as well as the cases
+    detected through our surveillance programme.
+
+c.  CASES RESIDING IN DORMITORIES: 327
+
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+
+3.     Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+
+4.     The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. The following dormitories have been
+cleared, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+
+-   60 Benoi Road;
+-   9 Gul Street 1;
+-   15 Kaki Bukit Road 4;
+-   23 Kaki Bukit Road 6;
+-   44 Kaki Bukit Industrial Terrace;
+-   96 Kaki Bukit Industrial Terrace;
+-   98 Kaki Bukit Industrial Terrace;
+-   35 Kaki Bukit Place;
+-   2 Perumal Road
+-   36 Senoko Road;
+-   13 Senoko Way;
+-   23H Sungei Kadut Street 1;
+-   1 Sungei Kadut Street 4;
+-   204 Tagore Lane;
+-   214 Tagore Lane;
+-   9 Tech Park Crescent;
+-   19A Tech Park Crescent;
+-   44 Toh Guan Road East;
+-   1 Tuas Avenue 10;
+-   6 Tuas Basin Link;
+-   59H Tuas South Avenue 1;
+-   63 Tuas South Avenue 1;
+-   Pesko Engineering Pte Ltd (2 Joo Koon Road); and
+-   Proptech Pte Ltd (38 Senoko Road).
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.     In the past week (22 July to 28 July), MOH has uncovered links
+for 1 previously unlinked case in the community.
+
+6.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.     205 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 46,098 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+8.     There are currently 184 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 5,222 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
