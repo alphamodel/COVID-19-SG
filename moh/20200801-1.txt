@@ -1,19 +1,105 @@
-307 New Cases of Covid-19 Infection
+249 More Cases Discharged, 307 New Cases of Covid-19 Infection Confirmed
 
 
 
-307 NEW CASES OF COVID-19 INFECTION
+249 MORE CASES DISCHARGED, 307 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 01 Aug 2020
 
 1.      As of 1 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 307 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there is
-1 case in the community, who is a Singaporean.
-2.  In addition, there are 5 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified an additional 307 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 5 (2 Work Pass holders, 2 Dependant’s Pass holders, 1
+Long-Term Visit Pass holder)
+Amongst the 5 imported cases, 2 (Cases 52303 and 52352) are Work Pass
+holders who are currently employed in Singapore, and had arrived from
+the Philippines on 29 July and India on 20 July. Another 2 (Cases 52321
+and 52353) are Dependant’s Pass holders who arrived from India on 19
+July and 20 July. The remaining case (Case 52299) is a Long-Term Visit
+Pass holder who arrived from China on 20 July. All of them had been
+placed on 14-day Stay-Home Notice (SHN) upon arrival in Singapore, and
+were tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 1 (1 Singaporean)
+There is 1 case in the community today who is currently unlinked. Case
+52334 was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection at first presentation to a doctor. This allows us to identify
+infected individuals early and to quickly contain further spread.
+Overall, the number of new cases in the community has decreased, from an
+average of 7 cases per day in the week before, to an average of 3 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 4 cases per day in the week before,
+to an average of 1 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 301
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.      Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 99% are linked to known clusters, while the
+rest are pending contact tracing.
+4.      The Inter-Agency Task Force has been systematically and
+progressively clearing dormitories through aggressive testing of migrant
+workers residing in dormitories. The following dormitories have been
+cleared, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+• Alaunia Lodge (Admiralty Road West);
+• Homestay Lodge (39 Kaki Bukit Avenue 3);
+• Jurong Penjuru Dormitory (58 Penjuru Place);
+• PPT Lodge 1A (8 Seletar North Link);
+• Westlite Mandai dormitory (34 Mandai Estate);
+• 5 Fourth Chin Bee Road;
+• 15 Gul Way;
+• 106 International Road;
+• 10 Kwong Min Road;
+• 5 Neythal Road;
+• 2 Pioneer Sector Walk;
+• 61 Senoko Drive;
+• 21B Senoko Loop;
+• 29 Senoko South Road;
+• 2 Sungei Kadut Avenue;
+• 34 Sungei Kadut Loop;
+• 9 Sungei Kadut Way;
+• 5 Tech Park Crescent;
+• 14 Tech Park Crescent;
+• 54 Tech Park Crescent;
+• 43 Tuas View Close;
+• 21 Tuas View Loop;
+• 12 Tuas View Place;
+• 21 Tuas View Square;
+• 32 Tuas View Square;
+• 52 Tuas View Square;
+• 131 Tuas View Square;
+• 137 Tuas View Square;
+• 113 Tuas View Walk 1;
+• 121 Tuas View Walk 1;
+• 33 Tuas View Walk 2;
+• 7 Woodlands Industrial Park E1;
+• 36 Woodlands Industrial Park E1;
+• 242 Woodlands Industrial Park E5;
+• 170 Woodlands Industrial Park E7; and
+• 515 Yishun Industrial Park A.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      249 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 46,740 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 117 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 5,628 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+
+
