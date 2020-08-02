@@ -1,21 +1,67 @@
-313 New Cases of Covid-19 Infection
+186 More Cases Discharged, 313 New Cases of Covid-19 Infection Confirmed
 
 
 
-313 NEW CASES OF COVID-19 INFECTION
+186 MORE CASES DISCHARGED, 313 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 02 Aug 2020
 
-       As of 2 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 313 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-foreign worker dormitories. Based on our investigations so far, there is
-1 case in the community, who is a Singapore Permanent Resident.
-2.    In addition, there are 5 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+     As of 2 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 313 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A)   IMPORTED CASES: 5 (2 Work Pass holders, 2 Dependant’s Pass holders,
+1 Student’s Pass holder)
+Amongst the 5 imported cases, 2 (Cases 52858 and 52878) are Work Pass
+holders who are currently employed in Singapore, and had arrived from
+India on 19 July and 21 July. Another 2 (Cases 52857 and 52859) are
+Dependant’s Pass holders who arrived from Japan and India on 21 July.
+The remaining case (Case 52838) is a Student’s Pass holder who arrived
+from Indonesia on 19 July. All of them had been placed on 14-day
+Stay-Home Notice (SHN) upon arrival in Singapore, and were serving their
+SHN at dedicated facilities. They had been tested while serving their
+SHN.
+B)   CASES IN THE COMMUNITY: 1 (1 Permanent Resident)
+There is 1 case in the community today who is linked to a previous case.
+Case 52875 is a family member of a previously confirmed imported case
+(Case 52049) with recent travel history to India. As Case 52049 is a
+minor who had been placed on SHN upon arrival in Singapore, Case 52875
+had requested to be isolated at the dedicated SHN facility with him. She
+became symptomatic during isolation, and was tested to determine her
+status.
+Overall, the number of new cases in the community has decreased, from an
+average of 7 cases per day in the week before, to an average of 2 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 4 cases per day in the week before,
+to an average of 1 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C)  CASES RESIDING IN DORMITORIES: 307
+We continue to pick up cases amongst Work Permit holders residing in
+dormitories, including in factory-converted dormitories, because of
+extensive testing in these premises, as part of our process to verify
+and test the status of all workers.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+Afor the summary of the confirmed cases.
+3.     All the new cases are linked to known clusters.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.    Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex Cfor details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.    186 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 46,926 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 109 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 5,763 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 2 AUGUST 2020
+
+
+
