@@ -1,24 +1,80 @@
-132 New Cases of Covid-19 Infection
+271 More Cases Discharged, 132 New Cases of Covid-19 Infection Confirmed
 
 
 
-132 NEW CASES OF COVID-19 INFECTION
+271 MORE CASES DISCHARGED, 132 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 08 Aug 2020
 
         As of 8 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 132 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders residing in
-a few standalone blocks in the dormitories that serve as quarantine
-facilities. Based on our investigations so far, there is 1 case in the
-community, who is a Singaporean.
-2.     In addition, there are 6 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified an additional 132 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 6 (1 Work Pass holder, 2 Work Permit holders, 3
+Dependant’s Pass holders)
+Amongst the 6 imported cases, 3 (Cases 54960, 54971 and 54972) are Work
+Pass/ Work Permit holders who are currently employed in Singapore. They
+arrived in Singapore from India and Indonesia on 27 July. The remaining
+3 cases (Cases 54952, 54961 and 54970) are Dependant’s Pass holders who
+arrived from India on 27 July and the US on 26 July.
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and were serving their SHN at dedicated
+facilities. They had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 1  (1 Singaporean)
+There is 1 case in the community today (Case 54969) who had been
+identified as a contact of a previously confirmed case, and had been
+placed on quarantine earlier. She was tested during quarantine to
+determine her status.
+Overall, the number of new cases in the community has decreased, from an
+average of 3 cases per day in the week before, to an average of 2 per
+day in the past week. The number of unlinked cases in the community has
+remained stable at an average of 1 case per day in the past 14 days. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 125
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories on 7 August, except for a few standalone blocks in the
+dormitories that serve as quarantine facilities. The workers in these
+quarantine facilities will be tested when their isolation ends, and we
+expect the case counts to remain high in the coming days, before
+tapering down thereafter.
+2.    Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.        All the new cases are linked to known clusters.
+4.     The Inter-agency Taskforce has completed the clearing of
+dormitories through aggressive testing of workers. The following
+dormitories have been cleared, and now house only recovered individuals
+and those who have recently tested negative for COVID-19 infection. As
+such, the clusters have now been closed.
+• Blue Stars Dormitory (3 Kian Teck Lane)
+• Joo Koon Lodge (68 Joo Koon Circle)
+• Kranji Lodge I (12 Kranji Road)
+• S11 Dormitory @ Punggol (2 Seletar North Link)
+• Toh Guan Dormitory (19A Toh Guan Road East)
+• 10 Gul Drive
+• 2 Kampong Ampat
+• 31 Kranji Crescent
+• 9 Sungei Kadut Street 3
+• 40 Tuas View Square
+• 109 Tuas View Walk 1
+• 64 Woodlands Industrial Park E9
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.      In the past week (1 August to 7 August), MOH has uncovered links
+for 1 previously unlinked case in the community.
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      271 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 48,583 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.     There are currently 145 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 6,174 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 8 AUGUST 2020
-
-
