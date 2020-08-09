@@ -1,23 +1,67 @@
-175 New Cases of Covid-19 Infection
+332 More Cases Discharged, 175 New Cases of Covid-19 Infection Confirmed
 
 
 
-175 NEW CASES OF COVID-19 INFECTION
+332 MORE CASES DISCHARGED, 175 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 09 Aug 2020
 
-        As of 9 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 175 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders currently
-under quarantine and workers tested in previous days due to dormitory
-clearance. Based on our investigations so far, there is 1 case in the
-community, who is a Singaporean.
-2.     In addition, there are 3 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 9 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 175 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 3 (1 Singaporean, 2 Work Pass holders)
+Amongst the 3 imported cases, 1 (Case 55143) is a Singaporean who
+returned to Singapore from India on 25 July. The remaining 2 (Cases
+55138 and 55142) are Work Pass holders who are currently employed in
+Singapore. They arrived in Singapore from India on 26 July. All of them
+had been placed on 14-day Stay-Home Notice (SHN) upon arrival in
+Singapore, and were serving their SHN at dedicated facilities. They had
+been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 1  (1 Singaporean)
+There is 1 case in the community today who is currently unlinked. Case
+55169 was tested after she sought medical treatment for prolonged acute
+respiratory infection (ARI) symptoms. Epidemiological investigations of
+the case are in progress. In the meantime, all the identified close
+contacts have been isolated and placed on quarantine, and will be tested
+at the start and end of their quarantine period so that we can detect
+asymptomatic cases.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 171
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories on 7 August, and some of the test results are still
+being processed. There are currently about 23,500 workers who are still
+serving out their isolation period at quarantine facilities. These
+workers will be tested when their isolation ends, and we expect the case
+counts to remain high in the coming days, before tapering down
+thereafter.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.     Of the new cases, 98% are linked to known clusters, while the
+rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.     In the past week (2 August to 8 August), MOH has uncovered links
+for 1 previously unlinked case in the community.
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     332 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 48,915 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.     There are currently 135 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 6,027 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 9 AUGUST 2020
 
