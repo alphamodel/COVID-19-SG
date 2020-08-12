@@ -1,21 +1,79 @@
-42 New Cases of Covid-19 Infection
+392 More Cases Discharged, 42 New Cases of Covid-19 Infection Confirmed
 
 
 
-42 NEW CASES OF COVID-19 INFECTION
+392 MORE CASES DISCHARGED, 42 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 12 Aug 2020
 
 1. As of 12 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 42 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders currently
-under quarantine. Based on our investigations so far, there is 1 case in
-the community, who is a Singaporean.
-2. In addition, there are 11 imported cases, who had all been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
-3. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified an additional 42 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 11 (2 Singaporeans, 3 Work Pass holders, 1 Work
+Permit holder, 4 Dependant’s Pass holders, 1 Special Pass holder)
+Amongst the 11 imported cases, 2 are Singaporeans who returned to
+Singapore from India on 3 July (Case 55439) and from Indonesia on 30
+July (Case 55436). Case 55439 is a child who had served his Stay-Home
+Notice (SHN) with his parent and siblings in the same room at a
+dedicated facility, and was subsequently placed on quarantine when his
+SHN contacts tested positive for COVID-19. He was tested during
+quarantine to verify his status.
+4 cases (Cases 55444, 55464, 55465 and 55470) are Dependant’s Pass
+holders who arrived from India on 28 July and 31 July. Another 4 cases
+(Cases 55455, 55456, 55457 and 55458) are Work Pass/ Work Permit holders
+currently employed in Singapore who arrived from the Philippines on 29
+July and from India on 31 July.
+All of them had been placed on 14-day SHN upon arrival in Singapore, and
+were serving their SHN at dedicated facilities. They had been tested
+while serving their SHN or quarantine.
+The remaining case (Case 55471) is a seaman currently holding a Special
+Pass who arrived in Singapore from India on 8 August on a vessel. He
+reported symptoms and was swabbed while on the vessel. He had remained
+on the vessel until his test result came back positive for COVID-19, and
+was subsequently conveyed in an ambulance to a hospital.
+B) CASES IN THE COMMUNITY: 1 (1 Singaporean)
+There is 1 case in the community today (Case 55469) who had been
+identified as a contact of a previously confirmed case. He had been
+placed on quarantine earlier, and was tested during quarantine.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 30
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories. There are currently about 22,800 workers who are still
+serving out their quarantine period.¹ These workers will be tested when
+their quarantine ends, and we expect the case counts to remain high in
+the coming days, before tapering down thereafter.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 99% are linked to known clusters, while the rest
+are pending contact tracing.
+4. The Inter-agency Taskforce has completed the clearing of dormitories
+through aggressive testing of workers. The dormitories at 33 Senoko Way
+and 23 Sungei Kadut Street 2 have been cleared, and now house only
+recovered individuals and those who have recently tested negative for
+COVID-19 infection. As such, the clusters have now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 392 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 50,520 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 92 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and none is in the intensive care
+unit. 4,756 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 27 have passed away from complications due to
+COVID-19 infection.
+[1] Includes about 800 migrant workers who were newly quarantined
+because we discovered a case amongst them in a cleared dormitory.
 MINISTRY OF HEALTH
 12 AUGUST 2020
