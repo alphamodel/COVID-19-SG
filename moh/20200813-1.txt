@@ -1,20 +1,103 @@
-102 New Cases of Covid-19 Infection
+216 More Cases Discharged, 102 New Cases of Covid-19 Infection Confirmed
 
 
 
-102 NEW CASES OF COVID-19 INFECTION
+216 MORE CASES DISCHARGED, 102 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 13 Aug 2020
 
-1.  As of 13 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 102 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders currently
-under quarantine. Based on our investigations so far, there are 5 cases
-in the community, of whom 1 is a Singapore Permanent Resident and 4 are
-Work Pass holders.
-2.  In addition, there are 6 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+1.      As of 13 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 102 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A)  IMPORTED CASES: 6 (2 Singaporeans, 4 Special Pass holders)
+Amongst the 6 imported cases, 2 are Singaporeans who returned to
+Singapore from the Philippines on 11 August (Case 55482) and from the
+UAE on 1 August (Case 55561). They had both been placed on 14-day
+Stay-Home Notice (SHN) upon arrival in Singapore, and were serving their
+SHN at dedicated facilities. They had been tested while serving their
+SHN.
+The remaining cases (Cases 55555, 55556, 55557 and 55558) are seamen who
+are Special Pass holders. They arrived in Singapore from India on 8
+August on a vessel, where they had not disembarked from. They
+subsequently reported symptoms and were swabbed while on the vessel,
+where they had remained until their test results came back positive for
+COVID-19. They were then conveyed in ambulances to a hospital.
+B)  CASES IN THE COMMUNITY: 5 (1 Permanent Resident, 4 Work Permit
+holders)
+Of the 5 cases in the community, 4 were picked up as a result of our
+proactive surveillance and screening, and 1 had already been placed on
+quarantine earlier. All of them are asymptomatic, and were detected
+through our proactive testing.
+There is 1 case in the community today (Case 55562) who had been
+identified as a contact of a previously confirmed case. She had been
+placed on quarantine earlier, and was tested during quarantine to
+determine her status.
+4 of the community cases are currently unlinked. Of these, 3 cases
+(Cases 55559, 55570 and 55576) were identified as a result of our
+periodic screening of workers in essential services who are living
+outside the dormitories. The remaining case (Case 55577) was tested as
+part of our efforts to screen individuals working in frontline COVID-19
+operations. To determine if these cases are current or past infections,
+we also conducted serological tests for them, and the results for all 4
+cases have come back positive, which indicate likely past infections¹.
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C)  CASES RESIDING IN DORMITORIES: 91
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories. There are currently about 21,700 workers who are still
+serving out their quarantine period. These workers will be tested when
+their quarantine ends, and we expect the case counts to remain high in
+the coming days, before tapering down thereafter.
+2.  Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.  Of the new cases, 95% are linked to known clusters, while the
+rest are pending contact tracing.
+4.  The following dormitories have been cleared by the Inter-agency
+Taskforce, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+
+•  79 Kaki Bukit Industrial Terrace
+•  9A Tech Park Crescent
+•  10 Tech Park Crescent
+•  55 Tuas South Avenue 1
+•  15 Tuas View Close
+•  36 Tuas View Square
+•  38 Tuas View Square
+•  54/56 Tuas View Square
+•  145 Tuas View Square
+•  Hai Leck Engineering Pte Ltd (12 Tuas Drive 1)
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.  Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.  216 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 50,736 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.  There are currently 91 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 4,643 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
+
