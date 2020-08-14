@@ -1,21 +1,66 @@
-83 New Cases of Covid-19 Infection
+313 More Cases Discharged, 83 New Cases of Covid-19 Infection Confirmed
 
 
 
-83 NEW CASES OF COVID-19 INFECTION
+313 MORE CASES DISCHARGED, 83 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 14 Aug 2020
 
          As of 14 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 83 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders currently
-under quarantine. Based on our investigations so far, there are no cases
-in the community.
-2      In addition, there are 4 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore.
-3     We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified an additional 83 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 4 (2 Work Pass holders, 2 Dependant’s Pass holders)
+Amongst the 4 imported cases, 2 (Cases 55580 and 55606) are Dependant’s
+Pass holders who arrived from India on 30 July and 31 July. The
+remaining cases (Cases 55637 and 55650) arrived from India on 2 August.
+They are Work Pass holders who are currently employed in Singapore. All
+of them had been placed on 14-day Stay-Home Notice (SHN) upon arrival in
+Singapore, and were serving their SHN at dedicated facilities. They had
+been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 79
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories. There are currently about 21,300 workers who are still
+serving out their quarantine period. These workers will be tested when
+their quarantine ends, and we expect the case counts to remain high in
+the coming days, before tapering down thereafter.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.          All the new cases are linked to known clusters.
+4.        The following dormitories have been cleared by the
+Inter-agency Taskforce, and now house only recovered individuals and
+those who have recently tested negative for COVID-19 infection. As such,
+the clusters have now been closed.
+• Acacia Lodge (530-540 Bukit Batok Street 23)
+• Westlite Toh Guan dormitory (18 Toh Guan Road East)
+• North Coast Lodge (51 North Coast Avenue)
+• 16 Fan Yoong Road
+• 11 Tech Park Crescent
+• 17 Soon Lee Road
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     313 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 51,049 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.       There are currently 79 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 4,425 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 14 AUGUST 2020
