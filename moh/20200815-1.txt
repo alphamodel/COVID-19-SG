@@ -1,26 +1,103 @@
-81 New Cases of Covid-19 Infection
+472 More Cases Discharged; 81 New Cases of Covid-19 Infection Confirmed
 
 
 
-81 NEW CASES OF COVID-19 INFECTION
+472 MORE CASES DISCHARGED; 81 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 15 Aug 2020
 
-         As of 15 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 81 cases of COVID-19 infection in
-Singapore, the vast majority of whom are Work Permit holders currently
-under quarantine. Based on our investigations so far, there are 3 cases
-in the community, of whom 2 are Singaporeans/ Permanent Residents and 1
-is a Work Pass holder.
-2.       In addition, there are 16 imported cases, of whom 10 are from a
-vessel which arrived in Singapore on 8 August. Prior to being conveyed
-to the hospital, all crew members had not disembarked from the vessel.
-The rest of the imported cases had all been placed on Stay-Home Notice
-upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+      As of 15 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 81 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+a) IMPORTED CASES: 16 (2 Work Pass holders, 1 Work Permit holder, 3
+Dependant’s Pass holders, 10 Special Pass holders)
+Amongst the 16 imported cases, 3 (Cases 55671, 55695 and 55696) are
+Dependant’s Pass holders who arrived from India on 31 July and South
+Africa on 29 July. Another 3 cases (Cases 55686, 55688 and 55690) are
+Work Pass/ Work Permit holders who are currently employed in Singapore.
+They arrived from Bangladesh on 1 August and the Philippines on 2
+August. All of them had been placed on 14-day Stay-Home Notice (SHN)
+upon arrival in Singapore, and were serving their SHN at dedicated
+facilities. They had been tested while serving their SHN.
+Another 10 cases are seamen who are Special Pass holders. They arrived
+in Singapore from India on 8 August on a vessel, where they had not
+disembarked from. As they had been identified as close contacts of
+previous cases, they were swabbed while on the vessel even though 5 of
+them are asymptomatic. They had remained on the vessel until their test
+results came back positive for COVID-19, and subsequently conveyed in
+ambulances to a hospital.
+B) CASES IN THE COMMUNITY: 3 (2 SINGAPOREANS, 1 WORK PASS HOLDER)
+All 3 cases in the community are linked to previous cases. 2 (Cases
+55706 and 55731) had been identified as contacts of previously confirmed
+cases. They had been placed on quarantine earlier, and were tested
+during quarantine to determine their status. Case 55731 is a technician
+who had boarded the affected vessel between 8 August and 12 August to
+carry out essential repair and maintenance work. He was subsequently
+placed on quarantine when some crew members were confirmed to have
+COVID-19, and swabbed even though he is asymptomatic.
+Case 55712 was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection (ARI) at first presentation to a doctor. This allows us to
+identify infected individuals early and to quickly contain further
+spread.
+Epidemiological investigations found that 3 cases (Cases 55169, 55469
+and 55712) had visited Jewel Music Box KTV at HomeTeamNS Khatib on 1
+August and 2 August 2020. Amongst them, 2 had been at the KTV for long
+periods for work purposes. Visitors were invited to preview the new, yet
+to be opened KTV premise on 1 August and 2 August, and most stayed for a
+short period of time. The KTV was not operational during the visits and
+there were no singing activities held. Therefore the risk of infection
+for visitors is assessed to be low. However as a precautionary measure,
+MOH will be contacting all visitors to the KTV on these two days and
+facilitating COVID-19 testing for them. Those who are unwell when
+contacted will be conveyed to the hospital for further medical
+assessment. We advise all visitors to the Jewel Music Box KTV at
+HomeTeamNS Khatib during the affected dates to monitor their health and
+seek medical attention promptly should they develop acute respiratory
+infection symptoms. They may call MOH at 1800-333-9999 if they have
+queries.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C)      CASES RESIDING IN DORMITORIES: 62
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories. There are currently about 20,700 workers who are still
+serving out their quarantine period. These workers will be tested when
+their quarantine ends, and we expect the case counts to remain high in
+the coming days, before tapering down thereafter.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.     All the new cases are linked to known clusters.
+4.      The following dormitories have been cleared by the Inter-agency
+Taskforce, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+
+-   36 & 38 Kian Teck Drive
+-   17 Shaw Road
+-   52 Tech Park Crescent
+-   8 Tuas South Lane
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     472 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 51,521 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.     There are currently 83 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 4,030 are isolated and cared for at community facilities.
+These are those who have mild symptoms, or are clinically well but still
+test positive for COVID-19. 27 have passed away from complications due
+to COVID-19 infection.
 
 MINISTRY OF HEALTH
 15 AUGUST 2020
