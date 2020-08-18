@@ -17,7 +17,7 @@ case (Case 56005) is a Dependant’s Pass holder who arrived from India on
 10 August. Both of them had been placed on 14-day Stay-Home Notice (SHN)
 upon arrival in Singapore, and were serving their SHN at dedicated
 facilities. They had been tested while serving their SHN.
-B) CASES IN THE COMMUNITY: 1 (1 Singaporean)
+B) Cases in the community: 1 (1 Singaporean)
 There is 1 case in the community today who is currently unlinked. Case
 56022 works at a bus depot in a role that is non-public facing and does
 not entail interaction with commuters and bus captains. He was detected
@@ -40,7 +40,7 @@ unlinked cases in the community has also remained stable at an average
 of 1 case per day in the past 2 weeks. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
-C) CASES RESIDING IN DORMITORIES: 97
+C) Cases residing in dormitories: 97
 
 The Inter-agency Taskforce has completed the testing of all workers in
 the dormitories. There are currently about 17,900 workers who are still
@@ -50,14 +50,14 @@ the coming days, before tapering down thereafter.
 
 2.             Details of these trends can be found in MOH’s daily
 situation Report (www.moh.gov.sg/covid-19/situation-report). Please
-refer to Annex A for the summary of the confirmed cases.
+refer to Annex Afor the summary of the confirmed cases.
 3.            Of the new cases, 95% are linked to known clusters, while
 the rest are pending contact tracing.
-LINKS BETWEEN PREVIOUS CASES FOUND
+Links between previous cases found
 4.         Further epidemiological investigations and contact tracing
 have uncovered links between previously announced and new cases. Please
-refer to Annex B and Annex C for details.
-UPDATE ON CONDITION OF CONFIRMED CASES
+refer to Annex Band Annex C for details.
+Update on condition of confirmed cases
 5.       183 more cases of COVID-19 infection have been discharged from
 hospitals or community isolation facilities. In all, 52,533 have fully
 recovered from the infection and have been discharged from hospitals or
