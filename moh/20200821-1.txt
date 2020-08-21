@@ -1,283 +1,99 @@
-Updates On Border and Community Measures
+532 More Cases Discharged, 117 New Cases of Covid-19 Infection Confirmed
 
 
 
-UPDATES ON BORDER AND COMMUNITY MEASURES
+532 MORE CASES DISCHARGED, 117 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 21 Aug 2020
 
-             The Multi-Ministry Taskforce has reviewed our border
-measures to manage the risks of importation and onward local
-transmission from travellers. We will update the travel advisory to
-allow general travel to Brunei Darussalam and New Zealand, as well as
-travel for overseas studies. Travellers from Brunei Darussalam and New
-Zealand will be subject to a COVID-19 test upon arrival, in lieu of a
-Stay-Home Notice (SHN). We will also reduce the SHN duration from 14
-days to 7 days for travellers from low risk countries/regions.
+       As of 21 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 117 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+A) IMPORTED CASES: 13 (1 Singaporean, 1 Work Pass holder, 4 Work Permit
+holders, 4 Dependant’s Pass holders, 1 Long-Term Visit Pass holder, 2
+Short-Term Visit Pass holders)
+Amongst the 13 imported cases, 1 (Case 56203) is a Singaporean who
+returned to Singapore from India on 7 August. Another 5 (Cases 56201,
+56202, 56217, 56223 and 56270) are Work Pass/ Work Permit holders
+currently employed in Singapore, who arrived from the Philippines
+between 7 August and 9 August, and the UK on 10 August. An additional 4
+cases (Cases 56220, 56271, 56275 and 56276) are Dependant’s Pass or
+Long-Term Visit Pass holders who arrived from India on 10 August and the
+UK between 8 August and 10 August. The remaining cases (Cases 56242 and
+56243) are Short-Term Visit Pass holders who arrived from India on 7
+August and the Philippines on 9 August. They were allowed entry into
+Singapore because 1 is a spouse and caregiver of a patient who has been
+receiving medical treatment in Singapore and another is employed on a
+project basis to work in Singapore.
+All the cases had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and were serving their SHN at dedicated
+facilities. They had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 6 (3 Singaporeans/ Permanent Residents, 3
+Work Permit holders)
+Of the 6 cases in the community, 4 were picked up as a result of our
+proactive surveillance and screening, and 1 had already been placed on
+quarantine earlier. 4 of them are asymptomatic, and were detected
+through our proactive testing.
+There is 1 case in the community today (Case 56244) who had been
+identified as a contact of a previously confirmed case. He had been
+placed on quarantine earlier, and was tested during quarantine to
+determine his status.
+5 of the community cases are currently unlinked. Of these, 3 cases
+(Cases 56187, 56190 and 56269) were identified as a result of our
+Rostered Routine Testing of workers in the construction, marine and
+process sectors who are living outside the dormitories. Another case
+(Case 56200) was tested as part of our efforts to screen individuals
+working in frontline COVID-19 operations. The remaining case (Case
+56184) was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection (ARI) at first presentation to a doctor. This allows us to
+identify infected individuals early and to quickly contain further
+spread.
+Epidemiological investigations of the unlinked cases are in progress. In
+the meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for their household contacts to
+determine if these cases could have been infected by them.
+Besides the polymerase chain reaction (PCR) test, we also conducted
+serological tests to determine if some of these cases are current or
+past infections.  The serological test results for Cases 56200 and 56244
+have come back positive, which indicate likely past infections. The test
+results for the remaining cases are pending.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 98
+The Inter-agency Taskforce has completed the testing of all workers in
+the dormitories. There are currently about 14,300 workers who are still
+serving out their quarantine period. These workers will be tested when
+their quarantine ends, and we expect the case counts to remain high in
+the coming days, before tapering down thereafter.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.     Of the new cases, 93% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     532 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 53,651 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 72 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 2,466 are isolated and cared for at community facilities.
+These are those who have mild symptoms, or are clinically well but still
+test positive for COVID-19. 27 have passed away from complications due
+to COVID-19 infection.
+MINISTRY OF HEALTH
+21 AUGUST 2020
 
-2.  The Multi-Ministry Taskforce will continue to allow a
-calibrated resumption of economic and social activities, while putting
-in place measures where needed to ensure that activities can continue to
-be conducted safely. Outdoor exercise classes will be allowed to resume
-on certain conditions, while additional measures will be put in place to
-manage crowds, as well as to ensure continued safe dining-in at F&B
-outlets. Businesses and individuals need to play their part in ensuring
-that community transmission remains low.
 
-UPDATE ON BORDER MEASURES
-
-3.  We recognise that the risk of importation from travellers
-varies across countries/regions as they are at different stages of
-putting in place effective systems to control the infection. We have
-taken a risk managed approach to our border controls and calibrated our
-border measures based on the assessed risk of importation and onward
-transmission in the community.
-
-4.  Since 21 March 2020, we have implemented a 14-day SHN on
-all incoming travellers (i.e. Singapore Citizens, Permanent Residents
-and Long-Term Pass holders [1]) to minimise the risk of importation
-leading to community spread in Singapore. Since 18 June 2020, we have
-also allowed travellers from selected low risk countries/regions –
-Australia (excluding Victoria State), Brunei Darussalam, Macao, Mainland
-China, New Zealand, Republic of Korea, Taiwan and Vietnam – to serve
-their 14-day SHN at their own place of residence.  A testing regime
-before the end of SHN has also been put in place for all incoming
-travellers.
-
-5.  We have monitored the situation and assessed that there
-are several countries/regions where the virus situation is well under
-control and the risk of importation is low. We will therefore update our
-border measures accordingly. Changes will be with effect FROM 1
-SEPTEMBER 2020, 0000 HOURS, for all travellers entering or departing
-Singapore.
-
-Opening up Entry to Visitors from Brunei Darussalam and New Zealand
-
-6.  Amongst these low-risk countries, we will start by
-lifting our current border restrictions to allow the entry of visitors
-from Brunei Darussalam and New Zealand into Singapore. Travellers
-entering Singapore and who have remained in either Brunei Darussalam or
-New Zealand in the last consecutive 14 days prior to their entry
-[2] will not be required to serve a SHN. Instead, they will undergo a
-COVID-19 test upon arrival at the airport and only be allowed to go
-about their activities in Singapore after receiving a negative test
-result.
-
-7.  Prior to travelling to Singapore, visitors from Brunei
-Darussalam and New Zealand will need to apply for an Air Travel Pass
-(ATP) between 7 and 30 days before their intended date of entry into
-Singapore. They will be responsible for their medical bills should they
-require medical treatment for COVID-19 while in Singapore. Application
-for the ATP will start from 1 September 2020 for travel from 8 September
-2020. More details will be provided by the Ministry of Transport next
-week.
-
-8.  Returning Singapore Citizens, Permanent Residents and
-Long-Term Pass holders[3] will similarly not have to serve SHN and will
-undergo a COVID-19 test upon arrival. They do not need to apply for an
-ATP.
-
-Reduced SHN of 7 Days for Travellers from Low Risk Countries/Regions
-
-9.  There are other low risk countries/regions where an SHN
-may also not be needed. But out of abundance of caution we will keep the
-SHN for now.  However, we will shorten the SHN duration from the current
-14 days to 7 days, and allow travellers to serve the SHN at their place
-of residence[4]. These low risk countries/regions are Australia
-(excluding Victoria State), Macao, Mainland China, Taiwan, Vietnam, and
- Malaysia. The COVID-19 test will continue to be administered before the
-end of the 7-day SHN.
-
-10.  All other incoming travellers will continue to serve their
-14-day SHN at dedicated SHN facilities, and will be subject to a test
-before the end of the SHN. Existing travel conditions, including
-adherence to SHN requirements[5] and applying for relevant
-approvals[6] before entering Singapore, continue to apply. Travel
-conditions under specific travel arrangements (such as Green/Fast Lane
-arrangements and Periodic Commuting Arrangement with Malaysia), will
-also continue to apply. Persons serving SHN are reminded to use only the
-permitted modes of transport and avoid taking public transport.
-
-Update on Travel Advisory
-
-11.  With the lifting of border restrictions to visitors from
-Brunei Darussalam and New Zealand, we will update the travel advisory to
-allow general travel to Brunei Darussalam and New Zealand. Travellers to
-Brunei Darussalam and New Zealand are advised to check the entry
-requirements imposed by these countries, and take the necessary
-precautionary measures.
-
-12.  We will also update the travel advisory to allow travel for
-studies for students pursuing academic qualification overseas, and where
-distance-learning is not offered as an option by the education
-institution.[7]
-
-13.  Singaporeans and residents of Singapore are advised to
-defer all other forms of travel overseas. Essential travel for business,
-official and work purposes will continue to be permitted under
-Green/Fast Lane arrangements and the Periodic Commuting Arrangement.
-When overseas, travellers should take all necessary precautions, observe
-good personal hygiene, monitor local developments, and heed the advice
-of local authorities.
-
-14.  All travellers will be subject to the prevailing border
-measures upon entry, including payment for their stay at dedicated SHN
-facilities and tests, where applicable[8]. Travellers who have complied
-with the travel advisories will be eligible for Government subsidies,
-and MediShield Life (MSHL) and Integrated Shield Plan (IP) coverage for
-their COVID-19 treatment should they have onset of symptoms within 14
-days of their return to Singapore and require hospital admission for
-suspected COVID-19 infection.
-
-Regular Review of Border Measures
-
-15.  Singapore’s border measures will evolve as the global
-situation changes. We will continue to monitor the global health
-situation closely and update our border measures in accordance with the
-public health risk assessment. If the situation in a country/region
-deteriorates, more stringent measures will be put in place to limit the
-risk of importation and prevent community transmission from imported
-cases. We encourage everyone to check the MOH website regularly for the
-latest updates.
-
-UPDATE ON COMMUNITY MEASURES
-
-Resumption of Outdoor Exercise Classes at Public Spaces
-
-16.  Since the beginning of Phase Two, organised exercise
-classes conducted by instructors have been allowed to take place in both
-private and public sports facilities subject to respective premise
-owners’ permission and conditions, in groups of five (with a 2-metre
-safe distancing between individuals unless the activity requires
-otherwise and a 3-metre safe distancing between groups), up to a total
-class size of 50 persons, or lower depending on the venue capacity and
-safe distancing measures.
-
-17.  From 1 September 2020, we will expand the list of public
-facilities where such classes can be held to include more open spaces at
-SportSG sport centres, parks, and HDB common areas. These classes in
-newly opened areas must be organised by an instructor who will be
-responsible for ensuring that the safe management measures are put in
-place and adhered to. These measures include temperature and symptoms
-screening, safe distancing, and maintaining a list of participants in
-venues where SafeEntry is not deployed. The instructor must be
-registered to conduct these activities, and more details on the
-registration process will be released subsequently. Instructors and
-participants should follow the stipulated safe management measures as
-well as any other conditions stipulated by the premise owner. General
-group exercises that are not organised by these instructors will
-continue to be capped at five persons, in addition to any conditions
-stipulated by the premise owner.
-
-Continued Calibrated Approach in Managing Crowds
-
-18.  As general activity increases, it may not be practicable to
-maintain a 1-metre safe distancing requirement in some specific
-settings, such as public transport. As more activities resume, lift
-lobbies have also become increasingly crowded. To reduce the risk of
-overcrowding in lifts and lift lobbies, we will put in place stringent
-safe management measures in lifts while exempting them from the 1-metre
-safe distancing requirement. These safe management measures include
-wearing of masks, refraining from speaking, and using hand sanitisers
-provided in lifts, which will ensure a safe lift ride for all. Lift
-users should continue to observe safe distancing in lift lobbies.
-
-19.  At the same time, some mall managers have been facing
-persistent challenges in managing crowds and ensuring safe distancing.
-Based on trends observed since the start of Phase Two, Lucky Plaza and
-Peninsula Plaza, in particular, attract large crowds and long queues to
-enter on weekends. To better manage crowds and ensure that safe
-distancing can be observed both inside and outside the buildings, from
-29 August 2020, the two malls will implement odd and even date entry
-restrictions on weekends, based on the last digit of an individual’s
-National Registration Identification Card (NRIC) or Foreign
-Identification Number (FIN). More details will be provided by Singapore
-Tourism Board and Enterprise Singapore separately. The Multi-Ministry
-Taskforce will continue to monitor the situation closely, and other
-malls or premises that face similar crowd management issues may also be
-required to adopt this entry restriction.
-
-Continued Safe Dining-in at F&B Outlets
-
-20.  Over the past few weeks, some F&B outlets have been
-observed to be playing extremely loud music, causing patrons to have to
-talk more loudly to be heard which increases the risk of droplet spread.
-Patrons at some of these outlets were also found to be not wearing their
-masks for prolonged periods, with some even mixing with persons from
-other tables. Our Safe Distancing Enforcement Officers will not hesitate
-to take enforcement action against such errant operators and patrons who
-put themselves and other patrons at risk.
-
-21.  As an added precaution, we will tighten the rules to allow
-recorded music at F&B outlets to be played as soft background music
-only. Live music, live broadcasts (both TV and radio) as well as video
-screenings remain disallowed.
-
-22.  We also urge everyone to refrain from booking multiple
-tables for large gatherings in F&B outlets, and also seek the
-cooperation of F&B outlets not to accept such reservations. Households
-with more than five persons and who wish to dine out together may book
-more than one table to accommodate everyone in the household. They
-should however limit their interactions between tables. Other than that,
-there should not be organized events, celebrations or parties in an F&B
-setting involving multiple tables, and where people are mingling amongst
-themselves without their masks on. Our Enforcement Officers will step up
-their checks in F&B outlets and take enforcement action against any
-breaches of safe distancing rules by the individuals or the F&B
-operators.
-
-Playing Our Part in the Fight Against COVID-19
-
-23.  We urge everyone to do their part to ensure that our
-businesses and public spaces can continue to be safe spaces for all, by
-observing safe distancing and avoiding peak periods and crowded places.
-In addition, all who are unwell, including those showing early/mild
-symptoms of cough, sore throat, runny nose, loss of smell, should see a
-doctor immediately and stay at home to prevent spreading illness to
-others. This is the best way we can protect ourselves, our loved ones,
-and our community.
-
-------------------------------------------------------------------------
-
-[1] Long Term Pass (LTP) holders refer to Work Pass holders, Student’s
-Pass holders, Long-Term Visit Pass (LTVP) holders and Dependant’s Pass
-holders, as well as those who have been granted In-Principle Approval
-(IPA) for a LTP.
-
-[2] For direct travel from Brunei Darussalam and New Zealand into
-Singapore only.
-
-[3] LTPHs need to apply for ALE as per arrangement today
-
-[4] Singapore Citizens and Permanent Residents may serve their 7-day SHN
-at their place of residence. Long-Term Pass holders may serve their
-7-day SHN at a place of residence that they or their family members own
-or are sole tenants of; or in suitable accommodation such as a hotel.
-
-[5] All persons serving SHN must remain in their place of SHN
-accommodation at all times, except when travelling for their COVID-19
-test. They will also be required to either don an electronic monitoring
-device throughout their SHN period or download the Homer mobile app for
-the purpose of SHN monitoring (except for those aged 12 and below).
-
-[6] All Long-Term Pass holders will continue to require prior approval
-before entering Singapore. We are also not allowing short-term visitors
-except those coming in under the Green/Fast Lane arrangements, with Air
-Travel Pass or with special prior approval.
-
-[7] Overseas studies should be of at least one academic year, for
-courses which require physical presence in the foreign educational
-institution, and which will lead to attainment of academic
-qualifications. Existing students who are completing such academic
-programs (i.e. balance duration of less than an academic year) are
-included. Students below the age of 18 may be accompanied by an adult.
-Mature students may travel overseas with their dependents who will be
-residing with them for the duration of their studies.
-
-[8] Singapore Citizens and Permanent Residents who last left before 27
-Mar 2020 will not be required to pay for their stay at dedicated SHN
-facility, but will still be required to pay for their COVID-19 test when
-entering Singapore from 1 September 2020 (waived if they enter by 31 Aug
-2020). All other travellers have to pay for their stay at dedicated SHN
-facility and COVID-19 test, where applicable.
