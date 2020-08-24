@@ -1,20 +1,97 @@
-51 New Cases of Covid-19 Infection
+423 More Cases Discharged, 51 New Cases of Covid-19 Infection Confirmed
 
 
 
-51 NEW CASES OF COVID-19 INFECTION
+423 MORE CASES DISCHARGED, 51 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 24 Aug 2020
 
 1. As of 24 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 51 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there is 1 case in the
-community, who is a Singaporean.
-2. There are 7 imported cases, who had all been placed on Stay-Home
-Notice upon arrival in Singapore.
-3. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified an additional 51 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+
+++
+|  |
+++
+|  |
+++
+|  |
+++
+|  |
+++
+
+A) IMPORTED CASES: 7 (1 Permanent Resident, 2 Work Permit holders, 3
+Dependant’s Pass holders, 1 Long-Term Visit Pass holder)
+Amongst the 7 imported cases, 1 (Case 56467) is a Singapore Permanent
+Resident who returned to Singapore from India on 12 August. 4 (Cases
+56448, 56453, 56454 and 56456) are Dependant’s Pass and Long-Term Pass
+holders who arrived from India and the Netherlands on 9 August and 10
+August. Another 2 (Cases 56465 and 56468) are Work Permit holders
+currently employed in Singapore who arrived from India and Indonesia on
+12 August.
+All the cases had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and were serving their SHN at dedicated
+facilities. They had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 1 (1 Singaporean)
+There is 1 case in the community today (Case 56466) who had been
+identified as a contact of a previously confirmed case. She had been
+placed on quarantine earlier, and was tested during quarantine to
+determine her status.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 43
+Amongst the 43 cases residing in dormitories, 26 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 17 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories and testing of those with acute respiratory infection (ARI)
+symptoms. This allows us to pick up cases early, including asymptomatic
+ones, so that we are able to ring-fence them quickly to prevent further
+transmission, by aggressively containing, tracing and isolating the
+close contacts.
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of these cases are current or
+past infections.¹ The serological test results for 11 cases have come
+back positive so far, which indicate likely past infections.
+2. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report). Please refer to Annex A for
+the summary of the confirmed cases.
+3. Of the new cases, 88% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+4. MOH has completed our screening and testing of all individuals who
+had visited Jewel Music Box KTV at HomeTeamNS Khatib on 1 August and 2
+August. The KTV was not operational during the visits and there were no
+singing activities held. This is a precautionary measure following the
+detection of 3 cases (Cases 55169, 55469 and 55712) who had visited the
+KTV during the affected dates, even though the risk of infection for
+visitors is assessed to be low. In all, 322 individuals were tested, and
+all the results have come back negative.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex Cfor details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 423 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 54,587 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 84 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and none is in the intensive care
+unit. 1,706 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 27 have passed away from complications due to
+COVID-19 infection.
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 MINISTRY OF HEALTH
 24 AUGUST 2020
