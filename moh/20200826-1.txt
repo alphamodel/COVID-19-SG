@@ -1,22 +1,112 @@
-60 New Cases of Covid-19 Infection
+155 More Cases Discharged, 60 New Cases of Covid-19 Infection Confirmed
 
 
 
-60 NEW CASES OF COVID-19 INFECTION
+155 MORE CASES DISCHARGED, 60 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 26 Aug 2020
 
          As of 26 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 60 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there are 3 cases in the
-community, of whom 1 is a Singaporean and 2 are Work Pass holders.
-2.     There are 10 imported cases, who had all been placed on Stay-Home
-Notice upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified an additional 60 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 10              | 0               | 10              |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 2               | 1               | 3               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 29              | 18              | 47              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+A) IMPORTED CASES: 10 (5 Singaporeans/Permanent Residents, 2 Work Pass
+holders, 2 Dependant’s Pass holders, 1 Long-Term Visit pass holder)
+Amongst the 10 imported cases, 5 (Cases 56554, 56555, 56569, 56570 and
+56571) are Singaporeans/ Permanent Residents who returned to Singapore
+from India on 14 August. Another 2 (Cases 56558 and 56559) are Work Pass
+holders currently employed in Singapore who arrived from India and the
+Philippines on 14 August. The remaining 3 (Cases 56523, 56524 and 56560)
+are Dependant’s Pass and Long-Term Pass holders who arrived from India
+and the US on 12 August and 14 August.
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and were serving their SHN at dedicated
+facilities. They had been tested while serving their SHN.
+B) CASES IN THE COMMUNITY: 3 (1 Singaporean, 2 Work Permit holders)
+Of the 3 cases in the community, 2 had already been placed on quarantine
+earlier. 2 of the cases are asymptomatic, and were detected through our
+proactive testing.
+2 of the community cases today are linked to previous cases. Both (Cases
+56540 and 56542) had been identified as contacts of a previously
+confirmed case, and had been placed on quarantine earlier. They were
+tested during quarantine to determine their status.
+There is 1 case in the community today who is currently unlinked. Case
+56522 was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection (ARI) at first presentation to a doctor. This allows us to
+identify infected individuals early and to quickly contain further
+spread.
+Epidemiological investigations of the case are in progress. In the
+meantime, all the identified close contacts of the case have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for his household contacts to
+determine if he could have been infected by them.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 47
+Amongst the 47 cases residing in dormitories, 29 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 18 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories and testing of those with ARI symptoms. This allows us to
+pick up cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts.
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of these cases are current or
+past infections [1]. The serological test results for 7 cases have come
+back positive so far, which indicate likely past infections.
+2.   Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 97% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.    Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.    155 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 54,971 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 65 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 1,432 are isolated and cared for at community facilities.
+These are those who have mild symptoms, or are clinically well but still
+test positive for COVID-19. 27 have passed away from complications due
+to COVID-19 infection.
 MINISTRY OF HEALTH
 26 AUGUST 2020
+
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 
 
