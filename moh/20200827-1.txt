@@ -1,25 +1,218 @@
-77 New Cases of Covid-19 Infection
+168 More Cases Discharged; 77 New Cases of Covid-19 Infection Confirmed
 
 
 
-77 NEW CASES OF COVID-19 INFECTION
+168 MORE CASES DISCHARGED; 77 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 27 Aug 2020
 
-      As of 27 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 77 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there are 2 cases in the
-community, both of whom are Singaporeans.
-2     There are 5 imported cases, who had all been placed on Stay-Home
-Notice or isolated upon arrival in Singapore.
-3     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+  As of 27 August 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified an additional 77 cases of COVID-19 infection in Singapore.
+The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 5               | 0               | 5               |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 2               | 2               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 66              | 4               | 70              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
 
 
 
+A)      IMPORTED CASES: 5 (2 Singaporeans/Permanent Residents, 1
+Dependant’s Pass holder, 1 Long-Term Visit Pass holder, 1 Special Pass
+holder)
+Amongst the 5 imported cases, 2 (Cases 56594 and 56595) are
+Singaporeans/ Permanent Residents who returned to Singapore from India
+on 14 August and 15 August. Another 2 (Cases 56642 and 56649) are
+Dependant’s Pass and Long-Term Pass holders who arrived from India on 15
+August and China on 16 August. All of them had been placed on 14-day
+Stay-Home Notice (SHN) upon arrival in Singapore, and had been tested
+while serving their SHN.
+The remaining case (Case 56621) is a seaman who is a Special Pass
+holder. He arrived in Singapore from India on 8 August on a vessel,
+where he had not disembarked from. As he had been identified as a close
+contact of previous cases on the same vessel earlier announced by MOH,
+he had been placed on quarantine and was tested during quarantine to
+determine his status.
+B)     CASES IN THE COMMUNITY: 2 (2 SINGAPOREANS)
+Both cases in the community were detected under our enhanced community
+testing to test all individuals aged 13 and above who are diagnosed with
+acute respiratory infection (ARI) at first presentation to a doctor.
+This allows us to identify infected individuals early and to quickly
+contain further spread.
+1 of the cases today is linked to a previous case. Epidemiological
+investigations found that Case 56626 had visited SLR Revolution at
+Excelsior Shopping Centre (5 Coleman Street) on 17 August 2020 and may
+have had contact with Case 56184, who had gone to work at the shop
+during his infectious period. The risk of infection for visitors is
+assessed to be low. However as a precautionary measure, MOH will be
+contacting all individuals who had visited the shop between 15 August
+and 18 August, and facilitating COVID-19 testing for them. Those who are
+unwell when contacted will be conveyed to the hospital for further
+medical assessment. We advise all visitors to SLR Revolution at
+Excelsior Shopping Centre during the affected dates to monitor their
+health and seek medical attention promptly should they develop acute
+respiratory infection symptoms. They may call MOH at 1800-333-9999 if
+they have queries.
+The other community case (Case 56627) is currently unlinked.
+Epidemiological investigations of the case are in progress. In the
+meantime, all the identified close contacts of the case have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for his household contacts to
+determine if he could have been infected by them.
+Overall, the number of new cases in the community has increased, from an
+average of 1 case per day in the week before, to an average of 2 per day
+in the past week. The number of unlinked cases in the community has
+remained stable at an average of 1 case per day in the past 2 weeks. We
+will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+C)     CASES RESIDING IN DORMITORIES: 70
+Amongst the 70 cases residing in dormitories, 66 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 4 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories and testing of those with ARI symptoms. This allows us to
+pick up cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts.
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of these cases are current or
+past infections. [1] The serological test results for 8 cases have come
+back positive so far, which indicate likely past infections.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.      Of the new cases, 97% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+4.      The following dormitories have been cleared by the Inter-agency
+Taskforce, and now house only recovered individuals and those who have
+recently tested negative for COVID-19 infection. As such, the clusters
+have now been closed.
+
+-   HSJV Dormitory
+
+-   85 Kallang Dormitory
+
+-   SJ Dormitory
+
+-   Tuas South Apartments
+
+-   Woodlands Dormitory
+
+-   Woodlands Lodge I
+
+-   9 Benoi Crescent
+
+-   12 Defu Lane 7
+
+-   25 Kaki Bukit Industrial Terrace
+
+-   40 Kaki Bukit Industrial Terrace
+
+-   80 Kaki Bukit Industrial Terrace
+
+-   19 Kian Teck Avenue
+
+-   7 Kian Teck Crescent
+
+-   19 Kian Teck Road
+
+-   12 Loyang Drive
+
+-   47 Senoko Drive
+
+-   5 Sixth Lok Yang Road
+
+-   4 Sungei Kadut Street 2
+
+-   6 Sungei Kadut Street 2
+
+-   72 Tagore Lane
+
+-   1020 Tai Seng Avenue
+
+-   2 Tech Park Crescent
+
+-   7 Tech Park Crescent
+
+-   80 Tuas Avenue 1
+
+-   3 Tuas Drive 1
+
+-   51H Tuas South Avenue 1
+
+-   69 Tuas South Avenue 1
+
+-   128 Tuas South Avenue 3
+
+-   6 Tuas South Street 2
+
+-   81 Tuas South Street 5
+
+-   57 Tuas View Walk 2
+
+-   67 Tuas View Walk 2
+
+-   11 Woodlands Industrial Park E1
+
+-   210 Woodlands Industrial Park E5
+
+-   212 Woodlands Industrial Park E5
+
+-   Clementi N2C3 construction site
+
+-   The Florence Residences construction site
+
+-   Grandwork Building
+
+-   Hai Leck Engineering Pte Ltd
+
+-   Stirling Residences construction site
+
+-   TTJ Design & Engineering Pte Ltd
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     168 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 55,139 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 66 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 1,340 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 27 AUGUST 2020
 
 
+
+------------------------------------------------------------------------
+
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
