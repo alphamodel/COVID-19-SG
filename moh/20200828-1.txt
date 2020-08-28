@@ -1,34 +1,164 @@
-94 New Cases of Covid-19 Infection
+198 More Cases Discharged, 94 New Cases of Covid-19 Infection Confirmed
 
 
 
-94 NEW CASES OF COVID-19 INFECTION
+198 MORE CASES DISCHARGED, 94 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 28 Aug 2020
 
           As of 28 August 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 94 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there are 4 cases in the
-community, all of whom are Singaporeans/ Permanent Residents.
+confirmed and verified an additional 94 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
 
-2.  There are 10 imported cases, who had all been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 10              | 0               | 10              |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 3               | 1               | 4               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 70              | 10              | 80              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
 
-3.  Amongst the 80 cases residing in dormitories today, 58 are
-from Sungei Tengah Lodge, who had all been placed on quarantine earlier.
-The vast majority of them were tested during quarantine to determine
-their status, or picked up through Rostered Routine Testing. Following
-the detection of cases at Sungei Tengah Lodge, we had placed about 4,500
-workers on quarantine, and tested about 3,000 of them so far. We expect
-the number of cases from the dormitory to continue to be high in the
-coming days as we complete testing of the remaining quarantined workers.
 
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+A)  IMPORTED CASES: 10 (7 Singaporeans/Permanent Residents, 1
+Dependant’s Pass holder, 1 Long-Term Visit Pass holder, 1 Short-Term
+Visit Pass holder)
+
+Amongst the 10 imported cases, 7 (Cases 56694, 56695, 56696, 56697,
+56704, 56745 and 56750) are Singaporeans/ Permanent Residents who
+returned to Singapore from India between 16 August and 18 August.
+Another 2 (Cases 56685 and 56690) are Dependant’s Pass and Long-Term
+Pass holders who arrived from India on 12 August and 16 August. All of
+them had been placed on 14-day Stay-Home Notice (SHN) upon arrival in
+Singapore, and had been tested while serving their SHN at dedicated
+facilities.
+
+The remaining case (Case 56726) is a Short-Term Visit Pass holder who
+was allowed entry into Singapore as she has been seeking medical
+treatment here. She was conveyed directly to the hospital upon arrival
+in Singapore.
+
+
+
+B)  CASES IN THE COMMUNITY: 4 (4 Singaporeans)
+
+Of the 4 cases in the community, 3 had already been placed on quarantine
+earlier. 1 of the cases is asymptomatic, and was detected through our
+proactive testing.
+
+3 of the community cases today are linked to previous cases. Cases
+56743, 56744 and 56746 had been identified as contacts of previously
+confirmed cases, and had been placed on quarantine earlier. They were
+tested during quarantine to determine their status.
+
+There is 1 case in the community who is currently unlinked. Case 56740
+was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection (ARI) at first presentation to a doctor. This allows us to
+identify infected individuals early and to quickly contain further
+spread.
+
+Epidemiological investigations of the case are in progress. In the
+meantime, all the identified close contacts of the case have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for her household contacts to
+determine if she could have been infected by them.
+
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+
+
+C)  CASES RESIDING IN DORMITORIES: 80
+
+Amongst the 80 cases residing in dormitories, 70 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+
+The remaining 10 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories and testing of those with ARI symptoms. This allows us to
+pick up cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts.
+
+58 of the cases residing in dormitories today are from Sungei Tengah
+Lodge, who had all been placed on quarantine earlier. The vast majority
+of them were tested during quarantine to determine their status, or
+picked up through Rostered Routine Testing. Following the detection of
+cases at Sungei Tengah Lodge¹, we had placed about 4,500 workers on
+quarantine, and tested about 3,000 of them so far. We expect the number
+of cases from the dormitory to continue to be high in the coming days as
+we complete testing of the remaining quarantined workers.
+
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of the cases residing in
+dormitories are current or past infections.² The serological test
+results for 8 cases have come back positive so far, which indicate
+likely past infections.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 97% are imported or linked to known
+cases/ clusters, while the rest are pending contact tracing.
+
+4.  MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to Bukit Panjang
+Integrated Transport Hub (15 Petir Road) for the past two incubation
+periods (i.e. 28 days), the cluster has now been closed.
+
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+5.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  198 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 55,337 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.  There are currently 71 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 1,231 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+
+
 
 MINISTRY OF HEALTH
 28 AUGUST 2020
+
+[1] Sungei Tengah Lodge was reported as a new cluster by MOH on 22
+August 2020.
+[2] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
 
 
