@@ -1,73 +1,92 @@
-Expanded Covid-19 Testing to Specific Community Groups and Updated
-Guidance On Use of Masks
+110 More Cases Discharged, 51 New Cases of Covid-19 Infection Confirmed
 
 
 
-EXPANDED COVID-19 TESTING TO SPECIFIC COMMUNITY GROUPS AND UPDATED GUIDANCE ON USE OF MASKS
+110 MORE CASES DISCHARGED, 51 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 29 Aug 2020
 
-                  The Multi-Ministry Taskforce will expand the COVID-19
-testing regime to identified community groups in the upcoming weeks.
-These tests will be offered to these groups to provide a better picture
-of population prevalence and facilitate the early containment of any
-cryptic cases in the community.
-2.               The Taskforce also recommends that makeshift face
-coverings such as bandanas, scarves, and neck gaiters should not be
-used.
-EXPANDED COVID-19 TESTING TO SPECIFIC COMMUNITY GROUPS
-3.               The Ministry of Health (MOH) regularly reviews our
-testing strategies to enhance and step up our surveillance regime for
-the community. Beyond the comprehensive surveillance testing on
-individuals above the age of 12 diagnosed with acute respiratory
-infections (ARI), the Government has activated numerous testing
-operations for targeted groups such as preschool teachers and staff and
-residents of residential homes serving the elderly[1].
-4.               Although the number of community cases remains low and
-stable today, we must not let our guard down. As we gradually reopen our
-economy and resume social activities, we will be testing more
-extensively in the community. MOH, together with other government
-agencies, will be progressively reaching out to identified community
-groups to offer COVID-19 testing on a one-time basis. These testing
-operations aim to provide a better picture of population prevalence.
-5.               For a start, we have plans to provide testing to
-community groups such as taxi and Private Hire Car (PHC) drivers, food
-delivery personnel, key vendors servicing foreign worker dormitories, as
-well as stallholders at hawker centres, markets and similar F&B
-establishments such as coffeeshops. While there has been no local
-evidence that these community groups are of higher risks of getting
-infected, MOH will be offering tests to them given the nature of their
-working environment, such as the high frequency of interactions with
-members of public.
-6.               We strongly encourage individuals in the identified
-community groups to come forward and utilise the tests offered. The
-costs of the tests will be fully borne by the government.
-Updated Guidance on Use of Masks
-7.               There have been recent queries on the efficacy of
-makeshift coverings such as bandanas, scarves, and neck gaiters in
-preventing disease transmission. As these makeshift coverings may not
-have a good fit around the person’s nose and mouth and are made from
-materials that are not specific for disease prevention, they may not
-perform as well as purpose-built masks.
-8.               To ensure transmission rates in the community are kept
-low, it is critical for every member of public to put on masks that are
-designed or made specifically to prevent disease transmission. A mask
-should be worn such that it closely and completely covers the wearer’s
-nose and mouth, without leaving a gap between the mask and the face.
-Therefore, face coverings such as neck gaiters, bandanas, scarves, or
-handkerchiefs should not be used.
-PLAYING OUR PART IN THE FIGHT AGAINST COVID-19
-9.               Everyone has a role to play to ensure the safe
-resumption of social and economic activities. To be socially
-responsible, those who are unwell, including those showing early/mild
-symptoms of fever, cough, sore throat, runny nose and loss of smell,
-should seek medical attention immediately and stay at home to prevent
-the spread of illness to others. We strongly urge everyone to do their
-part by observing safe distancing and practicing good personal hygiene
-to reduce the risk of transmission. Together, we can continue in our
-fight against COVID-19 to protect ourselves, our loved ones and our
-community.
+         As of 29 August 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 51 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
 
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 3               | 0               | 3               |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 1               | 1               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 37              | 10              | 47              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+A) IMPORTED CASES: 3 (1 Singaporean, 1 Work Pass holder, 1 Student’s
+Pass holder)
+Amongst the 3 imported cases, 1 (Case 56777) is a Singaporean who
+returned to Singapore from India on 16 August. Another case (Case 56791)
+is a Work Pass holder currently employed in Singapore who arrived from
+Bangladesh on 17 August. The remaining case (Case 56778) is a Student’s
+Pass holder who arrived from Bangladesh on 17 August. All of them had
+been placed on 14-day Stay-Home Notice (SHN) upon arrival in Singapore,
+and had been tested while serving their SHN at dedicated facilities.
+B) CASES IN THE COMMUNITY: 1 (1 Work Permit holder)
+There is 1 case in the community who is currently unlinked. Case 56765
+was detected as a result of our Rostered Routine Testing of workers in
+the construction, marine and process sectors who are living outside the
+dormitories. Epidemiological investigations of the case are in progress.
+In the meantime, all the identified close contacts of the case have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for his household contacts to
+determine if he could have been infected by them.
+Overall, the number of new cases in the community has remained stable at
+an average of 2 cases per day in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at an average
+of 1 case per day in the past 2 weeks. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 47
+Amongst the 47 cases residing in dormitories, 37 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 10 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories and testing of those with ARI symptoms. This allows us to
+pick up cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts.
+2.        Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 98% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.        Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.        110 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 55,447 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+6. There are currently 70 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and none is in the intensive care
+unit. 1,173 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 27 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
 29 AUGUST 2020
+
+
