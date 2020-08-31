@@ -11,8 +11,9 @@ Published Date: 31 Aug 2020
 confirmed and verified an additional 41 cases of COVID-19 infection in
 Singapore. The breakdown of the cases is as follows:
 
-SUMMARY OF NEW CASESAll new cases today are asymptomatic, and were
-detected from our proactive screening and surveillance.
+SUMMARY OF NEW CASES
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
 
 +-----------------+-----------------+-----------------+-----------------+
 |                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
