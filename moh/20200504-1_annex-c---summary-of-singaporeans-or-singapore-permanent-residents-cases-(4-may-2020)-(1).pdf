@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="W5sIHbvhdfMm8fOF4NXDp2aVmOaFGgAVa0X6PB3GdO7ax72xONhuw60axr4j0u+Lfy5t71dJ8ciUSDMmxheYPNGki0OTwx0Zs/k2pP8hEnE=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qR8Di83M6ifWn+yracKbzQe0buNfcEQt5rho1r+0WJXZkYAUFm3Tw+5bnrjXCWSY8j1NQatJyfGdqbzBmbY8XQDEbl2DVCzICkIsrbQMrNs=" />
 </div>
 
 <script type="text/javascript">
@@ -431,6 +431,12 @@ Sys.Application._enableHistoryInScriptManager();
         </div>
     </div>
 </div>
+    <div class="alert alert-warning alert-dismissible" style="margin-bottom:0px">
+        <div class="container">
+            <a style="transform:translateY(40%)" href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+            <p style="margin-bottom:0">We are aware of scam calls and emails impersonating MOH officers. When in doubt, please verify the authenticity of phone calls and emails by calling <strong><span style="text-decoration: underline;">MOH hotline at 1800-333-9999</span></strong>.</p>
+        </div>
+    </div>
 
 
 
