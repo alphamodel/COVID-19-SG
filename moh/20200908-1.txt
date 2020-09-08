@@ -57,7 +57,7 @@ prevent further transmission, by aggressively containing, tracing and
 isolating the close contacts.
 Besides the polymerase chain reaction (PCR) test, we have also conducted
 serological tests to determine if some of these cases are current or
-past infections. [1] The serological test results for 4 cases have come
+past infections. [1]The serological test results for 4 cases have come
 back positive so far, which indicate likely past infections.
 2.     Details of these trends can be found in MOH’s daily situation
 Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
