@@ -1,25 +1,98 @@
-47 New Cases of Covid-19 Infection
+53 More Cases Discharged, 47 New Cases of Covid-19 Infection Confirmed
 
 
 
-47 NEW CASES OF COVID-19 INFECTION
+53 MORE CASES DISCHARGED, 47 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 08 Sep 2020
 
-        As of 8 September 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 47 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there are no cases in the
-community.
-2     There is 1 imported case, who had been placed on Stay-Home Notice
-upon arrival in Singapore.
-3     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+      As of 8 September 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 47 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
 
+SUMMARY OF NEW CASES
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
 
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 1               | 0               | 1               |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 0               | 0               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 25              | 21              | 46              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+A)   IMPORTED CASES: 1 (1 SINGAPOREAN)
+Case 57186 is a Singaporean who returned to Singapore from India on 24
+August. He had been placed on 14-day Stay-Home Notice (SHN) upon arrival
+in Singapore, and was tested while serving SHN at a dedicated facility.
+B)   CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+Overall, the number of new cases in the community has decreased, from an
+average of 3 cases per day in the week before, to an average of 2 per
+day in the past week. The number of unlinked cases in the community has
+increased, from an average of 1 case per day in the week before, to an
+average of 2 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+C)   CASES RESIDING IN DORMITORIES: 46
+Amongst the 46 cases residing in dormitories, 25 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 21 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the close contacts.
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of these cases are current or
+past infections. [1] The serological test results for 4 cases have come
+back positive so far, which indicate likely past infections.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.     Of the new cases, 98% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+4.     MOH has completed our screening and testing of individuals who
+had visited SLR Revolution at Excelsior Shopping Centre (5 Coleman
+Street) between 15 August and 18 August 2020. This was a precautionary
+measure following the detection of 3 cases (Cases 56184, 56626 and
+56826) who had worked at or visited the shop, even though the risk of
+infection for visitors is assessed to be low. In all, 254 individuals
+were tested, and all the results have come back negative.
+LINKS BETWEEN PREVIOUS CASES FOUND
+5.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     53 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 56,461 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.     There are currently 48 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 555 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 27 have passed away from complications due to
+COVID-19 infection.
 
 MINISTRY OF HEALTH
 8 SEPTEMBER 2020
 
+------------------------------------------------------------------------
 
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
