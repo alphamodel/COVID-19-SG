@@ -1,143 +1,132 @@
-Tracetogether and Safeentry to Be Enhanced In Preparation for Further
-Opening of the Economy
+31 More Cases Discharged, 75 New Cases of Covid-19 Infection Confirmed
 
 
 
-TRACETOGETHER AND SAFEENTRY TO BE ENHANCED IN PREPARATION FOR FURTHER OPENING OF THE ECONOMY
+31 MORE CASES DISCHARGED, 75 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 09 Sep 2020
 
-         The TraceTogether (TT) Programme has helped to raise the speed
-and effectiveness of our contact tracing. We will commence nation-wide
-distribution of TT Tokens starting from 14 September and aim to complete
-the distribution by November. This will enable more Singapore residents
-to be protected by the TT Programme, particularly the elderly who may
-not have a suitable smart phone to operate the App.
-2     We will enhance SafeEntry to work more closely with TT. For
-certain venues with higher-risk activities such as larger-scale
-business-to-business events, SafeEntry will require the TT App or Token
-to check in. Supplementing SafeEntry with proximity data from TT will
-enhance safety for participants, as they will be ensured of coverage
-under the TT Programme. This “TT-only SafeEntry” will first be piloted
-at selected venues, and will be expanded over time once the national
-distribution of the TT Tokens is well underway.
-3        From 10 September, a new Self-Check service and SMS service
-will be launched so that people can be alerted if they have visited the
-same venues at the same time as COVID-19 cases. Both services will be
-based on individuals’ SafeEntry records.
-4        These measures will support the further opening of the economy
-by ensuring more effective contact tracing for the community.
-TT PROGRAMME HAS AUGMENTED THE CONTACT TRACING PROCESS
-5       The TT Programme – comprising the TT App on smart phones and the
-TT Token – provides the initial list of close contacts of COVID-19
-positive cases. Together with SafeEntry and associated digital systems,
-the TT Programme has enabled the contact tracing teams to reduce the
-time taken to identify and quarantine a close contact, from 4 days to
-less than 2 days currently. TT has also expanded the coverage of contact
-tracing, and has reduced the possibility of a close contact being
-inadvertently left out of quarantine.
-TT TOKEN DISTRIBUTION TO THE GENERAL PUBLIC TO START FROM 14 SEP 2020
-6         The first batch of TT Tokens was distributed to 10,000
-vulnerable seniors from 28-30 June. In a survey conducted by the Silver
-Generation Office, close to 90% of the recipients found it convenient to
-carry the Token with them when they leave home, and more than 70% would
-bring the Token out most of the time.
-7         Over the next few months, the Government will begin
-nation-wide distribution of TT Tokens to the general public at community
-sites. As the elderly are at greater health risk from COVID-19, and are
-also less likely to own a smart phone, distribution of the Tokens will
-begin at communities with higher concentrations of elderly. Distribution
-will start in the Jalan Besar and Tanjong Pagar regions, at 20 community
-centres/clubs (CCs) from 14 September 2020 .
-8      The distribution exercise will be progressively extended
-throughout Singapore, according to the tentative schedule listed in
-Annex A. As the actual distribution progresses, scheduled dates might be
-adjusted. Residents can go to the TokenGoWhere website
-(https://token.gowhere.gov.sg) to find the latest schedule and locate a
-site convenient for them. Residents can also refer to community notice
-boards, digital display panels, or their local CC social media channels
-for more information on the distribution exercise. Those who do not mind
-travelling further and wish to collect the Token earlier can visit any
-of the sites listed on the TokenGoWhere website to do so.
-9        Besides the elderly, individuals who do not have a smart phone
-on which to download the TT App will benefit from using the Token. The
-Tokens also provide an option for those who prefer a separate device to
-contribute to the national effort to support digital contact tracing,
-rather than downloading the App on their phone.
-10        More details about the TT Token can be found in Annex B.
-TRACETOGETHER-ONLY SAFEENTRY CHECK-IN FOR DESIGNATED PLACES
-11       Since 3 July 2020, GovTech has updated the TT App to enable the
-App to be used for SafeEntry check-in by scanning the QR code of the
-activity or venue through the App.
-12      Starting from October 2020, larger-scale business-to-business
-(B2B) events such as meetings and conferences that are being piloted
-will require all participants to have a TT App or Token to conduct
-SafeEntry check-in. SNDGG and MOH will work with the event organisers to
-ensure that TT Tokens are available on-site for distribution and
-registration for individuals without the TT App. This was trialled at
-the first MICE pilot event held at the end of August which was attended
-physically by Singapore-based attendees, and virtually by international
-attendees.
-13     Beyond the B2B events, more activities and venues would
-progressively trial TT-only SafeEntry to make such activities safer for
-the rest of Singapore by reducing the risk of onward spread, and
-facilitating future relaxations where possible. These are settings where
-there may be close interaction among attendees, where masks may not be
-worn at all times due to the nature of the activities, and/or where
-there is high human traffic that is harder to monitor. This would
-include venues such as hotels (e.g. for wedding functions), F&B outlets,
-cinemas, gyms and certain workplaces. As such settings have the
-potential to spark off large outbreaks from a single positive COVID-19
-case that spread beyond the activity or venue, the use of TT can
-facilitate rapid and comprehensive contact tracing to stem onward
-spread.
-14        To give the public time and opportunity to collect the Token,
-we will first implement TT-only SafeEntry at a few selected venues
-(where TT Tokens will be distributed on-site for those who need them).
-We will progressively expand TT-only SafeEntry to other venues only
-after the national distribution of the TT Tokens is well underway. We
-are also working with the private sector who are interested in supplying
-contact tracing tokens to companies, to ensure that these Tokens and the
-national TT Token can mutually detect one another and contribute to a
-unified contact tracing ecosystem.
-15       Where TT-only SafeEntry is implemented, SafeEntry check-in must
-be performed either by (a) scanning the activity or venue QR code using
-the TT App on your mobile phone; or (b) having the activity organisers
-or venue staff scan the unique QR code on the TT Token registered to
-you.
-16       GovTech will also be testing new solutions that can help
-increase the convenience and improve the user experience of TT-only
-SafeEntry.
-NEW SERVICE LAUNCHED FOR PUBLIC TO SELF-MONITOR HEALTH BASED ON
-SAFEENTRY RECORDS
-17     MOH currently publishes a list of public locations visited by
-COVID-19 cases during their infectious period.
-18       Responding to public feedback, we will introduce a SafeEntry
-Location Matching Self-Check service for individuals to check whether
-they have been in close proximity to COVID-19 cases, based on their own
-SafeEntry records. This Self-Check service will be available on an
-updated version of the TT App that is available from 10 September.
-Individuals can also access the Self-Check service via SingPass Mobile,
-or at https://wereyouthere.safeentry.gov.sg (with SingPass login).
-19        In addition, SMS notification alerts will be sent to a smaller
-group of individuals who were at locations that are assessed to pose a
-higher risk of transmission, such as dining places and gyms where people
-do not wear masks for extended periods of time. Those whose SafeEntry
-check-in and check-out timings overlap with the COVID-19 case in such
-locations will receive an SMS alert. The SMS notification service will
-begin from 10 September.
-20    To ensure the accuracy of the Self-Check service and SMS service,
-we need businesses to provide accurate SafeEntry address records,
-including postal codes. Individuals are reminded to provide updated
-phone numbers for their TT App (or SingPass Mobile/ SafeEntry QR
-webform, as the case may be). Individuals should check-in and check-out
-of locations promptly using SafeEntry to avoid any erroneous
-notifications from these 2 services. This also helps our contact tracers
-more accurately establish links and transmission chains. Please refer to
-Annex C for details on who will receive the targeted SMS, and who will
-be able to access SafeEntry records for the Self-Check service.
-21       The above measures and features will help prepare us for the
-further reopening of our economy and society. By actively participating
-in the TT Programme and using SafeEntry, we can all play our part to
-stay ahead of the pandemic and keep ourselves and our loved ones safe.
+          As of 9 September 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 75 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+
+SUMMARY OF NEW CASES
+
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
+
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 14              | 0               | 14              |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 1               | 1               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 29              | 31              | 60              |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+A)  IMPORTED CASES: 14 (2 Singaporeans, 7 Permanent Residents,
+1 Work Pass holder, 3 Work Permit holders, 1 Student’s Pass holder)
+
+Amongst the 14 imported cases, 2 (Cases 57272 and 57277) are
+Singaporeans, and 7 (Cases 57271, 57278, 57295, 57296, 57297, 57298 and
+57299) are Singapore Permanent Residents who returned to Singapore from
+India between 24 August and 28 August, and Ghana on 28 August. Another 4
+(Cases 57241, 57242, 57243 and 57290) are Work Pass/ Work Permit holders
+currently employed in Singapore who arrived from the Philippines on 28
+August and India on 28 August. The remaining case (Case 57287) is a
+Student’s Pass holder who arrived from Kazakhstan on 29 August.
+
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and had been tested while serving their SHN at
+dedicated facilities.
+
+
+
+B)  CASES IN THE COMMUNITY: 1 (1 Work Permit holder)
+
+There is 1 case in the community today who is linked to a cluster. Case
+57300 was detected as a result of our Rostered Routine Testing of
+workers in the construction, marine and process sectors who are living
+outside the dormitories, even though he is asymptomatic.
+
+Overall, the number of new cases in the community has decreased, from an
+average of 3 cases per day in the week before, to an average of 2 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 2 cases per day in the week before,
+to an average of 1 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+
+
+C)  CASES RESIDING IN DORMITORIES: 60
+
+Amongst the 60 cases residing in dormitories, 29 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+
+The remaining 31 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the close contacts.
+
+Of the cases residing in dormitories today, 31 are from Westlite Toh
+Guan dormitory, the vast majority of whom had been placed on quarantine
+earlier and were tested during quarantine to determine their status. The
+remaining cases were detected through surveillance testing, such as our
+bi-weekly Rostered Routine Testing.
+
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of the cases are current or past
+infections.[1] The serological test results for 22 cases have come back
+positive so far, which indicate likely past infections.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 92% are imported or linked to known
+cases/ clusters, while the rest are pending contact tracing.
+
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+4.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.  31 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 56,492 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+6.  There are currently 34 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 613 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+
+
+
+MINISTRY OF HEALTH
+9 SEPTEMBER 2020
+
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
