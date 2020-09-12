@@ -1,22 +1,136 @@
-42 New Cases of Covid-19 Infection
+92 More Cases Discharged, 42 New Cases of Covid-19 Infection Confirmed
 
 
 
-42 NEW CASES OF COVID-19 INFECTION
+92 MORE CASES DISCHARGED, 42 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 12 Sep 2020
 
-                      As of 12 September 2020, 12pm, the Ministry of
-Health (MOH) has preliminarily confirmed an additional 42 cases of
-COVID-19 infection in Singapore. Based on our investigations so far,
-there are 4 cases in the community, of whom 1 is a Singapore Permanent
-Resident and 3 are Work Pass holders.
-2.               There are 10 imported cases, who had all been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.               We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+               As of 12 September 2020, 12pm, the Ministry of Health
+(MOH) has confirmed and verified an additional 42 cases of COVID-19
+infection in Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+Amongst the new cases today, 41 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 1 was symptomatic.
+
+
++--------+--------+--------+--------+--------+--------+--------+--------+
+|        |        | ALREAD |        | DETECT |        | TOTAL  |        |
+|        |        | Y      |        | ED     |        |        |        |
+|        |        | IN     |        | FROM   |        |        |        |
+|        |        | QUARAN |        | SURVEI |        |        |        |
+|        |        | TINE/  |        | LLANCE |        |        |        |
+|        |        | ISOLAT |        |        |        |        |        |
+|        |        | ION    |        |        |        |        |        |
+|        |        | BEFORE |        |        |        |        |        |
+|        |        | DETECT |        |        |        |        |        |
+|        |        | ION    |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+
+| IMPORT |        | 10     |        | 0      |        | 10     |        |
+| ED     |        |        |        |        |        |        |        |
+| CASES  |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+
+| CASES  |        | 1      |        | 3      |        | 4      |        |
+| IN THE |        |        |        |        |        |        |        |
+| COMMUN |        |        |        |        |        |        |        |
+| ITY    |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+
+| CASES  |        | 16     |        | 12     |        | 28     |        |
+| RESIDI |        |        |        |        |        |        |        |
+| NG     |        |        |        |        |        |        |        |
+| IN     |        |        |        |        |        |        |        |
+| DORMIT |        |        |        |        |        |        |        |
+| ORIES  |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+
+
+A)    IMPORTED CASES: 10 (2 Singaporeans, 5 Permanent Residents, 2 Work
+Pass holders, 1 Short-Term Visit Pass holder)
+
+Amongst the 10 imported cases, 2 (Cases 57473 and 57474) are
+Singaporeans and 5 (Cases 57475, 57476, 57477, 57481 and 57482) are
+Singapore Permanent Residents who returned to Singapore from India on 30
+August and 31 August. Another 2 (Cases 57462 and 57489) are Work Pass
+holders currently employed in Singapore who arrived from Germany on 30
+August and the Philippines on 29 August. The remaining case (Case
+57468), a Short-Term Visit Pass holder, is the spouse of a Singaporean
+who arrived from India on 5 September.
+
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and had been tested while serving their SHN at
+dedicated facilities.
+
+B)    CASES IN THE COMMUNITY: 4 (1 Permanent Resident, 1 Work Pass
+holder, 2 Work Permit holders)
+
+Of the 4 cases in the community, 3 were picked up as a result of our
+proactive surveillance and screening, and 1 had already been placed on
+quarantine earlier. All 4 cases are asymptomatic, and were detected
+through our proactive testing.
+All cases in the community today are linked to previous cases or
+clusters. Case 57470 had been identified as a contact of a previously
+confirmed case, and had been placed on quarantine earlier. He was tested
+during quarantine to determine his status, even though he is
+asymptomatic. Case 57463 was tested as part of our efforts to screen
+individuals working in frontline COVID-19 operations, and Case 57461 was
+swabbed as part of our active case finding efforts. The remaining case
+(Case 57495) was detected as a result of our Rostered Routine Testing of
+workers in the construction, marine and process sectors who are living
+outside the dormitories.
+Overall, the number of new cases in the community has decreased, from an
+average of 3 cases per day in the week before, to an average of 2 per
+day in the past week. The number of unlinked cases in the community has
+also decreased, from an average of 2 cases per day in the week before,
+to an average of 1 per day in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+C)    CASES RESIDING IN DORMITORIES: 28
+
+Amongst the 28 cases residing in dormitories, 16 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+
+The remaining 12 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the close contacts.
+
+Besides the polymerase chain reaction (PCR) test, we have also conducted
+serological tests to determine if some of the cases are current or past
+infections.[1] The serological test result for 1 case has come back
+positive so far, which indicates a likely past infection.
+
+2.               Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+3.               Of the new cases, 88% are imported or linked to known
+cases/ clusters, while the rest are pending contact tracing.
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.               Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.               92 more cases of COVID-19 infection have been
+discharged from hospitals or community isolation facilities. In all,
+56,699 have fully recovered from the infection and have been discharged
+from hospitals or community care facilities.
+6.               There are currently 54 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 577 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
+
 
 MINISTRY OF HEALTH
 12 SEPTEMBER 2020
+[1] Cases whose serological tests are positive are likely to have a past
+infection, and could be shedding minute fragments of the virus RNA
+picked by the PCR test, which were no longer transmissible and infective
+to others.
