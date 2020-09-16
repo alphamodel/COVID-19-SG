@@ -14,12 +14,16 @@ SUMMARY OF NEW CASES
 All new cases today are asymptomatic, and were detected from our
 proactive screening and surveillance.
 
-  -------------------------------- ---------------------------------------------------- ----------------------------- --------
-                                   ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION    DETECTED FROM SURVEILLANCE    TOTAL
-   IMPORTED CASES                   2                                                    0                             2
-   CASES IN THE COMMUNITY           0                                                    2                             2
-   CASES RESIDING IN DORMITORIES    17                                                   6                             23
-  -------------------------------- ---------------------------------------------------- ----------------------------- --------
+  -------------------------------- ----------------------------- ----------------------------- ------------
+                                  ALREADY IN QUARANTINE/        DETECTED FROM SURVEILLANCE        TOTAL
+                                   ISOLATION BEFORE DETECTION
+
+   IMPORTED CASES                   2                             0                             2
+
+   CASES IN THE COMMUNITY           0                             2                             2
+
+   CASES RESIDING IN DORMITORIES    17                            6                             23
+  -------------------------------- ----------------------------- ----------------------------- ------------
 
 A) IMPORTED CASES: 2 (1 SINGAPOREAN, 1 LONG-TERM VISIT PASS HOLDER)
 Both imported cases arrived from India. Case 57652 is a Singaporean who
