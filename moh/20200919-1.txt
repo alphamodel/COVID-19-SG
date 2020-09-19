@@ -7,7 +7,7 @@
 
 Published Date: 19 Sep 2020
 
-       As of 19 September 2020, 12pm, the Ministry of Health (MOH) has
+         As of 19 September 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified an additional 15 cases of COVID-19 infection in
 Singapore. The breakdown of the cases is as follows:
 SUMMARY OF NEW CASES
@@ -30,7 +30,7 @@ our proactive screening and surveillance, while 2 were symptomatic.
 | IN DORMITORIES  |                 |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
-a) IMPORTED CASES: 5 (1 Work Permit holder, 1 Dependant’s Pass holder, 1
+A) IMPORTED CASES: 5 (1 Work Permit holder, 1 Dependant’s Pass holder, 1
 Student’s Pass holder, 2 Long-Term Visit Pass holders)
 
 Amongst the 5 imported cases, 1 (Case 57700) is a Work Permit holder
@@ -43,7 +43,7 @@ September.
 All of them had been placed on 14-day Stay-Home Notice (SHN) upon
 arrival in Singapore, and were tested while serving their SHN at
 dedicated facilities.
-b) CASES IN THE COMMUNITY: 1 (1 Singaporean)
+B) CASES IN THE COMMUNITY: 1 (1 Singaporean)
 There is 1 case in the community today who is currently unlinked. Case
 57699 was detected under our enhanced community testing to test all
 individuals aged 13 and above who are diagnosed with acute respiratory
