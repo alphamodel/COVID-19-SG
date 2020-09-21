@@ -83,7 +83,7 @@ isolating the close contacts.
 Besides the polymerase chain reaction (PCR) test, we have also conducted
 serological tests to determine if some of the cases are current or past
 infections.[1] The serological test results for 2 cases have come back
-positive so far, which indicate likely past infection
+positive so far, which indicate likely past infection.
 
 2.  Details of these trends can be found in MOH’s daily
 situation Report (www.moh.gov.sg/covid-19/situation-report). Please
@@ -120,6 +120,8 @@ intensive care unit. 302 are isolated and cared for at community
 facilities. These are those who have mild symptoms, or are clinically
 well but still test positive for COVID-19. 27 have passed away from
 complications due to COVID-19 infection.
+
+
 
 MINISTRY OF HEALTH
 21 SEPTEMBER 2020
