@@ -1,21 +1,81 @@
-11 New Cases of Covid-19 Infection
+8 More Cases Discharged, 11 New Cases of Covid-19 Infection Confirmed
 
 
 
-11 NEW CASES OF COVID-19 INFECTION
+8 MORE CASES DISCHARGED, 11 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 25 Sep 2020
 
-        As of 25 September 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 11 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there are no cases in the
-community.
-2.     There are 2 imported cases, who had been placed on Stay-Home
-Notice upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 25 September 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified an additional 11 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
+SUMMARY OF NEW CASES
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
+
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 2               | 0               | 2               |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 0               | 0               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 7               | 2               | 9               |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+A) IMPORTED CASES: 2 (1 Work Pass holder, 1 Work Permit holder)
+Both imported cases (Cases 57803 and 57804) are Work Pass/ Permit
+holders currently employed in Singapore who arrived from India and the
+Philippines on 13 September. They had been placed on 14-day Stay-Home
+Notice (SHN) upon arrival in Singapore, and were tested while serving
+their SHN at dedicated facilities.
+B) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+Overall, the number of new cases in the community has remained stable at
+an average of fewer than 1 case per day in the past 2 weeks. The number
+of unlinked cases in the community has also remained stable at an
+average of fewer than 1 case per day in the past 2 weeks. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+C) CASES RESIDING IN DORMITORIES: 9
+Amongst the 9 cases residing in dormitories, 7 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status.
+The remaining 2 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the close contacts.
+2.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
+A for the summary of the confirmed cases.
+3.       Of the new cases, 91% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+LINKS BETWEEN PREVIOUS CASES FOUND
+4.       Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex B and Annex C for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.       8 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,341 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.       There are currently 29 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 268 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 25 SEPTEMBER 2020
+
 
