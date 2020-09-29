@@ -123,3 +123,13 @@ College of Medicine Building, Singapore 169854. All responses received
 by the closing date will be carefully considered.
 MINISTRY OF HEALTH
 29 SEPTEMBER 2020
+[1] Sub-acute care at community hospitals is for complicated medical
+conditions that require additional medical and nursing care, but at a
+lower intensity compared to acute hospitals.
+[2] Amount patient pays once every policy year before MediShield Life
+payout starts. Ranges from $1,500 to $3,000, depending on age and ward.
+[3] MediShield Life payouts are pegged at subsidised bills at public
+hospitals, which are generally much lower than private hospital bills.
+The pro-ration factor is applied on a private hospital bill to adjust it
+down to the equivalent level of a subsidised bill, before the payout is
+computed.
