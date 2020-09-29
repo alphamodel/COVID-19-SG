@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="hidden" name="ctl10_TSSM" id="ctl10_TSSM" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0iyX4z5XX2RA3ZzuMoPOYscBOK2vVCuUMDKC+yrN2Iu4WIyGEmaVPK2WeGBeZkRYHg1wuisOm9QzlmiPN+5ws14iiiDbQTW0RziKrDJa1xk=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="OqlNh05eStO5PKipnBTkFsBh2SYRr2Sfx8A6BQt5ZuBL+3FTyqngLbhLGHyfyuF4awg31kJ038fhb2oT9GZIsEPHvLtIU+Tibs5bogNnfBE=" />
 </div>
 
 <script type="text/javascript">
@@ -565,6 +565,7 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="col-md-3">
 <ul class="footer__social-links">
 <li> <a href="https://www.facebook.com/sghealthministry/" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-facebook-alt" aria-hidden="true"></i><span style="display:none">facebook</span></a></li>
+<li> <a href="https://www.instagram.com/moh_singapore/" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-instagram" aria-hidden="true"></i><span style="display:none">youtube</span></a></li>
 <li> <a href="https://twitter.com/sporemoh?lang=en" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-twitter" aria-hidden="true"></i><span style="display:none">twitter</span></a></li>
 <li> <a href="https://www.youtube.com/user/MOHSingapore?gl=SG&amp;hl=en-GB" target="_blank" rel="noreferrer noopener"><i class="sgds-icon sgds-icon-youtube-alt" aria-hidden="true"></i><span style="display:none">youtube</span></a></li>
 </ul>
