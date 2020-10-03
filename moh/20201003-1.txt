@@ -1,23 +1,119 @@
-6 New Cases of Covid-19 Infection
+28 More Cases Discharged, 6 New Cases of Covid-19 Infection Confirmed
 
 
 
-6 NEW CASES OF COVID-19 INFECTION
+28 MORE CASES DISCHARGED, 6 NEW CASES OF COVID-19 INFECTION CONFIRMED
 
 
 Published Date: 03 Oct 2020
 
           As of 3 October 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed an additional 6 cases of COVID-19 infection in
-Singapore. Based on our investigations so far, there is 1 case in the
-community, who is a Singaporean.
+confirmed and verified an additional 6 cases of COVID-19 infection in
+Singapore. The breakdown of the cases is as follows:
 
-2.  There are 4 imported cases, who had all been placed on
-Stay-Home Notice upon arrival in Singapore.
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+SUMMARY OF NEW CASES
+
+Amongst the new cases today, 4 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 2 were symptomatic.
+
+
+
++-----------------+-----------------+-----------------+-----------------+
+|                 | ALREADY IN      | DETECTED FROM   | TOTAL           |
+|                 | QUARANTINE/     | SURVEILLANCE    |                 |
+|                 | ISOLATION       |                 |                 |
+|                 | BEFORE          |                 |                 |
+|                 | DETECTION       |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| IMPORTED CASES  | 4               | 0               | 4               |
++-----------------+-----------------+-----------------+-----------------+
+| CASES IN THE    | 0               | 1               | 1               |
+| COMMUNITY       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| CASES RESIDING  | 1               | 0               | 1               |
+| IN DORMITORIES  |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+
+
+A)  IMPORTED CASES: 4 (1 Singaporean, 2 Work Permit holders, 1
+Short-Term Visit Pass holder)
+
+Amongst the 4 imported cases, 1 (Case 57946) is a Singaporean who
+returned to Singapore from India on 21 September. Another 2 (Cases 57943
+and 57944) are Work Permit holders currently employed in Singapore who
+arrived from Indonesia on 21 September. The remaining case (Case 57945),
+a child whose parent is a Singapore Permanent Resident, is a Short-Term
+Visit Pass holder who arrived from Indonesia on 25 September.
+
+All of them had been placed on 14-day Stay-Home Notice (SHN) upon
+arrival in Singapore, and were tested while serving their SHN at
+dedicated facilities.
+
+
+
+B)  CASES IN THE COMMUNITY: 1 (1 Singaporean)
+
+There is 1 case in the community today who is currently unlinked. Case
+57947 was detected under our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection (ARI) at first presentation to a doctor. This allows us to
+identify infected individuals early and to quickly contain further
+spread. Epidemiological investigations of the case are in progress. In
+the meantime, all the identified close contacts of the case have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for his household contacts to
+determine if he could have been infected by them.
+
+Overall, the number of new cases in the community has increased from an
+average of fewer than 1 case per day in the week before, to an average
+of 1 case in the past week. The number of unlinked cases in the
+community has remained stable at an average of fewer than 1 case per day
+in the past 2 weeks. We will continue to closely monitor these numbers,
+as well as the cases detected through our surveillance programme.
+
+
+
+C)  CASES RESIDING IN DORMITORIES: 1
+
+There is 1 case residing in a dormitory, who had been identified earlier
+as a contact of previous cases, and had already been quarantined to
+prevent further transmission. He was tested during quarantine to
+determine his status.
+
+2.  Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report). Please
+refer to Annex A for the summary of the confirmed cases.
+
+3.  Of the new cases, 83% are imported or linked to known
+cases/ clusters, while the rest are pending contact tracing.
+
+
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+4.  Further epidemiological investigations and contact tracing
+have uncovered links between previously announced and new cases. Please
+refer to Annex B and Annex C for details.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.  28 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 57,562 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+6.  There are currently 46 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 165 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 3 OCTOBER 2020
