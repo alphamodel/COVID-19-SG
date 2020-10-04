@@ -44,7 +44,7 @@ holder who arrived from Japan on 22 September.
 All of them had been placed on 14-day Stay-Home Notice (SHN) or isolated
 upon arrival in Singapore, and were tested while serving their SHN at
 dedicated facilities.
-A) CASES IN THE COMMUNITY: 2 (1 Work Pass holder, 1 Work Permit holder)
+B) CASES IN THE COMMUNITY: 2 (1 Work Pass holder, 1 Work Permit holder)
 There are 2 cases in the community today who are currently unlinked.
 Case 57953 was detected under our enhanced community testing to test all
 individuals aged 13 and above who are diagnosed with acute respiratory
@@ -66,7 +66,7 @@ community has also increased from an average of fewer than 1 case per
 day in the week before, to an average of 1 case in the past 2 weeks. We
 will continue to closely monitor these numbers, as well as the cases
 detected through our surveillance programme.
-A) CASES RESIDING IN DORMITORIES: 4
+C) CASES RESIDING IN DORMITORIES: 4
 
 
 All 4 cases residing in dormitories were detected through surveillance testing, such as our bi-weekly Rostered Routine Testing of workers living in dormitories. This allows us to pick up cases early, including asymptomatic ones, so that we are able to ring-fence them quickly to prevent further transmission, by aggressively containing, tracing and isolating the close contacts.
