@@ -67,9 +67,12 @@ day in the week before, to an average of 1 case in the past 2 weeks. We
 will continue to closely monitor these numbers, as well as the cases
 detected through our surveillance programme.
 C) CASES RESIDING IN DORMITORIES: 4
-
-
-All 4 cases residing in dormitories were detected through surveillance testing, such as our bi-weekly Rostered Routine Testing of workers living in dormitories. This allows us to pick up cases early, including asymptomatic ones, so that we are able to ring-fence them quickly to prevent further transmission, by aggressively containing, tracing and isolating the close contacts.
+All 4 cases residing in dormitories were detected through surveillance
+testing, such as our bi-weekly Rostered Routine Testing of workers
+living in dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the contacts.
 
 2.       Details of these trends can be found in MOH’s daily situation
 Report (www.moh.gov.sg/covid-19/situation-report). Please refer to Annex
