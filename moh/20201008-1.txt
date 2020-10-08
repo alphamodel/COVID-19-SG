@@ -8,15 +8,127 @@
 Published Date: 08 Oct 2020
 
         As of 8 October 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 4 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, all 4 reside in
-dormitories and there is none in the community.
-2.      In addition, there are 5 imported cases, who had all been placed
-on Stay-Home Notice or isolated upon arrival in Singapore. In total,
-there are 9 new cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified 4 new cases of locally transmitted COVID-19
+infection. All 4 reside in dormitories and there is none in the
+community. In addition, there are 5 imported cases, who had all been
+placed on Stay-Home Notice (SHN) or isolated upon arrival. All cases
+today are asymptomatic and were detected from our proactive screening
+and surveillance.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+4
+
+1
+
+3
+
+0
+
+4
+
+IMPORTED CASES
+
+5
+
+5
+
+0
+
+0
+
+5
+
+TOTAL
+
+9
+
+2.       Overall, the number of new cases in the community has remained
+stable at an average of 1 case per day in the past 2 weeks. The number
+of unlinked cases in the community has also remained stable at an
+average of fewer than 1 case per day in the past 2 weeks. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+3.      Of the new cases, 78% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no new cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 4
+Amongst the 4 cases residing in dormitories, 1 had been identified
+earlier as a contact of previous cases, and had already been quarantined
+to prevent further transmission. He was tested during quarantine to
+determine his status.
+The remaining 3 cases were detected through surveillance testing, such
+as our bi-weekly Rostered Routine Testing of workers living in
+dormitories. This allows us to pick up cases early, including
+asymptomatic ones, so that we are able to ring-fence them quickly to
+prevent further transmission, by aggressively containing, tracing and
+isolating the close contacts.
+C) IMPORTED CASES: 5
+Amongst the 5 imported cases, 1 (Case 57993) is a Singaporean who
+returned from Nepal on 25 September. Another 2 cases are currently
+employed in Singapore. Case 57994 is an engineer who is on a short-term
+work project in Singapore, and arrived from France on 5 October, while
+Case 57998 arrived from Japan on 6 October. The remaining 2 (Cases 57995
+and 57996) are crew members of a ship which arrived in Singapore from
+Malaysia on 23 September. They did not disembark from the ship and were
+isolated after Case 57922 had been confirmed to have COVID-19 infection.
+They were swabbed while quarantined on the ship, where they had remained
+until their test results came back positive for COVID-19 and were then
+conveyed by ambulance to a hospital.
+They had all been placed on 14-day SHN or isolated upon arrival in
+Singapore, and were tested even though all of them are asymptomatic.
+4.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report).
+5.      Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+LINKS BETWEEN PREVIOUS CASES FOUND
+6.      Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.      44 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,668 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.      There are currently 35 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 119 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 27 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 8 OCTOBER 2020
 
