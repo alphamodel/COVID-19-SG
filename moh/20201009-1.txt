@@ -1,51 +1,189 @@
-Expansion of Chas Chronic Subsidy and Medisave for Video Consultation to
-All Chronic Conditions Under the Chronic Disease Management Programme
+1 New Case of Locally Transmitted Covid-19 Infection
 
 
 
-EXPANSION OF CHAS CHRONIC SUBSIDY AND MEDISAVE FOR VIDEO CONSULTATION TO ALL CHRONIC CONDITIONS UNDER THE CHRONIC DISEASE MANAGEMENT PROGRAMME
+1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 09 Oct 2020
 
-1. From 9 October 2020, the Ministry of Health (MOH) will expand CHAS
-Chronic subsidy and MediSave to support video consultation for the
-regular follow up of all 20 chronic conditions under the Chronic Disease
-Management Programme (CDMP). Please refer to Annex A for the full list
-of chronic conditions covered under the CDMP.
-2. On 3 April 2020, MOH introduced a time-limited and exceptional
-extension of CHAS Chronic subsidy and MediSave for the regular follow-up
-of seven chronic conditions through video-consultation to support safe
-distancing measures. Since then, some 235 private healthcare
-institutions were able to provide video consultations that can be
-covered by CHAS Chronic subsidies and MediSave. The expansion will
-enable more patients whose conditions are stable to benefit by avoiding
-a physical visit to the clinic while still receiving care.
-3. Patients can tap on the prevailing CHAS Chronic subsidy and MediSave
-(i.e. MediSave500 and Flexi-MediSave) limits to offset the cost of video
-consultation, related drugs and investigations.
-4. This extension will remain active until the de-activation of the
-Public Health Preparedness Clinic (PHPC) scheme, or as otherwise
-determined by MOH. MOH will review the use of CHAS Chronic subsidy and
-MediSave for video consultations in the longer term, taking into account
-learnings and data from the existing extension.
-5. Healthcare professionals who wish to provide video consultations
-covered by CHAS Chronic subsidies and MediSave are first required to
-undergo telemedicine e-training. MOH has also provided guidelines to
-healthcare providers to only carry out video consultations for suitable
-patients and have assessed that an in-person physical examination is not
-required.
-6. Specifically, healthcare providers should only carry out video
-consultations for patients that the providers had physical consultations
-with previously, to confirm the patient’s suitability for video
-consultation before its use. Whenever it is assessed to be necessary,
-such as when a patient has atypical symptoms or a physical examination
-is required, the provider should ask the patient to visit the clinic for
-a physical consultation.
-7. The list of private healthcare institutions providing CHAS Chronic
-subsidy and MediSave for video consultations of the selected chronic
-conditions can be found at www.moh.gov.sg/covid-19/vc. Patients may also
-wish to check with their healthcare provider to ascertain their
-suitability for video consultations of the selected chronic conditions.
-MINISTRY OF HEALTH
-9 OCTOBER 2020
+1.     As of 9 October 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection who resides in a dormitory. There are no cases in the
+community. In addition, there are 9 imported cases, who had all been
+placed on Stay-Home Notice (SHN) or isolated upon arrival. All cases
+today are asymptomatic and were detected from our proactive screening
+and surveillance.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+1
+
+0
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+9
+
+
+
+9
+
+0
+
+
+
+0
+
+9
+
+TOTAL
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has remained
+stable at an average of 1 case per day in the past 2 weeks. The number
+of unlinked cases in the community has also remained stable at an
+average of fewer than 1 case per day in the past 2 weeks. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+
+3.     All the new cases today are imported or linked to known cases/
+clusters.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no new cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 1
+
+There is 1 case residing in a dormitory who had been identified earlier
+as a contact of previous cases, and had already been quarantined to
+prevent further transmission. He was tested during quarantine to
+determine his status.
+
+There are no new cases detected in purpose-built dormitories for the
+first time since 28 March 2020.
+
+C) IMPORTED CASES: 9
+
+Amongst the 9 imported cases, 1 (Case 58006) is a Singapore Permanent
+Resident who returned from the Philippines. Another 6 cases are
+currently employed in Singapore. They had all been placed on 14-day SHN
+upon arrival in Singapore, and were tested while serving SHN at
+dedicated facilities even though all of them are asymptomatic.
+
+The remaining 2 (Cases 58003 and 58004) are crew members of a ship which
+arrived in Singapore from Malaysia on 23 September. They had remained on
+the ship until they were transferred to a quarantine facility. They were
+swabbed during quarantine to determine their status, even though they
+are asymptomatic.
+
+4.     Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report).
+
+5.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+6.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the cluster at
+Cochrane Lodge I (51 Admiralty Road West) for the past two incubation
+periods (i.e. 28 days), the cluster has now been closed.
+
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+7.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+8.     7 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,675 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+9.     There are currently 37 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 120 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 27 have passed away from
+complications due to COVID-19 infection.
