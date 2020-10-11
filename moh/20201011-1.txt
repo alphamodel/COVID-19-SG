@@ -7,16 +7,137 @@
 
 Published Date: 11 Oct 2020
 
-                   As of 11 October 2020, 12pm, the Ministry of Health
-(MOH) has preliminarily confirmed 3 new cases of locally transmitted
-COVID-19 infection. Based on our investigations so far, all 3 reside in
-dormitories and there is none in the community.
-2.               In addition, there are 7 imported cases, who had all
-been placed on Stay-Home Notice upon arrival in Singapore. In total,
-there are 10 new cases of COVID-19 infection in Singapore today.
-3.               We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+As of 11 October 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified 3 new cases of locally transmitted COVID-19 infection. All
+3 reside in dormitories and there is none in the community. In addition,
+there are 7 imported cases, who had all been placed on Stay-Home Notice
+(SHN) upon arrival. All new cases today are asymptomatic, and were
+detected from our proactive screening and surveillance.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+3
+
+2
+
+1
+
+0
+
+3
+
+IMPORTED CASES
+
+7
+
+7
+
+0
+
+0
+
+7
+
+TOTAL
+
+10
+
+2.               Overall, the number of new cases in the community has
+decreased from an average of 2 cases per day in the week before, to an
+average of 1 per day in the past week. The number of unlinked cases in
+the community has also decreased from an average of 1 case per day in
+the week before, to none in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.               All the new cases today are imported or linked to known
+cases/ clusters.
+CASE DETAILS
+A)    CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B)    CASES RESIDING IN DORMITORIES: 3
+
+Amongst the 3 cases residing in dormitories, 2 had been identified
+earlier as contacts of previous cases, and had already been quarantined
+to prevent further transmission. They were tested during quarantine to
+determine their status, even though they are asymptomatic.
+
+The remaining case was detected through our bi-weekly Rostered Routine
+Testing of workers living in dormitories. This allows us to pick up
+cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts.
+
+C)    IMPORTED CASES: 7
+
+Amongst the 7 imported cases, 2 (Cases 58028 and 58029) are Singapore
+Permanent Residents who returned from Indonesia. Another 3 cases (Cases
+58022, 58024 and 58025) are Work Permit holders currently employed in
+Singapore who arrived from Malaysia and the Philippines. The remaining 2
+cases (Cases 58023 and 58030) are Dependant’s Pass holders who arrived
+from the Philippines and Saudi Arabia.
+
+They had all been placed on 14-day SHN upon arrival in Singapore, and
+were tested while serving SHN even though all of them are asymptomatic.
+
+4.               Details of these trends can be found in MOH’s daily
+situation Report (www.moh.gov.sg/covid-19/situation-report).
+5.               Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+6.               MOH has been monitoring existing clusters for any
+further transmission. As there have been no more cases linked to the
+clusters at Kranji Lodge I (12 Kranji Road) and Westlite Woodlands
+dormitory (2 Woodlands Sector 2) for the past two incubation periods
+(i.e. 28 days), the clusters have now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+7.               Further epidemiological investigations and contact
+tracing have uncovered links between previously announced and new cases.
+Please refer to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+8.               7 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 57,705 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+9.               There are currently 44 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 100 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 27 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 11 OCTOBER 2020
+
+
