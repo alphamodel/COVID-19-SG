@@ -8,15 +8,134 @@
 Published Date: 16 Oct 2020
 
        As of 16 October 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case resides in a
-dormitory and there are no new cases in the community.
-2     In addition, there are 8 imported cases, who had all been placed
-on Stay-Home Notice or isolated upon arrival in Singapore. In total,
-there are 9 new cases of COVID-19 infection in Singapore today.
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection. The case resides in a dormitory and there are no new cases in
+the community. In addition, there are 8 imported cases, who had all been
+placed on Stay-Home Notice (SHN) or isolated upon arrival. Amongst the
+new cases today, 7 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 2 were symptomatic.
 
-3     We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+0
+
+1
+
+0
+
+1
+
+IMPORTED CASES
+
+8
+
+8
+
+0
+
+2
+
+6
+
+TOTAL
+
+9
+
+2.   Overall, the number of new cases in the community has remained
+stable at an average of fewer than 1 case per day in the past 2 weeks.
+The number of unlinked cases in the community has decreased from an
+average of fewer than 1 case per day in the week before, to none in the
+past week. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+3.   Of the new cases, 89% are imported or linked to known cases/
+clusters, while the rest are pending contact tracing.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today. He was detected through
+our bi-weekly Rostered Routine Testing of workers living in dormitories.
+This allows us to pick up cases early, including asymptomatic ones, so
+that we are able to ring-fence them quickly to prevent further
+transmission, by aggressively containing, tracing and isolating the
+close contacts. His serological test result has come back positive,
+which indicates likely past infection.
+C) IMPORTED CASES: 8
+Amongst the 8 imported cases, 2 (Cases 58055 and 58056) are Singaporeans
+who returned from the Philippines. Another 4 (Cases 58060, 58061, 58062
+and 58063) are Work Permit holders currently employed in Singapore who
+arrived from Indonesia, the Philippines and Myanmar. They had all been
+placed on SHN upon arrival in Singapore and were tested while serving
+SHN.
+The remaining 2 cases are Short-Term Visit Pass holders. Case 58058 was
+allowed entry into Singapore from India as he was already receiving
+medical care in Singapore and had returned for further treatment. He was
+conveyed directly to a hospital and isolated upon arrival in Singapore
+and was tested subsequently. The remaining case (Case 58059) is a crew
+member of a ship which arrived from Indonesia. He had not disembarked
+from the ship, and was swabbed on board after developing symptoms. He
+had remained on the ship until his test result came back positive for
+COVID-19 infection and was then conveyed to a hospital.
+4.    Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report).
+5.    Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.    MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the cluster at
+The Jovell construction site (27 Flora Drive) for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+7.   Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+8.   20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,784 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+9.   There are currently 30 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 59 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. This is the first time since 12 March 2020 that
+the number of active cases (comprising cases who are hospitalised or at
+community facilities) has fallen below 100. 28 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 16 OCTOBER 2020
+
+
