@@ -1,23 +1,213 @@
-2 New Cases of Locally Transmitted Covid-19 Infection
+Roadmap to Phase Three
 
 
 
-2 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+ROADMAP TO PHASE THREE
 
 
 Published Date: 20 Oct 2020
 
-        As of 20 October 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, both reside in
-dormitories and there are no new cases in the community.
-2.      In addition, there are 4 imported cases, who had all been placed
-on Stay-Home Notice upon arrival in Singapore. In total, there are 6 new
-cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-MINISTRY OF HEALTH
-20 OCTOBER 2020
+       It has been more than half a year since we entered Circuit
+Breaker, and more than four months since we started our gradual
+reopening. We have come a long way, ramping up healthcare capacity,
+contact tracing and testing capabilities, putting in place safe
+management measures in the community, workplaces and dormitories, and
+opening our borders in a safe and calibrated manner. With everyone’s
+efforts and sacrifices, we have been able to control the infection and
+keep community transmission low thus far.
+2.      To continue our journey of safe re-opening towards Phase Three,
+several conditions and enablers need to be in place. In particular, we
+must continue scaling up testing and tracing efforts as well as adhering
+to the safe management measures. This is how we can progressively resume
+more activities safely while keeping community transmission low.
+3.      Phase Three is not a return to the pre-COVID status quo ante. It
+will entail new ways of working and living, until the world has the
+virus under tight control (e.g. through more effective treatments and
+vaccines that are widely available). So we have to be prepared to stay
+in Phase Three for a prolonged period (potentially more than a year).
+Phase Three will also not be static. If we can put in place more
+enablers, there is scope for further reopening and scaling up of
+activities even within Phase Three.
+KEY ENABLERS FOR PHASE THREE
+_Continued Adherence to Safe Management Measures
+_4_.     _We have seen a resurgence of COVID-19 in other countries as
+they open up to more activities or due to lack of adherence to safe
+management measures. To ensure that the situation in Singapore remains
+under control despite the continued presence of cases in our community,
+we will each have to keep up the habits and practices that we have
+painstakingly put in place over the past few months:
+_Testing to Enable More Activities
+a) _Small group sizes. Keeping group sizes small and limiting the number
+of contacts that we have slows down the rate of virus transmission and
+reduces the risk of super-spreading events. We will continue to set
+limits on group sizes, both in public spaces and visitors to the home.
+b) Safe distancing. Safe distancing, including no intermingling between
+individuals and groups, remains a key measure in reducing the risk of
+spread. We will continue to set requirements on safe distancing, as well
+as to disallow or minimise interactions between groups.
+c) Social responsibility. Mask-wearing and personal hygiene protect us
+and others from COVID-19. Persons with symptoms of acute respiratory
+infection should seek medical attention at the earliest opportunity and
+follow up with a Polymerase Chain Reaction (PCR) swab test if directed
+by the doctor.
+_Testing to Enable More Activities
+5.     _To enable more activities to resume in a safe manner, the
+Multi-Ministry Taskforce is piloting the use of pre-event COVID-19
+testing for larger-scale and higher-risk activities to reduce the risk
+of a COVID-19 case being present at the event.
+6.      Pre-event testing requires participants to an event or activity
+to be tested shortly before the event, either at the event venue itself
+or at a separate testing facility. Only participants who test negative
+for COVID-19 will be allowed to participate in the event. This helps to
+prevent positive cases from transmitting the disease to other people at
+the event.
+7.      Given the need for a shorter turnaround time for pre-event
+testing, we are exploring the use of antigen rapid tests which can
+return fairly accurate results quickly. This is part of our strategy to
+expand beyond the highly accurate PCR tests to have a range of tests to
+cater for various use cases. Due to the lower sensitivity of antigen
+rapid tests, there is still a possibility that a COVID-19 case could
+slip through to attend the event. Therefore there is still a need for
+safe management measures to be put in place, including mask-wearing,
+safe distancing, group size and capacity limits, to reduce the risk of
+transmission. The lower accuracy of antigen rapid tests also means there
+could be false positives, i.e. persons who are tested positive even
+though they are not infected.
+8.      The pilots will enable the Ministry of Health (MOH) to trial
+pre-event testing processes to identify different models that can be
+implemented more widely and allow more large-scale or higher-risk events
+to resume eventually. From mid-October to December 2020, we will be
+identifying selected events across different settings, such as
+business-to-business events, wedding receptions, live performances, and
+sports events to test different operational workflows for pre-event
+testing. For example, one business-to-business event where pre-event
+testing will be piloted is the Singapore International Energy Week next
+week. We will gather feedback from event organisers and participants to
+finetune these processes. If these pilots prove successful, we will
+assess how to make these tests available for more widespread use. For
+further information, please refer to this Factsheet on Pilots for
+Pre-event Testing.
+_Digital Contact Tracing Tools to Enable More Activities
+_9.  _   _Alongside safe management measures and scaled up testing, we
+need to continue to strengthen our contact tracing regime, leveraging
+our two key digital contact tracing tools – SafeEntry and TraceTogether.
+The active use of SafeEntry has significantly improved MOH’s ability to
+detect COVID-19 clusters quickly. At the same time, we need greater
+participation in the TraceTogether Programme to help us quickly identify
+close contacts of COVID-positive cases. These digital tools are critical
+for quickly ringfencing any cases that emerge as a result of larger
+group sizes and larger-scale activities. Without these tools, we may
+have multiple generations of spread and large clusters forming.
+10.      We will need a higher take-up rate for TraceTogether before we
+can start Phase Three. Local and international experience suggests that
+social interactions, which often take place in close proximity,
+sometimes without masks on, and often for prolonged periods, are key
+areas of spread. It is therefore imperative that there is higher
+adoption of TraceTogether, so that we are able to quickly contact trace
+and ringfence any infections.
+11.      Another prerequisite is to expand the deployment of
+TraceTogether-only SafeEntry, where visitors are required to check in to
+SafeEntry through either scanning the QR code using the TraceTogether
+App on your phone, or by presenting your TraceTogether Token to be
+scanned. This allows us to ensure that persons visiting places where
+people are likely to be in contact for prolonged periods, or where human
+traffic is high, have the TraceTogether App or Token. In this regard, we
+will progressively roll out TraceTogether-only SafeEntry to workplaces,
+schools, and more public venues, including cinemas, live performances,
+shopping malls, and F&B outlets.
+12.      We encourage everyone to download the App or collect a Token
+for use at the TraceTogether-only SafeEntry premises. TraceTogether
+tokens are now available for collection at 38 Community Centres/ Clubs
+(CCs) around Singapore, and are expected to be available at all 108 CCs
+by end-November 2020. Please refer to the TokenGoWhere website
+(https://token.gowhere.gov.sg) to find the latest schedule and locate a
+convenient site for collection.
+MOVING TO PHASE THREE
+13.     With the above conditions and enablers in place, we will be
+able to move to Phase Three. The shift to Phase Three will entail the
+following adjustments. The exact timing of these changes will depend on
+our collective ability to cooperate with the requirements. Details of
+some of the measures which will be updated in the coming weeks are
+summarised in Annex.
+_Increasing Group Size
+_14._     _In Phase Three, the group size for gatherings outside the
+home could be increased from the present 5 persons to 8 persons. The
+number of visitors allowed to homes would similarly increase to 8.
+_Increasing Capacity Limits
+_15.  _   _Presently, public venues like museums and attractions are
+already open, subject to a capacity limit. Events like congregational
+worship services and wedding receptions can also be held in two zones of
+50 persons. In Phase Three, these capacity limits could be increased,
+and we could allow events with multiple zones of 50 persons. All of
+these adjustments would have to be done in a controlled manner, setting
+by setting, over the course of Phase Three, and additional measures
+would apply for specific settings.
+16.      For example, wedding receptions are higher-risk activities,
+where people are gathered for a meal without their masks on, and there
+is a greater likelihood of social interactions. Any expansion in the
+number of attendees would therefore require additional safety measures,
+including having all the guests go through a pre-event test.
+17.      It is also critical to adhere to the safe management measures
+in these large-scale events. Therefore, Government agencies may also
+request video and photographic footage of the events, to facilitate
+checks and investigations against any breaches of the rules.
+_Considerations for Activities in Higher-Risk Settings
+_18._     _Higher-risk settings like bars, pubs, karaoke lounges and
+nightclubs are closed today as their activities pose a higher risk of
+transmission. Even at the start of Phase Three, we do not expect to open
+these venues. But we are prepared to consider a few limited pilots in
+these settings, subject to a more stringent set of measures, including
+pre-entry testing, to explore how the industry could resume safely. We
+will discuss these possibilities with the nightlife industry. But we
+have to be realistic that it will take a long time for the industry to
+fully re-open in its original form. Where there is non-resumption, the
+Government will put in place an assistance package to help business
+operators and owners transit and pivot to new areas.
+_Facilitating travel and re-opening of borders
+_19._     _Unlike larger countries which can keep their borders closed,
+our livelihoods and economic survival depend heavily on Singapore being
+open to the world and being a key international and travel hub. It is
+therefore not possible for Singapore to keep our borders closed
+indefinitely. We will have to gradually allow more travel to resume in a
+safe manner.
+20.      Through the unilateral opening of borders and Air Travel
+Bubbles, we are allowing travellers from low-risk countries/ regions
+(i.e. those which have comprehensive public health surveillance systems
+and displayed successful control over the spread of the COVID-19 virus)
+to enter Singapore with a COVID-19 test without the need to serve a
+Stay-Home Notice (SHN).
+21.      For travellers from higher-risk countries/ regions, our current
+approach is to subject them to SHN at home or at dedicated SHN
+facilities. We are exploring ways to deploy more frequent testing,
+coupled with other safeguards, to enable more travellers to enter
+Singapore without a need to serve SHN, while minimising the risk of
+transmission to the community.
+22.      Currently, Singaporeans Citizens (SC)/ Permanent Residents
+(PR)/ Long-Term Pass Holders (LTPH) who travel out of Singapore from 27
+March 2020 onwards are responsible for their own inpatient medical
+bills, if they have onset of symptoms for COVID-19 within 14 days of
+their return to Singapore, and are unable to access government subsidies
+or insurance coverage (be it MediShield Life/ Integrated Plans or
+private insurance). [1] In line with the progressive move to reopen our
+borders, we will henceforth allow all SCs/ PRs/ LTPHs travelling
+overseas to access government subsidies and insurance coverage for their
+medical bills.
+23.      There is no change to the charging policy for SCs/ PRs/ LTPHs
+who departed Singapore before 27 March 2020, i.e. the Government will
+continue to pay for their inpatient medical bills for COVID-19 treatment
+upon return, if any.
+ROAD TO PHASE THREE AND BEYOND
+24.     As we make these adjustments towards a new COVID normal, the
+Multi-Ministry Taskforce will continue to explore parallel tracks such
+as vaccines, treatment, testing and other technologies which could
+enable us to further ease restrictions and resume connectivity with the
+world in a safe manner. The journey ahead may be long, but with the
+cooperation of everyone, including businesses, scientists, frontline
+workers, and the general public, we are confident of transiting smoothly
+to Phase Three and beyond, emerging stronger from this experience.
 
+------------------------------------------------------------------------
 
+[1] The current exceptions are those who travel on permitted travel
+regimes (e.g. reciprocal green lanes) or students who travel overseas
+for full-time studies.
