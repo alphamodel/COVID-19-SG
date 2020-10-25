@@ -1,66 +1,126 @@
-Temporary Cessation of Use of Two Influenza Vaccines
+2 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-TEMPORARY CESSATION OF USE OF TWO INFLUENZA VACCINES
+2 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 25 Oct 2020
 
-       The Ministry of Health (MOH) is advising that use of two
-influenza vaccines – SKYCellflu Quadrivalent and VaxigripTetra – should
-be temporarily ceased. This is a precautionary measure following
-reported deaths after influenza vaccination in South Korea. No deaths
-associated with influenza vaccination have been reported in Singapore to
-date. MOH and the Health Sciences Authority (HSA) are monitoring the
-situation closely.
-2.     HSA is in touch with the South Korean authorities for further
-information as they investigate to determine if the deaths are related
-to influenza vaccinations. Based on information released by the South
-Korean health authorities, seven brands of influenza vaccines were
-administered to the individuals involved in the deaths reported in South
-Korea. Of the seven brands, two are available in Singapore. They are
-SKYCellflu Quadrivalent, manufactured by SK Bioscience and locally
-distributed by AJ Biologics, and VaxigripTetra, manufactured by Sanofi
-Pasteur and locally distributed by Sanofi Aventis.
-3.     As a precautionary measure while HSA is assessing the
-implications of the reported deaths in South Korea, MOH has informed
-healthcare providers and medical practitioners to temporarily stop the
-use of these two vaccines. Healthcare providers and medical
-practitioners may continue to use the two other influenza vaccines that
-have been brought into Singapore for the Northern Hemisphere 2020/21
-influenza season. MOH and HSA will assess the situation as more
-information becomes available and further advise on the use of the
-affected vaccines.
-4.     Persons recommended to receive the influenza vaccination,
-including those recommended under the National Childhood Immunisation
-Schedule (NCIS) and National Adult Immunisation Schedule (NAIS), may
-continue to receive their influenza vaccination using other brands of
-influenza vaccines. Influenza vaccination provides protection against
-seasonal influenza viruses, and is effective in reducing the risk of
-complications and deaths due to influenza. This is especially so for
-vulnerable groups such as the elderly, the young, pregnant women and
-those with certain pre-existing medical conditions.
-5.    Influenza vaccination is generally safe and well tolerated. Like
-any medicines, vaccines can cause side effects. Common side effects from
-influenza vaccination may include soreness and redness at the injection
-site, fever, headaches, muscle aches, fatigue and nausea. These side
-effects are generally mild and resolve on their own. In rare instances,
-a person may experience high fever or severe allergic reactions (such as
-breathing difficulty, wheezing and swelling around the eyes) and
-immediate medical attention should be sought.
-6.    Vaccines approved for use in Singapore have been evaluated by HSA
-to ensure that they meet the required international standards of
-quality, safety and efficacy. To ensure that the benefits continue to
-outweigh the risks, HSA monitors the safety of vaccines through an
-adverse event monitoring system. It draws on the network of local
-healthcare professionals and international regulatory counterparts to
-pick up adverse events suspected to be associated with the vaccines.
-7.     MOH and HSA will continue to monitor the situation closely for
-any concerns related to influenza vaccination and keep members of the
-public updated on new developments.
+1. As of 25 October 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified 2 new cases of locally transmitted COVID-19
+infection. Both reside in dormitories and there are no new cases in the
+community. In addition, there are 3 imported cases, who had all been
+placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the
+new cases today, 4 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 1 was symptomatic.
+SUMMARY OF NEW CASES
 
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+2
+
+0
+
+2
+
+1
+
+1
+
+IMPORTED CASES
+
+3
+
+3
+
+0
+
+0
+
+3
+
+TOTAL
+
+5
+
+2. Overall, the number of new cases in the community has decreased from
+5 cases in the week before, to 2 in the past week. The number of
+unlinked cases in the community has remained stable at 2 cases a week in
+the past 2 weeks. We will continue to closely monitor these numbers, as
+well as the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 2
+There are 2 cases residing in dormitories today, of whom 1 was detected
+from our bi-weekly Rostered Routine Testing of workers living in
+dormitories, even though he is asymptomatic. This allows us to pick up
+cases early, including asymptomatic ones, so that we are able to
+ring-fence them quickly to prevent further transmission, by aggressively
+containing, tracing and isolating the close contacts. The other was
+tested for COVID-19 when he developed acute respiratory infection (ARI)
+symptoms.
+C) IMPORTED CASES: 3
+Amongst the 3 imported cases, 1 (Case 58140) is a Singapore Permanent
+Resident who returned from the UK, and another (Case 58142) is a
+Dependant’s Pass holder who arrived from the UAE. The remaining case
+(Case 58143) is a Short-Term Visit Pass holder who arrived from
+Indonesia. She was allowed entry into Singapore to visit her child who
+is a Singapore Permanent Resident. They had all been placed on SHN upon
+arrival in Singapore and were tested while serving SHN.
+3. Details of these trends can be found in MOH’s daily situation Report
+(www.moh.gov.sg/covid-19/situation-report).
+4. Epidemiological investigations are in progress. In the meantime, all
+the identified close contacts of the cases have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+5. MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the cluster at
+North Coast Lodge (51 North Coast Avenue) for the past two incubation
+periods (i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+6. Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7. 14 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,858 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8. There are currently 51 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and none is in the intensive care
+unit. 33 are isolated and cared for at community facilities. These are
+those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 28 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
-HEALTH SCIENCES AUTHORITY
 25 OCTOBER 2020
-
