@@ -7,7 +7,7 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION [29 OCT]
 
 Published Date: 29 Oct 2020
 
-      As of 29 October 2020, 12pm, the Ministry of Health (MOH) has
+     As of 29 October 2020, 12pm, the Ministry of Health (MOH) has
 confirmed and verified that there are no new cases of locally
 transmitted COVID-19 infection. There are 7 imported cases, who had all
 been placed on Stay-Home Notice upon arrival in Singapore. All new cases
@@ -16,29 +16,15 @@ and surveillance.
 
 SUMMARY OF NEW CASES
 
-
-
-
-
-
-
 BREAKDOWN BY
 
-
-
 BREAKDOWN BY
-
-
 
 NUMBER OF CASES
-
-
 
 ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
 DETECTED FROM SURVEILLANCE
-
-
 
 SYMPTOMATIC
 
@@ -48,13 +34,9 @@ CASES IN THE COMMUNITY
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -64,13 +46,9 @@ CASES RESIDING IN DORMITORIES
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -80,13 +58,9 @@ IMPORTED CASES
 
 7
 
-
-
 7
 
 0
-
-
 
 0
 
@@ -95,18 +69,6 @@ IMPORTED CASES
 TOTAL
 
 7
-
-
-
-
-
-
-
-
-
-
-
-
 
 2.      Overall, the number of new cases in the community has increased
 from 2 cases in the week before, to 3 in the past week. The number of
@@ -162,8 +124,6 @@ care unit. 30 are isolated and cared for at community facilities. These
 are those who have mild symptoms, or are clinically well but still test
 positive for COVID-19. 28 have passed away from complications due to
 COVID-19 infection.
-
-
 
 MINISTRY OF HEALTH
 29 OCTOBER 2020
