@@ -1,61 +1,158 @@
-Resumption of Use of Two Influenza Vaccines
+No New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-RESUMPTION OF USE OF TWO INFLUENZA VACCINES
+NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 31 Oct 2020
 
-     The Ministry of Health (MOH) has advised healthcare providers and
-medical practitioners that the use of two influenza vaccines –
-SKYCellflu Quadrivalent and VaxigripTetra – can be resumed as the
-vaccines have been assessed to be safe for use. This follows a thorough
-review of the information from the South Korean health authorities as
-well as the Health Sciences Authority’s (HSA) further review of the
-quality and safety profiles of the two vaccines.
-2.    As a precautionary measure, MOH had on 25 October advised the
-temporary cessation of the use of the two vaccines while MOH and HSA
-assessed the implications of the reported deaths after influenza
-vaccination in South Korea. Based on information released by the South
-Korean health authorities on 29 October, the likelihood of a causal link
-between influenza vaccination and the deaths reported was determined to
-be low. South Korea’s investigations revealed that the causes of death
-for 71 of the 72 deaths reported were highly likely due to underlying
-diseases, while the remaining case is pending investigations. The South
-Korean health authorities also found that no vaccine from any particular
-manufacturer was associated with higher rates of reported deaths than
-the others.
-3.    HSA has reviewed the local adverse event reports as well as global
-safety data of SKYCellflu Quadrivalent and VaxigripTetra vaccines. The
-reported adverse events for the two vaccines are consistent with the
-known safety profile of influenza vaccines. In addition, HSA has
-reviewed the test reports of all batches of the two vaccines supplied in
-Singapore and based on the available data, the two vaccines distributed
-in Singapore meet the quality standards.
-4.    To date, there are no safety and quality concerns with all
-influenza vaccines available in Singapore for the Northern Hemisphere
-2020-2021 influenza season –  Fluarix Tetra, Influvac Tetra, SKYCellflu
-Quadrivalent and VaxigripTetra. MOH has informed healthcare providers
-and medical practitioners that they may continue to offer influenza
-vaccination using these vaccines.
-5.     Like any medicine, vaccines can have side effects. Common side
-effects from influenza vaccination may include soreness and redness at
-the injection site, fever, headaches, muscle aches, fatigue and nausea.
-These side effects are generally mild and resolve on their own. In rare
-instances, a person may experience high fever or allergic reactions
-(such as breathing difficulty, wheezing and swelling around the eyes)
-and immediate medical attention should be sought.
-6.     Influenza vaccination provides protection against seasonal
-influenza viruses, and is effective in reducing the risk of
-complications and deaths due to influenza. This is especially so for
-vulnerable groups such as the elderly, the young, pregnant women, those
-with certain pre-existing medical conditions. Those who are recommended
-to receive influenza vaccination are strongly advised to do so for their
-health and well-being.
-7.    Public health safety is of utmost importance, and MOH takes
-vaccine safety very seriously. MOH and HSA will continue to monitor for
-any concerns related to influenza vaccination.
+          As of 31 October 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 12 imported cases, who had all
+been placed on Stay-Home Notice or isolated upon arrival in Singapore.
+Amongst the new cases today, all except 1 are asymptomatic, and were
+detected from our proactive screening and surveillance.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+12
+
+
+
+12
+
+0
+
+
+
+1
+
+11
+
+TOTAL
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.        Overall, the number of new, as well as unlinked, cases in the
+community has decreased from 3 cases in the week before, to 2 in the
+past week. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 12
+Amongst the 12 imported cases, 2 (Cases 58183 and 58192) are
+Singaporeans who returned from Indonesia and US, and 1 (Case 58182) is a
+Singapore Permanent Resident who returned from Indonesia. Another case
+(Case 58185) is a Dependant’s Pass holder who arrived from Greece. The
+remaining 8 cases (Cases 58186, 58187, 58188, 58189, 58190, 58191, 58193
+and 58194) are Work Permit holders currently employed in Singapore who
+arrived from Indonesia and the Philippines. They had all been placed on
+SHN or isolated upon arrival in Singapore and were tested while serving
+SHN.
+3.        Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report).
+4.        Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+5.       MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the cluster at
+Kian Teck Dormitory (26 Kian Teck Avenue) for the past two incubation
+periods (i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+6.       Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.       4 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,913 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.       There are currently 42 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 32 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 28 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
-HEALTH SCIENCES AUTHORITY
 31 OCTOBER 2020
+
