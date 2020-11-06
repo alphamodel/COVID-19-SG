@@ -1,78 +1,181 @@
-Update On Rostered Routine Testing Policy for Migrant Workers Recovered
-From Covid-19
+No New Cases of Locally Transmitted Covid-19 Infection [6 Nov]
 
 
 
-UPDATE ON ROSTERED ROUTINE TESTING POLICY FOR MIGRANT WORKERS RECOVERED FROM COVID-19
+NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION [6 NOV]
 
 
 Published Date: 06 Nov 2020
 
-1.     The Ministry of Health (MOH) and the Ministry of Manpower (MOM),
-in consultation with infectious diseases specialists, have reviewed the
-latest scientific evidence and found that the vast majority of a cohort
-of recovered workers continue to have antibodies, including neutralising
-antibodies[1], at day 180 from the onset of illness. This suggests that
-these workers are at low risk of developing re-infection. There have
-also been no cases of re-infection in Singapore to date.
+      As of 6 November 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 4 imported cases, who had
+already been placed on Stay-Home Notice or isolated upon arrival in
+Singapore. All new cases today are asymptomatic, and were detected from
+our proactive screening and surveillance.
+SUMMARY OF NEW CASES
 
 
 
-2.     Based on the latest scientific evidence, MOH and MOM will exempt
-all COVID-19 recovered workers[2] from RRT with effect from 4 November
-2020. This is in view of the low risk of re-infection, which means the
-workers are unlikely to benefit from RRT.  We will continue to review
-the scientific evidence, before deciding when is the appropriate
-juncture for these workers to be put back on the RRT regime.  In
-addition, recovered workers within 180 days of infection (instead of 150
-days previously) need not be quarantined if they are identified as close
-contacts of COVID-19 cases.
 
 
 
-3.     There is no change to the RRT policy for workers who have never
-been infected with COVID-19. This approach allows us to focus our
-efforts on workers who have never been infected as they are at greater
-risk.
 
 
 
-4.     However, to maintain vigilance, all recovered workers past 90
-days from the onset of illness who present with symptoms suggestive of
-acute respiratory illness will continue to be tested for COVID-19 as
-part of our multi-layered strategy to manage risk of transmission. This
-will allow us to detect any potential re-infections and enable swift and
-decisive measures to prevent further spread of COVID-19.
+BREAKDOWN BY
 
 
 
-5.     It remains critical to the management of recovered workers for
-MOH and MOM to continue to advance our understanding on how the level of
-antibodies in recovered workers will change over time. We will closely
-monitor all recovered workers with illness onset before 16 April 2020.
-They will undergo monitoring tests, which include polymerase chain
-reaction (PCR) and serology tests, at regular intervals. This group is
-identified as they are amongst the earliest cohort of workers in
-Singapore to have recovered from the infection and their antibodies are
-likely to be the first to fade. If we detect that their antibodies are
-starting to fade, or if there is evidence of re-infection of recovered
-workers, we may resume RRT of recovered workers earlier.
+BREAKDOWN BY
 
 
 
-6.     MOH and MOM will continue to review the latest scientific
-evidence relevant to these measures and revise our policies accordingly.
-It remains the shared responsibility of all stakeholders including
-dormitory operators, employers and workers to ensure strict compliance
-to Safe Living Measures, and to seek care when unwell in our fight
-against COVID-19.
+NUMBER OF CASES
 
-------------------------------------------------------------------------
 
-[1] Neutralising antibodies (NAbs) are specific antibodies present in
-the serum of COVID-19 patients that are responsible for clearing the
-viral infection.
 
-[2] This applies to all dormitory dwelling workers and workers in the
-Construction, Marine and Process (CMP) sectors regardless of their place
-of residence.
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+4
+
+
+
+4
+
+0
+
+
+
+0
+
+4
+
+TOTAL
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has remained
+low, with a total of 1 case in the past week, who is currently unlinked.
+We will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 4
+Amongst the 4 imported cases, 3 are currently employed in Singapore. Of
+these, 1 (Case 58229) is a Work Pass holder who arrived from France, and
+another (Case 58230) is a Work Permit holder who arrived from the
+Philippines. The other case (Case 58231), a Short-Term Visit Pass holder
+who arrived from the UK, is an engineer on a work project in Singapore.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+The remaining case (Case 58228) is a Special Pass holder who is a crew
+member of a ship which arrived from the US. She had not disembarked from
+the ship, and was swabbed on board upon arrival in Singapore.
+3.      Details of these trends can be found in MOH’s daily situation
+Report (www.moh.gov.sg/covid-19/situation-report).
+4.      Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+5.      We have completed screening and testing of 5,084 individuals
+working at Changi Airport Terminal 3 who may have contact
+with travellers. This was a precautionary measure following the
+detection of 2 cases (Cases 58125 and 58138) who had worked at the
+Terminal. All 5,084 results have come back negative for COVID-19. We are
+working with the Civil Aviation Authority of Singapore to facilitate
+testing for 33 remaining individuals who have yet to be swabbed. In the
+meantime, they have been temporarily suspended from duties until they
+are tested negative for COVID-19.
+6.      MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the cluster at
+Tuas South Dormitory (1 Tuas South Street 12) for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+LINKS BETWEEN PREVIOUS CASES FOUND
+
+7.     Further epidemiological investigations and contact tracing have
+uncovered links between previously announced and new cases. Please refer
+to Annex A and Annex B for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+8.     10 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,959 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+9.      There are currently 36 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 24 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 28 have passed away from
+complications due to COVID-19 infection.
+
+
+
+
+
+MINISTRY OF HEALTH
+6 NOVEMBER 2020
+
+
