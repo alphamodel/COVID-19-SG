@@ -53,4 +53,4 @@ declarations.
 Darussalam, Hong Kong, Macao, Mainland China, Malaysia (excluding
 Sabah), New Zealand, Taiwan and Vietnam (correct as of 5 November 2020).
 
-[2] www.safetravel.ica.gov.sg/health
+[2] https://safetravel.ica.gov.sg/health
