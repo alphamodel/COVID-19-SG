@@ -1,56 +1,78 @@
-Updated Border Measures for Travellers From Estonia and Norway
+Update On Rostered Routine Testing Policy for Migrant Workers Recovered
+From Covid-19
 
 
 
-UPDATED BORDER MEASURES FOR TRAVELLERS FROM ESTONIA AND NORWAY
+UPDATE ON ROSTERED ROUTINE TESTING POLICY FOR MIGRANT WORKERS RECOVERED FROM COVID-19
 
 
 Published Date: 06 Nov 2020
 
-                  The Multi-Ministry Taskforce has been closely
-monitoring the global COVID-19 situation. As there has been a sharp
-increase in cases in Estonia and Norway in the past week, all travellers
-entering Singapore from 8 NOVEMBER 2020, 2359 HOURS who have a travel
-history in the past 14 days to ESTONIA AND NORWAY will be required to
-serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities, even
-if they have obtained approval to opt out earlier.
+1.     The Ministry of Health (MOH) and the Ministry of Manpower (MOM),
+in consultation with infectious diseases specialists, have reviewed the
+latest scientific evidence and found that the vast majority of a cohort
+of recovered workers continue to have antibodies, including neutralising
+antibodies[1], at day 180 from the onset of illness. This suggests that
+these workers are at low risk of developing re-infection. There have
+also been no cases of re-infection in Singapore to date.
 
-2.  This is revised from our announcement on 27 October 2020
-that travellers from Estonia and Norway were allowed to serve their
-14-day SHN at a suitable place of residence.
 
-3.  Travellers from Fiji, Finland, Japan, Republic of Korea,
-Sri Lanka, Thailand and Turkey are still allowed to apply to opt out of
-dedicated SHN facilities and serve their 14-day SHN at their place of
-residence, if they fulfil the following criteria:
 
-a.  Travelled to no other country/region than above-mentioned
-countries[1], in the last consecutive 14 days prior to entry; and
+2.     Based on the latest scientific evidence, MOH and MOM will exempt
+all COVID-19 recovered workers[2] from RRT with effect from 4 November
+2020. This is in view of the low risk of re-infection, which means the
+workers are unlikely to benefit from RRT.  We will continue to review
+the scientific evidence, before deciding when is the appropriate
+juncture for these workers to be put back on the RRT regime.  In
+addition, recovered workers within 180 days of infection (instead of 150
+days previously) need not be quarantined if they are identified as close
+contacts of COVID-19 cases.
 
-b.  Are occupying their place of residence (i.e. residential address)
-alone, or only with household members who are also persons serving SHN
-with the same travel history and duration of SHN.
 
-The COVID-19 tests will continue to be administered before the end of
-the SHN.
 
-4.  As the global situation evolves, we will continue to
-adjust our border measures to manage the risk of importation and
-transmission to the community. Any changes to border measures will be
-updated on the Safe Travel Office website[2]. Travellers are advised to
-visit the website to check for the most updated border measures before
-entering Singapore and be prepared to be subjected to the prevailing
-border measures upon entry, including payment for their stay at
-dedicated SHN facilities, tests and treatment.
+3.     There is no change to the RRT policy for workers who have never
+been infected with COVID-19. This approach allows us to focus our
+efforts on workers who have never been infected as they are at greater
+risk.
 
-5.  All travellers are reminded to accurately declare their
-travel history. Strict enforcement actions will be taken against false
-declarations.
+
+
+4.     However, to maintain vigilance, all recovered workers past 90
+days from the onset of illness who present with symptoms suggestive of
+acute respiratory illness will continue to be tested for COVID-19 as
+part of our multi-layered strategy to manage risk of transmission. This
+will allow us to detect any potential re-infections and enable swift and
+decisive measures to prevent further spread of COVID-19.
+
+
+
+5.     It remains critical to the management of recovered workers for
+MOH and MOM to continue to advance our understanding on how the level of
+antibodies in recovered workers will change over time. We will closely
+monitor all recovered workers with illness onset before 16 April 2020.
+They will undergo monitoring tests, which include polymerase chain
+reaction (PCR) and serology tests, at regular intervals. This group is
+identified as they are amongst the earliest cohort of workers in
+Singapore to have recovered from the infection and their antibodies are
+likely to be the first to fade. If we detect that their antibodies are
+starting to fade, or if there is evidence of re-infection of recovered
+workers, we may resume RRT of recovered workers earlier.
+
+
+
+6.     MOH and MOM will continue to review the latest scientific
+evidence relevant to these measures and revise our policies accordingly.
+It remains the shared responsibility of all stakeholders including
+dormitory operators, employers and workers to ensure strict compliance
+to Safe Living Measures, and to seek care when unwell in our fight
+against COVID-19.
 
 ------------------------------------------------------------------------
 
-[1] Including the following countries/regions: Australia, Brunei
-Darussalam, Hong Kong, Macao, Mainland China, Malaysia (excluding
-Sabah), New Zealand, Taiwan and Vietnam (correct as of 5 November 2020).
+[1] Neutralising antibodies (NAbs) are specific antibodies present in
+the serum of COVID-19 patients that are responsible for clearing the
+viral infection.
 
-[2] https://safetravel.ica.gov.sg/health
+[2] This applies to all dormitory dwelling workers and workers in the
+Construction, Marine and Process (CMP) sectors regardless of their place
+of residence.
