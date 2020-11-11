@@ -8,14 +8,118 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 Published Date: 11 Nov 2020
 
         As of 11 November 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.    There are 18 imported cases, who had already been placed on
-Stay-Home Notice upon arrival in Singapore. Amongst them, 2 are
-Singapore Permanent Residents and 14 are Work Pass holders who are
-currently employed in Singapore, including 10 foreign domestic workers.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 18 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+18
+
+18
+
+0
+
+0
+
+18
+
+TOTAL
+
+18
+
+2.       Overall, the number of new cases in the community has remained
+low, with a total of 2 cases in the past week. Both cases are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+Update on Case 58262: The serological test result for Case 58262 has
+come back positive, which indicates likely past infection. Prior to
+this, he had been tested twice using the Polymerase Chain Reaction (PCR)
+test. His first test on 3 November was inconclusive, and the second test
+on 9 November yielded a very high CT value, which is indicative of a low
+viral load. He works as a cleaner at an office building at PaxOcean
+Singapore Pte Ltd shipyard (33 Tuas Crescent), which is connected to a
+previous case (Case 58216), but there are no indications that they had
+interacted.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 18
+Amongst the 18 imported cases, 2 (Cases 58269 and 58270) are Singapore
+Permanent Residents who returned from India and Indonesia. Another 14
+are currently employed in Singapore. Of these, 4 (Cases 58263, 58266,
+58267 and 58268) are Work Pass holders who arrived from Myanmar, the
+Netherlands and Switzerland, and 10 (Cases 58265, 58271, 58273, 58274,
+58275, 58276, 58277, 58278, 58279 and 58280) are Work Permit holders
+employed as foreign domestic workers who arrived from Myanmar and
+Indonesia. The remaining cases are a Dependant’s Pass holder (Case
+58272) who arrived from Nepal, and a Special Pass holder (Case 58264)
+who arrived from Russia to board a ship docked here as a crew member.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+3.   Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     5 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 57,990 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.       There are currently 33 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 40 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 28 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 11 NOVEMBER 2020
+
+
