@@ -1,73 +1,166 @@
-Expert Committee Appointed to Make Recommendations to the Government On
-Covid-19 Vaccination Strategy
+No New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-EXPERT COMMITTEE APPOINTED TO MAKE RECOMMENDATIONS TO THE GOVERNMENT ON COVID-19 VACCINATION STRATEGY
+NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 12 Nov 2020
 
-  The Ministry of Health (MOH) has appointed a 14-member Expert
-Committee on COVID-19 Vaccination to make recommendations to the
-government on Singapore’s COVID-19 vaccination strategy, and ensure the
-safe and effective use of COVID-19 vaccines in our population. The
-Expert Committee’s appointment came into effect on 5 October 2020.
+1.     As of 12 November 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 11 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 9 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 2 were
+symptomatic.
 
-2.  The Expert Committee is chaired by Associate Professor
-Benjamin Ong, Senior Advisor to the Director of Medical Services,
-Ministry of Health, and Senior Vice President (Health Education and
-Resources), National University of Singapore. It comprises experts in
-infectious diseases, immunology and other relevant fields. The Expert
-Committee will leverage scientific and clinical expertise to assess
-vaccine candidates, and recommend the appropriate vaccines for use
-against COVID-19 in Singapore when they become available. Please refer
-to the Annex for the composition of the Expert Committee.
+SUMMARY OF NEW CASES
 
-3.  The Expert Committee will consider the most up-to-date
-information and assessment of COVID-19 vaccines, including closely
-monitoring the global vaccine development landscape and stance of
-authoritative agencies such as the World Health Organization (WHO). As
-the latest clinical data of vaccine candidates emerges, the Expert
-Committee will assess their safety, efficacy and suitability for use by
-the different segments of Singapore’s population.  It will then make
-recommendations on the administration of vaccines to specific segments
-of the population and advise on the overall vaccination strategy for
-Singapore.
 
-4.  The Expert Committee convened their first meeting on 13
-October 2020 and has met regularly in the past month to discuss the
-profiles of various vaccine candidates, as well as the conditions for
-their deployment in Singapore’s context.
 
-5.  Expert Committee chairperson A/Prof Benjamin Ong said,
-“Globally, as more vaccine candidates are made available for clinical
-use, ensuring that vaccines are safe and effective will be a top
-priority. There are many factors to consider as not all vaccines would
-be suitable, safe and effective for all segments of our population. The
-Expert Committee will need to closely study the safety and clinical data
-as they become available, while taking into account our local context,
-so that we can assess and recommend an appropriate and holistic
-vaccination strategy that can be put in place for the Singapore
-population. The safety of Singaporeans is our top priority, and the
-diverse range of expertise among my colleagues in the Expert Committee
-will put us in good stead as we deliberate on strategies for the
-implementation of COVID-19 vaccination in Singapore.”
 
-6.  Singapore has been actively monitoring the global progress
-in COVID-19 vaccine development, and has taken steps to secure access to
-a portfolio of vaccines for our population amidst expected strong global
-demand. We are a strong supporter and active participant in driving the
-work of the global COVID-19 Vaccine Global Access (COVAX) Facility. On
-top of our efforts through the COVAX Facility, we have further broadened
-and diversified our COVID-19 vaccine portfolio with a number of
-pharmaceutical companies which currently have vaccine candidates in
-development, so as to improve our chances of securing a suitable vaccine
-for Singapore.
 
-7.  MOH will continue to closely track the progress of the
-different COVID-19 vaccine candidates under development globally in the
-coming months, and will provide further updates on our plans.
 
-MINISTRY OF HEALTH
-12 NOVEMBER 2020
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+11
+
+
+
+11
+
+0
+
+
+
+2
+
+9
+
+TOTAL
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has remained
+low, with a total of 1 case in the past week, which is currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 11
+
+Amongst the 11 imported cases, 1 (Case 58293) is a Singaporean who
+returned from the UAE and 3 (Cases 58284, 58287 and 58288) are Singapore
+Permanent Residents who returned from Bahrain and India. Another 4 are
+currently employed in Singapore. Of these, 2 (Cases 58282 and 58283) are
+Work Pass holders who arrived from Nepal, and 2 (Cases 58286 and 58291)
+are Work Permit holders who arrived from Indonesia. The remaining cases
+are a Dependant’s Pass holder (Case 58292) who arrived from Pakistan,
+and 2 Short-Term Visit Pass holders (Cases 58281 and 58285) who arrived
+from Indonesia and Myanmar to visit their family members in Singapore.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN.
+
+3.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     12 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,002 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+6.     There are currently 48 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 24 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 28 have passed away from complications due to
+COVID-19 infection.
+
