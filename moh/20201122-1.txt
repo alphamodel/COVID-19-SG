@@ -7,12 +7,12 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 22 Nov 2020
 
-As of 22 November 2020, 12pm, the Ministry of Health (MOH) has confirmed
-and verified that there are no new cases of locally transmitted COVID-19
-infection. There are 12 imported cases, who had already been placed on
-Stay-Home Notice (SHN) or isolated upon arrival in Singapore. All new
-cases today are asymptomatic, and were detected from our proactive
-screening and surveillance.
+            As of 22 November 2020, 12pm, the Ministry of Health (MOH)
+has confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 12 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. All new cases today are asymptomatic, and were detected
+from our proactive screening and surveillance.
 SUMMARY OF NEW CASES
 
 
@@ -107,10 +107,10 @@ TOTAL
 
 
 
-2. Overall, the number of new cases in the community has remained low,
-with no new cases in the past week. We will continue to closely monitor
-these numbers, as well as the cases detected through our surveillance
-programme.
+2.       Overall, the number of new cases in the community has remained
+low, with no new cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
 CASE DETAILS
 A) CASES IN THE COMMUNITY: 0
 There are no cases in the community today.
@@ -132,28 +132,28 @@ COVID-19 infection during isolation. Case 58357 is a Special Pass holder
 who is a crew member of a ship which arrived from the Philippines. He
 had not disembarked from the ship where he had remained isolated, and
 was swabbed on board.
-3. Please refer to the Annexes and MOH’s daily Situation Report
+3.     Please refer to the Annexes and MOH’s daily Situation Report
 (www.moh.gov.sg/covid-19/situation-report) for details.
-4. Epidemiological investigations are in progress. In the meantime, all
-the identified close contacts of the cases have been isolated and placed
-on quarantine, and will be tested at the start and end of their
+4.      Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
 quarantine period so that we can detect asymptomatic cases. We will also
 conduct serological tests for the close contacts to determine if the
 cases could have been infected by them.
-5. MOH has been monitoring existing clusters for any further
+5.   MOH has been monitoring existing clusters for any further
 transmission. As there have been no more cases linked to the cluster at
 The Leo dormitory (23 Kaki Bukit Road 3) for the past two incubation
 periods (i.e. 28 days), the cluster has now been closed.
 UPDATE ON CONDITION OF CONFIRMED CASES
-6. 3 more cases of COVID-19 infection have been discharged from
+6.      3 more cases of COVID-19 infection have been discharged from
 hospitals or community isolation facilities. In all, 58,067 have fully
 recovered from the infection and have been discharged from hospitals or
 community care facilities.
-7. There are currently 26 confirmed cases who are still in hospital. Of
-these, most are stable or improving, and 1 is in critical condition in
-the intensive care unit. 39 are isolated and cared for at community
-facilities. These are those who have mild symptoms, or are clinically
-well but still test positive for COVID-19. 28 have passed away from
-complications due to COVID-19 infection.
+7.      There are currently 26 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 39 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 28 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 22 NOVEMBER 2020
