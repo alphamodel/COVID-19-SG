@@ -74,9 +74,9 @@ low, with no new cases in the past week. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
 CASE DETAILS
-A).    CASES IN THE COMMUNITY: 0
+A)    CASES IN THE COMMUNITY: 0
 There are no cases in the community today.
-B).    CASES RESIDING IN DORMITORIES: 0
+B)    CASES RESIDING IN DORMITORIES: 0
 There are no cases residing in dormitories today.
 C)    IMPORTED CASES: 18
 Amongst the 18 imported cases, 2 (Cases 58375 and 58390) are
