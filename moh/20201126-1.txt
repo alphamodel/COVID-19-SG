@@ -1,174 +1,81 @@
-1 New Case of Locally Transmitted Covid-19 Infection
+Updates On Border Measures and Community Surveillance Testing Operations
 
 
 
-1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATES ON BORDER MEASURES AND COMMUNITY SURVEILLANCE TESTING OPERATIONS
 
 
 Published Date: 26 Nov 2020
 
-1.      As of 26 November 2020, 12pm, the Ministry of Health (MOH) has
-confirmed and verified that there is 1 new case of locally transmitted
-COVID-19 infection. The case is in the community, and there are no new
-cases in the dormitories. There are 4 imported cases, who had already
-been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
-the new cases today, 4 are asymptomatic, and were detected from our
-proactive screening and surveillance, while 1 was symptomatic.
-SUMMARY OF NEW CASES
-
-
-
-
-
-
-
-BREAKDOWN BY
-
-
-
-BREAKDOWN BY
-
-
-
-NUMBER OF CASES
-
-
-
-ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
-
-DETECTED FROM SURVEILLANCE
-
-
-
-SYMPTOMATIC
-
-ASYMPTOMATIC
-
-CASES IN THE COMMUNITY
-
-1
-
-
-
-0
-
-1
-
-
-
-1
-
-0
-
-CASES RESIDING IN DORMITORIES
-
-0
-
-
-
-0
-
-0
-
-
-
-0
-
-0
-
-IMPORTED CASES
-
-4
-
-
-
-4
-
-0
-
-
-
-0
-
-4
-
-TOTAL
-
-5
-
-
-
-
-
-
-
-
-
-
-
-
-
-2.  Overall, the number of new cases in the community has remained
-low, with a total of 1 case in the past week. We will continue to
-closely monitor these numbers, as well as the cases detected through our
-surveillance programme.
-CASE DETAILS
-A)  CASES IN THE COMMUNITY: 1
-There is 1 case in the community today who is currently unlinked. Case
-58401 is a Singaporean who works as a Service Engineer at Master Systems
-Marine Pte Ltd. His job entails going onboard vessels docked at Marina
-South Pier and West Coast Pier for servicing and maintenance of ships'
-navigational systems. He typically worked alone, and had no interaction
-with vessel crew except for a supervising crew member. On days when he
-was not working onboard vessels, he had remained at his office located
-at Vertex Building Tower B (33 Ubi Avenue 3). He reported that he wore a
-surgical mask during his work onboard the vessels and at the office, and
-that safe distancing and safe management measures were adhered to.
-The case developed a fever and sore throat on 23 November night, and
-sought medical treatment at a General Practitioner clinic the next day,
-where he was tested for COVID-19 under our enhanced community testing
-regime. He was conveyed in an ambulance to the National Centre for
-Infectious Diseases the following day, when his test came back positive
-for COVID-19 infection. His serological test has come back negative,
-indicating that this is a fresh infection.
-Epidemiological investigations are in progress. It was revealed that on
-21 November, he had dinner with 12 family members at Seoul Garden at
-Tampines Mall. They had occupied 3 tables and there was mingling between
-the groups. Amongst those present at the dinner was his 2 year-old
-niece, who had earlier been issued a 5-day medical certificate (from 20
-November to 24 November) for runny nose. Investigations are ongoing to
-assess if there had been any breach of the relevant safe management
-measures.
-In the meantime, all his identified close contacts (including his family
-members at the dinner) have been isolated and placed on quarantine and
-will be tested at the start and end of their quarantine period so that
-we can detect asymptomatic cases. We will also conduct serological tests
-on his household and family contacts to determine if he could have been
-infected by them.
-We urge everyone to continue to exercise social responsibility, and to
-cooperate with the prevailing measures. This is yet another reminder
-that the virus has not been eradicated and that new cases and clusters
-can easily emerge in our community, if we let our guard down.
-B)  CASES RESIDING IN DORMITORIES: 0
-There are no cases residing in dormitories today.
-C)  IMPORTED CASES: 4
-Amongst the 4 imported cases, 2 (Cases 58402 and 58403) are Dependant's
-Pass holders who arrived from Pakistan. The remaining 2 cases are
-currently employed in Singapore. Case 58400 is a Work Permit holder who
-arrived from Malaysia and Case 58404 is a Work Pass holder who arrived
-from Nepal. They had all already been placed on SHN upon arrival in
-Singapore and were tested while serving SHN.
-3.  Please refer to the Annexes and MOH’s daily Situation Report
-(www.moh.gov.sg/covid-19/situation-report) for details.
-UPDATE ON CONDITION OF CONFIRMED CASES
-4.  13 more cases of COVID-19 infection have been discharged from
-hospitals or community isolation facilities. In all, 58,104 have fully
-recovered from the infection and have been discharged from hospitals or
-community care facilities.
-5.  There are currently 43 confirmed cases who are still in
-hospital. Of these, most are stable or improving, and 1 is in critical
-condition in the intensive care unit. 20 are isolated and cared for at
-community facilities. These are those who have mild symptoms, or are
-clinically well but still test positive for COVID-19. 28 have passed
-away from complications due to COVID-19 infection.
-
+      The Multi-Ministry Taskforce has been closely monitoring the
+global COVID-19 situation, and will be tightening border measures given
+the increase in cases in Finland and Turkey. In addition, to ensure the
+continued safe resumption of social and economic activities, the
+Taskforce will extend its community surveillance testing operations to
+more identified groups in the community.
+TRAVELLERS FROM FINLAND AND TURKEY TO SERVE 14-DAY SHN AT DEDICATED SHN
+FACILITIES
+2.      As there has been a recent increase in cases reported by Finland
+and Turkey, all travellers entering Singapore from 28 November 2020,
+2359 hours, who have a travel history in the past 14 days to Finland and
+Turkey will be required to serve a 14-day Stay-Home Notice (SHN) at
+dedicated SHN facilities, even if they have obtained approval to opt-out
+earlier.
+3.       This is revised from our announcement on 27 October that
+travellers from Finland and Turkey were allowed to serve their 14-day
+SHN at a suitable place of residence.
+4.      Travellers from Fiji, Republic of Korea, Sri Lanka and Thailand
+are still allowed to apply to opt out of dedicated SHN facilities and
+serve their 14-day SHN at their place of residence, if they fulfil the
+following criteria:
+a. Travelled to no other country/region than above-mentioned countries
+[1], in the last consecutive 14 days prior to entry; and
+b. Are occupying their place of residence (i.e. residential address)
+alone, or only with household members who are also persons serving SHN
+with the same travel history and duration of SHN.
+The COVID-19 tests will continue to be administered before the end of
+the SHN.
+5.      As the global situation evolves, we will continue to adjust our
+border measures to manage the risk of importation and transmission to
+the community. Any changes to border measures will be updated on the
+SafeTravel website. Travellers are advised to visit the website to check
+for the most updated border measures before entering Singapore and be
+prepared to be subjected to the prevailing border measures upon entry,
+including payment for their stay at dedicated SHN facilities, tests and
+treatment.
+COVID-19 TESTING FOR MORE IDENTIFIED COMMUNITY GROUPS
+6.       The Multi-Ministry Taskforce has been progressively conducting
+testing operations for identified community groups, such as
+stallholders, food delivery personnel and cashiers across the island.
+These operations aim to provide a better picture of population
+prevalence and facilitate the early containment of cryptic cases in the
+community, especially as we continue to reopen our economy and allow
+more activities to resume.
+7.       More than 5,000 individuals have been tested at Marine Parade,
+Ang Mo Kio and Taman Jurong since September 2020, and all who have
+participated in these voluntary testing exercises have tested negative
+for COVID-19. The results of the community testing operations indicate
+very low prevalence rates in the community, and is an indicator that our
+safe management measures are helping to keep our community safe.
+8.       Even whilst community prevalence is low, we must not let our
+guard down. Hence government agencies will be reaching out to other
+identified community groups to offer COVID-19 testing on a one-time
+basis. We are offering COVID-19 testing to stallholders in and around
+Tekka Centre this week. In the coming weeks, we will also be offering
+COVID-19 testing to individuals working at key delivery centres (e.g.
+Pasir Panjang Wholesale Centre) and key logistics delivery companies.
+9.      We strongly encourage individuals in these identified community
+groups to come forward and utilise the testing services offered. The
+costs of these tests will be fully borne by the government.
+ENABLING A SAFE REOPENING
+10.    We will continue to review and calibrate our border measures to
+enable a safe reopening of our borders, while facilitating the
+resumption of key economic activities which are critical for
+livelihoods. Testing remains a key enabler to safe reopening, and we
+will continue to extend surveillance testing progressively to more
+community groups across Singapore.
+MINISTRY OF HEALTH
+26 NOVEMBER 2020
+[1] Including the following countries/regions: Australia, Brunei
+Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan and
+Vietnam (correct as of 26 November 2020).
