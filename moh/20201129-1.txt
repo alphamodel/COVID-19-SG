@@ -8,22 +8,194 @@
 Published Date: 29 Nov 2020
 
   As of 29 November 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is a migrant
-worker residing in the community, and was detected from our community
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 7 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 5 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 3 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+7
+
+
+
+7
+
+0
+
+
+
+3
+
+4
+
+TOTAL
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has remained
+low, with a total of 3 cases in the past week who are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked. Case
+58424 is a Work Permit holder from India who works as a warehouse
+assistant. He is asymptomatic, and was detected from our community
 surveillance testing of stallholders in and around Tekka Centre on 26
-November. His serological test result has come back positive, which
-indicates likely past infection. There are no new cases in the
-dormitories.
+November.
 
-2.  In addition, there are 7 imported cases, who had already
-been placed on Stay-Home Notice or isolated upon arrival in Singapore.
-In total, there are 8 new cases of COVID-19 infection in Singapore
-today.
+He was conveyed to the National Centre for Infectious Diseases when his
+test came back positive for COVID-19 infection on 27 November. His
+serological test result is also positive, which indicates likely past
+infection.
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+His work entails stocktaking at warehouses located at Cuff Road, and
+delivery of goods to Jothi Store and Flower Shop (1 Campbell Lane). He
+does not interact with customers at the store. He usually works with a
+warehouse assistant at the warehouses, who was also swabbed on 26
+November and has tested negative for COVID-19 infection. He resides at
+Cuff Road with 2 other migrant workers, who have both similarly tested
+negative for COVID-19 infection.
+
+Community surveillance testing enables us to contain cryptic cases in
+the community early, and prevent further transmission. In all, 876
+individuals were tested during the community surveillance testing of
+stallholders in and around Tekka Centre on 26 November. Of these, 2
+(Cases 58412 and 58424) were tested positive for COVID-19 infection.
+Both cases are likely to be past infections, as indicated by their
+positive serological test results. The remaining 874 individuals have
+tested negative for the virus.
+
+
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+
+
+C)  IMPORTED CASES: 7
+
+Amongst the 7 imported cases, 1 (Case 58416) is a Long-Term Visit Pass
+holder who arrived from Russia and another (Case 58421) is a Student’s
+Pass holder who arrived from India. Another 3 (Cases 58417, 58422 and
+58423) are Work Permit holders currently employed in Singapore who
+arrived from Indonesia. The remaining cases are Short-Term Visit Pass
+holders. Case 58418 is an engineer who arrived from Malta on a work
+project in Singapore, and Case 58419 arrived from Belarus to participate
+in a mixed martial arts sporting event as a cornerman. They had all
+already been placed on SHN or isolated upon arrival in Singapore and
+were tested while serving SHN.
+
+3.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+4.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.  5 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 58,124 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+6.  There are currently 31 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 29 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 29 NOVEMBER 2020
