@@ -8,16 +8,122 @@
 Published Date: 30 Nov 2020
 
          As of 30 November 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.        In addition, there are 4 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. In total, there
-are 5 new cases of COVID-19 infection in Singapore today.
-3.       We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 4 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. All new
+cases today are asymptomatic, and were detected from our proactive
+screening and surveillance.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+0
+
+1
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+4
+
+4
+
+0
+
+0
+
+4
+
+TOTAL
+
+5
+
+2.      Overall, the number of new cases in the community has remained
+low, with a total of 4 cases in the past week who are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+There is 1 case in the community today who is currently unlinked. Case
+58425 is a Short-Term Visit Pass holder who was allowed entry into
+Singapore to visit his family members who are Singaporeans. He is
+asymptomatic, and was detected when he went for a COVID-19 pre-departure
+test on 28 November before a scheduled trip to the US.
+He was conveyed to the hospital when his test came back positive for
+COVID-19 infection on 29 November. His serological test result is also
+positive, which indicates likely past infection.
+He had arrived in Singapore from Nepal on 1 November, and was placed on
+14-day SHN at a dedicated facility upon arrival in Singapore from 1
+November to 15 November. He was tested negative for COVID-19 infection
+on 11 November while serving SHN. He subsequently stayed at a friend’s
+flat at Bishan Street 22, and visited his family staying at Yishun
+Avenue 6.
+Epidemiological investigations are in progress. In the meantime, all the
+identified close contacts of the case have been isolated and placed on
+quarantine, and will be tested at the start and end of their quarantine
+period so that we can detect asymptomatic cases. We will also conduct
+serological tests for the close contacts to determine if the cases could
+have been infected by them.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 4
+Amongst the 4 imported cases, 1 (Case 58426) is a Singaporean who
+returned to Singapore from Japan. The remaining 3 cases (Cases 58427,
+58428 and 58429) are Work Permit holders currently employed in Singapore
+who arrived from Indonesia and India. They had all already been placed
+on SHN upon arrival in Singapore and were tested while serving SHN.
+3.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.     The Multi-Ministry Taskforce has been progressively conducting
+community surveillance testing for identified community groups, such as
+stallholders, food delivery personnel and cashiers across the island.
+These enable us to contain cryptic cases in the community early, and
+prevent further transmission. We conducted community testing operations
+on 27 November and 28 November for individuals working at Pasir Panjang
+Wholesale Centre. In all, 1,068 individuals were tested, and all the
+results have come back negative.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     10 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,134 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 29 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 26 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 30 NOVEMBER 2020
-
-
