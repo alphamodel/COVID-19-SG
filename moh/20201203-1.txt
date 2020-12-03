@@ -8,14 +8,148 @@
 Published Date: 03 Dec 2020
 
        As of 3 December 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case resides in a
-dormitory and there are no new cases in the community.
-2.     In addition, there are 8 imported cases, who had been placed on
-Stay-Home Notice upon arrival in Singapore. In total, there are 9 new
-cases of COVID-19 infection in Singapore today.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection. The case resides in a dormitory and there are no new cases in
+the community. There are 8 imported cases, who had already been placed
+on Stay-Home Notice (SHN) upon arrival in Singapore. All new cases today
+are asymptomatic, and were detected from our proactive screening and
+surveillance.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+8
+
+
+
+8
+
+0
+
+
+
+0
+
+8
+
+TOTAL
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has remained
+low, with a total of 4 cases in the past week who are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today. Case 58443 is
+asymptomatic, and was detected through our proactive surveillance. His
+polymerase chain reaction (PCR) test yielded a very high Ct value, which
+is indicative of a low viral load. All his close contacts at the
+dormitory and his workplace have been isolated and placed on
+quarantine.
+C) IMPORTED CASES: 8
+Amongst the 8 imported cases, 1 (Case 58454) is a Singaporean and 2
+(Cases 58442 and 58453) are Singapore Permanent Residents who returned
+from the US. Another 2 (Cases 58449 and 58451) are Work Pass holders
+currently employed in Singapore who arrived from Nepal. The remaining
+cases include a Dependant’s Pass holder (Case 58450) who arrived from
+France, and 2 Short-Term Visit Pass holders (Cases 58444 and 58445) who
+arrived from Indonesia to visit their Singaporean family members and
+fiancé respectively. They had already been placed on SHN upon arrival in
+Singapore and were tested while serving SHN.
+3.         Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.      1 more case of COVID-19 infection has been discharged from
+hospital. In all, 58,145 have fully recovered from the infection and
+have been discharged from hospitals or community care facilities.
+6.       There are currently 26 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 39 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 3 DECEMBER 2020
+
