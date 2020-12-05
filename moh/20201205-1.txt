@@ -1,45 +1,152 @@
-Seoul Garden Restaurant In Tampines Mall to Suspend Operations for
-Breaching Safe Management Measures
+1 New Case of Locally Transmitted Covid-19 Infection
 
 
 
-SEOUL GARDEN RESTAURANT IN TAMPINES MALL TO SUSPEND OPERATIONS FOR BREACHING SAFE MANAGEMENT MEASURES
+1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 05 Dec 2020
 
-      The Ministry of Health (MOH) has ordered the Seoul Garden
-restaurant located in Tampines Mall (4 Tampines Central 5 #04-01
-Tampines Mall) to suspend its full operations (inclusive of both dining
-in and take-away) for 10 days between 5 December and 14 December 2020,
-with both dates inclusive, after investigations revealed that the
-restaurant had failed to ensure safe management measures (SMMs) on its
-premises.
-2.     MOH commenced investigations in respect of potential breaches of
-SMMs upon receiving information that an individual (Case 58401 [1]) had
-tested positive for COVID-19 infection after having dinner with 12 other
-family members at the restaurant on 21 November 2020. Although the
-family members were seated at separate tables of up to five persons per
-table, investigations revealed that there had been mingling among them.
-The restaurant did not take reasonable steps to prevent the
-intermingling between tables on its premises.
-3.     Investigations against the restaurant, as well as Case 58401 and
-his family members are ongoing, and further enforcement action may be
-taken pending the outcome of investigations.
-4.    MOH will not hesitate to take enforcement action against operators
-and individuals who fail to comply with the safe distancing and safe
-management measures. Any person convicted of an offence under the
-COVID-19 (Temporary Measures) Act 2020 is liable to a fine of up to
-$10,000, or up to six months’ imprisonment, or to both. In the case of
-second or subsequent offence, to a fine not exceeding $20,000 or to
-imprisonment for a term not exceeding 12 months or to both.
-5.     We urge everyone to continue to exercise social responsibility,
-and to comply with the prevailing measures. A resurgence of COVID-19
-cases and clusters can easily emerge in our community if we let our
-guard down and become lax in adherence to SMMs.
+        As of 5 December 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 12 imported cases, of whom 11 who
+had already been placed on Stay-Home Notice (SHN) or isolated upon
+arrival in Singapore. Amongst the new cases today, 10 are asymptomatic,
+and were detected from our proactive screening and surveillance, while 3
+were symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+1
+
+0
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+12
+
+11
+
+1
+
+3
+
+9
+
+TOTAL
+
+13
+
+2.     Overall, the number of new cases in the community has remained
+low, with a total of 4 cases in the past week, of whom 3 are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A)  CASES IN THE COMMUNITY: 1
+There is 1 case in the community today. Case 58461 is a Filipino sea
+crew who arrived from the Philippines on the Normand Australis, which
+docked at Tuas Port on 18 November. He had earlier been identified as a
+close contact of Case 58357 ¹, and was already placed on quarantine at a
+government quarantine facility since 22 November. Prior to that, he had
+not disembarked from the ship.
+Before boarding the ship, Case 58461 had undergone a COVID-19
+pre-departure test on 2 November which came back negative. Upon the
+ship’s arrival in Singapore, all 18 crew members had been swabbed on 19
+November, and all of them tested negative except for Case 58357. As a
+precautionary measure, the crew members were placed on quarantine, and
+Case 58461 was moved to a government quarantine facility to serve his
+quarantine. He is asymptomatic, and was swabbed during quarantine to
+verify his status. His serological test has come back positive.
+B)  CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C)  IMPORTED CASES: 12
+Amongst the 12 imported cases, 2 (Cases 58459 and 58465) are
+Singaporeans who returned from the US and Indonesia, and 4 (Cases 58460,
+58462, 58469 and 58470) are Singapore Permanent Residents who returned
+from the US, India and Indonesia. Another 4 (Cases 58464, 58467, 58471
+and 58472) are Work Permit holders currently employed in Singapore who
+arrived from Indonesia and the Philippines. The remaining cases are a
+Dependant’s Pass holder (Case 58466) who arrived from Nepal and a
+Short-Term Visit Pass holder (Case 58463) who arrived from Indonesia to
+visit her relatives who are Singaporeans.
+Case 58465 is a Singaporean who had travelled to Indonesia under the
+Business Travel Pass. He had undergone a COVID-19 Polymerase Chain
+Reaction (PCR) test upon return to Singapore on 28 November, and
+self-isolated while waiting for his test result. His test came back
+negative but he developed symptoms on 2 December, and was tested for
+COVID-19  when he sought medical treatment at a General Practitioner
+clinic. He was confirmed to have COVID-19 infection on 4 December, and
+is currently isolated at the National Centre for Infectious Diseases.
+Prior to hospitalisation, he had gone to work at ASL Shipyard Pte Ltd
+(19 Pandan Road), but had not interacted with his colleagues. His
+serological test has come back negative, which indicates likely current
+infection. All his identified close contacts have been isolated and
+placed on quarantine.
+All the other 11 imported cases had already been placed on SHN or
+isolated upon arrival in Singapore and were tested while serving SHN or
+during isolation.
+3.     Please refer to the Annexesand MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     6 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,158 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 26 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 42 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
 5 DECEMBER 2020
-==
-[1] Case 58401 is a 32 year-old male Singaporean who was confirmed to
-have COVID-19 infection on 25 November. MOH had earlier announced this
-on 26 November.
+
+
+------------------------------------------------------------------------
+
+¹ Case 58357 is a Special Pass holder who is a crew member of the
+Normand Australis. He was confirmed to have COVID-19 infection on 21
+November, and announced as a case in MOH’s press release on 22
+November.
+
+
