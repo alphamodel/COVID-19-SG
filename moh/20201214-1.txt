@@ -13,14 +13,12 @@ due to their communal living arrangements. Earlier health and safe
 distancing measures turned out to be inadequate, given the highly
 infectious nature of the novel virus, and because pre-symptomatic and
 asymptomatic transmission was also taking place.
-
 2.     In all, 54,505 out of the 58,320 who tested positive in Singapore
 for COVID-19 via a Polymerase Chain Reaction (PCR) test were migrant
 workers living in dormitories. This is out of a total of over 320,000
-migrant workers who live in dormitories. [1] At the peak of the outbreak
-in April, more than 1,000 new cases a day were being detected in the
-dormitories. [2]
-
+migrant workers who live in dormitories [1].  At the peak of the
+outbreak in April, more than 1,000 new cases a day were being detected
+in the dormitories. [2]
 3.     We acted swiftly and decisively to stabilise the situation in the
 dormitories. Working closely with dormitory operators, employers, the
 medical community, NGOs and other community groups, we contained the
@@ -34,10 +32,10 @@ low. There were 25 COVID-19-related ICU admissions amongst migrant
 workers living in dormitories and only two deaths due to COVID-19,
 including one of those who had been admitted to the ICU.
 CONTAINMENT AND TESTING STRATEGY
-_April – May 2020: Containing the outbreak
-_5.     Initially, our top priority was to contain the spread of
-COVID-19 in the dormitories. We placed all dormitories under isolation
-by mid-April, in line with the national Circuit Breaker measures.
+_April – May 2020: Containing the outbreak_
+5.     Initially, our top priority was to contain the spread of COVID-19
+in the dormitories. We placed all dormitories under isolation by
+mid-April, in line with the national Circuit Breaker measures.
 Throughout this phase, we stepped up our capacity to detect and isolate
 cases in the dormitories, and to care for the health of all our migrant
 workers.
@@ -59,9 +57,9 @@ these reports, and intervened early when they found abnormalities.
 9.     Medical support was set up at the dormitories by the end of April
 to care for those who were unwell, and monitor the health of those who
 were well. These included:
-.     a.     Medical posts staffed by teams of doctors, nurses and
+     a.     Medical posts staffed by teams of doctors, nurses and
 technicians at all 43 Purpose-Built Dormitories (PBDs).
-.     b.     8 medical posts, complemented by roving medical teams, that
+     b.     8 medical posts, complemented by roving medical teams, that
 served all non-PBDs (e.g. Factory-Converted Dormitories and Construction
 Temporary Quarters).
 Migrant workers living in the community also had access to the
@@ -89,8 +87,8 @@ including serology tests. While PCR tests are used to diagnose current
 or new infections, serology tests identify those who had been infected
 in the past, by detecting the presence of COVID-19 antibodies in blood
 samples.
-14.     A detailed comparison of various testing methods used is
-in Appendix I.
+14.     A detailed comparison of various testing methods used is in
+Appendix I.
 15.     In June, we took the extraordinary decision to systematically
 test all migrant workers living in dormitories, symptomatic or
 otherwise. In dormitories with a high incidence of infections, we
@@ -100,7 +98,7 @@ screened with a combination of serology as well as PCR tests.
 been infected earlier. These workers underwent a seven-day period of
 isolation, at the end of which we could be confident that they were no
 longer infectious, and did not need to be tested further.
-.     b.     Those who tested serology-negative were separately isolated
+     b.     Those who tested serology-negative were separately isolated
 for a longer period of 14 days, in case they were incubating the virus
 despite being asymptomatic. They were given a PCR test at the end of the
 isolation period to confirm that they were free from infection.
@@ -111,7 +109,6 @@ that they could return to their dormitories or workplaces sooner.
 COVID-19. We were confident that the outbreak had been contained. By
 early November, more than 98 per cent of our migrant workers living in
 dormitories were cleared to resume work.
-
 OVERALL CASE COUNT AND PREVALENCE RATE
 
 18.     Our comprehensive testing strategy has provided us a more
@@ -119,148 +116,123 @@ complete picture of the prevalence of COVID-19 in our migrant worker
 dormitories.
 _PCR and serology test results of migrant workers_
 19.     As at 13 December 2020:
-.     a.     54,505 dormitory residents have tested positive using the
+     a.     54,505 dormitory residents have tested positive using the
 PCR test.
-.     b.     Another 98,289 have tested serology-positive though they
-did not have a positive PCR test.
+     b.     Another 98,289 have tested serology-positive though they did
+not have a positive PCR test.
 The data is summarised in Table 1.
+
 Table 1: Dormitory-dwelling migrant workers and their test results (as
 at 13 December 2020)
 
-1.
+A. PCR-positive*
 
-    A. PCR-positive*
+54,505
 
-    54,505
+B. Serology-positive only
 
-    B. Serology-positive only
+98,289
 
-    98,289
+Ratio of PCR-positive to serology-positive only (A:B)
 
-    Ratio of PCR-positive to serology-positive only (A:B)
+1:1.8
 
-    1:1.8
+Prevalence rate, i.e. (A+B)/(total dormitory dwellers)
 
-    Prevalence rate, i.e. (A+B)/(total dormitory dwellers)
+47% (of 323,000 dormitory dwellers)
 
-    47% (of 323,000 dormitory dwellers)
+_*Including some who have tested both PCR-positive and
+serology-positive._
 
-    _*Including some who have tested both PCR-positive and
-    serology-positive._
-
-
-
-    20.     Among the migrant workers who tested PCR-positive or
-    serology-positive, the vast majority were asymptomatic or had very
-    mild symptoms. Only about 1 in 5 of migrant workers living in PBDs
-    presented with symptoms, with the remaining 4 in 5 displaying very
-    mild or no symptoms. [3]
-
-    21.     Including the serology test results, the prevalence rate of
-    COVID-19 in the dormitories is currently 47 per cent. For every
-    COVID-19 infection in the dormitories detected through PCR testing,
-    another 1.8 cases were untested and undetected at the time, and were
-    identified subsequently only through serology testing. This is not
-    surprising as many migrant workers did not have any symptoms, and
-    thus would not have sought treatment and received a PCR test in the
-    process. The ratio of PCR-positive to serology-positive among
-    migrant workers in dormitories is comparable to the ratio of 1:1.8
-    for the whole of South Korea, and lower than 1:4 in Spain, and 1:15
-    in France [4]. Our low ratio reflects the extensive PCR testing we
-    carried out in the dormitories.
-
-    _Reporting of cases_
-
-    22.     Singapore reports COVID-19 cases in accordance with
-    international practice. Every case who tested positive through a PCR
-    test and was assessed to be an acute infection is reported and
-    included in our case count. We follow WHO’s criterion that only
-    positive results from confirmatory tests (i.e. PCR tests) are
-    included in the case count. This ensures consistency in reporting
-    cases across countries.
-
-    23.     A different approach is taken for reporting the results of
-    serology tests. As these tests identify past cases of infection,
-    they are used to aid epidemiological investigations and for
-    retrospective assessment of the overall prevalence of infections
-    within a population. Therefore, serology test outcomes are
-    aggregated and presented as an estimate of prevalence in the
-    population, separate from the daily case counts.
-
-    24.     Most countries only do serology testing on a sampling basis,
-    to estimate the prevalence of infections in a population. But
-    Singapore went further to do serology tests on our entire population
-    of migrant workers living in the dormitories. This was a unique
-    aspect of our efforts to clear the dormitories of COVID-19.
-
-    25.     As at 13 December 2020, we are still in the process of
-    completing serology tests for 65,000 or so migrant workers living in
-    dormitories who had not taken a serology test before. This will give
-    us the full picture of the infection prevalence among our migrant
-    workers.
-
-    PHASE THREE
-
-    26.     Having tested all migrant workers living in the dormitories,
-    we will continue with Rostered Routine Testing (RRT) of every worker
-    who may still be susceptible to infection, in order to detect and
-    contain new infections rapidly. All such workers living in
-    dormitories, and those who work in the construction, marine and
-    process (CMP) sectors, have been undergoing RRT once every 14 days.
-
-    27.     After several RRT cycles, the number of new infections have
-    remained very low. Since October, no new cases were detected in the
-    dormitories on many days.
-
-    28.     Having brought the outbreak in the dormitories under
-    control, and instituted Safe Living and Safe Working measures at all
-    dormitories and worksites, we will progressively ease the
-    restrictions on migrant workers.
-
-2.  a.  With the transition into Phase Three, we are preparing to return
-        migrant workers to the community in a controlled manner, with
-        strict measures in place.
-
-    b.  We will start a pilot scheme in the first quarter of 2021 to
-        allow migrant workers in some dormitories to access the
-        community once a month, subject to compliance with RRT, wearing
-        of contact-tracing devices and safe living measures.
-
+20.     Among the migrant workers who tested PCR-positive or
+serology-positive, the vast majority were asymptomatic or had very mild
+symptoms. Only about 1 in 5 of migrant workers living in PBDs presented
+with symptoms, with the remaining 4 in 5 displaying very mild or no
+symptoms. [3]
+21.     Including the serology test results, the prevalence rate of
+COVID-19 in the dormitories is currently 47 per cent. For every COVID-19
+infection in the dormitories detected through PCR testing, another 1.8
+cases were untested and undetected at the time, and were identified
+subsequently only through serology testing. This is not surprising as
+many migrant workers did not have any symptoms, and thus would not have
+sought treatment and received a PCR test in the process. The ratio of
+PCR-positive to serology-positive among migrant workers in dormitories
+is comparable to the ratio of 1:1.8 for the whole of South Korea, and
+lower than 1:4 in Spain, and 1:15 in France [4]. Our low ratio reflects
+the extensive PCR testing we carried out in the dormitories.
+_Reporting of cases_
+22.     Singapore reports COVID-19 cases in accordance with
+international practice. Every case who tested positive through a PCR
+test and was assessed to be an acute infection is reported and included
+in our case count. We follow WHO’s criterion that only positive results
+from confirmatory tests (i.e. PCR tests) are included in the case count.
+This ensures consistency in reporting cases across countries.
+23.     A different approach is taken for reporting the results of
+serology tests. As these tests identify past cases of infection, they
+are used to aid epidemiological investigations and for retrospective
+assessment of the overall prevalence of infections within a population.
+Therefore, serology test outcomes are aggregated and presented as an
+estimate of prevalence in the population, separate from the daily case
+counts.
+24.     Most countries only do serology testing on a sampling basis, to
+estimate the prevalence of infections in a population. But Singapore
+went further to do serology tests on our entire population of migrant
+workers living in the dormitories. This was a unique aspect of our
+efforts to clear the dormitories of COVID-19.
+25.     As at 13 December 2020, we are still in the process of
+completing serology tests for 65,000 or so migrant workers living in
+dormitories who had not taken a serology test before. This will give us
+the full picture of the infection prevalence among our migrant workers.
+PHASE THREE
+26.     Having tested all migrant workers living in the dormitories, we
+will continue with Rostered Routine Testing (RRT) of every worker who
+may still be susceptible to infection, in order to detect and contain
+new infections rapidly. All such workers living in dormitories, and
+those who work in the construction, marine and process (CMP) sectors,
+have been undergoing RRT once every 14 days.
+27.     After several RRT cycles, the number of new infections have
+remained very low. Since October, no new cases were detected in the
+dormitories on many days.
+28.     Having brought the outbreak in the dormitories under control,
+and instituted Safe Living and Safe Working measures at all dormitories
+and worksites, we will progressively ease the restrictions on migrant
+workers.
+     a.     With the transition into Phase Three, we are preparing to
+return migrant workers to the community in a controlled manner, with
+strict measures in place.
+     b.     We will start a pilot scheme in the first quarter of 2021 to
+allow migrant workers in some dormitories to access the community once a
+month, subject to compliance with RRT, wearing of contact-tracing
+devices and safe living measures.
 29.     We will continue to keep our migrant workers safe, and to ensure
 that we detect and contain any new cases or clusters quickly.
-.     a.     Meanwhile, we are monitoring the earliest cohort of migrant
+     a.     Meanwhile, we are monitoring the earliest cohort of migrant
 workers who have recovered from COVID-19 and are currently exempt from
 RRT. We are studying how their antibodies change over time. We will
 resume RRT for these workers if we detect their antibodies starting to
 fade, or if there is evidence of re-infection among them.
-.     b.     We will continue our multi-layered strategy of aggressive
+     b.     We will continue our multi-layered strategy of aggressive
 routine testing using both PCR and antigen rapid testing, accompanied by
 isolation strategies.
-.     c.     By end-December, we will complete distributing
+     c.     By end-December, we will complete distributing
 contact-tracing devices to more than 450,000 workers living in
 dormitories, or working in the construction, marine and process sectors.
 These devices will improve our ability to isolate and ringfence
 potential cases once they are detected.
-.     d.     We are also building new dormitories with improved safety
+     d.     We are also building new dormitories with improved safety
 standards to minimise the risk of a resurgence of COVID-19 among migrant
 workers, and prevent new public health threats.
 30.     The Government will continue to work with our partners and the
 community to ensure a safe living and working environment for our
 migrant workers, as we move towards Phase Three.
-
-------------------------------------------------------------------------
-
 [1] Includes all Purpose-Built Dormitories (PBDs) and non-PBDs (e.g.
 Factory-Converted Dormitories, Construction Temporary Quarters, and
 temporary living quarters).
-
 [2] Our highest daily COVID-19 case count in the dormitories was
 recorded on 20 April 2020, with a total of 1,397 new cases detected
 among dormitory residents that day.
-
 [3] Based on a study of migrant workers living in PBDs who had tested
 positive by PCR or serology tests as of 25 July 2020.
-
 [4] Lai et al. Population-based seroprevalence surveys of
 anti-SARS-CoV-2 antibody: An up-to-date review. Int Journal of
 Infectious Diseases 101 (2020) 314-322.
