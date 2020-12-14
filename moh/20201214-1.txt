@@ -1,208 +1,266 @@
-Moving Into Phase Three of Re-opening
+Measures to Contain the Covid-19 Outbreak In Migrant Worker Dormitories
 
 
 
-MOVING INTO PHASE THREE OF RE-OPENING
+MEASURES TO CONTAIN THE COVID-19 OUTBREAK IN MIGRANT WORKER DORMITORIES
 
 
 Published Date: 14 Dec 2020
 
-        As we have made good progress on the key enablers supporting
-further resumption of activities, the Multi-Ministry Taskforce will
-start Phase Three of re-opening from 28 December 2020. Even as we cross
-this milestone, we must continue to remain vigilant in the coming months
-and avoid an uncontrolled resurgence of cases which could slow or even
-reverse our progress.
-UPDATE ON ENABLERS FOR MOVING INTO PHASE THREE
+1.     The vast majority of the COVID-19 cases in Singapore occurred in
+migrant worker dormitories, where the SARS-CoV-2 virus spread quickly
+due to their communal living arrangements. Earlier health and safe
+distancing measures turned out to be inadequate, given the highly
+infectious nature of the novel virus, and because pre-symptomatic and
+asymptomatic transmission was also taking place.
 
-2.    The Multi-Ministry Taskforce had outlined three pre-conditions for
-moving into Phase Three, which each of us has contributed to in the past
-few months:
+2.     In all, 54,505 out of the 58,320 who tested positive in Singapore
+for COVID-19 via a Polymerase Chain Reaction (PCR) test were migrant
+workers living in dormitories. This is out of a total of over 320,000
+migrant workers who live in dormitories. [1] At the peak of the outbreak
+in April, more than 1,000 new cases a day were being detected in the
+dormitories. [2]
 
-a) Adherence to safe management measures. Most businesses and members of
-the public have been cooperating with safe management measures, and
-these efforts have helped keep community transmission low.
-b) Sufficient testing capabilities for early detection and public health
-action. We have ramped up Polymerase Chain Reaction (PCR) test capacity
-significantly to be able to run over 50,000 tests a day. We have also
-introduced antigen rapid tests for larger and higher-risk events.
+3.     We acted swiftly and decisively to stabilise the situation in the
+dormitories. Working closely with dormitory operators, employers, the
+medical community, NGOs and other community groups, we contained the
+outbreak and cleared the dormitories of the virus. By August, all
+migrant workers living in dormitories had been tested for COVID-19 at
+least once. Almost all of them have since also been cleared to resume
+work safely.
+4.     Despite the scale of the outbreak in the dormitories, the
+morbidity and mortality rate among our migrant workers has been very
+low. There were 25 COVID-19-related ICU admissions amongst migrant
+workers living in dormitories and only two deaths due to COVID-19,
+including one of those who had been admitted to the ICU.
+CONTAINMENT AND TESTING STRATEGY
+_April – May 2020: Containing the outbreak
+_5.     Initially, our top priority was to contain the spread of
+COVID-19 in the dormitories. We placed all dormitories under isolation
+by mid-April, in line with the national Circuit Breaker measures.
+Throughout this phase, we stepped up our capacity to detect and isolate
+cases in the dormitories, and to care for the health of all our migrant
+workers.
+6.     We stepped up testing to help us assess the situation in each
+dormitory. By the end of April, 1 in every 15 workers in dormitories had
+been PCR tested, far higher than the testing rates in other countries.
+Even so, due to the large numbers, we were not able to test all the
+migrant workers in the dormitories at once. We prioritised PCR testing
+for migrant workers in essential services so they could be cleared to
+continue working safely during the Circuit Breaker period.
+7.     At the same time, any worker who reported sick or showed symptoms
+of acute respiratory infection during this period was isolated, and
+given medical care regardless of whether he had received a PCR test.
+8.     To complement the testing and identify potential new cases
+quickly, thermometers and more than 25,000 oximeters were distributed.
+Every migrant worker living in the dormitories checked and reported his
+temperature and oximeter readings twice a day. Medical teams monitored
+these reports, and intervened early when they found abnormalities.
+9.     Medical support was set up at the dormitories by the end of April
+to care for those who were unwell, and monitor the health of those who
+were well. These included:
+.     a.     Medical posts staffed by teams of doctors, nurses and
+technicians at all 43 Purpose-Built Dormitories (PBDs).
+.     b.     8 medical posts, complemented by roving medical teams, that
+served all non-PBDs (e.g. Factory-Converted Dormitories and Construction
+Temporary Quarters).
+Migrant workers living in the community also had access to the
+nation-wide network of more than 900 Public Health Preparedness Clinics
+and Polyclinics.
+_June – August 2020: Clearing the dormitories of COVID-19 infection_
+10.     By June, our focus shifted to clearing the dormitories of
+COVID-19, so the migrant workers could resume work safely. Testing was
+key.
+11.     Our measures reflected the growing scientific understanding of
+COVID-19. We were discovering that a significant number of infected
+persons had no or mild symptoms, but could nevertheless spread COVID-19
+to others. We also found that infected persons who had recovered could
+still continue shedding non-infectious viral fragments for several
+months.
+12.     Our testing strategy therefore had to help us distinguish who
+had never been infected; who had had an old infection but had since
+recovered; and who was currently infected and still harbouring the
+virus, with or without symptoms. This would help us separate those who
+had never been infected or had had the virus earlier but were no longer
+infectious, from those who were currently infected or potentially
+harbouring the virus even without symptoms.
+13.     Over time, more testing methods were becoming available,
+including serology tests. While PCR tests are used to diagnose current
+or new infections, serology tests identify those who had been infected
+in the past, by detecting the presence of COVID-19 antibodies in blood
+samples.
+14.     A detailed comparison of various testing methods used is
+in Appendix I.
+15.     In June, we took the extraordinary decision to systematically
+test all migrant workers living in dormitories, symptomatic or
+otherwise. In dormitories with a high incidence of infections, we
+applied a differentiated approach. All workers in these dormitories were
+screened with a combination of serology as well as PCR tests.
+     a.     If they tested serology-positive, it meant that they had
+been infected earlier. These workers underwent a seven-day period of
+isolation, at the end of which we could be confident that they were no
+longer infectious, and did not need to be tested further.
+.     b.     Those who tested serology-negative were separately isolated
+for a longer period of 14 days, in case they were incubating the virus
+despite being asymptomatic. They were given a PCR test at the end of the
+isolation period to confirm that they were free from infection.
+16.     This combination of PCR and serology tests enabled us avoid
+isolating or quarantining recovered workers for prolonged periods, so
+that they could return to their dormitories or workplaces sooner.
+17.     By August, all migrant workers had been tested at least once for
+COVID-19. We were confident that the outbreak had been contained. By
+early November, more than 98 per cent of our migrant workers living in
+dormitories were cleared to resume work.
 
-c) High adoption of TraceTogether for quick and effective contact
-tracing. As at 13 December, around 65% of Singapore residents are on the
-TraceTogether Programme, and we are on track to reaching the target of
-around 70% by the end of the year.
+OVERALL CASE COUNT AND PREVALENCE RATE
 
-FURTHER RE-OPENING IN THE COMMUNITY
-3.   Having assessed that these pre-conditions and enablers are in
-place, the Multi-Ministry Taskforce will allow for the following further
-re-opening of activities in the community from 28 December 2020:
+18.     Our comprehensive testing strategy has provided us a more
+complete picture of the prevalence of COVID-19 in our migrant worker
+dormitories.
+_PCR and serology test results of migrant workers_
+19.     As at 13 December 2020:
+.     a.     54,505 dormitory residents have tested positive using the
+PCR test.
+.     b.     Another 98,289 have tested serology-positive though they
+did not have a positive PCR test.
+The data is summarised in Table 1.
+Table 1: Dormitory-dwelling migrant workers and their test results (as
+at 13 December 2020)
 
-a. Social gatherings will be allowed to comprise up to 8 PERSONS, an
-increase from 5 persons today. Households may also receive up to 8
-VISITORS at any point in time. To reduce the likelihood of spread, we
-should continue to limit our social circle to a small group of regular
-contacts.
-b. We will gradually increase the capacity limits of premises. For malls
-and large standalone stores, WE WILL INCREASE THE CAPACITY LIMIT FROM 10
-SQUARE METRES PER PERSON TO 8 SQUARE METRES PER PERSON; ATTRACTIONS MAY
-ALSO START APPLYING TO THE SINGAPORE TOURISM BOARD (STB) TO INCREASE
-THEIR OPERATING CAPACITY FROM 50% TO UP TO 65%. Measures must continue
-to be put in place to prevent crowding in popular areas.
-c. Religious Organisations (ROs) have been piloting increases in
-congregational and other worship services to up to 250 persons and
-allowance of live music for congregational and other worship services
-since 3 October 2020. The pilot has shown that the ROs were able to
-enforce safe management measures such as ensuring clear segregation
-between zones and minimising intermingling between groups of up to five
-persons. Hence, we will allow ALL ROS TO INCREASE THEIR CAPACITY FOR
-CONGREGATIONAL AND OTHER WORSHIP SERVICES TO UP TO 250 PERSONS (IN ZONES
-OF UP TO 50 PERSONS EACH FOR CONGREGATIONAL SERVICES). Congregational
-and other worship services as well as religious rites/ prayers conducted
-at places of worship may involve live performance elements (e.g. with a
-limited number of singers, wind and other instruments) with the
-necessary safe management measures in place.
+1.
 
-d. For marriage solemnisations held in the home, currently, a total of
-10 PERSONS (including members of the hosting household, excluding the
-solemniser and vendors) are allowed. In Phase Three, the hosting
-household will be able to invite up to 8 VISITORS (excluding members of
-the hosting household, the solemniser and vendors), even if this exceeds
-the existing cap of 10 persons.
-e. Marriage solemnisations (in indoor venues only), funerals and
-funerary-related activities will also be allowed to have live
-instrumental music (except for wind instruments) with the necessary safe
-management measures in place.
-f. Live performances in the Arts and Culture sector have been allowed to
-resume since 1 November 2020. Some venues have been piloting
-larger-scale performances of up to 250 persons and outdoor performances
-of up to 100 persons. Going forward, we will allow indoor live
-performances to have up to 250 persons in zones of up to 50 persons
-each. We will also be expanding outdoor live performance pilots to 250
-persons in zones of up to 50 persons each, to ensure that venues are
-still able to safely manage larger outdoor performances and mitigate the
-gathering of peripheral crowds.
+    A. PCR-positive*
 
-4.   We will continue to conduct pilots in some higher-risk activities
-and settings such as busking and live performances in outdoor venues,
-karaoke, nightlife, which will allow us to assess how these activities
-can take place and scale up safely.
-5.   If the local COVID situation remains stable and we are able to
-deploy more of our enablers to allow more activities to resume safely,
-the Multi-Ministry Taskforce will consider allowing further resumption
-of activities, over the course of Phase Three.
-6.   TraceTogether-only SafeEntry, where the TraceTogether App or Token
-is required for SafeEntry check-ins, will only be implemented  early
-next year, after everyone who wants a Token has had a chance to collect
-one at a Community Club or Centre in their constituency. Until we
-implement TraceTogether-only SafeEntry, visitors can still perform
-SafeEntry check-in via the TraceTogether App, SingPass Mobile, or QR
-reader apps, or use their identity cards with barcodes such as NRIC,
-Pioneer or Merdeka Generation cards, and so on.
-KEEPING OUR MIGRANT WORKERS SAFE
-7.   As we move into Phase Three of our re-opening, we are also taking
-stock of our efforts to prevent any new COVID-19 outbreak in our migrant
-worker dormitories, and reviewing how we can continue to keep our
-migrant workers safe – both physically and mentally. Our migrant
-workers’ contributions to Singapore are immense, and it is our
-responsibility to ensure that they are well and can return home safely
-to their families.
-8.   Over the past few months, the government has been working closely
-with multiple stakeholders to care for our migrant workers. Through a
-whole-of-society effort, and with a comprehensive testing and isolation
-strategy, we have brought the outbreak in our migrant worker dormitories
-under control. The morbidity and mortality rate among our migrant
-workers living in dormitories were kept very low, although there were
-unfortunately two deaths due to COVID-19 amongst this group.
-9.   By August 2020, all migrant workers living in dormitories had
-undergone at least one test for COVID-19, and almost all have been
-cleared to return to work safely. Among other measures to detect and
-contain new infections, we will continue to carry out Rostered Routine
-Testing (RRT) of every worker who is still susceptible to infection.
-10.   We will also start a pilot scheme in 1Q 2021 with some
-dormitories to allow migrant workers to access the community once a
-month, subject to compliance with RRT, wearing of contact tracing tokens
-and safe living measures.
-SECURING SINGAPORE’S ACCESS TO VACCINES
-11.   Vaccination is one of the key enablers to protect us and our
-loved ones against the COVID-19 disease, allow our economy to open up
-and more social activities to resume. It will also enable all of us to
-safely and more quickly return to normalcy.
-12.   Safety and efficacy of the vaccines for Singaporeans are key. The
-government has put in place stringent processes to assess the safety of
-the COVID-19 vaccines we bring in and ensure they comply with the World
-Health Organization’s guidelines and international standards on safety
-and efficacy. Health Sciences Authority (HSA) is reviewing all the
-available scientific and clinical evidence in detail, and in constant
-consultation with other benchmark regulatory authorities around the
-world, to ensure that regulatory requirements and standards for safety
-and efficacy are met. The Expert Committee on COVID-19 Vaccination is
-assessing how best to deploy the portfolio of vaccines that we have
-acquired across all segments of the population to achieve the optimal
-health outcome for Singapore and Singaporeans.
-13.   To secure early access to safe and effective vaccines for our
-population, the government’s discussions with pharmaceutical companies
-that had promising vaccine candidates began in May 2020. We have signed
-Advance Purchase Agreements with Moderna, Pfizer-BioNTech and Sinovac,
-and are in discussions with a few other pharmaceutical companies. HSA
-has since received enough scientific and clinical data, evaluated the
-available evidence and authorised the Pfizer-BioNTech COVID-19 vaccine
-for pandemic use in Singapore. Pfizer has indicated that the first batch
-of Pfizer-BioNTech vaccines will arrive in Singapore by around the end
-of this month. Subsequent batches from the three companies will arrive
-over the course of next year.
-14.   We are also a strong supporter and active participant in the work
-of the global COVID-19 Vaccine Global Access (COVAX) Facility, which
-enables countries to pool risk and resources, and promote equitable
-access to a portfolio of vaccines from different vaccine developers.
-Singapore has entered into a Commitment Agreement with the COVAX
-Facility to give us the right to purchase a certain amount of vaccines.
-This is part of Singapore’s strategy to securing access to a portfolio
-of COVID-19 vaccines for our population, while promoting and actively
-enabling affordable, fair and equitable access to safe and effective
-COVID-19 vaccines for all globally.
-15.   We have made provision for all Singaporeans and long-term
-residents in Singapore to be able to get vaccinated by end-2021, if
-there are no unforeseen disruptions to vaccine shipments. While COVID-19
-vaccination will be voluntary, we strongly encourage everyone to get
-vaccinated when the vaccine is offered to you. To ensure the
-accessibility of the vaccine and enable us to achieve a higher rate of
-vaccination for the population, this vaccination will be free.
-16.   Vaccine supply will be limited globally at the outset and will
-arrive in Singapore in batches over several months as manufacturers ramp
-up production of vaccines. Therefore, we will progressively vaccinate
-our entire population , with our first priority for those who are at
-greater risk and hence most in need of COVID-19 vaccination, such as
-healthcare workers and COVID-19 frontline workers, and vulnerable
-groups, in terms of age and health, at greater risk of severe disease
-from COVID-19 infection. This is consistent with WHO’s recommendations.
-The Expert Committee has issued a preliminary set of recommendations
-which the government has accepted, and the Expert Committee will be
-sharing its detailed advice on the overall vaccination strategy for
-Singapore and its specific recommendations on each of the vaccines in
-the coming weeks, as more scientific and clinical data becomes
-available.
-LOOKING AHEAD TO FURTHER RE-OPENING
-17.   Comprehensive vaccination coverage in the population will enable
-us to re-open further and expedite our recovery from the pandemic, but
-vaccination is not a silver bullet. While vaccination will protect
-vaccinated individuals against the disease, the virus has not been
-eradicated and it may still be possible for vaccinated individuals to
-spread the virus and infect those who are not yet vaccinated. It will
-thus be some time before Singapore and the entire world return to
-pre-COVID normalcy.
-18.   We cannot afford to let our guard down, especially during the
-upcoming festive period where we might want to meet up with family and
-friends, and must continue to be vigilant and keep up the good practices
-which we have cultivated over the past year. Our existing key enablers –
-safe management measures, testing, and contact tracing – continue to be
-necessary and effective in helping us to mitigate spread and keep
-community transmission low. We will continue with our checks and will
-not hesitate to take strict enforcement actions against any breaches, so
-that we can continue to keep Singapore safe from the virus.
-19.   We seek the cooperation of all Singaporeans to continue to remain
-united and disciplined in our fight against COVID-19. If we all work
-together, we can look forward to a safer and healthier 2021.
-MINISTRY OF HEALTH
-14 DECEMBER 2020
+    54,505
+
+    B. Serology-positive only
+
+    98,289
+
+    Ratio of PCR-positive to serology-positive only (A:B)
+
+    1:1.8
+
+    Prevalence rate, i.e. (A+B)/(total dormitory dwellers)
+
+    47% (of 323,000 dormitory dwellers)
+
+    _*Including some who have tested both PCR-positive and
+    serology-positive._
 
 
+
+    20.     Among the migrant workers who tested PCR-positive or
+    serology-positive, the vast majority were asymptomatic or had very
+    mild symptoms. Only about 1 in 5 of migrant workers living in PBDs
+    presented with symptoms, with the remaining 4 in 5 displaying very
+    mild or no symptoms. [3]
+
+    21.     Including the serology test results, the prevalence rate of
+    COVID-19 in the dormitories is currently 47 per cent. For every
+    COVID-19 infection in the dormitories detected through PCR testing,
+    another 1.8 cases were untested and undetected at the time, and were
+    identified subsequently only through serology testing. This is not
+    surprising as many migrant workers did not have any symptoms, and
+    thus would not have sought treatment and received a PCR test in the
+    process. The ratio of PCR-positive to serology-positive among
+    migrant workers in dormitories is comparable to the ratio of 1:1.8
+    for the whole of South Korea, and lower than 1:4 in Spain, and 1:15
+    in France [4]. Our low ratio reflects the extensive PCR testing we
+    carried out in the dormitories.
+
+    _Reporting of cases_
+
+    22.     Singapore reports COVID-19 cases in accordance with
+    international practice. Every case who tested positive through a PCR
+    test and was assessed to be an acute infection is reported and
+    included in our case count. We follow WHO’s criterion that only
+    positive results from confirmatory tests (i.e. PCR tests) are
+    included in the case count. This ensures consistency in reporting
+    cases across countries.
+
+    23.     A different approach is taken for reporting the results of
+    serology tests. As these tests identify past cases of infection,
+    they are used to aid epidemiological investigations and for
+    retrospective assessment of the overall prevalence of infections
+    within a population. Therefore, serology test outcomes are
+    aggregated and presented as an estimate of prevalence in the
+    population, separate from the daily case counts.
+
+    24.     Most countries only do serology testing on a sampling basis,
+    to estimate the prevalence of infections in a population. But
+    Singapore went further to do serology tests on our entire population
+    of migrant workers living in the dormitories. This was a unique
+    aspect of our efforts to clear the dormitories of COVID-19.
+
+    25.     As at 13 December 2020, we are still in the process of
+    completing serology tests for 65,000 or so migrant workers living in
+    dormitories who had not taken a serology test before. This will give
+    us the full picture of the infection prevalence among our migrant
+    workers.
+
+    PHASE THREE
+
+    26.     Having tested all migrant workers living in the dormitories,
+    we will continue with Rostered Routine Testing (RRT) of every worker
+    who may still be susceptible to infection, in order to detect and
+    contain new infections rapidly. All such workers living in
+    dormitories, and those who work in the construction, marine and
+    process (CMP) sectors, have been undergoing RRT once every 14 days.
+
+    27.     After several RRT cycles, the number of new infections have
+    remained very low. Since October, no new cases were detected in the
+    dormitories on many days.
+
+    28.     Having brought the outbreak in the dormitories under
+    control, and instituted Safe Living and Safe Working measures at all
+    dormitories and worksites, we will progressively ease the
+    restrictions on migrant workers.
+
+2.  a.  With the transition into Phase Three, we are preparing to return
+        migrant workers to the community in a controlled manner, with
+        strict measures in place.
+
+    b.  We will start a pilot scheme in the first quarter of 2021 to
+        allow migrant workers in some dormitories to access the
+        community once a month, subject to compliance with RRT, wearing
+        of contact-tracing devices and safe living measures.
+
+29.     We will continue to keep our migrant workers safe, and to ensure
+that we detect and contain any new cases or clusters quickly.
+.     a.     Meanwhile, we are monitoring the earliest cohort of migrant
+workers who have recovered from COVID-19 and are currently exempt from
+RRT. We are studying how their antibodies change over time. We will
+resume RRT for these workers if we detect their antibodies starting to
+fade, or if there is evidence of re-infection among them.
+.     b.     We will continue our multi-layered strategy of aggressive
+routine testing using both PCR and antigen rapid testing, accompanied by
+isolation strategies.
+.     c.     By end-December, we will complete distributing
+contact-tracing devices to more than 450,000 workers living in
+dormitories, or working in the construction, marine and process sectors.
+These devices will improve our ability to isolate and ringfence
+potential cases once they are detected.
+.     d.     We are also building new dormitories with improved safety
+standards to minimise the risk of a resurgence of COVID-19 among migrant
+workers, and prevent new public health threats.
+30.     The Government will continue to work with our partners and the
+community to ensure a safe living and working environment for our
+migrant workers, as we move towards Phase Three.
+
+------------------------------------------------------------------------
+
+[1] Includes all Purpose-Built Dormitories (PBDs) and non-PBDs (e.g.
+Factory-Converted Dormitories, Construction Temporary Quarters, and
+temporary living quarters).
+
+[2] Our highest daily COVID-19 case count in the dormitories was
+recorded on 20 April 2020, with a total of 1,397 new cases detected
+among dormitory residents that day.
+
+[3] Based on a study of migrant workers living in PBDs who had tested
+positive by PCR or serology tests as of 25 July 2020.
+
+[4] Lai et al. Population-based seroprevalence surveys of
+anti-SARS-CoV-2 antibody: An up-to-date review. Int Journal of
+Infectious Diseases 101 (2020) 314-322.
