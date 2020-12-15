@@ -8,14 +8,172 @@
 Published Date: 15 Dec 2020
 
 1.     As of 15 December 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case resides in a
-dormitory and there are no new cases in the community.
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection. The case resides in a dormitory and there are no new cases in
+the community. There are 15 imported cases, who had already been placed
+on Stay-Home Notice (SHN) or isolated upon arrival in Singapore. Amongst
+the new cases today, 13 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 2 were symptomatic.
 
-2.     In addition, there are 15 imported cases, who had been placed on
-Stay-Home Notice or isolated upon arrival in Singapore. In total, there
-are 16 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+15
+
+
+
+15
+
+0
+
+
+
+2
+
+13
+
+TOTAL
+
+16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has remained
+low, with no new cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 1
+
+There is 1 case residing in a dormitory today. Case 58562 is
+asymptomatic, and was detected when he took a COVID-19 pre-departure
+test in preparation for his return to China. His previous tests from
+Rostered Routine Testing (RRT) had been negative. His serological test
+result has come back positive, which indicates likely past infection. As
+a precautionary measure, all his close contacts at the dormitory and his
+workplace have been placed on quarantine.
+
+C) IMPORTED CASES: 15
+
+Amongst the 15 imported cases, 3 (Cases 58554, 58555 and 58558) are
+Singaporeans who returned from India, UK and US. 6 are Work Pass (Case
+58563) or Work Permit (Cases 58564, 58565, 58566, 58567 and 58568)
+holders currently employed in Singapore who arrived from Brazil, India
+and Indonesia. Another 2 are a Dependant’s Pass holder (Case 58553) who
+arrived from Spain and a Student’s Pass holder (Case 58556) who arrived
+from India. The remaining 4 are Short-Term Visit Pass holders. Of these,
+2 (Cases 58557 and 58561) arrived from Indonesia and India, and are
+family members of Singaporeans or Singapore Permanent Residents. Case
+58559 arrived from Russia to participate in a mixed martial arts
+sporting event and Case 58560 arrived from Australia on an Air Travel
+Pass. Both had been tested for COVID-19 upon arrival in Singapore, and
+were isolated while waiting for their test results. They were
+subsequently conveyed to the hospital when their tests came back
+positive.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or upon arrival in
+Singapore.
+
+3.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+4.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.     23 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,233 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+6.     There are currently 25 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 54 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
