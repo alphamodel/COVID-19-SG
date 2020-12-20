@@ -7,44 +7,197 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 20 Dec 2020
 
-         As of 20 December 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.     There are 19 imported cases, who had already been placed on
-Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+      As of 20 December 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 19 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 18 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 1 was
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+19
+
+
+
+19
+
+0
+
+
+
+1
+
+18
+
+TOTAL
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has remained
+low, with no new cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 19
+
+Amongst the 19 imported cases, 2 (Cases 58640 and 58652) are
+Singaporeans and 3 (Cases 58638, 58643 and 58658) are Singapore
+Permanent Residents who returned from the UK and India. Another 2 are a
+Work Pass holder (Case 58644) and a Work Permit holder (Case 58653)
+currently employed in Singapore who arrived from Russia and Indonesia.
+In addition, there are 3 (Cases 58641, 58642 and 58657) Long-Term Visit
+Pass holders who arrived from India, and 1 (Case 58637) Dependant’s Pass
+holder who arrived from the UK.
+Another 4 are Short-Term Visit Pass holders. Of these, 1 (Case 58646)
+was already receiving medical care in Singapore and had returned for
+further treatment, accompanied by his caregiver (Case 58645). The other
+2 (Cases 58647 and 58656) are here to visit their family members who are
+Singaporeans or Singapore Permanent Residents. The remaining 4 (Cases
+58648, 58649, 58650 and 58651) are Special Pass holders who are crew
+members of a ship which arrived from Indonesia. They had remained on the
+ship until they were conveyed to a quarantine facility as they had been
+identified as close contacts of an earlier confirmed case.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+3.   Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.   Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
 INVESTIGATIONS INTO 13 CASES WHO SERVED SHN AT MANDARIN ORCHARD
 SINGAPORE
-4.      MOH announced on 19 December that it is investigating 13 cases
-[1] of COVID-19 infection amongst individuals who had served SHN at
-Mandarin Orchard Singapore between 22 October and 11 November 2020. As a
-precautionary measure to ensure the safety of all guests, the hotel has
-stopped accepting new guests since 19 December and is checking out
-existing guests progressively. Individuals serving SHN at Mandarin
-Orchard Singapore have been transported via dedicated vehicles to an
-alternative SHN dedicated facility.
-5.      In total, 394 persons serving SHN at the hotel have been
-swabbed, and 384 test results are ready, while 10 are pending. Of the
-results that are ready, 381 have come back negative for COVID-19
-infection. 3 have tested positive and were immediately conveyed to the
-hospital via ambulance. As they have recent travel history, it is likely
-that these are imported and have been included in today’s case count.
-Nevertheless the National Public Health Laboratory will conduct whole
-genome sequencing and phylogenetic analysis to determine if they could
-be linked to the 13 cases. It takes about 4 weeks to culture the virus
-and complete the genome sequencing.
-6.      MOH has also tested 158 staff of Mandarin Orchard Singapore so
-far, and all the Polymerase Chain Reaction (PCR) test results have come
+
+5.    MOH is investigating 13 previously reported cases [1] of COVID-19
+infection amongst individuals who had served SHN at Mandarin Orchard
+Singapore between 22 October and 11 November 2020. As a precautionary
+measure to ensure the safety of all guests, the hotel has stopped
+accepting new guests since 19 December and is checking out existing
+guests progressively. Individuals serving SHN at Mandarin Orchard
+Singapore have been transported via dedicated vehicles to an alternative
+SHN dedicated facility.
+6.    In total, 394 persons serving SHN at the hotel have been swabbed,
+and 384 test results are ready, while 10 are pending. Of the results
+that are ready, 381 have come back negative for COVID-19 infection. 3
+(Cases 58656, 58657 and 58658) have tested positive and were immediately
+conveyed to the hospital via ambulance. As they have recent travel
+history, it is likely that these are imported and have been included in
+today’s case count. Nevertheless the National Public Health Laboratory
+will conduct whole genome sequencing and phylogenetic analysis to
+determine if they could be linked to the 13 cases.
+7.    MOH has tested 571 staff of Mandarin Orchard Singapore so far. Of
+these, 158 test results have been processed, while 413 results are
+pending. All 158 Polymerase Chain Reaction (PCR) test results have come
 back negative for COVID-19. However the serological tests of 3 staff
 have come back positive, indicating likely past infections.
 Epidemiological investigations of these cases are in progress.
-
-
-
+UPDATE ON CONDITION OF CONFIRMED CASES
+8.   5 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,279 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+9.    There are currently 43 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 71 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
 20 DECEMBER 2020
+
+
 
 ------------------------------------------------------------------------
 
