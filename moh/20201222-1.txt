@@ -1,92 +1,158 @@
-Updates On Border Measures for Travellers From United Kingdom and New
-South Wales, Australia
+No New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM UNITED KINGDOM AND NEW SOUTH WALES, AUSTRALIA
+NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 22 Dec 2020
 
-           The Multi-Ministry Taskforce has been closely monitoring the
-global COVID-19 situation and will be tightening border measures given
-the deteriorating situation in the United Kingdom, and resurgence in the
-number of COVID-19 cases in New South Wales (NSW), Australia.
+1.      As of 22 December 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 29 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 24 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 5 were
+symptomatic.
 
-TRAVELLERS FROM NSW TO SERVE 7-DAY SHN AT PLACE OF RESIDENCE
+SUMMARY OF NEW CASES
 
-2.  We had earlier announced that travellers from Australia
-are allowed to undergo a COVID-19 PCR test upon arrival, and if the PCR
-test result is negative, they will be allowed to go about their
-activities in Singapore, without a need to serve a Stay-Home Notice
-(SHN).
 
-3.  Given the increased cases observed in NSW, we will be
-tightening border control measures for travellers with travel history to
-New South Wales (NSW), Australia. From 23 DECEMBER 2020, 2359 HOURS:
 
-a.  All travellers departing from Australia will be required to
-declare their travel history at airline check-in prior to their flight
-to Singapore.
 
-b.  Singapore Citizens (SCs), Permanent Residents (PRs) and Long-Term
-Pass holders entering Singapore with travel history to NSW, Australia
-within the last 14 days before departure for Singapore, will be subject
-to a 7-day SHN at their place of residence with a COVID-19 Polymerase
-Chain Reaction (PCR) test before the end of the SHN period.
 
-c.  Short-term travellers holding an Air Travel Pass with travel
-history to NSW, Australia, within the last 14 days before departure for
-Singapore, will not be allowed to enter Singapore.
 
-4.  All other travellers departing from Australia who have
-been in Australia (excluding NSW) in the last 14 days prior to travel
-will continue to be subject to a COVID-19 test upon arrival at the
-airport, in lieu of their SHN.
 
-RESTRICTING TRAVEL FROM UNITED KINGDOM
+BREAKDOWN BY
 
-5.  Travellers with travel history to the UK within 14 days
-prior to departure to Singapore are currently required to serve a 14-day
-SHN at dedicated SHN facilities. Travellers who are not SCs or PRs are
-also required to take a COVID-19 PCR test within 72 hours before
-departure and present a valid negative COVID-19 test result as a
-condition of approval to enter Singapore.
 
-6.  There have been recent reports of a potentially more
-contagious strain of the COVID-19 virus circulating in the UK. Officials
-within the UK are also concerned about this new virus and have put in
-place more stringent restrictions, including imposing a new lockdown in
-London. To reduce the risk of spread to Singapore, we are putting in
-place new border restrictions for travellers from UK for further
-precaution. From 23 DECEMBER 2020, 2359 HOURS, until further notice:
 
-a.  All long-term pass holders and short-term visitors with recent
-travel history to the UK within the last 14 days will not be allowed
-entry into Singapore, or transit through Singapore. This will also apply
-to all those who had obtained prior approval for entry into Singapore.
+BREAKDOWN BY
 
-b.  Returning SCs and PRs will be required to undergo a COVID-19 PCR
-test upon arrival in Singapore, at the start of their 14-day SHN.
 
-7.  While the strain has been suggested to be more
-transmissible, there is currently insufficient evidence to determine if
-this strain is associated with any change in disease severity, antibody
-response or vaccine efficacy. These aspects are being investigated by
-the UK authorities. The Ministry of Health will evaluate the data as it
-emerges and review our border measures accordingly.
 
-REGULAR REVIEW OF BORDER MEASURES
+NUMBER OF CASES
 
-8.  As the global situation evolves, we will continue to
-adjust our border measures to manage the risk of importation and
-transmission to the community. Any changes to border measures will be
-updated on the SafeTravel website. Travellers are advised to visit the
-website to check for the most updated border measures before entering
-Singapore and be prepared to be subjected to the prevailing border
-measures upon entry, including payment for their stay at dedicated SHN
-facilities, tests and treatment.
 
-9.           All travellers are reminded to accurately declare their
-travel history. Strict enforcement actions will be taken against false
-declarations
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+29
+
+
+
+29
+
+0
+
+
+
+5
+
+24
+
+TOTAL
+
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Overall, the number of new cases in the community has remained
+low, with a total of 1 case in the past week who is currently unlinked.
+We will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+CASE DETAILS
+A)  CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+Update on Case 58662: The serological test result of Case 58662, who was
+announced on 21 December, has come back positive, indicating a likely
+past infection. Epidemiological investigations are ongoing.
+B)  CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C)  IMPORTED CASES: 29
+Amongst the 29 imported cases, 3 (Cases 58669, 58686 and 58696) are
+Singaporeans and 1 (Case 58685) is a Singapore Permanent Resident who
+returned from the US, Costa Rica, Indonesia and India. Another 23 are
+Work Pass holders (Cases 58668 and 58684) or foreign domestic workers
+(Cases 58670, 58671, 58672, 58673, 58674, 58675, 58676, 58677, 58678,
+58679, 58680, 58681, 58687, 58688, 58689, 58690, 58691, 58692, 58693,
+58694 and 58695) currently employed in Singapore who arrived from the
+US, Philippines, Indonesia and Myanmar. The remaining 2 cases are
+Short-Term Visit Pass holders. Case 58682 arrived from India to visit a
+Singaporean relative, and Case 58683 is a crew member of a ship which
+arrived from Indonesia. He had not disembarked from the ship until he
+was conveyed to a quarantine facility.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+3.  Please refer to the Annexes and MOH's daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+4.  Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.  17 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,304 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.  There are currently 47 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 81 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+
