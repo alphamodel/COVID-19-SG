@@ -7,15 +7,199 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 23 Dec 2020
 
-              As of 23 December 2020, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
+               As of 23 December 2020, 12pm, the Ministry of Health
+(MOH) has confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 21 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+Amongst the new cases today, 20 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 1 was symptomatic.
 
-2.          There are 21 imported cases, who had already been placed on
-Stay-Home Notice upon arrival in Singapore. Amongst them, 8 are
-Singaporeans or Singapore Permanent Residents, and 9 are foreign
-domestic workers.
+SUMMARY OF NEW CASES
 
-3.          We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+21
+
+
+
+21
+
+0
+
+
+
+1
+
+20
+
+TOTAL
+
+21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.         Overall, the number of new cases in the community has
+remained low, with a total of 1 case in the past week who is currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 21
+
+Amongst the 21 imported cases, 3 (Cases 58715, 58716 and 58717) are
+Singaporeans and 5 (Cases 58698, 58710, 58712, 58713 and 58714) are
+Singapore Permanent Residents who returned from Canada, India and the
+UK. Another 9 (Cases 58699, 58700, 58701, 58702, 58703, 58704, 58705,
+58706 and 58707) are foreign domestic workers who arrived from
+Indonesia, India and Myanmar. In addition, there are 2 Student’s Pass
+holders (Cases 58718 and 58719) who arrived from India. The remaining
+cases are Short-Term Visit Pass holders. Case 58709 arrived from India
+to visit his Singaporean relatives and Case 58708 arrived from Sweden to
+board a ship docked here as a crew member.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+3.         Please refer to the Annexesand MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+4.           Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+CONFIRMATION OF 1 CASE WITH UK VIRUS STRAIN
+
+5.          In light of recent reports that the B117 strain, a
+potentially more contagious strain of the COVID-19 virus, is circulating
+in the UK, the National Public Health Laboratory is performing viral
+genomic sequencing for confirmed COVID-19 cases who had arrived from
+Europe recently. A total of 31 imported cases from Europe, who arrived
+in Singapore between 17 November and 17 December 2020, were confirmed to
+have COVID-19 infection in December 2020. Amongst them, 12 were not
+infected with the B117 strain, and 1 (Case 58504) has been found to
+carry the B117 strain. 5 samples cannot be sequenced due to their low
+viral load, and we are pending confirmatory results for another 11 cases
+who are preliminarily positive for the B117 strain. 2 cases have not
+been tested so far.
+
+6.             There is currently no evidence that the B117 strain is
+circulating in the community. All the cases had been placed on 14-day
+SHN at dedicated facilities or isolated upon arrival in Singapore, and
+their close contacts had been quarantined earlier.
+
+7.               Case 58504, who was infected with the B117 strain, is a
+17 year-old female Singaporean who had been studying in the UK from
+August 2020. She returned to Singapore on 6 December and served SHN at a
+dedicated SHN facility upon arrival. She developed a fever the next day,
+and was confirmed to have COVID-19 infection on 8 December. Her case was
+included in our case count on the same day. All her close contacts had
+been placed on quarantine, and had tested negative for COVID-19
+infection at the end of their quarantine period. As she had been
+isolated upon arrival in Singapore, we were able to ringfence this case
+so that there was no further transmission arising from her.
+
+8.          As a precautionary measure to reduce the risk of spread to
+Singapore, the Multi-Ministry Taskforce announced yesterday that from 23
+December 2020, 2359 hours, all long-term pass holders and short-term
+visitors with recent travel history to the UK within the last 14 days
+will not be allowed entry into Singapore, or transit through Singapore.
+Returning SCs and PRs will be required to undergo a COVID-19 PCR test
+upon arrival in Singapore, at the start of their 14-day SHN.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+9.              18 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 58,322 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+10.           There are currently 34 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 97 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
