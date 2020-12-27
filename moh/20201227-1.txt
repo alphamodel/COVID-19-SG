@@ -1,98 +1,129 @@
-Government Accepts Recommendations of Expert Committee On Covid-19
-Vaccination
+No New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-GOVERNMENT ACCEPTS RECOMMENDATIONS OF EXPERT COMMITTEE ON COVID-19 VACCINATION
+NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 27 Dec 2020
 
-1.The government has accepted in full the recommendations of the Expert
-Committee on COVID-19 Vaccination on the overall COVID-19 vaccination
-strategy for Singapore, and will begin vaccinating healthcare workers
-progressively from 30 December 2020.
-2. The Expert Committee was convened by the Ministry of Health (MOH) in
-October 2020 to make recommendations to the government on Singapore’s
-COVID-19 vaccination strategy, including ensuring the safe and effective
-use of COVID-19 vaccines in Singapore’s population groups. It submitted
-its full set of overall framework recommendations and its detailed
-recommendations specific to the use of the Pfizer-BioNTech COVID-19
-Vaccines to the government on 24 December 2020.
-3. As announced by the Multi-Ministry Taskforce on 14 December 2020, the
-government has made provision for all Singaporeans and long-term
-residents in Singapore to be able to get vaccinated by end-2021, if
-there are no unforeseen disruptions to vaccine shipments. To ensure the
-accessibility of the vaccine and enable us to achieve a higher rate of
-vaccination for the population, this vaccination will be free.¹
-4. Only vaccines that meet strict standards of safety, quality and
-effectiveness will be used for our population. The Pfizer-BioNTech
-COVID-19 vaccine had earlier received authorisation by the Health
-Sciences Authority under the Pandemic Special Access Route, and the
-Expert Committee had also reviewed and endorsed its use in Singapore in
-individuals aged 16 years and above.
-5. Singapore received the first shipment of vaccines from
-Pfizer-BioNTech on 21 December 2020, and subsequent COVID-19 vaccine
-stocks are expected to arrive in Singapore in batches over several
-months. Vaccination will therefore take place in a progressive manner,
-with priority given to the following groups, as recommended by the
-Expert Committee:
-A. PERSONS AT HIGH RISK OF BEING INFECTED BY COVID-19, INCLUDING
-HEALTHCARE WORKERS AND WORKERS AT THE FRONTLINE OF OUR NATIONAL COVID-19
-RESPONSE. We agree with the Expert Committee that there is a duty to
-protect these workers who place themselves at higher risk of infection
-in the course of serving our population, so as to ensure the continued
-effective functioning of our healthcare system, and our national systems
-for preventing and containing disease spread.
-B. PERSONS WHO ARE MOST VULNERABLE TO SEVERE DISEASE AND COMPLICATIONS
-IF THEY FALL ILL WITH COVID-19, INCLUDING THE ELDERLY AND PERSONS WITH
-MEDICAL COMORBIDITIES. We will start with vaccinating those 70 years old
-and above as they have more medical co-morbidities, and tend to have
-worse health outcomes than those aged 60 to 69 years old if infected
-with COVID-19. Protecting such persons minimises COVID-19 related
-mortality and morbidity, and ensures that our healthcare system will
-continue to have the capacity to care for the overall health of all
-Singaporeans.
-6. We will begin the vaccination exercise with healthcare workers at the
-National Centre for Infectious Diseases (NCID) on 30 December 2020, and
-subsequently roll out to more healthcare institutions in the subsequent
-weeks. Public healthcare institutions – including acute hospitals,
-community hospitals and polyclinics – as well as private hospitals, will
-progressively arrange for their staff to be vaccinated within their
-respective premises.
-7. We aim to begin vaccinating the elderly, starting with those aged 70
-years and above, from February 2021. Thereafter we will vaccinate other
-Singaporeans and long-term residents who are medically eligible for
-vaccination. More details will be shared in due course.
-8. Comprehensive vaccination coverage in the population will ensure that
-our population is protected from COVID-19. This will also indirectly
-protect those who cannot be vaccinated due to medical reasons. In the
-longer term, this will enable us to re-open further both as a society
-and economy, and expedite our recovery from the pandemic. While COVID-19
-vaccination will be voluntary, we strongly encourage everyone who is
-medically eligible for vaccination to get vaccinated when the vaccine is
-offered. While the current number of cases in the community remains low,
-the risk for further importation of COVID-19 and community spread will
-increase as we move into Phase Three and given the global COVID-19
-situation. This is especially important in the face of reports surfacing
-globally about more transmissible strains.
-9. Vaccination is not a silver bullet that can end the pandemic
-immediately, but it is a key enabler to getting us back to a safer state
-of affairs. It will complement other existing key enablers – safe
-management measures, testing and contact tracing – which will continue
-to be necessary in helping us to mitigate any spread and keep community
-transmission low. We seek the cooperation of all Singaporeans to
-continue to remain vigilant and disciplined in our fight against
-COVID-19, by observing safe distancing and safe management measures, and
-wearing a mask when out of the home. If we all work together, we can
-look forward to a safer and healthier 2021.
-10. The Multi-Ministry Taskforce would like to put on record our thanks
-to the Chairman, Associate Professor Benjamin Ong, and members of the
-Expert Committee on COVID-19 Vaccination, who have submitted a
-comprehensive set of recommendations. As information on more vaccines
-becomes available, we look forward to further recommendations by the
-Expert Committee on subsequent population groups to be vaccinated.
-[1] For Singaporeans and long-term residents in Singapore, which
-includes long-term work-permit holders.
+As of 27 December 2020, 12pm, the Ministry of Health (MOH) has confirmed
+and verified that there are no new cases of locally transmitted COVID-19
+infection. There are 5 imported cases, who had already been placed on
+Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new cases
+today, 4 are asymptomatic, and were detected from our proactive
+screening and surveillance, while 1 was symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+5
+
+5
+
+0
+
+1
+
+4
+
+TOTAL
+
+5
+
+2.     Overall, the number of new cases in the community has remained
+low, with a total of 1 case in the past week who is currently unlinked.
+We will continue to closely monitor these numbers, as well as the cases
+detected through our surveillance programme.
+CASE DETAILS
+A)    CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B)   CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C)   IMPORTED CASES: 5
+Amongst the 5 imported cases, 1 (Case 58763) is a Singapore Permanent
+Resident who returned from Ukraine. The remaining 4 are Work Permit
+holders who arrived from Indonesia, Malaysia and the Philippines, of
+whom 3 (Cases 58761, 58764 and 58765) are foreign domestic workers. They
+had all already been placed on SHN upon arrival in Singapore and were
+tested while serving SHN.
+Case 58762 served SHN at Mandarin Orchard Singapore before she was
+transferred to another dedicated facility on 20 December when MOH
+commenced investigations into 13 previously reported cases who had
+served SHN at Mandarin Orchard Singapore between 22 October and 11
+November 2020. She was swabbed on 19 December and 21 December and her
+test results were negative for COVID-19 infection. Her swab on 24
+December at the end of SHN came back positive, and she was conveyed to
+the hospital the next day. A confirmatory test by the National Public
+Health Laboratory (NPHL) was also positive. However a second sample
+taken by NPHL on 26 December came back negative, and her serological
+test result has also come back negative. Investigations are ongoing to
+assess if she could be linked to the 13 cases.
+3.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     8 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,370 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.    There are currently 31 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 94 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
+7.     Singapore will enter into Phase Three of re-opening on 28
+December. As more activities resume in the community, adherence to the
+safe management and safe distancing measures becomes even more critical
+in mitigating spread and keeping community transmission low. Let us
+continue to keep our guard up and be disciplined in our fight against
+COVID-19, so that we can remain safe as we transit to Phase Three.
 MINISTRY OF HEALTH
 27 DECEMBER 2020
+
+
+
