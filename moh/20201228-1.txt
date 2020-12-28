@@ -7,15 +7,175 @@
 
 Published Date: 28 Dec 2020
 
-      As of 28 December 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.        In addition, there are 4 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 5 new cases of COVID-19 infection in Singapore today.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-MINISTRY OF HEALTH
-28 DECEMBER 2020
+            As of 28 December 2020, 12pm, the Ministry of Health (MOH)
+has confirmed and verified that there is 1 new case of locally
+transmitted COVID-19 infection. The case is in the community, and there
+are no new cases in the dormitories. There are 4 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 2 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 3 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+4
+
+
+
+4
+
+0
+
+
+
+3
+
+1
+
+TOTAL
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Overall, the number of new cases in the community has
+remained low, with a total of 1 case in the past week who is currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked. Case
+58766 is a Singaporean who works as a cabin crew with Singapore
+Airlines, and a part-time private hire car driver with Grab. He is
+asymptomatic, and was detected through proactive testing arranged by the
+Civil Aviation Authority of Singapore of air crew who had returned from
+overseas flights.
+
+He recently travelled to the US for work from 12 December to 16 December
+on a controlled itinerary. He was tested on 23 December, but his test
+result came back inconclusive on 25 December, necessitating another
+test. A second test conducted on 25 December was also inconclusive. He
+had remained at home while awaiting further tests.
+
+His swab on 27 December came back positive for COVID-19 infection and he
+was conveyed in an ambulance to the National Centre for Infectious
+Diseases on the same day. His serological test result is negative, which
+indicates a likely current infection. The cabin crew on the same US
+flight as Case 58766 have all tested negative for COVID-19 infection on
+23 December.
+
+Given the relatively long time interval between his travel and positive
+COVID-19 test, we have classified this case as locally transmitted while
+epidemiological investigations are in progress. In the meantime, all the
+identified close contacts of the case, including his family members and
+co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C)  IMPORTED CASES: 4
+
+Amongst the 4 imported cases, 3 (Cases 58768, 58769 and 58771) are
+Singaporeans who returned from India, Myanmar and the UK. The remaining
+case (Case 58767) is a Dependant’s Pass holder who arrived from India.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or under isolation.
+
+3.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+4.  16 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 58,386 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+5.  There are currently 35 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 79 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
