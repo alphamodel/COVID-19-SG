@@ -1,46 +1,204 @@
-Medifund Continues to Assist Needy Singaporeans With Their Healthcare
-Needs
+1 New Case of Locally Transmitted Covid-19 Infection
 
 
 
-MEDIFUND CONTINUES TO ASSIST NEEDY SINGAPOREANS WITH THEIR HEALTHCARE NEEDS
+1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 30 Dec 2020
 
-1.     The Medical Endowment Fund (MediFund) provided a total of $159.1
-million through more than 1.2 million successful applications in
-assistance to needy Singaporeans for their medical bills in Financial
-Year (FY) 2019, i.e. for the period 1 April 2019 to 31 March 2020. This
-was an increase of $2.6 million compared to the $156.5 million disbursed
-in FY2018.
-2.     MediFund assists needy Singaporean patients who are unable to
-afford their medical bills, after government subsidies, insurance and
-MediSave. MediFund Silver and MediFund Junior provide more targeted
-assistance for the elderly and children respectively. MediFund ensures
-that no Singaporean will be denied basic medical care due to inability
-to pay.
-3.     The increase in assistance is due to the support extended
-towards patients in Intermediate and Long-term Care (ILTC) facilities,
-including the elderly. The key statistics of MediFund assistance
-provided in FY2019 are:
+       As of 30 December 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 26 imported cases, of whom 25 had
+been placed on Stay-Home Notice or isolated upon arrival in Singapore.
+Amongst the new cases today, 22 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 5 were symptomatic.
+SUMMARY OF NEW CASES
 
-(i) The number of approved MediFund applications was 1,215,809. This was
-a 1.9% decrease from the 1,239,578 number of approved applications in
-FY2018, contributed by a decrease in the total number of applications
-over the period[1];
-(ii) In public hospitals and institutions, a total assistance of $122.8
-million was provided to patients, compared to $124.2 million in FY2018;
-(iii) In ILTC facilities, a total assistance of $36.2 million was
-provided to patients, compared to $32.3 million in FY2018; and
-(iv) On average, the amount of MediFund assistance provided was about
-$900 per inpatient treatment, and about $90 per outpatient treatment.
 
-4.     More details can be found in the Medical Endowment Scheme Annual
-Report 2019/2020.
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+1
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+26
+
+
+
+24
+
+2
+
+
+
+4
+
+22
+
+TOTAL
+
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has remained
+low, with a total of 2 cases in the past week who are currently
+unlinked. We will continue to closely monitor these numbers, as well as
+the cases detected through our surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+There is 1 case in the community today who is currently unlinked. Case
+58810 is a Singapore Permanent Resident who works as a Marine Surveyor
+at Lloyd’s Register Singapore. His work entails working onboard vessels
+docked at Sembcorp Marine Admiralty Yard.
+He developed acute respiratory infection (ARI) symptoms on 27 December,
+and sought treatment at a general practitioner clinic on 28 December
+where he was tested for COVID-19 as part of our enhanced community
+testing to test all individuals aged 13 and above who are diagnosed with
+ARI at first presentation to a doctor. He was confirmed to have COVID-19
+infection the next day and was conveyed in an ambulance to the National
+Centre for Infectious Diseases (NCID). His serological test results has
+come back negative, indicating that this is likely a current infection.
+He had not gone to work since onset of symptoms. His earlier tests from
+Rostered Routine Testing (RRT) – the last being on 14 December – had
+been negative for COVID-19 infection.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the case, including his family members,
+have been isolated and placed on quarantine, and will be tested at the
+start and end of their quarantine period so that we can detect
+asymptomatic cases. We will also conduct serological tests for the close
+contacts to determine if the case could have been infected by them
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 26
+Amongst the 26 imported cases, 3 (Cases 58793, 58794 and 58811) are
+Singaporeans and 4 (Cases 58790, 58791, 58792 and 58802) are Singapore
+Permanent Residents who returned from India, Indonesia, Portugal, UK, US
+and Switzerland. In addition, there are 5 (Cases 58787, 58789, 58795,
+58801 and 58809) Work Pass holders who arrived from the Philippines,
+India and UK. Another 7 are Work Permit holders who arrived from
+Indonesia and Myanmar, of whom 6 (Cases 58798, 58799, 58803, 58804,
+58805 and 58807) are foreign domestic workers.
+Another 3 (Cases 58788, 58796 and 58797) are Dependant’s Pass holders
+who arrived from India. In addition, there is a Student’s Pass holder
+(Case 58800) who arrived from Indonesia, a Long-Term Visit Pass holder
+(Case 58786) who arrived from India and a Short-Term Visit Pass holder
+(Case 58806) who arrived from Indonesia to visit her Singaporean spouse.
+The remaining case (Case 58808) is a Special Pass holder who is a crew
+member of a ship which arrived from Indonesia. He had not disembarked
+from the ship until he was conveyed to a hospital following a swab
+onboard.
+Amongst them, 25 had been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or under isolation.
+Case 58811 is a Singaporean who works as a pilot with Singapore
+Airlines. He recently travelled to the UK for work from 19 December to
+22 December. He was tested on 23 December as part of RRT for air crew
+who travel frequently, and his test came back negative for COVID-19
+infection. On 26 December, he developed a fever, and sought medical
+treatment at a general practitioner clinic the next day, where he was
+swabbed. His test came back positive for COVID-19 infection on 29
+December and he was conveyed to NCID in an ambulance. His serological
+test result has come back negative, indicating a likely current
+infection. He has also tested preliminarily positive for the B117
+strain, a potentially more contagious strain of the COVID-19 virus that
+is circulating in the UK. Further tests will be conducted to confirm the
+strain.
+Case 58809 is a Work Pass holder who arrived from the UK on 7 December,
+and was placed on SHN at a dedicated facility upon arrival in Singapore.
+He was tested on 17 December and his test result was negative for
+COVID-19. He ended his SHN on 21 December, but started to develop body
+ache on 22 December and ARI symptoms on 25 December. He sought medical
+treatment on 28 December and was swabbed for COVID-19. His test result
+came back positive on 29 December, and he was conveyed to NCID in an
+ambulance. His serological test result has come back positive. He has
+also tested preliminarily positive for the B117 strain, and is pending
+further confirmatory tests.
+3.       Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+4.    Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     11 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,411 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.       There are currently 52 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 77 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 30 DECEMBER 2020
 
-------------------------------------------------------------------------
-
-[1] Total applications decreased by about 1.7%.
