@@ -7,33 +7,255 @@
 
 Published Date: 31 Dec 2020
 
-      As of 31 December 2020, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 5 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories. Of these, 2
-are family members of Case 58810 [1], and 3 are a family cluster
-involving a harbour pilot (Case 58817) who was detected from Rostered
-Routine Testing (RRT).
-2.   In addition, there are 25 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore.
-Amongst them, 5 are Singaporeans or Singapore Permanent Residents, and 9
-are foreign domestic workers. In total, there are 30 new cases of
-COVID-19 infection in Singapore today.
-3.   We are aggressively tracing and testing the close contacts of the
-community cases so as to ringfence these cases and prevent further
-transmission. In addition, MOH will commence a special testing
-operations to test individuals who had boarded the ships that Cases
-58810 and 58817 had recently worked on. We will also test harbour
-pilots, marine surveyors and ship repair workers in the coming days,
-regardless of their RRT schedule, to determine their COVID-19 status. In
-view of the recent cases involving the marine sector, we will review the
-need to tighten our precautionary measures for these workers.
-4.   We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+     As of 31 December 2020, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 5 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 25 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 25 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 5 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+5
+
+
+
+4
+
+1
+
+
+
+4
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+25
+
+
+
+25
+
+0
+
+
+
+1
+
+24
+
+TOTAL
+
+30
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.   Overall, the number of new cases in the community has increased,
+with a total of 7 cases in the past week. Of these, 4 are linked to
+previous cases and 3 are currently unlinked. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 5
+
+There are 5 cases in the community today, of whom 1 is currently
+unlinked.
+
+Cases 58842 and 58843
+
+Cases 58842 and 58843 are family members of Case 58810 [1] who live in
+the same household. Case 58842 is a 46 year-old female Singapore
+Permanent Resident who works as a freelance florist at her place of
+residence at Ghim Moh Road. She had been identified as a close contact
+of Case 58810 on 29 December, and placed on home quarantine on 30
+December. She developed symptoms on the same day and was conveyed to the
+National Centre for Infectious Diseases (NCID) in an ambulance, where
+she was tested. Her test result came back positive for COVID-19
+infection the next day.
+
+Case 58843 is a 14 year-old female Singapore Permanent Resident who had
+been identified as a close contact of Case 58810 on 29 December, and was
+placed on home quarantine on 30 December with Case 58842. She was
+conveyed to NCID with Case 58842 on 30 December, and tested. Her test
+result came back positive for COVID-19 infection on 31 December, and she
+also started to develop symptoms on the same day. She is a student of
+Raffles Girls’ School, and her last day in school was on 23 December.
+
+Case 58817
+
+Case 58817 is a 55 year-old male Singaporean who works as a Harbour
+Pilot at PSA Marine Pte Ltd (70 West Coast Ferry Road). His work entails
+going onboard vessels to navigate them through congested waters.
+
+He is asymptomatic, and was detected from our Rostered Routine Testing
+(RRT) of workers in the construction, marine and process sectors on 28
+December. His test came back positive on 30 December and he was conveyed
+to NCID in an ambulance. His serological test result has come back
+negative, indicating that this is likely a current infection. His
+earlier tests from RRT – the last being on 12 December – had been
+negative for COVID-19 infection.
+
+He stays at Marine Crescent and often visited his relatives who stay in
+a neighbouring block. It was revealed that on 13 December, he had
+visited Parkway Parade with 7 other individuals. Investigations are
+ongoing to assess if there had been any breach of the relevant
+prevailing safe management measures.
+
+Cases 58840 and 58841
+
+Case 58840 is a 79 year-old female Singaporean who is a retiree and Case
+58841 is a 50 year-old male Singaporean who is currently unemployed.
+They are relatives of Case 58817, and reside at Marine Crescent. On 28
+December, both cases developed acute respiratory infection symptoms but
+did not seek medical treatment. On 30 December, they were both placed on
+quarantine as they had been identified as close contacts of Case 58817.
+As they were already symptomatic, they were conveyed to NCID in
+ambulances, and subsequently tested positive for COVID-19 infection.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 25
+
+Amongst the 25 imported cases,
+
+-   2 (Cases 58828 and 58839) are Singaporeans and 3 (Cases 58819, 58820
+    and 58832) are Singapore Permanent Residents who returned from the
+    UK, Indonesia and India.
+-   2 (Cases 58823 and 58831) Work Pass holders who arrived from the
+    Philippines and India.
+-   14 are Work Permit holders who arrived from Indonesia, Bangladesh,
+    India, Philippines and Myanmar, of whom 9 (Cases 58821, 58822,
+    58824, 58825, 58826, 58827, 58834, 58835 and 58836) are foreign
+    domestic workers.
+-   1 (Case 58814) is a Dependant’s Pass holder who arrived from India.
+-   1 (Case 58830) is a Long-Term Visit Pass holder who arrived from
+    India.
+-   1 (Case 58837) is a Short-Term Visit Pass holder who arrived from
+    India to visit her Singaporean spouse.
+-   1 (Case 58838) is a Special Pass holder who is a crew member of a
+    ship which arrived from Hong Kong. He had not disembarked from the
+    ship until he was conveyed to a quarantine facility after being
+    identified as a close contact of an overseas case.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or under isolation.
+3.   Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+4.   Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+ADDITIONAL PRECAUTIONARY MEASURES FOR MARINE SECTOR
+
+5.   In view of the recent cases involving personnel in the marine
+sector, MOH will commence a special testing operations to test
+individuals who had boarded the vessels that Cases 58810 and 58817 had
+recently worked on. We will also test harbour pilots, marine surveyors
+and ship repair workers in the coming days, regardless of their RRT
+schedule, to determine their COVID-19 status. The relevant authorities
+will also review the need to tighten our precautionary measures for
+these workers.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.   38 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,449 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+7.   There are currently 57 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 64 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+
+8.   The recent community cases are a stark reminder that we cannot
+afford to let our guard down, especially during this festive period when
+there are increased social interactions. We must remain disciplined in
+adhering to the safe management and safe distancing measures. Let us
+work together to avoid an uncontrolled resurgence of cases which could
+slow or even reverse our progress.
+
+
 
 MINISTRY OF HEALTH
 31 DECEMBER 2020
+
+
 
 ------------------------------------------------------------------------
 
