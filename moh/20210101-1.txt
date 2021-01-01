@@ -1,71 +1,295 @@
-Updates On Border Measures for Travellers From South Africa
+3 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM SOUTH AFRICA
+3 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 01 Jan 2021
 
-     The Multi-Ministry Taskforce has been closely monitoring the global
-COVID-19 situation and will be tightening border measures given the
-deteriorating situation in South Africa.
+  As of 1 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 3 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 27 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 26 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 4 were symptomatic.
 
-RESTRICTING TRAVEL FROM SOUTH AFRICA
-2.  Travellers with recent travel history to South Africa within 14 days
-prior to departure to Singapore are currently required to serve a 14-day
-Stay-Home Notice (SHN) at dedicated SHN facilities. Travellers who are
-not Singapore Citizens or Permanent Residents are also required to take
-a COVID-19 polymerase chain reaction (PCR) test within 72 hours before
-departure and present a valid negative COVID-19 test result as a
-condition of approval to enter Singapore.
+SUMMARY OF NEW CASES
 
-3.  There have been recent reports of a potentially more contagious
-strain of the COVID-19 virus circulating in South Africa. To reduce the
-risks of spread to Singapore, we are putting in place new border
-restrictions for travellers from South Africa for further precaution.
-From 03 JANUARY 2021, 2359 HOURS, until further notice:
 
-a) All long-term pass holders and short-term visitors with recent travel
-history to South Africa within the last 14 days will not be allowed
-entry into Singapore, or transit through Singapore. This restriction
-will apply to those who have obtained prior approval for entry into
-Singapore.
 
-b) Returning Singapore Citizens and Permanent Residents will be required
-to undergo a COVID-19 PCR test upon arrival in Singapore [1], at the
-start of their 14-day SHN. These test requirements do not apply to those
-who are only transiting through Singapore.
-4.  While the strain has been suggested to be more transmissible, there
-is currently insufficient evidence to determine if this strain is
-associated with any change in disease severity, antibody response or
-vaccine efficacy. These aspects are being investigated. MOH will
-evaluate the data as it emerges and review our border measures
-accordingly.
 
-REGULAR REVIEW OF BORDER MEASURES
 
-5.  As the global situation evolves, we will continue to adjust our
-border measures to manage the risk of importation and transmission to
-the community. Any changes to border measures will be updated on the
-SafeTravel website. Travellers are advised to visit the website to check
-for the most updated border measures before entering Singapore and be
-prepared to be subjected to the prevailing border measures upon entry,
-including payment for their stay at dedicated SHN facilities, tests and
-treatment.
 
-6.   All travellers are reminded to accurately declare their travel
-history. Strict enforcement actions will be taken against false
-declarations.
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+3
+
+
+
+2
+
+1
+
+
+
+2
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+27
+
+
+
+27
+
+0
+
+
+
+2
+
+25
+
+TOTAL
+
+30
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.   Overall, the number of new cases in the community has increased
+from 1 case in the week before to 10 cases in the past week. The number
+of unlinked cases in the community has also increased from 1 case in the
+week before to 4 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 3
+
+There are 3 cases in the community today, of whom 1 is currently
+unlinked and 2 are linked to previous cases.
+
+Case 58870
+
+Case 58870 is a 14 year-old female Singaporean who is a friend of Case
+58843[1]. On 27 December 2020, she visited Case 58843 at her home for a
+few hours while Case 58810[2] was present as well. As a result, she was
+identified as a close contact of Case 58810 on 29 December, and placed
+on quarantine. She developed a fever the next day and was conveyed to KK
+Women’s and Children’s Hospital in an ambulance, where she was tested
+for COVID-19. Her test result came back positive for COVID-19 infection
+on 31 December. Her serological test result has come back negative,
+indicating that this is likely a current infection.
+
+She is a student of Raffles Girls’ School, but had not been in school
+since October 2020.
+
+
+
+Case 58872
+
+Case 58872 is a 52 year-old female Singaporean who is a family member of
+Cases 58817[3], 58840[4] and 58841[5], and household member of Cases
+58840 and 58841. She developed symptoms on 28 December and sought
+medical treatment at a general practitioner clinic the next day. She was
+advised by the doctor to take a COVID-19 test, but she did not do so.
+She was also given 5 days’ medical leave, during which she had to remain
+at home.
+
+As she was identified as a close contact of Cases 58840 and 58841, she
+was placed on quarantine on 31 December and reported being unwell when
+contacted by MOH. She was immediately conveyed to the National Centre
+for Infectious Diseases (NCID) in an ambulance, where she was tested.
+Her test result came back positive for COVID-19 infection on the same
+day. Her serological test result has come back negative, indicating that
+this is likely a current infection.
+
+She works as a client analyst at Deutsche Bank (One Raffles Quay) but
+does not interact with clients or external parties. Her last day of work
+was 28 December.
+
+We urge everyone to take the COVID-19 test when advised by your doctor,
+so as to allow us to identify infected individuals early and to quickly
+contain further spread.
+
+
+
+Case 58874
+
+Case 58874 is a 53 year-old male Japanese who is a Work Pass holder. He
+arrived in Singapore from Japan on 26 November and was placed on SHN at
+a dedicated facility until 10 December. A pre-departure test he had
+taken on 24 November was negative for COVID-19 infection, and his test
+on 6 December during SHN came back negative as well.
+
+He is asymptomatic, and was detected when he took a COVID-19
+pre-departure test on 31 December in preparation for his return to
+Japan. His result came back positive for COVID-19 infection that night
+and he was conveyed to NCID the next day. His serological test result
+has come back positive.
+
+He is employed at Kurosawa & Partners Pte Ltd (18 Robinson Road) but
+works from his home located at Rochor Road.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them
+
+
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+
+
+C)  IMPORTED CASES: 27
+
+Amongst the 27 imported cases,
+
+•  1 (Case 58875) is a Singaporean and 4 (Cases 58847, 58848,
+58849 and 58862) are Singapore Permanent Residents who returned from
+Indonesia, India and Myanmar.
+•  5 (Cases 58845, 58846, 58860, 58861 and 58871) are Work
+Pass holders who arrived from UAE and India.
+•  16 are Work Permit holders who arrived from Indonesia,
+India, Myanmar and the Philippines, of whom 14 (Cases 58844, 58851,
+58852, 58854, 58855, 58856, 58857, 58858, 58859, 58864, 58865, 58866,
+58867 and 58868) are foreign domestic workers.
+•  1 (Case 58869) is a Short-Term Visit Pass holder who
+arrived from Indonesia to visit his Singaporean child.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+3.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+4.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+
+
+INVESTIGATIONS INTO 13 CASES WHO SERVED SHN AT MANDARIN ORCHARD
+SINGAPORE
+
+5.  MOH announced on 19 December that we were investigating 13
+previously reported cases[6] of COVID-19 infection amongst individuals
+who had served SHN at Mandarin Orchard Singapore between 22 October and
+11 November 2020. We have since completed investigation into these 13
+cases and determined that there was no further transmission beyond them.
+The other COVID-19 cases who had served SHN at Mandarin Orchard
+Singapore were determined to be unlinked to the 13 cases. All the hotel
+staff tested under our special testing operations tested negative for
+COVID-19 infection using the polymerase chain reaction (PCR) test. The
+serological tests of 11 staff are positive, indicating likely past
+infections. These findings indicate that there is no ongoing
+transmission at Mandarin Orchard Singapore.
+
+6.  In view that the premises have been thoroughly
+disinfected, and there is no longer risk of transmission to hotel
+guests, MOH has approved the re-opening of Mandarin Orchard Singapore
+from 2 January 2021 (14 days after its closure on 19 December),
+including its restaurant and event spaces.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.  10 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 58,459 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+8.  There are currently 56 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 85 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
 
 
 
 MINISTRY OF HEALTH
 1 JANUARY 2021
 
-------------------------------------------------------------------------
-
-[1] To expedite the COVID-19 PCR test at the airport, travellers are
-strongly encouraged to register and pre-pay for their on-arrival
-COVID-19 PCR test prior to departing for Singapore at
-https:\\safetravel.changiairport.com/
+[1]  Case 58843 had been identified as a close contact of Case 58810 on
+29 December, and was placed on quarantine on 30 December. She was
+reported in MOH’s press release on 31 December 2020.
+[2]  Case 58810 is a Singapore Permanent Resident who works as a Marine
+Surveyor. He was reported in MOH’s press release on 30 December.
+[3]  Case 58817 is a Singaporean who works as a Harbour Pilot. He was
+reported in MOH’s press release on 31 December.
+[4]  Case 58840 is a Singaporean who is a retiree, and a family member
+of Case 58817. She was reported in MOH’s press release on 31 December.
+[5]  Case 58841 is a Singaporean who is currently unemployed, and a
+family member of Case 58817. He was reported in MOH’s press release on
+31 December.
+[6]\  Cases 58204, 58235, 58233, 58236, 58237, 58234, 58244, 58245,
+58253, 58252, 58268, 58281 and 58284. They were confirmed between 2
+November and 11 November to have COVID-19 infection. These cases were
+classified as imported cases due to their recent travel history.
