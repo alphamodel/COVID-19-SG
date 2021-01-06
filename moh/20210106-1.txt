@@ -8,17 +8,146 @@
 Published Date: 06 Jan 2021
 
 1. As of 6 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2. In addition, there are 29 imported cases, who had already been placed
-on Stay-Home Notice or isolated upon arrival in Singapore. Amongst them,
-3 are Singaporeans or Singapore Permanent Residents, and 12 are foreign
-domestic workers.
-3. In total, there are 31 new cases of COVID-19 infection in Singapore
-today.
-4. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 29 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 30 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 1 was
+symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+0
+
+2
+
+1
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+29
+
+29
+
+0
+
+0
+
+29
+
+TOTAL
+
+31
+
+2. Overall, the number of new cases in the community has increased from
+2 cases in the week before to 12 cases in the past week. The number of
+unlinked cases in the community has also increased from 2 cases in the
+week before to 5 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 2
+There are 2 cases in the community today who are currently unlinked.
+Case 59028
+Case 59028, a 24 year-old male Korean national, is a Work Permit holder
+who works at Azur at Crowne Plaza Changi Airport (75 Airport Boulevard).
+His job entails delivering pre-packed meals to air crew and hotel
+guests. He does not interact with diners at Azur.
+He tested positive for a pooled swab during Rostered Routine Testing
+(RRT) on 2 January, and was tested again on 4 January. On the same day,
+he started to develop acute respiratory infection (ARI) symptoms. His
+individual test result came back positive for COVID-19 infection on 5
+January, and he was conveyed in an ambulance to the National Centre for
+Infectious Diseases. His serological test result has come back negative,
+indicating that this is likely a current infection. He has also tested
+preliminarily positive for the B117 strain, and is pending further
+confirmatory tests.
+Case 59034
+Case 59034 is a 31 year-old male Filipino who arrived from the
+Philippines on 4 December, and served SHN at a dedicated facility until
+18 December. His pre-departure test taken in the Philippines on 1
+December was negative for COVID-19 infection, and his test on 14
+December during SHN came back negative as well.
+He is a Work Permit holder who is employed by Singapore General Hospital
+(SGH), but has not started work yet. As part of his pre-employment
+health screening, he was tested for COVID-19 on 5 January even though he
+is asymptomatic, and his test came back positive. He was subsequently
+conveyed to SGH in an ambulance. His serological test result has come
+back positive, which indicates a likely past infection.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 29
+Amongst the 29 imported cases,
+• 1 (Case 59025) is a Singaporean and 2 (Cases 59026 and 59033) are
+Singapore Permanent Residents who returned from UK and India.
+• 1 (Case 59006) is a Dependant’s Pass holder who arrived from India.
+• 5 (Cases 59003, 59004, 59007, 59008 and 59030) are Work Pass holders
+who arrived from India, Indonesia and UAE.
+• 16 are Work Permit holders who arrived from India, Indonesia and
+Myanmar, of whom 12 (Cases 59011, 59012, 59013, 59014, 59017, 59018,
+59019, 59020, 59021, 59029, 59031 and 59032) are foreign domestic
+workers.
+• 1 (Case 59022) is a sea crew holding a Special Pass who arrived from
+China on board a vessel. He was swabbed upon arrival in Singapore.
+• 3 (Cases 59023, 59024 and 59027) are Short-Term Visit Pass holders.
+Cases 59023 and 59024 arrived from the Philippines and Japan
+respectively for work projects here. They were swabbed upon arrival in
+Singapore and isolated while awaiting their test results. Case 59027 is
+here to visit her Singaporean spouse.
+They had already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or under isolation.
+3. Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+4. 24 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,541 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+5. There are currently 64 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 1 is in critical condition in
+the intensive care unit. 146 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 6 JANUARY 2021
+
