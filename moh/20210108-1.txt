@@ -8,16 +8,161 @@
 Published Date: 08 Jan 2021
 
 1. As of 8 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community and had been placed on quarantine earlier. There are no new
-cases in the dormitories.
-2. In addition, there are 21 imported cases, who had already been placed
-on Stay-Home Notice upon arrival in Singapore. In total, there are 23
-new cases of COVID-19 infection in Singapore today.
-3. We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 21 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 18 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 5 were symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+2
+
+0
+
+2
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+21
+
+21
+
+0
+
+3
+
+18
+
+TOTAL
+
+23
+
+2. Overall, the number of new cases in the community has decreased from
+10 cases in the week before to 8 cases in the past week. The number of
+unlinked cases in the community has increased from 4 cases in the week
+before to 5 cases in the past week. We will continue to closely monitor
+these numbers, as well as the cases detected through our surveillance
+programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 2
+There are 2 cases in the community today who are linked to previous
+cases.
+Case 59079
+Case 59079 is a 34 year-old male Singaporean who works as a Harbour
+Pilot at PSA Marine Pte Ltd (70 West Coast Ferry Road). His work entails
+going onboard vessels to navigate them through congested waters. His
+earlier tests from Rostered Routine Testing (RRT) – the last being on 28
+December – were negative for COVID-19 infection.
+He had been identified as a close contact of Case 58817¹ and was placed
+on quarantine on 1 January at a quarantine facility. His swab done on 3
+January was negative for COVID-19. Another test taken on 7 January came
+back positive for COVID-19 infection and he was conveyed to Tan Tock
+Seng Hospital in an ambulance. He developed onset of symptoms on 8
+January. His serological test result is pending.
+Case 59084
+Case 59084 is a 20 year-old male Singaporean who works at Azur at Crowne
+Plaza Changi Airport (75 Airport Boulevard). His job entails delivering
+pre-packed meals to air crew and hotel guests. He does not interact with
+diners at Azur. His earlier tests from RRT – the last being on 1 January
+– were negative for COVID-19 infection.
+He had been identified as a close contact of Case 59028² and was placed
+on quarantine on 5 January at a quarantine facility. He developed acute
+respiratory infection (ARI) symptoms on 7 January, and was swabbed on
+the same day. His test came back positive for COVID-19 infection and he
+was conveyed to the National Centre for Infectious Diseases in an
+ambulance. His serological test result has come back negative,
+indicating that this is likely a current infection. He has also tested
+preliminarily positive for the B117 strain, and is pending further
+confirmatory tests.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 21
+Amongst the 21 imported cases,
+• 4 (Cases 59072, 59073,59074 and 59091) are Singaporeans and 4 (Cases
+59075, 59080, 59081 and 59090) are Singapore Permanent Residents who
+returned from India, Indonesia and the UAE.
+• 1 (Case 59071) is a Dependant’s Pass holder who arrived from the UAE.
+• 1 (Case 59077) is a Student’s Pass holder who arrived from India.
+• 2 (Cases 59070 and 59087) are Work Pass holders who arrived from
+India.
+• 8 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia and Malaysia, of whom 4 (Cases 59078, 59093, 59094 and 59095)
+are foreign domestic workers
+• 1 (Case 59083) is a Short-Term Visit Pass holder who arrived from
+India to visit her spouse who is a Singapore Permanent Resident.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+3. Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+INVESTIGATIONS INTO CASES AT CROWNE PLAZA CHANGI AIRPORT
+4. MOH is investigating 3 COVID-19 cases (Cases 59028, 59059 and 59084)
+who work at Crowne Plaza Changi Airport. From our preliminary
+investigations, we cannot exclude that transmissions could have occurred
+at the hotel. As a precautionary measure, Crowne Plaza Changi Airport
+has been closed for 14 days from 8 January to 21 January 2021, including
+its restaurant and event spaces.
+5. MOH has commenced a special testing operations to test 234 staff
+working at Crowne Plaza Changi Airport for COVID-19 infection. So far,
+233 hotel staff have been swabbed. Of these, 129 test results have been
+processed, and all of them have come back negative for COVID-19
+infection. 104 test results are pending. We are facilitating testing for
+the remaining staff.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 18 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,580 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 61 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 1 is in critical condition in
+the intensive care unit. 166 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+[1] Case 58817 is a Singaporean who works as a Harbour Pilot. He was
+confirmed to have COVID-19 infection on 30 December 2020.
+[2] Case 59028 is a Work Permit holder who works at Azur at Crowne Plaza
+Changi Airport. He was confirmed to have COVID-19 infection on 5
+January.
 MINISTRY OF HEALTH
 8 JANUARY 2021
 
