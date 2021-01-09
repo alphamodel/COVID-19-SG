@@ -7,11 +7,128 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 09 Jan 2021
 
-1.      As of 9 January 2021, 12pm, Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.  There are 29 imported cases, who had already been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+1.      As of 9 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 29 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 25 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 4 were
+symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+29
+
+29
+
+0
+
+4
+
+25
+
+TOTAL
+
+29
+
+2.  Overall, the number of new cases in the community has decreased
+from 10 cases in the week before to 8 cases in the past week. The number
+of unlinked cases in the community has increased from 4 cases in the
+week before to 5 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+CASE DETAILS
+A)  CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B)  CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C)  IMPORTED CASES: 29
+Amongst the 29 imported cases,
+- 4 (Cases 59113, 59121, 59123 and 59125) are Singaporeans and 1 (Case
+59103) is a Singapore Permanent Resident who returned from India,
+Indonesia, Sweden and the UK.
+- 3 (Cases 59105, 59107 and 59118) are Dependant's Pass holders who
+arrived from the UAE, India and Maldives.
+- 1 (Case 59096) is a Student's Pass holder who arrived from India.
+- 5 (Cases 59099, 59100, 59101, 59106 and 59120) are Work Pass holders
+who arrived from India and the UAE.
+- 13 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia, Malaysia and Myanmar, of whom 3 (Cases 59104, 59110 and
+59111) are foreign domestic workers.
+- 1 (Case 59114) is a Short-Term Visit Pass holder who arrived from
+India to visit her spouse who is a Singapore Permanent Resident.
+- 1 (Case 59124) is a Special Pass holder who is a sea crew. He arrived
+from Indonesia onboard a vessel and was swabbed upon arrival. He was
+conveyed to the hospital when his test result came back positive for
+COVID-19 infection.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+3.  Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+4.  Please refer to the Annexes and MOH's daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+INVESTIGATIONS INTO CASES AT CROWNE PLAZA CHANGI AIRPORT
+5.  MOH is investigating 3 COVID-19 cases (Cases 59028, 59059 and
+59084) who work at Crowne Plaza Changi Airport. From our preliminary
+investigations, we cannot exclude that transmissions could have occurred
+at the hotel. As a precautionary measure, Crowne Plaza Changi Airport
+has been closed for 14 days from 8 January to 21 January 2021, including
+its restaurant and event spaces.
+6.  MOH has completed a special testing operations to test 234 staff
+working at Crowne Plaza Changi Airport for COVID-19. All the results
+have come back negative for COVID-19 infection.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.  31 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,611 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.  There are currently 67 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 158 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+
