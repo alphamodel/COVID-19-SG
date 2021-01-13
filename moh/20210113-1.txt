@@ -1,102 +1,165 @@
-Covid-19 Vaccination Centres Set Up to Support Singapore's Vaccination
-Programme
+1 New Case of Locally Transmitted Covid-19 Infection
 
 
 
-COVID-19 VACCINATION CENTRES SET UP TO SUPPORT SINGAPORE'S VACCINATION PROGRAMME
+1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 13 Jan 2021
 
-  To support Singapore’s COVID-19 vaccination efforts, the
-government is setting up four COVID-19 vaccination centres this month,
-starting with two – located at Changi Airport Terminal 4 and Raffles
-City Convention Centre – which have started operations from 13 January
-2021. Two more vaccination centres, located at the former Hong Kah
-Secondary School and Woodlands Galaxy Community Centre, will be ready
-for operations next week.
+         As of 13 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection who resides in a dormitory. There are no cases in the
+community. In addition, there are 37 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 34 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 4 were
+symptomatic.
+SUMMARY OF NEW CASES
 
-2.  We expect to set up more vaccination centres over time to
-support the vaccination efforts. In particular, we are on track to have
-another four vaccination centres by the end of February. More centres
-across the island are being planned, and will be rolled out in tandem
-with the arrival of the vaccine shipments. These centres, together with
-the polyclinics and selected Public Health Preparedness Clinics, will
-ensure that every Singaporean and long-term resident in Singapore who is
-medically eligible can receive their vaccinations conveniently.
+BREAKDOWN BY
 
+BREAKDOWN BY
 
+NUMBER OF CASES
 
-VACCINATING OUR HEALTHCARE AND FRONTLINE WORKERS
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
-3.  In line with the recommendations by the Expert Committee
-on COVID-19 Vaccination to prioritise vaccinations of groups that are
-most at risk, we have started our national vaccination programme with
-healthcare and frontline workers.
+DETECTED FROM SURVEILLANCE
 
-4.  Vaccinations have been offered to healthcare workers and
-staff across all public and private healthcare institutions.
-Vaccinations are also being rolled out for workers and staff in the
-community care sector.
+SYMPTOMATIC
 
-5.  We have started vaccinating our frontline workers
-including those at our border entry points, i.e. our airports and sea
-ports, as well as those involved in the COVID-19 response, such as
-swabbers and those working in the quarantine and community care
-facilities. These individuals face considerable risks in being exposed
-during the course of their duty. We should therefore protect them as
-they are critical in our national efforts to prevent and contain the
-spread of COVID-19 in Singapore.
+ASYMPTOMATIC
 
-6.  As of 12 January 2021, more than 6,200 individuals have
-received their first dose of the vaccine. These numbers are expected to
-rise substantially in the coming weeks as we continue to ramp up our
-vaccination operations. On 12 January alone, we vaccinated close to
-2,800 individuals, including around 2,500 healthcare workers.
+CASES IN THE COMMUNITY
 
+0
 
+0
 
-VACCINATING OUR SENIORS
+0
 
-7.  We will commence vaccination of our seniors later this
-month.  Letters will be progressively sent to seniors to invite them to
-book an appointment for their vaccination.
+0
 
-8.  Residents and clients in the community care sector will
-also progressively be vaccinated. Nursing homes have begun engaging
-their residents and their next-of-kin on the vaccinations. We will work
-with the community care providers to encourage all medically-eligible
-residents and clients to be vaccinated.
+0
 
-9.  More details on the vaccination for seniors will be
-provided later.
+CASES RESIDING IN DORMITORIES
 
+1
 
+0
 
-ENCOURAGING HIGHER VACCINATION TAKE-UP
+1
 
-10.  We are making provision for all Singaporeans and long-term
-residents in Singapore to be able to get vaccinated by the third quarter
-of this year, if there are no unforeseen disruptions to vaccine
-shipments. Vaccination will be progressively rolled out, and we seek
-everyone’s patience and support as we work to first protect those who
-are most at risk or most vulnerable.
+0
 
-11.  A high level of vaccination coverage will maximise
-protection for the population, and minimise the proportion of persons
-still susceptible to COVID-19. This will in turn reduce the risk of
-large outbreaks, continue to keep community cases low, and allow us to
-further re-open the economy and resume normal social activities. Thus,
-we encourage Singaporeans and long-term residents to come forward for
-vaccination when their turn comes, so that as a society, we can keep
-each other safe from the disease.
+1
 
-12.  Even as we progressively vaccinate our population, we must
-keep in mind that vaccination is not a silver bullet. We must continue
-to adhere to the safe management measures to help us mitigate the spread
-and keep community transmission low.
+IMPORTED CASES
 
+37
 
+37
 
+0
+
+4
+
+33
+
+TOTAL
+
+38
+
+2.      Overall, the number of new cases in the community has decreased
+from 12 cases in the week before to 4 cases in the past week. The number
+of unlinked cases in the community has also decreased from 5 cases in
+the week before to 2 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory who is currently unlinked. Case
+59243 is a Work Permit holder who arrived from India on 11 December
+2020, and served SHN at a dedicated facility until 25 December. His swab
+done on 21 December during SHN was negative for COVID-19.
+He resides at Seatown Dormitory and started work in the construction
+sector on 6 January 2021. He tested negative again for COVID-19 on 27
+December. However a subsequent test taken on 12 January as part of
+Rostered Routine Testing (RRT) came back positive for COVID-19
+infection. His serological test result is positive.
+Given the relatively long time interval between his travel and positive
+COVID-19 test, we have classified this case as locally transmitted while
+epidemiological investigations are in progress. In the meantime, all the
+identified close contacts of the case, including his dormitory contacts
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+
+C) IMPORTED CASES: 37
+Amongst the 37 imported cases,
+
+-   3 (Cases 59222, 59237 and 59240) are Singaporeans and 5 (Cases
+    59220, 59221, 59223, 59241 and 59242) are Singapore Permanent
+    Residents who returned from France, India, Indonesia, the UK and US.
+-   1 (Case 59210) is a Long-Term Visit Pass holder who arrived from
+    Indonesia.
+-   4 (Cases 59214, 59218, 59239 and 59245) are Work Pass holders who
+    arrived from India and the UAE.
+-   21 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Malaysia, Myanmar and the Philippines, of whom 8 (Cases
+    59224, 59226, 59227, 59228, 59231, 59233, 59234 and 59246) are
+    foreign domestic workers.
+-   3 (Cases 59235, 59236 and 59238) are Short-Term Visit Pass holders.
+    Cases 59235 and 59236 are family members of Singaporeans or
+    Singapore Permanent Residents who arrived from Poland and India
+    respectively. Case 59238 arrived from Brazil to participate in an
+    eSport event.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+Case 59229 is a sea crew who worked onboard bunker tanker _NewOcean 6_.
+He had been identified as a close contact of Case 58812[1], and was
+placed on quarantine on 31 December. He was tested during quarantine and
+confirmed to have COVID-19 infection on 12 January.
+3.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.     28 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,722 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 56 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 177 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 13 JANUARY 2021
+
+
+
+------------------------------------------------------------------------
+
+[1] Case 58812 is a ship crew who arrived from Indonesia onboard
+_NewOcean 6_ on 17 December 2020. He was confirmed to have COVID-19
+infection on 30 December.
+
+
+
+
+
+
