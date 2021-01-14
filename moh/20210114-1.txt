@@ -7,15 +7,212 @@
 
 Published Date: 14 Jan 2021
 
-        As of 14 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.      In addition, there are 44 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 45 new cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+      As of 14 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 44 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 41 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 4 were
+symptomatic.
+
+SUMMARY OF NEW CASES
 
 
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+1
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+44
+
+
+
+44
+
+0
+
+
+
+3
+
+41
+
+TOTAL
+
+45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has decreased
+from 9 cases in the week before to 3 cases in the past week. The number
+of unlinked cases in the community has also decreased from 6 cases in
+the week before to 1 case in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked. Case
+59280 is a 32 year-old male Singaporean who works as a para-veterinarian
+at the Singapore Police Force (2 Mowbray Road). His job mainly involves
+tele-consultations with dog handlers.
+
+He developed a fever on 11 January, and sought treatment at a general
+practitioner clinic on the same day, where he was tested for COVID-19 as
+part of our enhanced community testing to test all individuals aged 13
+and above who are diagnosed with acute respiratory infection at first
+presentation to a doctor.
+
+He had remained at home on medical leave until his result came back
+positive for COVID-19 infection on 13 January and he was conveyed in an
+ambulance to the National Centre for Infectious Diseases. His
+serological test result has come back negative, indicating that this is
+likely a current infection.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the case, including his family members and
+co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 44
+
+Amongst the 44 imported cases,
+
+-   3 (Cases 59263, 59264 and 59287) are Singaporeans who returned from
+    Qatar, the Philippines and UK.
+-   3 (Cases 59253, 59254 and 59286) are Dependant’s Pass holders who
+    arrived from the UAE and Ukraine.
+-   2 (Cases 59250 and 59281) are Student’s Pass holders who arrived
+    from Pakistan and Myanmar.
+-   3 (Cases 59255, 59256 and 59285) are Work Pass holders who arrived
+    from India and the UAE.
+-   29 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Myanmar and the Philippines, of whom 14 (Cases 59265,
+    59266, 59270, 59271, 59273, 59274, 59276, 59277, 59278, 59279,
+    59282, 59283, 59293 and 59294) are foreign domestic workers.
+-   4 (Cases 59284, 59289, 59290 and 59295) are Short-Term Visit Pass
+    holders. Case 59284 arrived from India to visit his Singaporean
+    child. Case 59289 arrived from Indonesia as caregiver to her parent
+    who was already receiving medical care in Singapore and had returned
+    for further treatment. Cases 59290 and 59295 arrived from Brazil to
+    participate in an eSport event.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+
+Case 59260 is a sea crew who worked onboard bunker tanker _NewOcean 6_.
+He had been identified as a close contact of Case 58812 [1], and was
+placed on quarantine on 31 December. He was tested during quarantine and
+confirmed to have COVID-19 infection on 13 January.
+
+3.      Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.      35 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,757 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.      There are currently 41 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 202 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+
+
+
+MINISTRY OF HEALTH
+14 JANUARY 2021
+
+------------------------------------------------------------------------
+
+[1] Case 58812 is a ship crew who arrived from Indonesia onboard
+_NewOcean 6_ on 17 December 2020. He was confirmed to have COVID-19
+infection on 30 December.
