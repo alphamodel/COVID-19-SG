@@ -7,17 +7,152 @@
 
 Published Date: 18 Jan 2021
 
-      As of 18 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2.     In addition, there are 12 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 14 new cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 18 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 12 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 9 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 5 were
+symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+0
+
+2
+
+2
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+12
+
+12
+
+0
+
+3
+
+9
+
+TOTAL
+
+14
+
+2.     Overall, the number of new cases in the community has increased
+from 8 cases in the week before to 10 cases in the past week. The number
+of unlinked cases in the community has decreased from 5 cases in the
+week before to 4 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 2
+There are 2 cases in the community today, both of whom are linked to
+previous cases.
+_Case 59393_
+Case 59393 is a 43 year-old female Singaporean who is the spouse of Case
+59365¹, and a homemaker. She developed a runny nose on 10 January, and
+subsequently loss of taste, sore throat and diarrhoea on 12 January, but
+had not sought medical treatment.
+As part of our contact tracing efforts, she was contacted by MOH on 16
+January following the confirmation of Case 59365, and was tested for
+COVID-19 when she reported these symptoms. Her test result came back
+positive for COVID-19 infection the next day, and she was conveyed to KK
+Women’s and Children’s Hospital in an ambulance. Her serological test
+result has come back negative, indicating that this is likely a current
+infection.
+_Case 59395_
+Case 59395 is a 66 year-old female Malaysian national who is a Long-Term
+Visit Pass holder, and has been residing in Singapore since January
+2020. She is a retiree who is a family member of Case 59365. She
+developed acute respiratory infection (ARI) symptoms and diarrhoea on 9
+January, and subsequently loss of taste on 14 January, but had not
+sought medical treatment.
+As she had been identified as a close contact of Case 59365, she was
+contacted by MOH on 16 January and tested for COVID-19 when she reported
+these symptoms. Her test result came back positive for COVID-19
+infection the next day, and she was conveyed to Tan Tock Seng Hospital
+in an ambulance. Her serological test result has come back positive.
+Together with her COVID-19 symptoms, this indicates a likely recent
+infection with onset on 9 January.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members,
+have been isolated and placed on quarantine, and will be tested at the
+start and end of their quarantine period so that we can detect
+asymptomatic cases. We will also conduct serological tests for the close
+contacts to determine if the case could have been infected by them.
+We strongly urge everyone to do their part to reduce the risk of
+transmission. Those who are unwell, including those showing early/mild
+symptoms, should be socially responsible and seek medical attention
+immediately.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 12
+Amongst the 12 imported cases,
+- 2 (Cases 59394 and 59400) are Singaporeans and 4 (Cases 59388, 59389,
+59397 and 59399) are Singapore Permanent Residents who returned from
+India, Mexico, Pakistan, Switzerland, UK and US.
+- 1 (Case 59398) is a Dependant’s Pass holder who arrived from India.
+- 1 (Case 59392) is a Student’s Pass holder who arrived from Czech
+Republic.
+- 4 (Cases 59390, 59391, 59401 and 59402) are Work Permit holders who
+arrived from Bangladesh, India and Malaysia.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+3.     Please refer to the Annexesand MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+4.     22 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,868 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+5.     There are currently 44 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 186 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
 18 JANUARY 2021
+
+
+------------------------------------------------------------------------
+
+1 Case 59365 is a 44 year-old male Singaporean who works as an
+administrative officer at the Singapore Police Force (2 Mowbray Road),
+and is a colleague of Case 59280. He was confirmed to have COVID-19
+infection on 16 January.
 
 
