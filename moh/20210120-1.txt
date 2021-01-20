@@ -1,98 +1,265 @@
-Precautionary Tuberculosis Screening for Patrons of Singapore Pools
-Bedok Betting Centre
+4 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-PRECAUTIONARY TUBERCULOSIS SCREENING FOR PATRONS OF SINGAPORE POOLS BEDOK BETTING CENTRE
+4 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 20 Jan 2021
 
-                 The Ministry of Health (MOH) has been notified of two
-genetically separate clusters involving a total of 18 individuals
-diagnosed with tuberculosis[1](TB) who had prolonged exposure at the
-Singapore Pools Bedok Betting Centre. The cases had immediately started
-treatment following diagnosis and are not a current ongoing public
-health risk[2].
+1.     As of 20 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 4 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 36 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 36 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 4 were symptomatic.
 
-2.  The risk of transmission to persons who are not close
-contacts is very low. However, as a precautionary measure, officers from
-the Singapore TB Elimination Programme (STEP) will be contacting patrons
-who have visited Singapore Pools Bedok Betting Centre between 12
-February and 25 March 2020 for TB screening. Screening will be conducted
-free of charge, at the Tuberculosis Control Unit (TBCU) (142 Moulmein
-Road). Voluntary screening will also be offered to former patrons who
-had spent prolonged durations (i.e. cumulatively days) at the Singapore
-Pools Bedok Betting Centre to watch live horse-racing telecasts between
-2018 and 25 March 2020. Patrons who wish to be screened may call the
-TBCU hotline at 6258 4430.
+SUMMARY OF NEW CASES
 
-3.  In line with MOH’s TB prevention strategy, officers from
-STEP had earlier initiated contact investigations upon notification of
-each of the cases. Close contacts of all the 18 cases had already been
-identified and contacted by STEP for screening.
 
-IDENTIFICATION OF TB CLUSTERS
 
-4.  The two clusters were determined by genetic sequencing
-and epidemiological investigations which concluded in January 2021, as
-part of retrospective testing of TB cases to determine linkages. The 18
-cases were diagnosed between February 2015 and October 2020. The link
-among five cases diagnosed between July 2018 and February 2020 was
-established and MOH was notified of the cluster on 28 July 2020. The 13
-cases in the second cluster, who were diagnosed between February 2015
-and October 2020, were notified to MOH between 1 December 2020 and 11
-January 2021.
 
-5.  Investigations into the cases did not reveal any common
-links, other than that they had all frequently visited the Singapore
-Pools Bedok Betting Centre over a period ranging from months to years
-and spent prolonged durations at the centre watching live horse-racing
-telecasts. The cases did not know each other, and had not identified
-each other as close contacts.
 
-PRECAUTIONARY TB SCREENING BEYOND CLOSE CONTACTS
 
-6.  While screening is not compulsory, MOH strongly
-encourages these individuals to be screened. Those with positive
-screening results will be offered appropriate advice and follow-up.
-Those with active TB will be treated immediately while those with latent
-non-infectious TB will be monitored and treated if necessary.
 
-7.  Screening for individuals who had visited the Singapore
-Pools Bedok Betting Centre or its vicinity, but did not spend prolonged
-time watching horse-racing telecasts, is assessed to be unnecessary due
-to the very low risk of transmission posed to such individuals.
+BREAKDOWN BY
 
-HEALTH ADVISORY
 
-8.  TB is typically spread through close and prolonged
-contact with an infectious individual, and not by contact with items or
-surfaces touched by a person with TB. Therefore persons who are
-contacted and screened following the detection of a TB individual
-typically comprise family members, close workplace colleagues and
-acquaintances from common social activities with close and regular
-interaction. This approach is recommended by the World Health
-Organization (WHO) and is practised in Singapore.
 
-9.  TB is endemic in Singapore and latent TB infection is not
-uncommon in our population, as TB had been prevalent in Singapore until
-the 1970s and older Singaporeans could have been exposed to TB and
-acquired latent TB infection when they were younger. Persons with latent
-TB do not experience symptoms of TB and are not infectious.
+BREAKDOWN BY
 
-10.  TB is curable and the spread of TB is preventable. Early
-detection and prompt treatment of cases remain important in helping
-those infected and rendering them non-infectious. For individuals
-diagnosed with active TB, adherence to treatment is important.
 
-Annex A
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+4
+
+
+
+1
+
+3
+
+
+
+3
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+36
+
+
+
+36
+
+0
+
+
+
+1
+
+35
+
+TOTAL
+
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has increased
+from 4 cases in the week before to 18 cases in the past week. The number
+of unlinked cases in the community has also increased from 2 cases in
+the week before to 6 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.     Amongst the 213 confirmed cases reported from 14 January to 20
+January, 118 cases have tested positive for their serology tests, 36
+have tested negative, and 59 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 4
+
+There are 4 cases in the community today, of whom 1 is currently
+unlinked and 3 are linked to previous cases.
+
+Case 59455
+
+Case 59455 is a 27 year-old male Malaysian national who is a Work Pass
+holder. He works as a sales personnel at BS Industrial & Construction
+Supply Pte Ltd (34 Kallang Place). He is a co-worker of Case 59429 [1].
+
+He developed a sore throat on 14 January, and loss of smell and taste on
+18 January but did not seek medical treatment and continued to go to
+work.
+
+As he had been identified as a close contact of Case 59429, he was
+contacted by MOH on 18 January and conveyed to Tan Tock Seng Hospital
+when he reported these symptoms. He was tested at the hospital, and his
+test result came back positive for COVID-19 infection the next day. His
+serology test result has come back negative, indicating that this is
+likely a current infection.
+
+Case 59456
+
+Case 59456 is a 29 year-old female Malaysian national who is a Work Pass
+holder, and works at BS Industrial & Construction Supply Pte Ltd as a
+sales personnel. She is a co-worker of Case 59429.
+
+She developed a sore throat and difficulty in breathing on 16 January
+but did not seek medical treatment and continued to go to work and
+interact in the community.
+
+On 18 January, as she had been identified as a close contact of Case
+59429, she was contacted by MOH. She was conveyed to the National Centre
+for Infectious Diseases (NCID) and tested for COVID-19 when she reported
+these symptoms. Her test result came back positive for COVID-19 the next
+day. Her serology test result has also come back negative, indicating
+that this is likely a current infection.
+
+We strongly urge everyone to do their part to reduce the risk of
+transmission. Those who are unwell, including those showing early/mild
+symptoms, should be socially responsible and seek medical attention
+immediately and stay at home to prevent the spread of illness to others.
+
+Case 59474
+
+Case 59474 is a 28 year-old female Malaysian national who is a Work Pass
+holder. She works as a finance personnel at BS Industrial & Construction
+Supply Pte Ltd.
+
+She developed a cough on 19 January. On the same day, she was placed on
+quarantine as a close contact of Case 59429, and was conveyed to Tan
+Tock Seng Hospital when she reported her symptom. She subsequently
+tested positive for COVID-19 infection, and was warded at NCID on the
+same day. Her serology test result has also come back negative,
+indicating that this is likely a current infection.
+
+Investigations are ongoing to assess if there had been any breach of the
+relevant prevailing safe management measures at their workplace. The
+government takes a serious view of any breach and will take actions
+should there be non-compliance.
+
+Case 59473
+
+Case 59473 is a 46 year-old male Indian national who is a Work Pass
+holder, and works as a software engineer at APAR Technologies Pte Ltd (4
+Shenton Way).
+
+He had travelled to India between 9 March and 29 October 2020, and the
+UAE between 29 October and 13 November. He served SHN at a dedicated
+facility upon his return to Singapore until 27 November, and his swab
+done on 23 November during SHN was negative for COVID- 19.
+
+He is asymptomatic, and was detected when he took a COVID-19
+pre-departure test on 19 January in preparation for a trip back to
+India. His result came back positive for COVID-19 infection the next day
+and he was conveyed to NCID. His Ct value is very high, which is
+indicative of a low viral load, and his serology test result has come
+back positive. These indicate a likely past infection.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family and
+household members, as well as co-workers, have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+case could have been infected by them.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 36
+
+Amongst the 36 imported cases,
+
+-   1 (Case 59459) is a Singaporean and 1 (Case 59458) is a Singapore
+    Permanent Resident who returned from Canada and India respectively.
+-   1 (Case 59469) is a Dependant’s Pass holder who arrived from India.
+-   1 (Case 59439) is a Long-Term Visit Pass holder who arrived from
+    India.
+-   4 (Cases 59434, 59443, 59466 and 59467) are Student’s Pass holders
+    who arrived from India, Indonesia, the UAE and Slovak Republic.
+-   4 (Cases 59436, 59437, 59438 and 59463) are Work Pass holders who
+    arrived from India and Ireland.
+-   20 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia and Myanmar, of whom 7 (Cases 59447, 59451, 59452, 59453,
+    59454, 59462 and 59464) are foreign domestic workers.
+-   4 (Cases 59446, 59470, 59471 and 59472) are Short-Term Visit Pass
+    holders. Cases 59471 and 59472 arrived from India to visit their
+    Singaporean relatives, and Cases 59446 and 59470 arrived from
+    Myanmar and the US for work assignments in Singapore.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.     32 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,926 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+6.     There are currently 45 confirmed cases who are still in hospital.
+Of these, most are stable or improving. Of these, most are stable or
+improving, and 1 is in critical condition in the intensive care unit.
+197 are isolated and cared for at community facilities. These are those
+who have mild symptoms, or are clinically well but still test positive
+for COVID-19. 29 have passed away from complications due to COVID-19
+infection.
 
 ------------------------------------------------------------------------
 
-[1] TB can be cured with anti-TB drugs. Treatment of active TB, which is
-sensitive to first-line anti TB drugs, usually involves a combination of
-different drugs, taken for six to nine months.
-
-[2] Individuals diagnosed with TB will rapidly become non-infectious
-once treatment starts.
+[1] Case 59429 is a 39 year-old male Singapore Permanent Resident who
+works as a sales personnel at BS Industrial & Construction Supply Pte
+Ltd. He was confirmed to have COVID-19 infection on 18 January.
