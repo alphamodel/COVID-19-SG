@@ -7,20 +7,235 @@
 
 Published Date: 21 Jan 2021
 
-        As of 21 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 4 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2.        In addition, there are 34 imported cases. Of these, 33 had
-already been placed on Stay-Home Notice or isolated upon arrival in
-Singapore. The remaining case tested negative for COVID-19 upon arrival
-in Singapore on 17 January, and was on a controlled itinerary during his
-stay here. He subsequently tested positive for COVID-19 infection on 20
-January.
-3.         In total, there are 38 new cases of COVID-19 infection in
-Singapore today.
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+         As of 21 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 4 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 34 imported cases, of whom 33 had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 36 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 2 were
+symptomatic.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+4
+
+
+
+3
+
+1
+
+
+
+2
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+34
+
+
+
+32
+
+2
+
+
+
+0
+
+34
+
+TOTAL
+
+38
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.        Overall, the number of new cases in the community has
+increased from 3 cases in the week before to 21 cases in the past week.
+The number of unlinked cases in the community has also increased from 1
+case in the week before to 6 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.        Amongst the 206 confirmed cases reported from 15 January to 21
+January, 90 cases have tested positive for their serology tests, 29 have
+tested negative, and 87 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 4
+There are 4 cases in the community today, of whom 1 is currently
+unlinked and 3 are linked to previous cases.
+Case 59512
+Case 59512 is a 43 year-old female Singaporean who is the spouse of Case
+59429¹. She works from home as an online trader and does not physically
+interact with her clients.
+She was placed on quarantine on 18 January when Case 59429 was confirmed
+to have COVID-19 infection. On 20 January, she was tested for COVID-19
+even though she is asymptomatic. Her test came back positive on the same
+day, and she was conveyed to the National Centre for Infectious Diseases
+(NCID). Her serology test result has come back negative, indicating that
+this is likely a current infection.
+Case 59513
+Case 59513 is a 46 year-old female Malaysian national who is a Work Pass
+holder. She works as a sales personnel at Toppan Merrill Pte Ltd (3
+Church Street) but does not interact with clients. She is a household
+contact of Case 59474².
+She developed a blocked nose on 19 January and stayed at home for most
+of the day. As she had been identified as a close contact of Case 59474,
+she was contacted by MOH on 20 January and placed on quarantine. She
+reported her symptoms and was conveyed to Sengkang General Hospital
+where she was tested for COVID-19. Her test came back positive on the
+same day. Her serology test result has come back negative, indicating
+that this is likely a current infection.
+Case 59516
+Case 59516 is a 35 year-old male Singapore Permanent Resident who works
+as a sales personnel at BS Industrial & Construction Supply Pte Ltd (34
+Kallang Place). He is a co-worker of Case 59429.
+He developed a sore throat on 18 January but did not seek medical
+treatment. As he had been identified as a close contact of Case 59429,
+he was contacted by MOH on the same day but failed to report his
+symptom. On 20 January, he was tested for COVID-19 while under
+quarantine. His result came back positive on the same day, and he was
+subsequently conveyed to the National University Hospital. His serology
+test result is pending.
+Case 59518
+Case 59518 is a 42 year-old male Singaporean who works as a dive
+personnel at Ocean Works Asia Pte Ltd (Block 6, 13 Jalan Terusan).
+He had travelled to Indonesia for work between 4 November and 13
+December 2020, and served SHN at a dedicated facility upon his return to
+Singapore until 27 December. His swab done on 24 December during SHN was
+negative for COVID- 19.
+He is asymptomatic, and was detected when he took a COVID-19 test on 20
+January as part of the requirement for shore-based personnel going
+onboard a vessel to be tested. His result came back positive for
+COVID-19 infection on the same day and he was conveyed to NCID. His
+serological test result has come back positive, which indicates a likely
+past infection.
+Given the relatively long time interval between his travel and positive
+COVID-19 test, we have classified this case as locally transmitted.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family and
+household members, as well as co-workers, have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+case could have been infected by them.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 34
+Amongst the 34 imported cases,
+• 1 (Case 59517) is a Singapore Permanent Resident who returned from the
+US.
+• 1 (Case 59501) is a Dependant’s Pass holder who arrived from the UAE.
+• 1 (Case 59497) is a Long-Term Visit Pass holder who arrived from the
+US.
+• 2 (Cases 59486 and 59487) are Work Pass holders who arrived from India
+and the UAE.
+• 26 are Work Permit holders who arrived from Bangladesh, India and
+Indonesia, of whom 1 (Case 59503) is a foreign domestic worker.
+• 1 (Case 59514) is a Short-Term Visit Pass holder who arrived from
+India to visit her child who is a Singapore Permanent Resident.
+• 2 (Cases 59479 and 59515) are Special Pass holders who are sea crew.
+Case 59479 arrived from Indonesia to board a vessel docked in Singapore,
+and Case 59515 arrived onboard a vessel from Indonesia and had not
+disembarked. He was tested for COVID-19, and conveyed to the hospital
+when his result came back positive.
+Of the 34 cases, 33 had already been placed on SHN or isolated upon
+arrival in Singapore and were tested while serving SHN or while under
+isolation.
+Case 59517 is a Singapore Permanent Resident who arrived from the US on
+17 January for work purposes, and was tested for COVID-19 upon arrival.
+His test came back negative on the same day, and he was on a controlled
+itinerary for the next few days. On 20 January, he took a COVID-19
+pre-departure test in preparation for a trip to the UK. His result came
+back positive for COVID-19 infection on the same day and he was conveyed
+to the hospital.
+Case 59511 is a Work Permit holder who arrived from India on 27 December
+2020 and served SHN at a dedicated facility until 10 January 2021. His
+swab done on 7 January during SHN was negative for COVID-19, and
+subsequent tests on 11 January and 13 January were also negative. His
+test on 19 January came back positive for COVID-19 infection, although
+the Ct value was very high, which is indicative of a low viral load. His
+serological test result has also come back positive. Given that these
+indicate likely past infection, we have classified the case as imported.
+He is likely to be shedding minute fragments of the virus RNA, which are
+no longer transmissible and infective to others.
+4.    Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.    33 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 58,959 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.      There are currently 43 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 204 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 21 JANUARY 2021
+¹Case 59429 is a 39 year-old male Singapore Permanent Resident who works
+as a sales personnel at BS Industrial & Construction Supply Pte Ltd. He
+was confirmed to have COVID-19 infection on 18 January.
+
+²Case 59474 is a 28 year-old female Malaysian national who works as a
+finance personnel at BS Industrial & Construction Supply Pte Ltd. She
+was confirmed to have COVID-19 infection on 20 January.
