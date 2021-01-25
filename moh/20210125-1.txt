@@ -7,15 +7,165 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 25 Jan 2021
 
-        As of 25 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.     There are 44 imported cases, who had already been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.       We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+          As of 25 January 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 44 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+Amongst the new cases today, 40 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 4 were symptomatic.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+44
+
+
+
+43
+
+1
+
+
+
+4
+
+40
+
+TOTAL
+
+44
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has increased
+from 10 cases in the week before to 13 cases in the past week. The
+number of unlinked cases in the community has decreased from 4 cases in
+the week before to 3 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.       Amongst the 225 confirmed cases reported from 19 January to 25
+January, 123 cases have tested positive for their serology tests, 34
+have tested negative, and 68 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 44
+Amongst the 44 imported cases,
+• 4 (Cases 59604, 59612, 59629 and 59635) are Singaporeans and 2 (Cases
+59611 and 59642) are Singapore Permanent Residents who returned from
+Indonesia, Malaysia, the Netherlands, UK and US.
+• 7 (Cases 59603, 59608, 59609, 59616, 59627, 59628 and 59632) are
+Dependant’s Pass holders who arrived from India, Russia and the UAE.
+• 1 (Case 59643) is a Long-Term Visit Pass holder who arrived from the
+US.
+• 3 (Cases 59601, 59606 and 59638) are Student’s Pass holders who
+arrived from France, Indonesia and Kazakhstan.
+• 6 (Cases 59602, 59605, 59607, 59630, 59631 and 59633) are Work Pass
+holders who arrived from Bangladesh, India, Japan, Poland and Spain.
+• 17 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia and Malaysia, of whom 3 (Cases 59621, 59636 and 59640) are
+foreign domestic workers.
+• 4 (Cases 59622, 59624, 59625 and 59626) are Short-Term Visit Pass
+holders who arrived from India to visit their relatives who are
+Singaporeans or Singapore Permanent Residents.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+Case 59629 is a 19 year-old female Singaporean who returned from the UK
+on 6 December and served SHN at a dedicated facility until 20 December.
+Her swab done on 16 December during SHN was negative for COVID-19. She
+is asymptomatic, and was detected when she took a COVID-19 pre-departure
+test on 23 January in preparation for her return to the UK. Her test
+result came back positive the next day, and she was conveyed to the
+National Centre for Infectious Diseases. Her Ct value was very high,
+which is indicative of a low viral load, and her serology test result
+has also come back positive. Given that these indicate likely past
+infection, we have classified the case as imported based on her travel
+history. She is likely to be shedding minute fragments of the virus RNA,
+which are no longer transmissible and infective to others.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.       25 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,066 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.      There are currently 59 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 198 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 25 JANUARY 2021
-
-
