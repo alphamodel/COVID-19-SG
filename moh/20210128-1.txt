@@ -8,14 +8,145 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 Published Date: 28 Jan 2021
 
       As of 28 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.    There are 34 imported cases, who had already been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 34 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 32 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 2 were
+symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+34
+
+32
+
+2
+
+2
+
+32
+
+TOTAL
+
+34
+
+2.     Overall, the number of new cases in the community has decreased
+from 21 cases in the week before to 1 case in the past week. The number
+of unlinked cases in the community has also decreased from 6 cases in
+the week before to none in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.     Amongst the 190 confirmed cases reported from 22 January to 28
+January, 105 cases have tested positive for their serology tests, 38
+have tested negative, and 47 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 34
+Amongst the 34 imported cases,
+- 3 (Cases 59709, 59711 and 59722) are Singaporeans and 5 (Cases 59695,
+59696, 59698, 59716 and 59723) are Singapore Permanent Residents who
+returned from Indonesia, Malaysia, Oman, Sri Lanka, the UAE and US.
+- 2 (Cases 59694 and 59719) are Dependant’s Pass holders who arrived
+from Bangladesh and the UAE.
+- 1 (Case 59714) is a Long-Term Visit Pass holder who arrived from
+India.
+- 4 (Cases 59701, 59703, 59706 and 59710) are Work Pass holders who
+arrived from India, Pakistan and Romania.
+- 16 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia and Malaysia, of whom 9 (Cases 59699, 59704, 59705, 59708,
+59715, 59717, 59718, 59724 and 59725) are foreign domestic workers.
+- 3 (Cases 59700, 59712 and 59713) are Short-Term Visit Pass holders.
+Cases 59700 and 59712 arrived from Indonesia and the US respectively for
+work projects in Singapore. Case 59713 arrived from Indonesia to visit
+her child who is a Singaporean.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+Case 59697 is a Work Permit holder who has not started work since his
+arrival in Singapore. He arrived from Bangladesh on 6 January, and
+served SHN at a dedicated facility. His swab done on 17 January during
+SHN was negative for COVID-19.  But on 18 January, he was placed on
+quarantine and isolation as he had been identified as a flight contact
+of Case 59423.  He was tested on 26 January even though he is
+asymptomatic, and his result came back positive for COVID-19 infection.
+His serology test result has come back negative, and he has also tested
+preliminarily positive for the B117 strain, and is pending further
+confirmatory tests.
+Case 59703 is a Work Pass holder who works as a software engineer at
+Pacific International Lines Pte Ltd. He arrived from India on 27
+December 2020 and served SHN at a dedicated facility until 10 January
+2021. His swab done on 7 January during SHN was negative for COVID-19.
+He subsequently worked from home from 11 January to 21 January. He
+developed nausea on 25 January, and sought medical treatment at a
+general practitioner clinic on 26 January. As he also reported
+intermittent cough and a sore throat, he was tested for COVID-19 and his
+test came back positive on 27 January. He has also tested preliminarily
+positive for the B117 strain. His serological test result has come back
+positive, which indicates a likely past infection.
+Given their recent travel history, we have classified both cases as
+imported.
+4.     Epidemiological investigations are ongoing. In the meantime, all
+the identified close contacts of the cases, including their household
+members and co-workers, have been isolated and placed on quarantine, and
+will be tested at the start and end of their quarantine period so that
+we can detect asymptomatic cases. We will also conduct serological tests
+for the close contacts to determine if the case could have been infected
+by them.
+5.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.     44 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,148 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.     There are currently 40 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 208 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 29 have passed away from complications due to
+COVID-19 infection.
 MINISTRY OF HEALTH
 28 JANUARY 2021
-
 
