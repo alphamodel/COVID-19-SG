@@ -7,13 +7,197 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 29 Jan 2021
 
-             As of 29 January 2021, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
+               As of 29 January 2021, 12pm, the Ministry of Health (MOH)
+has confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 24 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 23 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 1 was
+symptomatic.
 
-2.  There are 24 imported cases, who had already been placed
-on Stay-Home Notice or isolated upon arrival in Singapore.
+SUMMARY OF NEW CASES
 
-3.  We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+24
+
+
+
+24
+
+0
+
+
+
+1
+
+23
+
+TOTAL
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.          Overall, the number of new cases in the community has
+decreased from 21 cases in the week before to none in the past week. The
+number of unlinked cases in the community has also decreased from 5
+cases in the week before to none in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.            Amongst the 199 confirmed cases reported from 23 January
+to 29 January, 102 cases have tested positive for their serology tests,
+35 have tested negative, and 62 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 24
+Amongst the 24 imported cases,
+
+-   2 (Cases 59733 and 59753) are Singaporeans and 1 (Case 59731) is a
+    Singapore Permanent Resident who returned from Myanmar, Spain and
+    the UAE.
+-   1 (Case 59740) is a Long-Term Visit Pass holder who arrived from
+    India.
+-   1 (Case 59736) is a Student’s Pass holder who arrived from India.
+-   1 (Case 59730) is a Work Pass holder who arrived from the UAE.
+-   16 are Work Permit holders who arrived from Indonesia, India,
+    Malaysia, Myanmar and the Philippines, of whom 12 (Cases 59732,
+    59737, 59739, 59741, 59745, 59746, 59747, 59750, 59751, 59752, 59754
+    and 59755) are foreign domestic workers.
+-   1 (Case 59735) is a Short-Term Visit Pass holder who arrived from
+    India to study in Singapore.
+-   1 (Case 59738) is a sea crew holding a Special Pass who arrived from
+    Ukraine onboard a vessel. He was swabbed upon arrival and isolated
+    while awaiting his test result, and conveyed to a hospital
+    subsequently.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+
+4.           Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+ 5.           Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+6.         MOH has completed a special testing operation for staff who
+have been working from 31 December 2020 at Jewel Changi Airport, and at
+the shops and food establishments that are open to the public at Changi
+Airport Terminal 3. This was a precautionary measure after whole genome
+sequencing and phylogenetic analysis conducted by the National Public
+Health Laboratory revealed that 3 previously reported cases (Cases
+59028[1], 59340[2] and 59351[3]) tested positive for the B117 variant,
+and could be linked. In total, 409 staff were tested and all the results
+have come back negative for COVID-19 infection.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.           33 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 59,181 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+8.            There are currently 47 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 192 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Case 59028 is a Work Permit holder who works at Azur at Crowne Plaza
+Changi Airport. He was confirmed to have COVID-19 infection on 5
+January.
+
+[2] Case 59340 is a Singaporean who works at Singapore Scouts
+Association. He was confirmed to have COVID-19 infection on 15 January.
+
+[3] Case 59351 is the spouse of Case 59340, and works at OCBC Tampines
+Centre One. She was confirmed to have COVID-19 infection on 15 January.
