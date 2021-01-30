@@ -8,15 +8,216 @@
 Published Date: 30 Jan 2021
 
 1.      As of 30 January 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 3 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2.  In addition, there are 55 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. Amongst them, 4
-are Singaporeans or Singapore Permanent Residents, and 32 are foreign
-domestic workers.
-3.  In total, there are 58 new cases of COVID-19 infection in
-Singapore today.
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there are 3 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 55 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 54 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 4 were symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+3
+
+
+
+0
+
+3
+
+
+
+3
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+55
+
+
+
+55
+
+0
+
+
+
+1
+
+54
+
+TOTAL
+
+58
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has decreased
+from 17 cases in the week before to 3 cases in the past week. The number
+of unlinked cases in the community has also decreased from 3 cases in
+the week before to 2 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.      Amongst the 247 confirmed cases reported from 24 January to 30
+January, 122 cases have tested positive for their serology tests, 40
+have tested negative, and 85 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 3
+There are 3 cases in the community today, who are currently unlinked.
+Case 59757
+Case 59757 is a 72 year-old male Singaporean who is employed by Certis
+Cisco as an aviation screening officer at Changi Airport Terminal 1. His
+job entails screening baggage of arrival passengers via X-ray scanners,
+and directing passengers to the baggage screening lanes.
+He developed a cough and sore throat on 25 January but did not seek
+medical treatment. On 27 January, he went to work and was tested as part
+of Rostered Routine Testing (RRT). His pooled test result came back
+positive for COVID-19 on 28 January night, and an individual test was
+done later that night at the National Centre for Infectious Diseases
+(NCID). His test result came back positive for COVID-19 infection the
+next day. His earlier tests from RRT – the last being on 15 January –
+were negative for COVID-19 infection. His serology test result has come
+back negative, indicating that this is likely a current infection.
+It was revealed that on 28 January, Case 59757 met with 12 other
+individuals for tennis at the National Service Resort & Country Club (10
+Changi Coast Walk). Investigations are ongoing to assess if there had
+been any breach of the relevant prevailing safe management measures.
+Case 59757 received his first dose of the Pfizer-BioNTech COVID-19
+vaccine on 25 January at the vaccination centre located at Changi
+Airport Terminal 4. As the vaccine does not contain live virus, he could
+not have been infected due to vaccination. It is possible for one to be
+infected just before or just after vaccination as it typically takes a
+few weeks for an individual to build up immunity after completing
+vaccination.
+Case 59788
+Case 59788 is a 68 year-old male Singapore Permanent Resident who works
+as a cleaner at Broadway Coffee Shop (848 Yishun Street 81).
+He developed a sore throat and body aches on 26 January but did not seek
+medical treatment. He went to work on 27 January, and developed a runny
+nose that night. He stayed at home the next day. On 29 January, he
+sought medical treatment at a polyclinic where he was tested for
+COVID-19 as part of our enhanced community testing to test all
+individuals aged 13 and above who are diagnosed with acute respiratory
+infection at first presentation to a doctor.
+He was confirmed to have COVID-19 infection on the same day, and was
+subsequently conveyed in an ambulance to NCID. His serology test result
+is pending.
+Case 59789
+Case 59789 is a 69 year-old female Singapore Permanent Resident who is
+the spouse of Case 59788. She is a homemaker.
+She developed a cough and flu on 23 January and but did not seek medical
+treatment until 29 January when she went to a polyclinic with her
+husband who was also symptomatic. She was tested for COVID-19 and her
+result came back positive on the same day. She was subsequently conveyed
+in an ambulance to NCID. Her serology test result is pending.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+We strongly urge everyone to do their part to reduce the risk of
+transmission. Those who are unwell, including those showing early/mild
+symptoms, should be socially responsible and seek medical attention
+immediately and stay at home to prevent the spread of illness to others.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 55
+Amongst the 55 imported cases,
+• 3 (Cases 59775, 59776 and 59777) are Singaporeans and 1 (Case 59774)
+is a Singapore Permanent Resident who returned from Bahrain, Indonesia,
+Malaysia and the UK.
+• 4 (Cases 59783, 59790, 59811 and 59812) are Dependant’s Pass holders
+who arrived from France, India and Russia.
+• 1 (Case 59778) is a Long-Term Visit Pass holder who arrived from
+India.
+• 2 (Cases 59766 and 59806) are Work Pass holders who arrived from
+Romania and the UAE.
+• 41 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia, Malaysia and Myanmar, of whom 32¹ are foreign domestic
+workers.
+• 3 (Cases 59773, 59782 and 59787) are Short-Term Visit Pass holders.
+Case 59773 arrived from Indonesia for a job placement, Case 59782
+arrived from India to study in Singapore, and Case 59787 arrived from
+Bangladesh to visit her family member who is warded in a hospital here.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.      MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Case 58810
+and Case 58817 clusters for the past two incubation periods (i.e. 28
+days), the clusters have now been closed.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      15 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,196 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 46 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 236 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
+[1] Cases 59758, 59759, 59760, 59761, 59762, 59764, 59765, 59768,
+59769,  59770, 59781, 59784, 59785, 59786, 59791, 59792, 59793, 59796,
+59797, 59798, 59799, 59800, 59801, 59803, 59804, 59805, 59807, 59814,
+59815, 59816, 59817 and 59818.
