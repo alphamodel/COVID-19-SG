@@ -8,11 +8,245 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 Published Date: 06 Feb 2021
 
 1.     As of 6 February 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 26 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+Amongst the new cases today, 25 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 1 was symptomatic.
 
-2.     There are 26 imported cases, who had already been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+26
+
+
+
+24
+
+2
+
+
+
+1
+
+25
+
+TOTAL
+
+26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has decreased
+from 3 cases in the week before to 1 case in the past week. The number
+of unlinked cases in the community has also decreased from 2 cases in
+the week before to 1 case in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.     Amongst the 168 confirmed cases reported from 31 January to 6
+February, 75 cases have tested positive for their serology tests, 27
+have tested negative, and 66 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 26
+
+Amongst the 26 imported cases,
+
+-   2 (Cases 60020 and 60021) are Singaporeans and 6 (Cases 59996,
+    60013, 60016, 60018, 60019 and 60022) are Singapore Permanent
+    Residents who returned from Gabon, India, Malaysia, the UK and US.
+-   1 (Case 60017) is a Dependant's Pass holder who arrived from India.
+-   1 (Case 60009) is a Student's Pass holder who arrived from India.
+-   2 (Cases 59999 and 60015) are Work Pass holders who arrived from
+    Germany and the UAE.
+-   9 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Malaysia and Myanmar, of whom 6 (Cases 59997, 59998,
+    60006, 60010, 60011, 60012) are foreign domestic workers.
+-   5 (Cases 60002, 60003, 60004, 60005 and 60014) are Short-Term Visit
+    Pass holders. Cases 60002, 60004 and 60005 arrived from the
+    Philippines and UAE for work projects in Singapore. Cases 60003 and
+    60014 arrived from India to visit their family members who are
+    Singaporeans or Singapore Permanent Residents.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+Case 59996 is a 12 year-old female Singapore Permanent Resident who
+returned from India on 26 December 2020 and served SHN at a dedicated
+facility upon arrival. While serving SHN, she had been identified as a
+close contact of Case 59103 [1], a family member who travelled with her,
+and was subsequently placed on quarantine until 9 January. Her swab done
+on 8 January 2021 during quarantine was negative for COVID-19. She is
+asymptomatic, and was detected when she took a COVID-19 pre-departure
+test on 4 February in preparation for her return to India. Her test
+result came back positive the next day, and she was conveyed to KK
+Women’s and Children’s Hospital.
+
+Case 60013 is a 20 year-old male Singapore Permanent Resident who
+returned from the UK, where he is studying, on 29 November 2020 and
+served SHN at a dedicated facility until 13 December. His swab done on 9
+December during SHN was negative for COVID-19. He is asymptomatic, and
+was detected when he took a COVID-19 pre-departure test on 4 February in
+preparation for his trip back to the UK. His test result came back
+positive the next day, and he was conveyed to the National Centre for
+Infectious Diseases (NCID).
+
+Both cases had very high Ct value, which is indicative of a low viral
+load, and their serology test results have also come back positive.
+Given that these indicate likely past infection, we have classified the
+cases as imported based on their travel history. They are likely to be
+shedding minute fragments of the virus RNA, which are no longer
+transmissible and infective to others.
+
+4.     Epidemiological investigations are ongoing. In the meantime, all
+the identified close contacts of the cases, including their family and
+household members, as well as co-workers, have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+case could have been infected by them.
+
+5.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+LIKELY RE-INFECTED COVID-19 CASE
+
+6.     MOH, in consultation with an expert panel, has detected the first
+case of likely COVID-19 re-infection in Singapore. He was identified
+from rostered monitoring testing conducted as part of MOH’s surveillance
+of recovered workers to monitor their post-infection immunity.
+
+7.     The case is a 28 year-old male Bangladesh national holding a Work
+Permit who resides in a dormitory located at 43 Tech Park Crescent. He
+had been confirmed to have COVID-19 infection on 12 April 2020 (Case
+2513). He subsequently recovered, and consistently tested negative for
+COVID-19 infection from June 2020 onwards. On 25 January 2021 however,
+his test result came back positive for COVID-19 infection, and he was
+isolated. Numerous repeat tests conducted subsequently were also
+positive for the virus.
+
+8.     He reported that he felt unwell on 22 January and 23 January, but
+is otherwise asymptomatic. He is currently warded at NCID. All the
+identified close contacts of the case have been isolated and placed on
+quarantine. So far, all of them have tested negative for COVID-19.
+
+9.     While re-infection is rare, the expert panel, which comprises
+infectious diseases and microbiology experts from NCID, Singapore
+General Hospital and the National Public Health Laboratory, has assessed
+that the clinical and laboratory evidence suggests that this is a likely
+case of re-infection. In addition to his positive polymerase chain
+reaction (PCR) test results, there was a corresponding marked increase
+in antibody titres compared to the period prior to the likely
+re-infection, suggesting that he was exposed to a new infection which
+boosted his antibody levels. The virus detected in his samples taken in
+January 2021 is also genetically distinct from that associated with the
+dormitories outbreak in 2020, suggesting that this is likely a different
+and new infection.
+
+10.     MOH will continue to closely monitor recovered COVID-19 cases to
+determine their post-infection immunity. So far, there is no indication
+that recovered workers in the dormitories have significant loss of
+post-infection immunity.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+11.     32 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,405 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+12.     There are currently 39 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 202 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Case 59103 is a male Singapore Permanent Resident who was confirmed
+to have COVID-19 infection on 7 January, and was reported in MOH’s press
+release on 9 January. His serology test result was positive.
