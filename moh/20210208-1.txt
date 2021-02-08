@@ -1,45 +1,186 @@
-Police Report Filed Against Singapore Emergency Ambulance Services
-(seas)
+2 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-POLICE REPORT FILED AGAINST SINGAPORE EMERGENCY AMBULANCE SERVICES (SEAS)
+2 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 08 Feb 2021
 
-          The Ministry of Health (MOH) has filed a Police report on the
-online listings of Singapore Emergency Ambulance Services (SEAS), a
-private ambulance service, that was found to have misrepresented
-multiple public and private hospitals.
-2.      MOH received feedback that the contact number “6100 6995”, which
-belongs to SEAS, a private ambulance operator, has been linked to search
-engine results purporting to be in connection with the following, but
-not limited to :
-i. Changi General Hospital Ambulance Service Bay;
-ii. Khoo Teck Puat Hospital Ambulance Service Bay;
-iii. Ng Teng Fong General Hospital Ambulance Bay;
-iv. Raffles Hospital Ambulance Bay;
-v. Singapore General Hospital Ambulance Service Bay;
-vi. Singapore General Hospital Block 5 Ambulance Bay; and
-vii. Tan Tock Seng Hospital Ambulance Service Bay.
-3.      As SEAS is not endorsed or provided by the hospitals set out in
-the list above, and has no authorisation to operate any “ambulance
-service bays” or “ambulance bays” on their behalf, MOH has filed a
-Police report in respect of SEAS’ misrepresentations. The Police are
-currently looking into the matter. MOH will also consider referring the
-matter to the Competition and Consumer Commission of Singapore.
-4.       To ensure the safety and safeguard the welfare of patients, MOH
-introduced the Voluntary Accreditation Scheme in 2018, to help operators
-raise their capabilities and competencies. Private ambulance operators
-must meet a set of standards, which include defining the core
-competencies, capabilities and training requirements for the ambulance
-crew members, as well as the essential documentation, equipment,
-medications, and life-saving and infection control protocols, before
-they come onboard the Scheme.
-5.      Should there be a need to engage private ambulance services, the
-public are advised to refer to the Healthcare Institutions Directory
-(http://hcidirectory.sg/hcidirectory/) for the list of private ambulance
-operators accredited under the Voluntary Accreditation Scheme.
-MINISTRY OF HEALTH
-8 FEBRUARY 2021
+As of 8 February 2021, 12pm, the Ministry of Health (MOH) has confirmed
+and verified that there are 2 new cases of locally transmitted COVID-19
+infection. Both cases are in the community, and there are no new cases
+in the dormitories. There are 20 imported cases, who had already been
+placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the
+new cases today, 18 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 4 were symptomatic.
+
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+0
+
+2
+
+2
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+20
+
+20
+
+0
+
+2
+
+18
+
+TOTAL
+
+22
+
+2.         Overall, the number of new cases in the community has
+increased from 3 cases in the week before to 4 cases in the past week.
+The number of unlinked cases in the community has also increased from 2
+cases in the week before to 4 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+
+3.             Amongst the 156 confirmed cases reported from 2 February
+to 8 February, 84 cases have tested positive for their serology tests,
+32 have tested negative, and 40 serology test results are pending.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 2
+
+There are 2 cases in the community today who are currently unlinked.
+
+Case 60051
+
+Case 60051 is a 49 year-old male Singaporean who works as a bus driver
+employed by Cobb & Coach Services Pte Ltd. His job includes transporting
+individuals placed on SHN from Changi Airport to dedicated SHN
+facilities. His bus is disinfected after every trip.
+
+He developed a runny nose on 31 January but did not seek medical
+attention. He was subsequently detected when he was tested on 5 February
+as part of Rostered Routine Testing (RRT). His pooled test result came
+back positive for COVID-19 on 6 February, and an individual test was
+done later that night at Tan Tock Seng Hospital. His test result came
+back positive for COVID-19 infection the next day and he was conveyed in
+an ambulance to the National Centre for Infectious Diseases (NCID). His
+earlier tests from RRT – the last being on 23 January – were negative
+for COVID-19 infection. His serology test result has come back negative,
+indicating that this is likely a current infection.
+
+Case 60052
+
+Case 60052 is a 30 year-old male Indian national who is a Work Pass
+holder, and works as an engineer at Station Satcom Pte Ltd. As part of
+his job, he boards ships to install communications and IT equipment.
+
+He had earlier been identified as a close contact of Case 59208[1], and
+was placed on quarantine from 13 January to 24 January. His swabs taken
+during quarantine on 13 January and 21 January were negative for
+COVID-19. Subsequent tests done as part of RRT – the last being on 29
+January – were also negative for COVID-19.
+
+He developed fatigue on 4 February, and a fever the next day but did not
+seek medical attention. On 5 February, he was tested for COVID-19 as
+part of RRT. His test result came back positive for COVID-19 infection
+the next day, and he was conveyed in an ambulance to NCID. While his
+serological test taken on 7 February has come back positive, this is
+assessed to be a recent infection as he is symptomatic, and the Ct value
+for his polymerase chain reaction (PCR) test was low.
+
+Case 60052 received his first dose of the Pfizer-BioNTech COVID-19
+vaccine on 27 January, which accounts for his positive serology test as
+he has likely started producing antibodies following vaccination. As the
+vaccine does not contain live virus, he could not have been infected due
+to vaccination. It is possible for one to be infected just before or
+just after vaccination as it typically takes a few weeks for an
+individual to build up immunity after completing vaccination.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the cases could have been infected by
+them.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 20
+
+Amongst the 20 imported cases,
+
+-   4 (Cases 60050, 60060, 60061 and 60069) are Singaporeans and 3
+    (Cases 60065, 60067 and 60071) are Singapore Permanent Residents who
+    returned from Canada, India and the UAE.
+-   2 (Cases 60068 and 60074) are Dependant’s Pass holders who arrived
+    from India and the UAE.
+-   3 (Cases 60063, 60064 and 60075) are Work Pass holders who arrived
+    from India, Nepal and the Philippines.
+-   7 are Work Permit holders who arrived from India, Indonesia,
+    Malaysia and Myanmar, of whom 5 (Cases 60053, 60054, 60072, 60073
+    and 60078) are foreign domestic workers.
+-   1 (Case 60062) is a Short-Term Visit Pass holder who arrived from
+    Malawi to visit her Singaporean relatives.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+Please refer to the Annexesand MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.         51 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,484 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+6.              There are currently 44 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 164 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Case 59208 is a sea crew who arrived from Japan on board a vessel,
+and was tested for COVID-19 upon arrival. He was confirmed to have
+COVID-19 infection on 11 January.
