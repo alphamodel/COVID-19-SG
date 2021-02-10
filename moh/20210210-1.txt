@@ -1,102 +1,175 @@
-Over 1,000 General Practitioner Clinics Open During Chinese New Year
-Holidays
+1 New Case of Locally Transmitted Covid-19 Infection
 
 
 
-OVER 1,000 GENERAL PRACTITIONER CLINICS OPEN DURING CHINESE NEW YEAR HOLIDAYS
+1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 10 Feb 2021
 
-       1,033 general practitioner (GP) clinics, of which 758 are Public
-Health Preparedness Clinics (PHPCs), will be open at various times
-during the Chinese New Year public holidays from 11 February to 14
-February 2021. The public may access the latest list of GP clinics and
-their operating hours through:
+       As of 10 February 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection. The case resides in a dormitory and there are no new cases in
+the community. There are 14 imported cases, who had already been placed
+on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new
+cases today, 13 are asymptomatic, and were detected from our proactive
+screening and surveillance, while 2 were symptomatic.
+SUMMARY OF NEW CASES
 
--   MOH’s corporate website
--   MOH’s Directory of Licensed Healthcare Institutions;
--   The Agency for Integrated Care’s (AIC) website;
--   Community Health Assist Scheme (CHAS) webpage; and
--   HealthHub mobile application, which is available on both iTunes and
-    the Google Play Store.
--   phpc.gov.sg for the list of PHPCs
 
-2.    We encourage members of the public who feel unwell during the
-festivities to visit their GP or a 24-hour clinic for minor,
-self-limiting conditions. We advise the public to seek medical treatment
-at a hospital’s Accident & Emergency (A&E) department only for serious
-or life-threatening emergencies, such as chest pain, breathlessness, and
-uncontrollable bleeding.
-3.   Members of the public who develop symptoms of acute respiratory
-infection (such as cough, sore throat and runny nose) as well as fever
-and loss of taste or smell, are strongly encouraged to visit a PHPC and
-get tested early when advised by their doctor. 490 PHPCs will be able to
-provide polymerase chain reaction (PCR) swabs for COVID-19 for at least
-one day during the Chinese New Year period.
-4.   Six Regional Screening Centres across the island will also
-continue to operate during their normal hours (10am to 4pm daily) and
-take patients who have been referred for a swab by their doctor. It is
-important to test for COVID-19 early for early detection, management and
-containment to prevent further spread of the disease, to help protect
-our loved ones and vulnerable members of the community.
-5.   The Ministry of Health (MOH) wishes everyone a happy Chinese New
-Year and a healthy year ahead. MOH would also like to take this
-opportunity to remind the public to eat in moderation and continue
-exercising regularly to stay healthy over the holiday period.
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+14
+
+
+
+14
+
+0
+
+
+
+2
+
+12
+
+TOTAL
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has increased
+from 3 cases in the week before to 4 cases in the past week. The number
+of unlinked cases in the community has also increased from 2 cases in
+the week before to 4 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.       Amongst the 145 confirmed cases reported from 4 February to 10
+February, 80 cases have tested positive for their serology tests, 30
+have tested negative, and 35 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+There are no cases in the community today.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today who is currently
+unlinked.
+Case 60125 is a 22 year-old male Bangladesh national who works as a
+construction worker, and resides in a dormitory located at Bedok South
+Road. He is asymptomatic, and was detected when he was tested on 7
+February as part of Rostered Routine Testing (RRT). His pooled test
+result came back positive for COVID-19 on 8 February, and he was
+immediately isolated. An individual test was done on 9 February, and his
+test result came back positive for COVID-19 infection on the same day.
+He was subsequently conveyed in an ambulance to the National Centre for
+Infectious Diseases. His earlier tests from RRT – the last being on 24
+January – were negative for COVID-19 infection. His serology test result
+has come back positive but we are unable to rule out that this could be
+a recent infection. As a precautionary measure, all his close contacts
+at the dormitory and his workplace have been placed on quarantine.
+C) IMPORTED CASES: 14
+Amongst the 14 imported cases,
+• 1 (Case 60132) is a Singaporean and 2 (Cases 60118 and 60128) are
+Singapore Permanent Residents who returned from India, Malaysia and the
+UK.
+• 1 (Case 60113) is a Dependant’s Pass holder who arrived from the US.
+• 2 (Cases 60119 and 60121) are Work Pass holders who arrived from
+Brazil and Russia.
+• 6 are Work Permit holders who arrived from India, Indonesia, Myanmar
+and the Philippines, of whom 4 (Cases 60105, 60114, 60120, and 60135)
+are foreign domestic workers.
+• 2 (Cases 60115 and 60116) are Short-Term Visit Pass holders. Case
+60115 arrived from Indonesia to visit her Singaporean family members,
+and Case 60116 arrived from the UAE for a work project in Singapore.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.    Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.        Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,526 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.         There are currently 36 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 156 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 10 FEBRUARY 2021
-
-------------------------------------------------------------------------
-
-Information is accurate as of 10 February 2021. Please contact the GP
-clinics to check that they are open before visiting.
-
-LIST OF 24-HOUR GP CLINICS
-
--   List of 24-hour clinics open on 11 to 14 Feb 2021
-
-    LIST OF GP CLINICS OPEN ON SPECIFIC DATES
-
--   List of GP clinics open on 11 Feb 2021
--   List of GP clinics open on 12 Feb 2021
--   List of GP clinics open on 13 Feb 2021
--   List of GP clinics open on 14 Feb 2021
-
-LIST OF GP CLINICS OPEN ACCORDING TO REGION
-
--   Ang Mo Kio
--   Bedok
--   Bedok Reservoir
--   Bishan
--   Boon Lay
--   Bukit Batok
--   Bukit Merah
--   Bukit Panjang
--   Central
--   Changi
--   Choa Chu Kang
--   Clementi
--   Commonwealth
--   Geylang
--   Holland
--   Hougang
--   Jurong East
--   Jurong West
--   Kallang
--   Marine Parade
--   Novena
--   Orchard
--   Pasir Ris
--   Seletar
--   Sembawang
--   Serangoon
--   Tampines
--   Telok Blangah
--   Toa Payoh
--   Upper Bukit Timah
--   Upper Serangoon
--   Woodlands
--   Yishun
-
-
