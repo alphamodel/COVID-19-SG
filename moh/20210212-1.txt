@@ -8,17 +8,234 @@
 Published Date: 12 Feb 2021
 
           As of 12 February 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, both cases are in the
-community, and there are no new cases in the dormitories.
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 16 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 17 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 1 was symptomatic.
 
-2.  In addition, there are 16 imported cases, who had already
-been placed on Stay-Home Notice upon arrival in Singapore. In total,
-there are 18 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+
+
+2
+
+0
+
+
+
+0
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+16
+
+
+
+15
+
+1
+
+
+
+1
+
+15
+
+TOTAL
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.    Overall, the number of new cases in the community has increased
+from 4 cases in the week before to 8 cases in the past week. The number
+of unlinked cases in the community has also increased from 3 cases in
+the week before to 5 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.  Amongst the 128 confirmed cases reported from 6 February
+to 12 February, 66 cases have tested positive for their serology tests,
+32 have tested negative, and 30 serology test results are pending.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 2
+
+There are 2 cases in the community today, who are linked to previous
+cases.
+
+
+
+Case 60191
+
+Case 60191 is a 33 year-old male Singaporean who is the son of Cases
+60138[1] and 60192, and is currently unemployed.
+
+As he had been identified as a close contact of Case 60138, he was
+placed on quarantine at a dedicated facility on 10 February. On 11
+February, he was tested for COVID-19 even though he is asymptomatic. His
+test result came back positive on the same day, and he was conveyed in
+an ambulance to the National Centre for Infectious Diseases (NCID). His
+serology test result has come back positive.
+
+
+
+Case 60192
+
+Case 60192 is a 62 year-old female Singaporean who is the spouse of Case
+60138[1], and is a homemaker.
+
+She was placed on quarantine at a dedicated facility on 10 February when
+Case 60138 was confirmed to have COVID-19 infection. She was tested for
+COVID-19 on the same day even though she is asymptomatic. Her test came
+back positive on 11 February, and she was conveyed in an ambulance to
+NCID. Her serology test result has come back negative, indicating that
+this is likely a current infection.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the case could have been infected by
+them.
+
+Effective contact tracing is an important enabler to ringfence community
+transmission. Both Cases 60191 and 60192 do not use the TraceTogether
+App, and while they both have TraceTogether tokens, they did not carry
+their tokens with them. Individuals are reminded to turn on their
+TraceTogether App or carry their TraceTogether token at all times so
+that we can quickly identify and isolate the close contacts of COVID-19
+cases, and limit further infections.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C)  IMPORTED CASES: 16
+
+Amongst the 16 imported cases,
+
+•  3 (Cases 60163, 60172 and 60179) are Singapore Permanent
+Residents who returned from India and Indonesia.
+•  1 (Case 60178) is a Dependant’s Pass holder who arrived
+from the UAE.
+•  1 (Case 60162) is a Long-Term Visit Pass holder who
+arrived from Indonesia.
+•  4 (Cases 60171, 60182, 60183, and 60184) are Work Pass
+holders who arrived from Myanmar, the Philippines and UAE.
+•  7 are Work Permit holders who arrived from India,
+Indonesia and Myanmar, of whom 6 (Cases 60173, 60174, 60175, 60176,
+60177 and 60180) are foreign domestic workers.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+Case 60162 is a Long-Term Visit Pass holder who arrived from Indonesia
+on 26 November 2020 and served SHN at a dedicated facility until 10
+December. His swab done on 6 December during SHN was negative for
+COVID-19. He is asymptomatic, and was detected when he took a COVID-19
+pre-departure test on 10 February 2021 in preparation for his return to
+Indonesia. His test result came back positive for COVID-19 infection the
+next day, although the Ct value was very high, which is indicative of a
+low viral load. His serological test result has also come back positive.
+He reported that before his trip to Singapore, he had interacted with
+his sibling in Indonesia who was confirmed to have COVID-19 infection in
+October 2020. Given that these indicate likely past infection, we have
+classified the case as imported. He is likely to be shedding minute
+fragments of the virus RNA, which are no longer transmissible and
+infective to others.
+
+4.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.  11 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 59,569 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+6.  There are currently 31 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 148 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 12 FEBRUARY 2021
+
+[1] Case 60138 is a 66 year-old male Singapore Permanent Resident who
+works as a stall owner of a sundry shop at Chinatown Complex. He was
+confirmed to have COVID-19 infection on 10 February.
+
