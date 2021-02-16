@@ -8,13 +8,150 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 Published Date: 16 Feb 2021
 
 1.     As of 16 February 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There is 1 imported case, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in
+Singapore.
 
-2.     There is 1 imported case, who had already been placed on
-Stay-Home Notice upon arrival in Singapore.
+SUMMARY OF NEW CASES
 
-3.     From 5 February, newly arrived Work Permit and S Pass holders in
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+1
+
+
+
+1
+
+0
+
+
+
+0
+
+1
+
+TOTAL
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has increased
+from 4 cases in the week before to 5 cases in the past week. The number
+of unlinked cases in the community has decreased from 4 cases in the
+week before to 2 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.     Amongst the 78 confirmed cases reported from 10 February to 16
+February, 45 cases have tested positive for their serology tests, 20
+have tested negative, and 13 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 1
+
+There is 1 imported case today. Case 60264 is a Work Permit holder who
+arrived from Indonesia and is a foreign domestic worker. She had already
+been placed on SHN upon arrival in Singapore on 2 February and was
+tested while serving SHN.
+
+Her serology test has come back positive, indicating a likely past
+infection. However as she did not undergo a serology test upon arrival
+in Singapore, we are not able to definitively conclude that she was no
+longer infectious when she arrived in Singapore. As a precautionary
+measure, we will take all the necessary public health actions.
+
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Case 59280
+cluster for the past two incubation periods (i.e. 28 days), the cluster
+has now been closed.
+
+6.     From 5 February, newly arrived Work Permit and S Pass holders in
 the Construction, Marine and Process sectors, foreign domestic workers
 and confinement nannies, who have recent travel history to higher-risk
 countries/ regions, are progressively required to undergo mandatory
@@ -24,6 +161,16 @@ old COVID-19 infection, and are no longer infective to others by the
 time they arrived in Singapore, and to exclude them from our daily case
 count.
 
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.     20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,661 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+8.     There are currently 30 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 90 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 29 have passed away from
+complications due to COVID-19 infection.
