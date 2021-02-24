@@ -8,14 +8,187 @@
 Published Date: 24 Feb 2021
 
         As of 24 February 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.      In addition, there are 6 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. In total, there
-are 7 new cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 6 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 6 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 1 was
+symptomatic.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+1
+
+0
+
+
+
+1
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+6
+
+
+
+6
+
+0
+
+
+
+0
+
+6
+
+TOTAL
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       Overall, the number of new cases in the community has decreased
+from 6 cases in the week before to 2 cases in the past week. The number
+of unlinked cases in the community has also decreased from 3 cases in
+the week before to none in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.        Amongst the 69 confirmed cases reported from 18 February to 24
+February, 47 cases have tested positive for their serology tests, 14
+have tested negative, and 8 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+There is 1 case in the community today who is linked to a previous
+case.
+Case 60439 is a 35 year-old female Indonesian national who is employed
+as a foreign domestic worker by Cases 60102 [1]\ and 60389 [2]. She had
+been identified as a close contact of Case 60102 and was placed on
+quarantine on 9 February. Her swab taken on 9 February was negative for
+COVID-19, and she also tested negative for her serology test on the same
+day.
+She developed a cough on 20 February during quarantine, but it was not
+reported to MOH. On 22 February, she was tested for COVID-19 and her
+result came back positive for COVID-19 infection the next day. She was
+subsequently conveyed in an ambulance to the National Centre for
+Infectious Diseases. Her serological test result has come back positive
+but this is likely to be a recent infection. She has also tested
+preliminarily positive for the B117 strain, and is pending further
+confirmatory tests.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 6
+Amongst the 6 imported cases,
+• 2 (Cases 60438 and 60441) are Work Pass holders who arrived from India
+and Japan.
+• 1 (Case 60444) is a Work Permit holder who arrived from Indonesia and
+is a foreign domestic worker.
+• 1 (Case 60440) is a Student’s Pass holder who arrived from India for
+studies in Singapore.
+• 2 (Cases 60436 and 60437) are Short-Term Visit Pass holders. Case
+60436 arrived from Sri Lanka to visit his family member who works in
+Singapore. Case 60437 is a sea crew who arrived from Malaysia on a
+vessel, and was tested onboard without disembarking.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.       Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.       Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.       8 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,761 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.       There are currently 18 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 82 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+SHIPMENTS OF COVID-19 VACCINES
+8.       We received the first shipment of Sinovac COVID-19 vaccine on
+23 February 2021. Sinovac COVID-19 vaccine has not yet been authorised
+by the Health Sciences Authority (HSA) for use in Singapore. Sinovac has
+started submitting initial data, and HSA is currently awaiting Sinovac’s
+submission of all the necessary information in order to carry out a
+thorough scientific assessment of the manufacturing process, safety and
+efficacy of the vaccine under the Pandemic Special Access Route.
+9.       On 24 February, we also received another shipment of
+Pfizer-BioNTech COVID-19 vaccine. We will continue to monitor our
+supplies closely to meet our target of vaccinating all Singaporeans and
+long-term residents in Singapore by end of 2021.
 MINISTRY OF HEALTH
 24 FEBRUARY 2021
+==
+[1] Case 60102 is a 41 year-old female Singaporean who works as a cabin
+crew with Singapore Airlines. She was confirmed to have COVID-19
+infection on 9 February.
+[2] Case 60389 is a 43 year-old male Singaporean who is the spouse of
+Case 60102. He was confirmed to have COVID-19 infection on 21 February.
+
