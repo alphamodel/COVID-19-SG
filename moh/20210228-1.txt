@@ -7,15 +7,182 @@
 
 Published Date: 28 Feb 2021
 
-             As of 28 February 2021, 12pm, the Ministry of Health (MOH)
-has preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case resides in a
-dormitory and there are no new cases in the community.
+               As of 28 February 2021, 12pm, the Ministry of Health
+(MOH) has confirmed and verified 1 new case of locally transmitted
+COVID-19 infection. The case resides in a dormitory and there are no new
+cases in the community. There are 10 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. All new
+cases today are asymptomatic, and were detected from our proactive
+screening and surveillance.
 
-2.         In addition, there are 10 imported cases, who had already
-been placed on Stay-Home Notice upon arrival in Singapore. In total,
-there are 11 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.          We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+1
+
+0
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+10
+
+
+
+10
+
+0
+
+
+
+0
+
+10
+
+TOTAL
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.           Overall, the number of new cases in the community has
+increased from 1 case in the week before to 4 cases in the past week.
+The number of unlinked cases in the community has also increased from 1
+case in the week before to 2 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.           Amongst the 67 confirmed cases reported from 22 February to
+28 February, 32 cases have tested positive for their serology tests, 21
+have tested negative, and 14 serology test results are pending.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today who is linked to a
+previous case.
+
+Case 60513 is a 31 year-old male Bangladesh national who works as a
+delivery assistant at Chng Woodworking Pte Ltd, and resides in a
+dormitory located at Kranji Way. His job entails loading and unloading
+of goods, and he does not interact with clients.
+
+He had been identified as a close contact of Case 60432[1] and was
+placed on quarantine at a dedicated facility on 23 February. He was
+tested for COVID-19 as part of our protocol to test individuals during
+quarantine even though he is asymptomatic. His swab taken on 26 February
+came back positive for COVID-19 and he was conveyed in an ambulance to
+the National Centre for Infectious Diseases. His earlier tests from RRT
+– the last being on 14 February – were negative for COVID-19 infection.
+His serological test result has come back negative, indicating that this
+is likely a current infection.
+
+C) IMPORTED CASES: 10
+
+Amongst the 10 imported cases,
+
+-   1 (Case 60523) is a Dependant’s Pass holder who arrived from
+    Switzerland.
+-   4 (Cases 60520, 60522, 60525 and 60529) are Long-Term Visit Pass
+    holders who arrived from India and Myanmar.
+-   4 (Cases 60519, 60524, 60528 and 60530) are Work Pass holders who
+    arrived from India and the Philippines.
+-   1 (Case 60527) is a Work Permit holder who arrived from India.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.            Please refer to the Annexesand MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+5.           Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.       7 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,823 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.        There are currently 18 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 66 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+
+
+
+------------------------------------------------------------------------
+
+[1] Case 60432 is a 35 year-old male Bangladesh national who works as a
+delivery assistant at Chng Woodworking Pte Ltd, and resides in a
+dormitory located at Kranji Way. He was confirmed to have COVID-19
+infection on 22 February 2021.
