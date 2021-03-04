@@ -109,15 +109,18 @@ TOTAL
 
 
 
-2.     Overall, the number of new cases in the community has increased
+
+
+2.    Overall, the number of new cases in the community has increased
 from 2 cases in the week before to 4 cases in the past week. The number
 of unlinked cases in the community has also increased from none in the
 week before to 4 cases in the past week. We will continue to closely
 monitor these numbers, as well as the cases detected through our
 surveillance programme.
-3.    Amongst the 89 confirmed cases reported from 25 February to 3
-March, 35 cases have tested positive for their serology tests, 26 have
-tested negative, and 28 serology test results are pending.
+
+3.  Amongst the 89 confirmed cases reported from 25 February to 3 March,
+35 cases have tested positive for their serology tests, 26 have tested
+negative, and 28 serology test results are pending.
 
 CASE DETAILS
 
@@ -167,7 +170,7 @@ B) CASES RESIDING IN DORMITORIES: 0
 
 There are no cases residing in dormitories today.
 
-C) IMPORTED CASES: 21
+C)  IMPORTED CASES: 21
 
 Amongst the 21 imported cases,
 
@@ -180,14 +183,14 @@ Amongst the 21 imported cases,
 
 They had all already been placed on SHN upon arrival in Singapore and
 were tested while serving SHN.
-4.    Please refer to the Annexes and MOH’s daily Situation Report
+4.     Please refer to the Annexes and MOH’s daily Situation Report
 (www.moh.gov.sg/covid-19/situation-report) for details.
 UPDATE ON CONDITION OF CONFIRMED CASES
-5.   7 more cases of COVID-19 infection have been discharged from
+5.     7 more cases of COVID-19 infection have been discharged from
 hospitals or community isolation facilities. In all, 59,849 have fully
 recovered from the infection and have been discharged from hospitals or
 community care facilities.
-6.    There are currently 18 confirmed cases who are still in hospital.
+6.     There are currently 18 confirmed cases who are still in hospital.
 Of these, most are stable or improving, and 1 is in critical condition
 in the intensive care unit. 83 are isolated and cared for at community
 facilities. These are those who have mild symptoms, or are clinically
