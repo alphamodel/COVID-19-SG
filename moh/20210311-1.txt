@@ -8,12 +8,172 @@
 Published Date: 11 Mar 2021
 
 1.      As of 11 March 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.  In addition, there are 7 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. In total, there
-are 8 new cases of COVID-19 infection in Singapore today.
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 7 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 7 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 1 was symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+7
+
+
+
+7
+
+0
+
+
+
+1
+
+6
+
+TOTAL
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has decreased
+from 3 cases in the week before to 2 cases in the past week. The number
+of unlinked cases in the community has remained stable at 2 cases per
+week in the past 2 weeks. We will continue to closely monitor these
+numbers, as well as the cases detected through our surveillance
+programme.
+3.      Amongst the 72 confirmed cases reported from 5 March to 11
+March, 35 cases have tested positive for their serology tests, 28 have
+tested negative, and 9 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+There is 1 case in the community today who is currently unlinked.
+Case 60818 is a 37 year-old female Indonesian national who is a foreign
+domestic worker. She arrived in Singapore on 20 January 2021 and served
+SHN at a dedicated facility until 3 February. Her swab done on 2
+February during SHN was negative for COVID-19. Her COVID-19
+pre-departure test taken in Indonesia on 18 January was also negative.
+She is asymptomatic, and was detected when she was tested on 9 March as
+part of MOH’s investigation into Case 60666¹. As an added precaution,
+MOH tested all attendees of the Settling in Programme for foreign
+domestic workers on 4 February, which both Cases 60666 and 60818
+attended, even though they were not close contacts. Her test result came
+back positive for COVID-19 infection on 9 March, and she was conveyed in
+an ambulance to the National Centre for Infectious Diseases. Her
+serological test result has come back positive, which indicates a likely
+past infection. However as we are unable to definitively confirm her
+date of infection, we will take all the necessary public health actions
+as a precautionary measure.
+Based on our epidemiological investigations, Cases 60666 and 60818 are
+likely to have been separately infected earlier and there is currently
+no evidence that the 2 cases are linked.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 7
+Amongst the 7 imported cases,
+• 1 (Case 60807) is a Singaporean who returned from Qatar.
+• 1 (Case 60803) is a Student’s Pass holder who arrived from India.
+• 1 (Case 60816) is a Long-Term Visit Pass holder who arrived from
+India.
+• 4 are Work Permit holders who arrived from Bangladesh, India and
+Malaysia.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.      Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      28 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 59,939 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 21 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 81 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 29 have passed
+away from complications due to COVID-19 infection.
+[1] Case 60666 is a 35 year-old female Indonesian national who is a
+foreign domestic worker. She tested positive for COVID-19 infection on 4
+March, but an additional test taken by the National Public Health
+Laboratory on 5 March came back negative. Her serological test result
+was positive, which indicates a likely past infection.
+
