@@ -16,29 +16,15 @@ proactive screening and surveillance.
 
 SUMMARY OF NEW CASES
 
-
-
-
-
-
-
 BREAKDOWN BY
 
-
-
 BREAKDOWN BY
-
-
 
 NUMBER OF CASES
-
-
 
 ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
 DETECTED FROM SURVEILLANCE
-
-
 
 SYMPTOMATIC
 
@@ -48,13 +34,9 @@ CASES IN THE COMMUNITY
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -64,13 +46,9 @@ CASES RESIDING IN DORMITORIES
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -80,13 +58,9 @@ IMPORTED CASES
 
 13
 
-
-
 12
 
 1
-
-
 
 0
 
@@ -95,18 +69,6 @@ IMPORTED CASES
 TOTAL
 
 13
-
-
-
-
-
-
-
-
-
-
-
-
 
 2.    Overall, the number of new cases in the community has decreased
 from 2 cases in the week before to none in the past week. The number of
@@ -190,8 +152,6 @@ care unit. 103 are isolated and cared for at community facilities. These
 are those who have mild symptoms, or are clinically well but still test
 positive for COVID-19. 30 have passed away from complications due to
 COVID-19 infection.
-
-
 
 MINISTRY OF HEALTH
 23 MARCH 2021
