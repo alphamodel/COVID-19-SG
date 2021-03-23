@@ -7,13 +7,193 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 23 Mar 2021
 
-       As of 23 March 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
-2.   There are 13 imported cases, who had already been placed on
-Stay-Home Notice upon arrival in Singapore.
-3.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+    As of 23 March 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 13 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+All new cases today are asymptomatic, and were detected from our
+proactive screening and surveillance.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+13
+
+
+
+12
+
+1
+
+
+
+0
+
+13
+
+TOTAL
+
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.    Overall, the number of new cases in the community has decreased
+from 2 cases in the week before to none in the past week. The number of
+unlinked cases in the community has also decreased from 2 cases in the
+week before to none in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.    Amongst the 93 confirmed cases reported from 17 March to 23 March,
+32 cases have tested positive for their serology tests, 46 have tested
+negative, and 15 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 13
+
+Amongst the 13 imported cases,
+
+-   3 (Cases 61116, 61117 and 61118) are Singaporeans and 2 (Cases 61108
+    and 61115) are Singapore Permanent Residents who returned from
+    Austria, India, Malaysia and the US.
+-   1 (Case 61110) is a Dependant’s Pass holder who arrived from India.
+-   1 (Case 61120) is a Work Pass holder who arrived from the US.
+-   5 are Work Permit holders who arrived from Bangladesh, India and the
+    Philippines, of whom 1 (Case 61125) is a foreign domestic worker.
+-   1 (Case 61121) is a Short-Term Visit Pass holder who arrived from
+    the UAE for a work project in Singapore.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+Case 61118 is a 40 year-old female Singaporean who had been residing in
+Austria since August 2019. She returned to Singapore on 2 March 2021,
+and served SHN at a dedicated facility until 16 March. Both her
+on-arrival test on 2 March, as well as her swab done on 15 March during
+SHN, were negative for COVID-19. She is asymptomatic, and was detected
+when she took a COVID-19 pre-departure test on 20 March in preparation
+for a trip to Indonesia. Her test result came back positive on 22 March,
+and she was conveyed to the National Centre for Infectious Diseases. Her
+Ct value was very high, which is indicative of a low viral load, and her
+serology test result has also come back positive. Given that these
+indicate likely past infection, we have classified the case as imported
+based on her travel history. She is likely to be shedding minute
+fragments of the virus RNA, which are no longer transmissible and
+infective to others.
+
+4.   Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.   Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.    Low levels of COVID-19 viral ribonucleic acid (RNA) were detected
+on 21 March from the National Environment Agency’s testing of wastewater
+sample collected on 20 March from the UTown Residence North Tower at the
+National University of Singapore. There is evidence to suggest that this
+may be due to viral shedding from a recovered past infection amongst the
+residents, but as a precautionary measure, MOH carried out a special
+testing operations today to test residents of the affected apartments.
+In total, 437 individuals, excluding the recovered case, have been
+swabbed for COVID-19 during the testing operations, and all the results
+are currently pending.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.   12 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,063 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.    There are currently 25 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and none is in the intensive
+care unit. 103 are isolated and cared for at community facilities. These
+are those who have mild symptoms, or are clinically well but still test
+positive for COVID-19. 30 have passed away from complications due to
+COVID-19 infection.
+
+
+
+MINISTRY OF HEALTH
+23 MARCH 2021
 
 
