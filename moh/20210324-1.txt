@@ -75,7 +75,6 @@ no longer mandatory, although companies may continue to adopt such
 arrangements for business continuity purposes if they so choose.
 Restrictions against cross-deployment across workplaces remain in place.
 Limit social gatherings to 8 persons
-
 10.     Social and recreational gatherings, such as team bonding events
 organised by the employer, will be allowed but must be limited to a
 total size of no more than 8 persons.
@@ -113,13 +112,11 @@ events, wedding receptions, and live performances. These experiences
 have helped MOH and the private sector providers to assess the
 feasibility and operational workflows for implementing pre-event testing
 in these settings.
-13. From 24 April 2021, the following selected activities
-will be allowed to scale up further if they implement pre-event testing
-for their attendees. The respective safe management measures for each
+13.     From 24 April 2021, the following selected activities will be
+allowed to scale up further if they implement pre-event testing for
+their attendees. The respective safe management measures for each
 activity or sector[3], as well as the safe capacities for each venue,
 continue to apply (see summary in ANNEX):
-
-
 
 a. Marriage solemnisations. To facilitate more people coming together
 to celebrate this key life event, the limit for marriage
