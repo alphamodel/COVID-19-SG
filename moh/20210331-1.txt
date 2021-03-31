@@ -8,18 +8,206 @@
 Published Date: 31 Mar 2021
 
 1.     As of 31 March 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 33 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 31 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 3 were
+symptomatic.
 
-2.     In addition, there are 33 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 34 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+33
+
+
+
+33
+
+0
+
+
+
+3
+
+30
+
+TOTAL
+
+34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has increased
+from none in the week before to 3 cases in the past week. The number of
+unlinked cases in the community has also increased from none in the week
+before to 3 cases in the past week. We will continue to closely monitor
+these numbers, as well as the cases detected through our surveillance
+programme.
+
+3.     Amongst the 145 confirmed cases reported from 25 March to 31
+March, 52 cases have tested positive for their serology tests, 67 have
+tested negative, and 26 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked.
+
+Case 61369 is a 22 year-old male Singapore Permanent Resident who is
+studying in the UK.
+
+He had returned to Singapore from the UK on 11 January, and served SHN
+at a dedicated facility until 25 January, and an additional 7-day
+self-isolation at his place of residence until 1 February. His tests
+taken on 24 January during SHN and on 29 January during self-isolation
+were both negative for COVID-19. He is asymptomatic, and was detected
+when he took a COVID-19 pre-departure test on 30 March in preparation
+for his return to the UK. His test result came back positive on the same
+day, and he was conveyed in an ambulance to the National Centre for
+Infectious Diseases.
+
+His Ct value was very high, which is indicative of a low viral load, and
+his serology test result has come back positive. Another test conducted
+by Tan Tock Seng Hospital on 31 March was negative for COVID-19
+infection. He could be shedding minute fragments of the virus RNA from a
+past infection which are no longer transmissible and infective to
+others, but given that we are not able to definitively conclude when he
+had been infected, we will take all the necessary public health actions
+as a precautionary measure.
+
+B) CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 33
+
+Amongst the 33 imported cases,
+
+-   1 (Case 61370) is a Singapore Permanent Resident who returned from
+    Myanmar.
+-   1 (Case 61359) is a Dependant's Pass holder who arrived from India.
+-   2 (Cases 61358 and 61365) are Student's Pass holders who arrived
+    from India.
+-   2 (Cases 61366 and 61396) are Work Pass holders who arrived from
+    India and Qatar.
+-   22 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Malaysia and the Philippines, of whom 8 (Cases 61367,
+    61376, 61377, 61380, 61383, 61392, 61394 and 61399) are foreign
+    domestic workers.
+-   2 (Cases 61356 and 61360) are Short-Term Visit Pass holders. Case
+    61356 arrived from India to visit her family members who are
+    Singapore Permanent Residents, and Case 61360 arrived from Papua New
+    Guinea for a work project in Singapore.
+-   3 (Cases 61361, 61373 and 61374) are Special Pass holders who are
+    sea crew. Case 61361 arrived from the Philippines on a vessel, and
+    had remained onboard until he developed symptoms and was conveyed to
+    a hospital. Cases 61373 and 61374 arrived from Malaysia on a vessel,
+    and were tested onboard without disembarking.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4. Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.     11 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,149 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+7 .     There are currently 37 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 165 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 30 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 
 31 MARCH 2021
+
+
