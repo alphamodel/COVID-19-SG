@@ -8,19 +8,169 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 Published Date: 02 Apr 2021
 
           As of 2 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed that there are no new cases of locally
-transmitted COVID-19 infection.
+confirmed and verified that there are no new cases of locally
+transmitted COVID-19 infection. There are 43 imported cases, who had
+already been placed on Stay-Home Notice (SHN) or isolated upon arrival
+in Singapore. Amongst the new cases today, 41 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 2 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+0
+
+0
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+43
+
+42
+
+1
+
+2
+
+41
+
+TOTAL
+
+43
+
+2.  Overall, the number of new cases in the community has
+increased from 1 case in the week before to 2 cases in the past week.
+The number of unlinked cases in the community has also increased from 1
+case in the week before to 2 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.  Amongst the 185 confirmed cases reported from 27 March to
+2 April, 61 cases have tested positive for their serology tests, 90 have
+tested negative, and 34 serology test results are pending.
 
 
 
-2.  There are 43 imported cases, who had already been placed on
-Stay-Home Notice or isolated upon arrival in Singapore.
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C)  IMPORTED CASES: 43
+
+Amongst the 43 imported cases,
+
+•  1 (Case 61482) is a Singaporean and 5 (Cases 61460, 61464,
+61472, 61480 and 61502) are Singapore Permanent Residents who returned
+from Germany, India and the UK.
+•  3 (Cases 61457, 61498 and 61500) are Student's Pass
+holders who arrived from India and Myanmar.
+•  3 (Cases 61454, 61465 and 61475) are Work Pass holders who
+arrived from India and the Philippines.
+•  25 are Work Permit holders who arrived from Bangladesh,
+India, Indonesia, Myanmar and the Philippines, of whom 5 (Cases 61440,
+61449, 61453, 61488 and 61489) are foreign domestic workers.
+•  6 (Cases 61455, 61456, 61461, 61462, 61463 and 61470) are
+Short-Term Visit Pass holders. Cases 61455, 61461, 61462, 61463 and
+61470 arrived from India, Indonesia and Papua New Guinea for work
+projects in Singapore. Case 61456 arrived from Indonesia to visit her
+family members who are Singapore Permanent Residents.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+
+Case 61480 is a 46 year-old female Singapore Permanent Resident who
+returned from India on 17 March, and served SHN at a dedicated facility.
+Her on-arrival test on 17 March was negative for COVID-19. On 20 March,
+she was placed on quarantine as she had been identified as a close
+contact of Case 61047 during their flight to Singapore. Her tests done
+during quarantine on 21 March and 30 March were negative for COVID-19.
+Her quarantine ended on 31 March and she went home, where she had
+remained until she sought medical treatment for an unrelated condition
+on 1 April. Although she is asymptomatic, she was tested again, and this
+time her result came back positive for COVID-19 infection and she was
+hospitalised. Her serology test result is pending. Given her recent
+travel history and exposure to a COVID-19 case during her flight, we
+have classified this as an imported case.
+
+Cases 61461 and 61470 are Short-Term Visit Pass holders who arrived from
+Papua New Guinea on 27 March for work projects in Singapore. Both tested
+negative for COVID-19 upon arrival in Singapore, and had remained
+isolated at a dedicated facility until they tested negative again on 29
+March. Thereafter they were on a controlled itinerary, which was largely
+limited to their place of work and accommodation. On 30 March, they were
+placed on quarantine as they had been identified as close contacts of
+Case 61360 during their flight to Singapore. Case 61461 developed a
+cough on 30 March night, while Case 61470 is asymptomatic. They were
+tested for COVID-19 on 31 March and conveyed to separate hospitals when
+their results came back positive for COVID-19 infection the next day.
+Their serology test results are pending. Given their recent travel
+history and exposure to a COVID-19 case during their flight, we have
+classified these cases as imported.
+
+4.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
 
 
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  15 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 60,176 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.  There are currently 40 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 204 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 30 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 2 APRIL 2021
