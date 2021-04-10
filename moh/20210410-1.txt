@@ -7,20 +7,207 @@
 
 Published Date: 10 Apr 2021
 
-           As of 10 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
+          As of 10 April 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 31 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 29 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 3 were symptomatic.
 
-2.  In addition, there are 31 imported cases, who had already
-been placed on Stay-Home Notice upon arrival in Singapore. In total,
-there are 32 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+1
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+31
+
+
+
+31
+
+0
+
+
+
+2
+
+29
+
+TOTAL
+
+32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Overall, the number of new cases in the community has
+remained stable at 2 cases per week in the past 2 weeks. The number of
+unlinked cases in the community has also remained stable at 2 cases per
+week in the past 2 weeks. We will continue to closely monitor these
+numbers, as well as the cases detected through our surveillance
+programme.
+
+3.  Amongst the 165 confirmed cases reported from 4 April to
+10 April, 55 cases have tested positive for their serology tests, 73
+have tested negative, and 37 serology test results are pending.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked.
+
+Case 61768, a 71 year-old female Indian national, is a Short-Term Visit
+Pass holder who is a retiree. She arrived from India on 28 December 2020
+and served SHN at a dedicated facility until 10 January 2021. Her test
+taken on 8 January during SHN was negative for COVID-19. As she had been
+identified as a close contact of Cases 59169 and 59173 during their
+flight to Singapore, she was placed on quarantine from 10 January to 11
+January.
+
+She developed a fever on 5 April and was tested for COVID-19 when she
+sought medical treatment the next day. Her test result came back
+positive for COVID-19 infection on 8 April and she was conveyed in an
+ambulance to the National Centre for Infectious Diseases. Another test
+conducted by the National Public Health Laboratory on 9 April was
+negative for COVID-19 infection. Her serological test result has come
+back positive, which is indicative of a past infection. She could be
+shedding minute fragments of the virus RNA, which are no longer
+transmissible and infective to others, but given that we are not able to
+definitively conclude when she had been infected, we will take all the
+necessary public health actions as a precautionary measure.
+
+
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+
+
+C)  IMPORTED CASES: 31
+
+Amongst the 31 imported cases,
+
+•  1 (Case 61797) is a Singaporean who returned from Papua
+New Guinea.
+•  2 (Cases 61770 and 61782) are Dependant’s Pass holders who
+arrived from India.
+•  3 (Cases 61785, 61796 and 61804) are Long-Term Visit Pass
+holders who arrived from India and Myanmar.
+•  5 (Cases 61772, 61773, 61774, 61775 and 61781) are
+Student's Pass holders who arrived from India.
+•  3 (Cases 61762, 61805 and 61806) are Work Pass holders who
+arrived from Nepal, the Maldives and Philippines.
+•  15 are Work Permit holders who arrived from Bangladesh,
+India, Indonesia, Myanmar and the Philippines, of whom 5 (Cases 61758,
+61789, 61790, 61800 and 61807) are foreign domestic workers.
+•  2 (Cases 61769 and 61808) are Short-Term Visit Pass
+holders. Case 61769 arrived from India with her spouse who is working
+here. Case 61808 arrived from Malaysia to visit his family member who is
+a Singapore Permanent Resident.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.  Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  18 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 60,322 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.  There are currently 45 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 236 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 30 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 10 APRIL 2021
-
-
