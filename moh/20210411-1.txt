@@ -8,17 +8,197 @@
 Published Date: 11 Apr 2021
 
 1.     As of 11 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case resides in a
-dormitory and there are no new cases in the community.
+confirmed and verified 1 new case of locally transmitted COVID-19
+infection. The case resides in a dormitory and there are no new cases in
+the community. There are 19 imported cases, who had already been placed
+on Stay-Home Notice (SHN) upon arrival in Singapore. All new cases today
+are asymptomatic, and were detected from our proactive screening and
+surveillance.
 
-2.     In addition, there are 19 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. In total, there
-are 20 new cases of COVID-19 infection in Singapore today.
+SUMMARY OF NEW CASES
 
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+19
+
+
+
+19
+
+0
+
+
+
+0
+
+19
+
+TOTAL
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has remained
+stable at 2 cases per week in the past 2 weeks. The number of unlinked
+cases in the community has also remained stable at 2 cases per week in
+the past 2 weeks. We will continue to closely monitor these numbers, as
+well as the cases detected through our surveillance programme.
+
+3.     Amongst the 175 confirmed cases reported from 5 April to 11
+April, 68 cases have tested positive for their serology tests, 74 have
+tested negative, and 33 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 0
+
+There are no cases in the community today.
+
+B) CASES RESIDING IN DORMITORIES: 1
+
+There is 1 case residing in a dormitory today who is currently unlinked.
+
+Case 61822 is a 23 year-old male Indian national who is a Work Permit
+holder employed by Seafront Support Company Pte Ltd as a lashing
+specialist. He resides in a dormitory located at Brani Terminal Avenue.
+
+He is asymptomatic, and was detected when he was tested on 7 April as
+part of Rostered Routine Testing (RRT). His pooled test result came back
+positive for COVID-19 the next day, and he was immediately isolated. An
+individual test was done on 9 April, and his test result came back
+positive for COVID-19 infection the next day. He was subsequently
+conveyed in an ambulance to the National Centre for Infectious Diseases.
+His earlier tests from RRT – the last being on 24 March – were all
+negative for COVID-19 infection. His serology test result has come back
+positive but we have assessed that this is likely a current infection.
+
+Case 61822 received his first dose of COVID-19 vaccine on 25 January,
+and the second dose on 17 February. This likely accounts for his lack of
+symptoms, and positive serology test as he has produced antibodies
+following the vaccination. This case is a reminder that it is possible
+for vaccinated individuals to get infected. But the vaccine is effective
+in preventing symptomatic disease for the vast majority of those
+vaccinated. Further research is required to determine if the vaccination
+will also prevent onward transmission of the infection. That is why we
+cannot afford to let our guard down. Our existing key enablers – safe
+management measures, testing, and contact tracing – continue to be
+necessary and effective in helping us to mitigate spread and keep
+community transmission low.
+
+Epidemiological investigations are in progress. In the meantime, all the
+identified close contacts of the case, including his dormitory and
+workplace contacts, have been isolated and placed on quarantine, and
+will be tested at the start and end of their quarantine period so that
+we can detect asymptomatic cases. We will also conduct serological tests
+for the close contacts to determine if the case could have been infected
+by them
+
+C) IMPORTED CASES: 19
+
+Amongst the 19 imported cases,
+
+-   1 (Case 61845) is a Singaporean and 5 (Cases 61811, 61814, 61833,
+    61834 and 61835) are Singapore Permanent Residents who returned from
+    India and Indonesia.
+-   2 (Cases 61819 and 61823) are Dependant's Pass holders who arrived
+    from India.
+-   10 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Myanmar and the Philippines, of whom 4 (Cases 61826,
+    61836, 61838 and 61839) are foreign domestic workers.
+-   1 (Case 61817) is a Short-Term Visit Pass holder who arrived from
+    India for studies in Singapore.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.     13 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,335 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+6.     There are currently 58 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 230 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 30 have passed away from
+complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 
