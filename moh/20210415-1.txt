@@ -7,7 +7,7 @@ NO NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 Published Date: 15 Apr 2021
 
-                As of 15 April 2021, 12pm, the Ministry of Health (MOH)
+               As of 15 April 2021, 12pm, the Ministry of Health (MOH)
 has confirmed and verified that there are no new cases of locally
 transmitted COVID-19 infection. There are 16 imported cases, who had
 already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
@@ -16,29 +16,15 @@ proactive screening and surveillance.
 
 SUMMARY OF NEW CASES
 
-
-
-
-
-
-
 BREAKDOWN BY
 
-
-
 BREAKDOWN BY
-
-
 
 NUMBER OF CASES
-
-
 
 ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
 DETECTED FROM SURVEILLANCE
-
-
 
 SYMPTOMATIC
 
@@ -48,13 +34,9 @@ CASES IN THE COMMUNITY
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -64,13 +46,9 @@ CASES RESIDING IN DORMITORIES
 
 0
 
-
-
 0
 
 0
-
-
 
 0
 
@@ -80,13 +58,9 @@ IMPORTED CASES
 
 16
 
-
-
 16
 
 0
-
-
 
 0
 
@@ -95,20 +69,6 @@ IMPORTED CASES
 TOTAL
 
 16
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2.            Overall, the number of new cases in the community has
 remained stable at 2 cases per week in the past 2 weeks. The number of
@@ -176,7 +136,5 @@ condition in the intensive care unit. 231 are isolated and cared for at
 community facilities. These are those who have mild symptoms, or are
 clinically well but still test positive for COVID-19. 30 have passed
 away from complications due to COVID-19 infection.
-
-
 
 
