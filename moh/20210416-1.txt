@@ -8,12 +8,195 @@
 Published Date: 16 Apr 2021
 
 1.      As of 16 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, both cases are in the
-community, and there are no new cases in the dormitories.
-2.      In addition, there are 32 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 34 new cases of COVID-19 infection in Singapore today.
-3.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 32 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 31 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 3 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+
+
+0
+
+2
+
+
+
+1
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+32
+
+
+
+32
+
+0
+
+
+
+2
+
+30
+
+TOTAL
+
+34
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has increased
+from 2 cases in the week before to 4 cases in the past week. The number
+of unlinked cases in the community has also increased from 2 cases in
+the week before to 3 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.      Amongst the 168 confirmed cases reported from 10 April to 16
+April, 54 cases have tested positive for their serology tests, 77 have
+tested negative, and 37 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 2
+There are 2 cases in the community today who are currently unlinked.
+Case 61988
+Case 61988 is a 44 year-old male Indonesian national who is a Short-Term
+Visit Pass holder. He arrived from Indonesia on 28 February as caregiver
+to his father who was already receiving medical care in Singapore and
+had returned for further treatment for a condition that is not related
+to COVID-19.
+His pre-departure test done in Indonesia on 26 February was negative for
+COVID-19, as was his test taken in Singapore on 1 March. He served SHN
+at a dedicated facility until 14 March, and his test on 13 March during
+SHN was also negative for COVID-19.
+He is asymptomatic, and was detected when he took a COVID-19
+pre-departure test on 14 April in preparation for his return to
+Indonesia. His test result came back positive on the same day, and he
+was conveyed in an ambulance to a hospital. His serology test result is
+pending.
+Case 61993
+Case 61993 is a 34 year-old male Indian national who is a Work Pass
+holder. He is a senior research fellow at the National University of
+Singapore but had only gone to work for 1 day on 12 April, when he had
+onset of symptoms in the evening while at work.
+He had travelled to India from 28 December 2020 to 21 March 2021, and
+served SHN at a dedicated facility upon his return to Singapore. His
+pre-departure test done in India on 19 March was negative for COVID-19,
+and he again tested negative for his on-arrival swab in Singapore on 21
+March. While he was serving SHN, he had been identified as a close
+contact of Case 61141 during their flight to Singapore, and was placed
+on quarantine at a dedicated facility from 24 March to 11 April. His
+tests done during quarantine on 25 March, 3 April and 10 April were all
+negative for COVID-19 infection.
+He developed fatigue on 12 April evening, a sore throat and body aches
+on 13 April, and a fever on 14 April. He stayed at home from 13 April,
+and only left his residence to seek medical treatment at a polyclinic on
+14 April, where he was tested for COVID-19. His test result came back
+positive for COVID-19 infection the next day, and he was conveyed to the
+National Centre for Infectious Diseases in an ambulance. His serology
+result has come back negative, indicating that this is a current
+infection.
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the cases could have been infected by
+them.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 32
+Amongst the 32 imported cases,
+• 3 (Cases 61990, 62015 and 62019) are Singaporeans and 6 (Cases 61992,
+61998, 62012, 62020, 62021 and 62022) are Singapore Permanent Residents
+who returned from India, Myanmar and the Philippines.
+• 4 (Cases 61997, 62001, 62029 and 62030) are Dependant’s Pass holders
+who arrived from India and the Netherlands.
+• 1 (Case 61991) is a Long-Term Visit Pass holder who arrived from
+India.
+• 16 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia and Myanmar, of whom 2 (Cases 62003 and 62018) are foreign
+domestic workers.
+• 2 (Cases 61979 and 61987) are Short-Term Visit Pass holders. Case
+61979 arrived from France for a work project in Singapore and Case 61987
+arrived from India to visit his family member who is a Singaporean.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.      29 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,446 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.      There are currently 51 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 242 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 30 have passed
+away from complications due to COVID-19 infection.
