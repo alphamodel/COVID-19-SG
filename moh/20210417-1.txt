@@ -8,23 +8,244 @@
 Published Date: 17 Apr 2021
 
          As of 17 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 4 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
+confirmed and verified that there are 4 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 35 imported cases, who had already
+been placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst
+the new cases today, 34 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 5 were symptomatic.
 
-2.       In addition, there are 35 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. Amongst them, 10
-are Singaporeans or Singapore Permanent Residents, and 8 are foreign
-domestic workers.
+SUMMARY OF NEW CASES
 
-3.        In total, there are 39 new cases of COVID-19 infection in
-Singapore today.
 
-4.         We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
 
-5.          The recent locally transmitted cases are a stark reminder
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+4
+
+
+
+2
+
+2
+
+
+
+4
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+35
+
+
+
+35
+
+0
+
+
+
+1
+
+34
+
+TOTAL
+
+39
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.          Overall, the number of new cases in the community has
+increased from 2 cases in the week before to 7 cases in the past week.
+The number of unlinked cases in the community has also increased from 2
+cases in the week before to 4 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+
+3.         Amongst the 175 confirmed cases reported from 11 April to 17
+April, 51 cases have tested positive for their serology tests, 84 have
+tested negative, and 40 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 4
+
+There are 4 cases in the community today, of whom 2 are linked to a
+previous case and 2 are currently unlinked.
+
+Case 62032
+
+Case 62032 is a 35 year-old male Singaporean who works as a freelance
+photographer.
+
+He was detected when he was tested on 15 April for COVID-19 as part of
+the Singapore Armed Force’s protocol to test national servicemen at the
+start of their in-camp training. His pooled test on 15 April came back
+positive for COVID-19, and an individual swab done on 16 April was also
+positive for COVID-19 infection. He was conveyed in an ambulance to the
+National Centre for Infectious Diseases (NCID), and developed a fever on
+the same day.
+
+Another test conducted by the National Public Health Laboratory (NPHL)
+on 16 April was negative for COVID-19 infection but a subsequent test on
+17 April by NPHL was again positive for COVID-19. His serological test
+result has come back positive, which is indicative of a past infection.
+He could be shedding minute fragments of the virus RNA from a past
+infection, but given that we are not able to definitively conclude when
+he had been infected, we will take all the necessary public health
+actions as a precautionary measure.
+
+Case 62045
+
+Case 62045 is a 41 year-old female Singapore Permanent Resident. She
+works as an accountant at OM Universal Pte Ltd (11 Kaki Bukit Road 1)
+but had not gone to work since onset of symptoms.
+
+She developed a cough in the evening of 14 April after work, and sought
+medical treatment at a General Practitioner clinic the next day, where
+she was tested for COVID-19. Her test result came back positive for
+COVID-19 infection on 16 April and she was conveyed to NCID in an
+ambulance. Her serology test result is pending.
+
+One of her household contacts is Case 61536, a Work Pass holder who
+arrived from India on 2 April. He tested positive for COVID-19 infection
+on 2 April but was subsequently assessed to be a recovered case based on
+his positive serology result on 4 April.
+
+Case 62057
+
+Case 62057 is a 31 year-old female Swiss national who is a Work Pass
+holder. She is a senior research fellow at the National University of
+Singapore and colleague of Case 61993[1], and had interacted with him on
+12 April.
+
+She developed a sore throat on 15 April but did not seek medical
+treatment. As she had been identified as a close contact of Case 61993,
+she was contacted by MOH on 16 April and placed on quarantine. She
+reported her symptom and was conveyed in an ambulance to Ng Teng Fong
+General Hospital where she was tested for COVID-19. Her test came back
+positive for COVID-19 infection on 16 April. Her serology test result is
+pending.
+
+Case 62063
+
+Case 62063 is a 35 year-old male Indian national who is a Work Pass
+holder. He is the brother of Case 61993 [1], and his household contact.
+He works at DBS Bank (2 Changi Business Park Crescent) but has largely
+been working from home. He last went back to his workplace between 6
+April and 9 April.
+
+As he had been identified as a close contact of Case 61993, he was
+placed on home quarantine on 15 April. He developed a fever on 16 April
+and was conveyed in an ambulance to NCID after he informed MOH of his
+symptom. He was tested for COVID-19 and his test came back positive on
+17 April. His serology test result is pending.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the cases, including their family members
+and co-workers, have been isolated and placed on quarantine, and will be
+tested at the start and end of their quarantine period so that we can
+detect asymptomatic cases. We will also conduct serological tests for
+the close contacts to determine if the cases could have been infected by
+them.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 35
+
+Amongst the 35 imported cases,
+
+-   5 (Cases 62054, 62058, 62077, 62078 and 62097) are Singaporeans and
+    5 (Cases 62055, 62060, 62061, 62073 and 62075) are Singapore
+    Permanent Residents who returned from Brazil, Egypt, India,
+    Indonesia and Liberia.
+-   4 (Cases 62033, 62034, 62052 and 62053) are Dependant’s Pass holders
+    who arrived from Nepal.
+-   1 (Case 62050) is a Student’s Pass holder who arrived from India.
+-   1 (Case 62051) is a Work Pass holder who arrived from India.
+-   17 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia and the Philippines, of whom 8 (Cases 62038, 62039, 62040,
+    62041, 62081, 62082, 62086 and 62095) are foreign domestic workers.
+-   2 (Cases 62048 and 62049) are Short-Term Visit Pass holders. Case
+    62048 arrived from Bahrain for a work project in Singapore and Case
+    62049 arrived from India to visit his family member who is a
+    Singapore Permanent Resident.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.           Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+5.           17 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 60,463 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+6.           There are currently 62 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 253 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 30 have passed
+away from complications due to COVID-19 infection.
+
+7.           The recent locally transmitted cases are a stark reminder
 that the virus has not been eradicated and new cases and clusters can
 easily emerge in our community, if we let our guard down. We urge
 everyone, including those who have been vaccinated against COVID-19, to
@@ -33,4 +254,10 @@ in adhering to the safe management measures. This is even more critical
 as we resume and scale up more activities in Phase Three of re-opening,
 and interactions in the community increase. Together we must work to
 avoid an uncontrolled resurgence of cases that may necessitate a
-tightening of measures.
+tightening of
+
+------------------------------------------------------------------------
+
+[1] Case 61993 is a 34 year-old male Indian national who is a senior
+research fellow at the National University of Singapore. He was
+confirmed to have COVID-19 infection on 15 April.
