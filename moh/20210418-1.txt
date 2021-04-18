@@ -7,13 +7,207 @@
 
 Published Date: 18 Apr 2021
 
-        As of 18 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 1 new case of locally transmitted COVID-19
-infection. Based on our investigations so far, the case is in the
-community, and there are no new cases in the dormitories.
-2.     In addition, there are 22 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. In
-total, there are 23 new cases of COVID-19 infection in Singapore today.
-3.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+    As of 18 April 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there is 1 new case of locally transmitted
+COVID-19 infection. The case is in the community, and there are no new
+cases in the dormitories. There are 22 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 22 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 1 was
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+22
+
+
+
+21
+
+1
+
+
+
+1
+
+21
+
+TOTAL
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.    Overall, the number of new cases in the community has increased
+from 2 cases in the week before to 8 cases in the past week. The number
+of unlinked cases in the community has also increased from 2 cases in
+the week before to 5 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.   Amongst the 178 confirmed cases reported from 12 April to 18 April,
+55 cases have tested positive for their serology tests, 91 have tested
+negative, and 32 serology test results are pending.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked.
+
+Case 62113 is a 39 year-old male Indonesian national who is a sea crew
+on board a bunker tanker. He had not disembarked from the vessel except
+to go for COVID-19 testing and vaccination.
+
+He is asymptomatic, and was detected when he was tested on 15 April as
+part of Rostered Routine Testing (RRT). His pooled test result came back
+positive for COVID-19 the next day, and he was conveyed in an ambulance
+to the National Centre for Infectious Diseases. An individual test done
+on 16 April also came back positive for COVID-19 infection the next day.
+His earlier tests from RRT – the last being on 1 April – had all been
+negative for COVID-19 infection. His serological test result has come
+back negative, indicating that this is likely a current infection.
+
+Case 62113 received his first dose of COVID-19 vaccination on 15 April.
+As the vaccine does not contain live virus, he could not have been
+infected due to vaccination. It is possible for one to be infected just
+before or just after vaccination as it typically takes a few weeks for
+an individual to build up immunity after completing vaccination.
+
+Epidemiological investigations are ongoing. In the meantime, all the
+identified close contacts of the case, including the crew members of the
+vessel, have been isolated and placed on quarantine, and will be tested
+at the start and end of their quarantine period so that we can detect
+asymptomatic cases. We will also conduct serological tests for the close
+contacts to determine if the cases could have been infected by them.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 22
+
+Amongst the 22 imported cases,
+
+-   5 (Cases 62108, 62119, 62134, 62135 and 62136) are Singapore
+    Permanent Residents who returned from India.
+-   2 (Cases 62101 and 62123) are Dependant’s Pass holders who arrived
+    from Nepal.
+-   1 (Case 62109) is a Long-Term Visit Pass holder who arrived from
+    India.
+-   5 (Cases 62103, 62104, 62129, 62132 and 62133) are Work Pass holders
+    who arrived from India and Kazakhstan.
+-   5 (Cases 62105, 62106, 62107, 62112 and 62130) are Work Permit
+    holders who arrived from Bangladesh and India.
+-   4 (Cases 62110, 62111, 62120 and 62121) are Short-Term Visit Pass
+    holders. Cases 62110 and 62121 are sea crew who arrived from the
+    Philippines and Myanmar respectively. Case 62110 was placed on SHN
+    upon arrival in Singapore, and Case 62121 had not disembarked and
+    was tested onboard. Cases 62111 and 62120 arrived from Indonesia and
+    Romania for work assignments in Singapore.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+
+Case 62110 is a 43 year-old male Filipino sea crew who arrived from the
+Philippines on 24 March to board a vessel that is docked in Singapore.
+His on-arrival test on 24 March was negative for COVID-19. He served SHN
+at a dedicated facility from 24 March to 7 April, and his test done on 6
+April during SHN was also negative for COVID-19. He boarded his
+designated vessel on 8 April, where he had not disembarked from. On 16
+April, he was tested as part of the Maritime and Port Authority of
+Singapore’s protocol to test sea crew, and was conveyed to a hospital
+when his test came back positive for COVID-19 infection. His Ct value
+was very high, which is indicative of a low viral load, and his serology
+test result has also come back positive. Given that these indicate
+likely past infection, we have classified the case as imported based on
+his travel history. He is likely to be shedding minute fragments of the
+virus RNA, which are no longer transmissible and infective to others.
+4. Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.   22 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,485 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.   There are currently 68 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 2 are in critical condition
+in the intensive care unit. 248 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 30 have passed away from
+complications due to COVID-19 infection.
+
+
+
+MINISTRY OF HEALTH
+18 APRIL 2021
