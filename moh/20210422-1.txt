@@ -1,127 +1,192 @@
-Updates On Border Measures for Travellers From India, Westlite Woodlands
-Dormitory Cluster and Additional Precautions for Recovered Persons
+2 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM INDIA, WESTLITE WOODLANDS DORMITORY CLUSTER AND ADDITIONAL PRECAUTIONS FOR RECOVERED PERSONS
+2 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 22 Apr 2021
 
-           The Multi-Ministry Taskforce has been closely monitoring the
-global COVID-19 situation especially given the rapidly deteriorating
-situation in India
+1.     As of 22 April 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 2 new cases of locally transmitted
+COVID-19 infection. Of these, 1 is in the community, and 1 resides in a
+dormitory. There are 22 imported cases, who had already been placed on
+Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new cases
+today, 19 are asymptomatic, and were detected from our proactive
+screening and surveillance, while 5 were symptomatic.
 
-2.  Within the community, we have picked up a few cases of
-infection amongst recovered workers at the Westlite Woodlands Dormitory.
-As a precautionary measure, we have conducted special COVID-19 testing
-operations for all the workers at the dormitory. The Ministry of Health
-(MOH), together with the National Centre for Infectious Diseases (NCID)
-and an expert panel comprising of infectious diseases and microbiology
-experts, is investigating for possible re-infection or if they are
-persistent shedders from their earlier infection.
+SUMMARY OF NEW CASES
 
-RESTRICTING TRAVEL FROM INDIA
+BREAKDOWN BY
 
-3.  There is no evidence that the recent cases at the
-Westlite Woodlands Dormitory are linked to the new strain from India.
-But many of the arrivals from India are workers in the Construction,
-Marine and Process (CMP) sectors. Even with our control measures, there
-is still a risk that a leak may happen, and cause another wave of
-infection in the dormitories.  It is also a concern that recovered
-workers (i.e. those who had been infected earlier) are susceptible to
-being re-infected.
+BREAKDOWN BY
 
-4.  We will therefore further tighten our border measures
-with India:
+NUMBER OF CASES
 
-a.  All travellers with recent travel history to India who have yet to
-complete their 14-day SHN by 22 APRIL 2021, 2359 HOURS[1], will need to
-complete their additional 7-day SHN at dedicated SHN facilities, instead
-of their place of residence[2]. They will undergo COVID-19 Polymerase
-Chain Reaction (PCR) tests on-arrival[3], on Day 14 of their SHN, and
-another test before the end of their 21-day SHN period.
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
-b.  From 23 APRIL 2021, 2359 HOURS, until further notice, ALL
-LONG-TERM PASS HOLDERS AND SHORT-TERM VISITORS WITH RECENT TRAVEL
-HISTORY (INCLUDING TRANSIT) TO INDIA WITHIN THE LAST 14 DAYS WILL NOT BE
-ALLOWED ENTRY INTO SINGAPORE, OR TRANSIT THROUGH SINGAPORE. This will
-also apply to all those who had obtained prior approval for entry into
-Singapore.
+DETECTED FROM SURVEILLANCE
 
-UPDATE ON WESTLITE WOODLANDS DORMITORY CLUSTER
+SYMPTOMATIC
 
-5.  On 20 April 2021, a 35 year-old migrant worker (case
-62181) living in Westlite Woodlands Dormitory was tested for COVID-19 as
-part of the Rostered Routine Testing (RRT) regime. The Assurance, Care
-and Engagement (ACE) Group from the Ministry of Manpower (MOM) and MOH
-isolated and placed on quarantine his close contacts at the dormitory
-and workplace. One person placed under quarantine, who is a room-mate of
-this case, was found to be COVID-19 positive at a dedicated quarantine
-facility. As a precautionary measure, special COVID-19 testing
-operations is being conducted at the dormitory. As of 22 April 2021, a
-total of 17 recovered workers were found to be COVID-19 positive, in
-addition to the worker who had earlier been placed under quarantine.
-These cases were immediately isolated and conveyed to NCID. MOH,
-together with NCID and an expert panel comprising of infectious diseases
-and microbiology experts, is investigating for possible re-infection or
-if they are persistent shedders from their earlier infection. The number
-of actual re-infection cases will be announced when ready.
+ASYMPTOMATIC
 
-6.  In the meantime, public health measures to prevent and
-contain the possible spread of infection have been implemented in the
-dormitory, include imposing quarantine orders on workers at the affected
-blocks and widening the extent of the special testing operations to the
-entire dormitory.
+CASES IN THE COMMUNITY
 
-ADDITIONAL PRECAUTIONS FOR RECOVERED PERSONS
+1
 
-7.  MOH and MOM, in consultation with infectious disease
-specialists, have reviewed the latest scientific evidence from the
-cohort of recovered persons in Singapore nearing one year from the date
-of infection and found that the evidence suggests a possible gradual
-decrease in antibody levels in recovered persons. Immunity in recovered
-persons can wane, and caution is required around the infection risks in
-recovered persons.
+1
 
-8.  With effect from 29 APRIL 2021, recovered
-dormitory-dwelling workers and CMP workers who are living in Singapore,
-and who have crossed 270 days from the date of COVID-19 infection, will
-no longer be exempted from prevailing public health measures. They will
-be enrolled back on RRT once they have passed 270 days from the date of
-past infection and, if identified as close contacts, will be subjected
-to quarantine to identify potential re-infection and mitigate the risk
-of spread. Newly arrived migrant workers with a serology positive result
-will also be enrolled onto 14-day RRT.
+0
 
-9.  With the emergence of new variants of concern around the
-world, we will closely monitor for re-infection of recovered COVID-19
-cases, and are reviewing our border measures for recovered travellers.
-All newly arrived migrant workers from higher-risk countries/ regions,
-including those with a positive serology result, will now have to
-undergo SHN at a dedicated facility before being onboarded at Migrant
-Workers Onboarding Centre (MWOC) for an additional testing regime.
-Imported cases suspected of re-infection will be isolated and undergo
-repeat COVID-19 PCR tests to monitor the trend of their viral loads, to
-ensure that such cases are detected promptly.
+1
 
-REGULAR REVIEW OF BORDER MEASURES
+0
 
-10.  As the global situation evolves, we will continue to adjust
-our border measures to manage the risk of importation and transmission
-to the community with changes updated on the SafeTravel website. MOH
-will also continue to review the data and evidence on any new viral
-strains and update the measures accordingly.
+CASES RESIDING IN DORMITORIES
 
-------------------------------------------------------------------------
+1
 
-[1] Includes travellers who enter Singapore before 23 April 2021, 2359
-hours.
+1
 
-[2] The charges for the 21-day SHN at the dedicated SHN facilities is
-S$3,000. Costs of COVID-19 PCR tests not included.
+0
 
-[3] To expedite the COVID-19 PCR test at the airport, travellers are
-strongly encouraged to register and pre-pay for their on-arrival
-COVID-19 PCR test prior to departing for Singapore at
-https://safetravel.changiairport.com/.
+0
+
+1
+
+IMPORTED CASES
+
+22
+
+22
+
+0
+
+4
+
+18
+
+TOTAL
+
+24
+
+2.     Overall, the number of new cases in the community has increased
+from 2 cases in the week before to 10 cases in the past week. The number
+of unlinked cases in the community has also increased from 1 case in the
+week before to 5 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.     Amongst the 169 confirmed cases reported from 16 April to 22
+April, 63 cases have tested positive for their serology tests, 81 have
+tested negative, and 25 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 1
+There is 1 case in the community today who is linked to a previous case.
+Case 62234 is an 11 year-old male Indian national who is a Student’s
+Pass holder. He is the child of Cases 62045[1] and 62143[2], and a
+household contact of Case 61536[3]. He is a student at Dimensions
+International College (58 Lowland Road).
+As he had been identified as a close contact of Case 62045, he was
+placed on home quarantine on 16 April. He was tested for COVID-19 on 17
+April and 19 April during quarantine and his test results were negative.
+On 21 April, he developed a fever and reported his symptom to MOH.
+Another test was taken, and this time his result came back positive for
+COVID-19 infection. He was conveyed in an ambulance to the National
+University Hospital. His serology test result has come back negative,
+indicating that this is likely a current infection.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today who is linked to a
+previous case.
+
+Case 62225, a 32 year-old male Bangladesh national, is a Work Permit
+holder who arrived in Singapore in December 2018. He is employed by
+Prosper Environmental & Engineering Pte Ltd as a construction
+supervisor, and works at Sembcorp Marine Admiralty Yard (60 Admiralty
+Road West). He resides at Westlite Woodlands Dormitory (2 Woodlands
+Sector 2), and is the roommate of Case 62181[4].
+As he had been identified as a close contact of Case 62181, he was
+placed on quarantine at a government quarantine facility on 19 April. He
+is asymptomatic, but was tested for COVID-19 on 20 April during
+quarantine to determine his status. His test result came back positive
+for COVID-19 infection the next day, and he was conveyed to Tan Tock
+Seng Hospital. His earlier tests from RRT – the last being on 13 April –
+were all negative for COVID-19 infection. His serology test result is
+pending.
+Case 62225 received his first dose of COVID-19 vaccine on 13 March, and
+the second dose on 3 April. This likely accounts for his lack of
+symptoms. The COVID-19 vaccine is effective in preventing symptomatic
+disease for the vast majority of those vaccinated, but it is possible
+for vaccinated individuals to get infected. Further research is required
+to determine if the vaccination will also prevent onward transmission of
+the infection. This is a reminder that we cannot afford to let our guard
+down. Our existing key enablers – safe management measures, testing, and
+contact tracing – continue to be necessary and effective in helping us
+to mitigate spread and keep community transmission low.
+As part of our investigations into Case 62181, MOH and the Ministry of
+Manpower have commenced a special testing operations to test residents
+of Westlite Woodlands Dormitory (2 Woodlands Sector 2) for COVID-19. So
+far, 17 recovered workers were found to be positive for COVID-19. These
+cases were immediately isolated and conveyed to the National Centre for
+Infectious Diseases. MOH, together with an expert panel which comprises
+infectious diseases and microbiology experts, is investigating if they
+are re-infection cases or past infections but shedding fragments of the
+virus.
+C) IMPORTED CASES: 22
+Amongst the 22 imported cases,
+-   1 (Case 62241) is a Singaporean and 2 (Cases 62245 and 62256) are
+    Singapore Permanent Residents who returned from India, Malaysia and
+    Pakistan.
+
+-   4 (Cases 62227, 62230, 62236 and 62239) are Dependant’s Pass holders
+    who arrived from India, Sri Lanka and the UAE.
+
+-   2 (Cases 62254 and 62258) are Student's Pass holders who arrived
+    from India.
+
+-   3 (Cases 62232, 62235 and 62238) are Work Pass holders who arrived
+    from India and the Maldives.
+
+-   8 are Work Permit holders who arrived from Bangladesh, India,
+    Indonesia, Myanmar and the Philippines, of whom 3 (Cases 62246,
+    62263 and 62267) are foreign domestic workers.
+
+-   2 are Short-Term Visit Pass holders. Case 62233 is a sea crew who
+    arrived from India to board a vessel in Singapore and Case 62240
+    arrived from Ethiopia for a work project in Singapore.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+UPDATE ON CONDITION OF CONFIRMED CASES
+5.     27 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,603 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+6.     There are currently 67 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 1 is in critical condition
+in the intensive care unit. 204 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 30 have passed away from
+complications due to COVID-19 infection.
+
+MINISTRY OF HEALTH
+
+22 APRIL 2021
+
+[1] Case 62045 is a 41 year-old female Singapore Permanent Resident (PR)
+who works as an accountant at OM Universal Pte Ltd and was confirmed to
+have COVID-19 infection on 16 April.
+[2] Case 62143 is a 44 year-old male PR who is the spouse of Case 62045.
+He works as a manager at Spice Grill Restaurant and Rangoon Bar &
+Bistro. He was confirmed to have COVID-19 infection on 18 April.
+
+[3] Case 61536 is Case 62045’s brother-in-law, and had been identified
+as a household contact of Cases 62045 and 62143.
+
+[4] Case 62181 is a 35 year-old male Bangladesh national who is employed
+by Prosper Environmental & Engineering Pte Ltd as a construction
+supervisor. He works at Sembcorp Marine Admiralty Yard and resides at
+Westlite Woodlands Dormitory. He was confirmed to have COVID-19
+infection on 19 April.
