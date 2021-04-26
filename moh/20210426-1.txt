@@ -7,20 +7,229 @@
 
 Published Date: 26 Apr 2021
 
-            As of 26 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, 1 is in the community,
-and 1 resides in a dormitory.
+                As of 26 April 2021, 12pm, the Ministry of Health (MOH)
+has confirmed and verified that there are 2 new cases of locally
+transmitted COVID-19 infection. Of these, 1 is in the community, and 1
+resides in a dormitory. There are 43 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 41 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 4 were
+symptomatic.
 
-2.  In addition, there are 43 imported cases, who had already
-been placed on Stay-Home Notice or isolated upon arrival in Singapore.
-Amongst them, 13 are Singaporeans or Singapore Permanent Residents.
-
-3.  In total, there are 45 new cases of COVID-19 infection in
-Singapore today.
-
-4.  We are still working through the details of the cases,
-and further updates will be shared via the MOH press release that will
-be issued tonight.
+SUMMARY OF NEW CASES
 
 
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+1
+
+
+
+0
+
+1
+
+
+
+0
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+
+
+1
+
+0
+
+
+
+0
+
+1
+
+IMPORTED CASES
+
+43
+
+
+
+43
+
+0
+
+
+
+4
+
+39
+
+TOTAL
+
+45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.           Overall, the number of new cases in the community has
+increased from 9 cases in the week before to 10 cases in the past week.
+The number of unlinked cases in the community has remained stable at 4
+cases per week in the past 2 weeks. We will continue to closely monitor
+these numbers, as well as the cases detected through our surveillance
+programme.
+
+3.          Amongst the 200 confirmed cases reported from 20 April to 26
+April, 61 cases have tested positive for their serology tests, 68 have
+tested negative, and 71 serology test results are pending.
+
+CASE DETAILS
+
+A) CASES IN THE COMMUNITY: 1
+
+There is 1 case in the community today who is currently unlinked.
+
+Case 62439 is a 19 year-old female Singaporean who is a student in the
+UK, and had been in the UK from 11 September to 1 December 2020. She
+reported that she developed Acute Respiratory Infection (ARI) symptoms
+in September in the UK but had not been tested for COVID-19.
+
+She returned to Singapore on 1 December, and served SHN at a dedicated
+facility until 14 December. Her test taken on 11 December during SHN was
+negative for COVID-19. She is asymptomatic, and was detected when she
+took a COVID-19 pre-departure test on 23 April in preparation for her
+trip back to the UK. Her test result came back positive the next day,
+and she was conveyed to the National Centre for Infectious Diseases
+(NCID) in an ambulance.
+
+Her Ct value was very high, which is indicative of a low viral load, and
+her serology test result has come back positive. She could be shedding
+minute fragments of the virus RNA from a past infection which are no
+longer transmissible and infective to others, but given that we are not
+able to definitively conclude when she had been infected, we will take
+all the necessary public health actions as a precautionary measure.
+
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today who is currently unlinked.
+
+Case 62440 is a 35 year-old male Bangladesh national who is a Work
+Permit holder. He works as a construction worker employed by Jenta
+Decoration Contractor but does not typically interact with clients. He
+resides at Westlite Woodlands Dormitory (2 Woodlands Sector 2), but in a
+different block from Cases 62181 and 62225 and had not interacted with
+them.
+
+He was in Bangladesh from 17 February to 21 December 2020, and served
+SHN at a dedicated facility from 21 December 2020 to 4 January 2021. His
+swab taken on 1 January during SHN was negative for COVID-19. His tests
+from RRT – the last being on 20 April – were also negative for COVID-19
+infection.
+
+As part of the precautionary measures taken following the detection of
+Case 62181[1], Case 62440 was placed on quarantine on 22 April. He is
+asymptomatic, but was tested for COVID-19 on 23 April during quarantine
+to determine his status. His test result came back positive for COVID-19
+infection and he was conveyed in an ambulance to NCID. Another test
+conducted by the National Public Health Laboratory on 25 April was
+negative for COVID-19 infection. His Ct value was very high, and his
+serology test result has also come back positive. Based on his travel
+history, he was likely to have been infected while he was overseas, and
+is shedding minute fragments of the virus RNA, which are no longer
+transmissible and infective to others. As a precautionary measure, we
+will still take all the necessary public health actions.
+
+C) IMPORTED CASES: 43
+
+Amongst the 43 imported cases,
+
+-   8 (Cases 62457, 62467, 62468, 62469, 62470, 62474, 62477 and 62483)
+    are Singaporeans and 5 (Cases 62447, 62471, 62472, 62473 and 62476)
+    are Singapore Permanent Residents who returned from India and
+    Indonesia.
+-   4 (Cases 62433, 62448, 62459 and 62460) are Dependant’s Pass holders
+    who arrived from India and Nepal.
+-   3 (Cases 62478, 62479 and 62484) are Student's Pass holders who
+    arrived from India.
+-   6 (Cases 62458, 62465, 62466, 62475, 62480 and 62481) are Work Pass
+    holders who arrived from Bangladesh, Nepal, Pakistan, the
+    Philippines and Sri Lanka.
+-   8 (Cases 62429, 62430, 62431, 62432, 62434, 62435, 62438 and 62462)
+    are Work Permit holders who arrived from India and Malaysia.
+-   1 (Case 62441) is a Short-Term Visit Pass holder who arrived from
+    Bangladesh. She was already receiving medical care in Singapore and
+    had returned for further treatment.
+-   8 (Cases 62449, 62450, 62451, 62452, 62453, 62454, 62455 and 62456)
+    are Special Pass holders who are sea crew. They arrived from
+    Indonesia on a vessel, and were tested onboard without disembarking.
+
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.          Please refer to the Annexesand MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.           Epidemiological investigations are ongoing. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.          20 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 60,682 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.          There are currently 109 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 230 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 30 have passed away from
+complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Case 62181 is a 35 year-old male Bangladesh national who works at
+Sembcorp Marine Admiralty Yard and resides at Westlite Woodlands
+Dormitory. He was confirmed to have COVID-19 infection on 19 April.
