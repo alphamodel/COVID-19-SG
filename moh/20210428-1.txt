@@ -8,13 +8,209 @@
 Published Date: 28 Apr 2021
 
 1.      As of 28 April 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 3 new cases of locally transmitted COVID-19
-infection. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2.      In addition, there are 20 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore.
-3.      In total, there are 23 new cases of COVID-19 infection in
-Singapore today.
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+confirmed and verified that there are 3 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. There are 20 imported cases, who had already
+been placed on Stay-Home Notice (SHN) or isolated upon arrival in
+Singapore. Amongst the new cases today, 16 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 7 were
+symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+3
+
+
+
+0
+
+3
+
+
+
+2
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+20
+
+
+
+20
+
+0
+
+
+
+5
+
+15
+
+TOTAL
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has increased
+from 9 cases in the week before to 13 cases in the past week. The number
+of unlinked cases in the community has also increased from 5 cases in
+the week before to 6 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.      Amongst the 206 confirmed cases reported from 22 April to 28
+April, 90 cases have tested positive for their serology tests, 85 have
+tested negative, and 31 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 3
+There are 3 cases in the community today who are currently unlinked.
+Case 62517
+Case 62517 is a 38 year-old male Singaporean who works as an Immigration
+& Checkpoints Authority (ICA) Officer deployed at Changi Airport
+Terminal 1, but had not gone to work after onset of symptoms.
+He developed a cough on 23 April and sought medical treatment the next
+day at a General Practitioner clinic, where he was given 2 days’ medical
+leave. On 26 April, he developed a fever, anosmia and body aches, and
+sought medical treatment at Tan Tock Seng Hospital the next day. He was
+tested for COVID-19 and his test came back positive on the same day. His
+previous tests from RRT – the last being on 22 April – were all negative
+for COVID-19 infection. His serology test result is pending.
+Case 62526
+Case 62526 is a 58 year-old male Singaporean who works as a construction
+project manager in Nepal, and had been in there from 13 February to 13
+December 2020.
+Upon his return to Singapore, he served SHN at a dedicated facility
+until 27 December. His test taken on 23 December during SHN was negative
+for COVID-19. He is asymptomatic, and was detected when he took a
+COVID-19 pre-departure test on 26 April in preparation for his trip back
+to Nepal. His test result came back positive the next day, and he was
+conveyed to the National Centre for Infectious Diseases (NCID) in an
+ambulance. His serology test result is pending.
+His Ct value was very high, which is indicative of a low viral load. He
+could be shedding minute fragments of the virus RNA from a past
+infection which are no longer transmissible and infective to others, but
+given that we are not able to definitively conclude when he had been
+infected, we will take all the necessary public health actions as a
+precautionary measure.
+Case 62541
+Case 62541 is a 46 year-old female Philippines national who is a nurse
+at Tan Tock Seng Hospital (TTSH), and is deployed at Ward 9D, a general
+ward.
+She developed a cough, sore throat and body aches on 27 April, and
+sought medical treatment at TTSH. Her test result came back positive for
+COVID-19 infection on the same day, and she was warded at NCID. Her
+serology test result is pending.
+Case 62541 received her first dose of COVID-19 vaccine on 26 January,
+and the second dose on 18 February. The COVID-19 vaccine is effective in
+preventing symptomatic disease for the vast majority of those
+vaccinated, but it is possible for vaccinated individuals to get
+infected.
+Following the detection of Case 62541, TTSH has locked down the affected
+ward, and tested the patients and staff who had been in the ward. So
+far, we have detected 4 more cases who have tested preliminarily
+positive for COVID-19 infection. These include a doctor, and 3 patients
+who are being cared for in the same ward. As a precautionary measure,
+all staff who treated the infected patients, as well as all visitors,
+patients and staff working in Ward 9D will be placed on quarantine.
+Epidemiological investigations and contact tracing are ongoing. As we
+are conducting further testing for these 4 cases, they have not been
+included in today’s case count.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 20
+Amongst the 20 imported cases,
+• 2 (Cases 62514 and 62532) are Singaporeans and 1 (Case 62545) is a
+Singapore Permanent Resident who returned from India and the UAE.
+• 1 (Case 62539) is a Dependant’s Pass holder who arrived from Nepal.
+• 5 (Cases 62515, 62525, 62527, 62544 and 62551) are Work Pass holders
+who arrived from India, Japan, the Maldives, Nepal and Uzbekistan.
+• 6 are Work Permit holders who arrived from Bangladesh, India,
+Indonesia, Mexico and the Philippines, of whom 2 (Cases 62516 and 62529)
+are foreign domestic workers.
+• 4 (Cases 62520, 62521, 62524 and 62528) are Short-Term Visit Pass
+holders. Cases 62520, 62521 and 62524 arrived from India to visit their
+family members who are Singaporeans or Singapore Permanent Residents.
+Case 62528 arrived from the Philippines for a work project in Singapore.
+• 1 (Case 62523) is a Special Pass holder who is a sea crew. He arrived
+from Indonesia on a vessel, and was tested onboard without disembarking.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.      Epidemiological investigations are ongoing. In the meantime, all
+the identified close contacts of the cases have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      14 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,718 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 112 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 226 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 30 have passed away from
+complications due to COVID-19 infection.
