@@ -310,5 +310,5 @@ confirmed to have COVID-19 infection on 28 April.
 
 [4] Case 62541 is a 46 year-old female Philippines national who is a
 nurse at Tan Tock Seng Hospital, and is deployed at Ward 9D. She was
-confirmed to have COVID-19 infection on 27 April. There are 9 cases in
+confirmed to have COVID-19 infection on 27 April. There are 13 cases in
 total linked to TTSH so far.
