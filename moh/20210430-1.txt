@@ -213,8 +213,8 @@ Case 62635 is a 77 year-old female Singaporean who was admitted to TTSH
 Ward 9D on 22 April. She tested negative for COVID-19 on 26 April while
 warded at TTSH. The next day, she was discharged to United Medicare
 Centre (Toa Payoh) Nursing Home. On 28 April, as she had been identified
-as a patient who had stayed in Ward 9D, she was isolated and tested. Her
-test came back positive for COVID-19 infection the next day.
+as a patient who had stayed in Ward 9D, she was isolated. She was tested
+the next day and her test came back positive for COVID-19 infection.
 
 TTSH has stopped all patient transfers to intermediate and long-term
 care (ILTC) facilities until swabs for patients and staff in lockdown
