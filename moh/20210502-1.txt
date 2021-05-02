@@ -7,23 +7,308 @@
 
 Published Date: 02 May 2021
 
-1.      As of 2 May 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 14 new cases of locally transmitted COVID-19
-infection, of whom 13 are linked to previous cases. Amongst them, 11
-cases are linked to Case 62541¹, and were detected from our proactive
-testing of patients, visitors and staff at Tan Tock Seng Hospital. Based
-on our investigations so far, the cases are in the community, and there
-are no new cases in the dormitories.
-2.  In addition, there are 25 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore.
-Amongst them, 10 are Singaporeans or Singapore Permanent Residents and 3
-are foreign domestic workers.
-3.  In total, there are 39 new cases of COVID-19 infection in
-Singapore today.
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-[1] Case 62541 is a 46 year-old female Philippines national who is a
+As of 2 May 2021, 12pm, the Ministry of Health (MOH) has confirmed and
+verified that there are 14 new cases of locally transmitted COVID-19
+infection. 13 are linked to previous cases, and they are either patients
+and staff at Tan Tock Seng Hospital (TTSH) or close contacts who had
+already been placed on quarantined. 1 is currently unlinked, but has
+high Ct value (i.e. low viral load) and positive serology test, which
+may be indicative of an old infection. In addition, there are 25
+imported cases, who had already been placed on Stay-Home Notice (SHN) or
+isolated upon arrival in Singapore. Amongst the new cases today, 28 are
+asymptomatic, and were detected from our proactive screening and
+surveillance, while 11 were symptomatic.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+14
+
+
+
+13
+
+1
+
+
+
+6
+
+8
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+25
+
+
+
+25
+
+0
+
+
+
+5
+
+20
+
+TOTAL
+
+39
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has increased
+from 10 cases in the week before to 51 cases in the past week. The
+number of unlinked cases in the community has also increased from 3
+cases in the week before to 11 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+
+3.      Amongst the 212 confirmed cases reported from 26 April to 2 May,
+70 cases have tested positive for their serology tests, 101 have tested
+negative, and 41 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 14
+There are 14 cases in the community today, of whom 13 are linked to
+previous cases and 1 is currently unlinked.
+Case 62734
+Case 62734 is a 37 year-old female India national who is a foreign
+domestic worker. She arrived from India on 13 January and served SHN at
+a dedicated facility until 27 January. Her test taken on 26 January
+during SHN was negative for COVID-19. Following her SHN, she was
+deployed to her employer’s place of residence.
+She is asymptomatic, and was detected when she took a COVID-19
+pre-departure test on 29 April in preparation for her return to India.
+Her test result came back positive the next day, and she was conveyed to
+Mount Elizabeth Hospital in an ambulance. Her Ct value was very high,
+which is indicative of a low viral load, and her serology test result
+has come back positive. She could be shedding minute fragments of the
+virus RNA from a past infection which are no longer transmissible and
+infective to others, but given that we are not able to definitively
+conclude when she had been infected, we will take all the necessary
+public health actions as a precautionary measure.
+CASE 62553¹ CLUSTER
+Case 62760
+Case 62760 is a 53 year-old female Malaysia national who works as a
+hairstylist at Me To Do Studio (883 Woodlands Street 82). She is a
+household contact of Cases 62629²  and 62638³.
+As she had been identified as a close contact of Case 62638, she was
+placed on quarantine on 29 April and conveyed to a dedicated facility
+the next day. On 1 May, she developed a sore throat and was tested for
+COVID-19 upon reporting her symptom. Her test result came back positive
+for COVID-19 infection on the next day. Her serology test result is
+negative.
+CASE 62517 CLUSTER
+Case 62757
+Case 62757 is a 32 year-old male Singaporean who works as an Immigration
+& Checkpoints Authority (ICA) Officer deployed at the Home Team Academy.
+He was last at work on 26 April.
+As he had been identified as a close contact of 62517⁴, he was placed on
+quarantine on 27 April. He was tested for COVID-19 during quarantine on
+28 April and his result was negative. On 1 May, he was tested again and
+this time, his test result came back positive for COVID-19 infection.
+His serology test result is pending. Case 62757 received his first dose
+of COVID-19 vaccine on 27 January, and the second dose on 17 February.
+CASE 62541 CLUSTER
+Cases 62713, 62714, 62717, 62723 and 62724
+Cases 62713, 62714, 62717, 62723 and 62724 were discharged patients who
+had been warded in TTSH Ward 9D. They were placed on quarantine and
+tested positive for COVID-19 infection during quarantine.
+• Case 62713 is a 65 year-old female Singaporean who had been warded in
+TTSH Ward 9D from 21 April to 25 April, and was discharged home on 26
+April. On 29 April, she was placed on quarantine and tested for COVID-19
+on 30 April. On the same day, she developed a fever but did not report
+her symptom. Her test result came back positive for COVID-19 infection
+on 1 May.
+• Case 62714 is a 60 year-old female Singaporean who had been warded in
+TTSH Ward 9D from 20 April to 26 April, and was discharged home on 27
+April. She was swabbed for COVID-19 infection during her hospital stay
+and tested negative twice on 20 April and 21 April. On 29 April, she was
+placed on quarantine and tested for COVID-19 on 30 April. Her test
+result came back positive for COVID-19 infection on 1 May.
+• Case 62717 is an 89 year-old female Singaporean who had been warded in
+TTSH Ward 9D from 7 April to 21 April, and was discharged home on 22
+April. On 29 April, she was placed on quarantine and tested for COVID-19
+on 30 April. Her test result came back positive for COVID-19 infection
+on 1 May.
+• Case 62723 is an 84 year-old male Singaporean who is a family member
+of Case 62680⁵, and had been warded at TTSH Ward 9D from 20 April to 22
+April. On 29 April, he was placed on quarantine and tested for COVID-19
+on 30 April. His test result came back positive for COVID-19 infection
+on 1 May. On the same day, he developed a fever and shortness of
+breath.
+• Case 62724 is a 79 year-old male Singaporean who had been warded in
+TTSH Ward 9D from 21 April to 26 April, and was discharged home on 27
+April. On 29 April, he was placed on quarantine and tested for COVID-19
+on 30 April. His test result came back positive for COVID-19 infection
+on 1 May.
+Cases 62715, 62721 and 62722
+Cases 62715, 62721 and 62722 were visitors to TTSH Ward 9D between 18
+April and 28 April. They were placed on quarantined and tested positive
+for COVID-19 infection during quarantine.
+• Case 62715 is a 50 year-old female Singaporean who is a family member
+of Case 62573⁶, and had visited Case 62573 in TTSH Ward 9D. On 29 April,
+she developed a cough and sore throat but did not seek medical
+treatment. As she had been identified as a close contact of Case 62573,
+she was placed on quarantine on the same day, but did not report her
+symptoms. She was tested for COVID-19 on 30 April and her test result
+came back positive the next day.
+• Case 62721 is a 25 year-old female Singaporean who is a family member
+of Cases 62714 and 62722, and had visited Case 62714 at Ward 9D. As she
+had been identified as a close contact of Case 62714, she was placed on
+quarantine on 29 April. She was tested for COVID-19 on 30 April and her
+test result came back positive the next day.
+• Case 62722 is a 58 year-old male Singaporean who is a family member of
+Cases 62714 and 62721, and had visited Case 62714 at Ward 9D. As he had
+been identified as a close contact of Case 62714, he was placed on
+quarantine on 30 April and tested for COVID-19 on the same day. His test
+result came back positive the next day.
+Cases 62732 and 62754
+Cases 62732 and 62754 are patients who were warded in TTSH Ward 9D when
+Case 625417  was confirmed to have COVID-19 infection, and were tested
+as part of our active case-finding while hospitalised.
+• Case 62732 is a 98 year-old female Singaporean who had been warded in
+TTSH Ward 9D from 27 April to 29 April. She was tested for COVID-19 on
+28 April and her test came back negative. She was subsequently
+transferred to the National Centre for Infectious Diseases (NCID) on 29
+April, and swabbed again on 30 April. Her test result came back positive
+for COVID-19 infection on 1 May.
+• Case 62754 is a 90 year-old female Singaporean who had been warded in
+TTSH Ward 9D from 26 April to 28 April. She was tested for COVID-19 on
+28 April and her test came back negative. She was subsequently
+transferred to NCID on 28 April, and swabbed again on 30 April. Her test
+result came back positive for COVID-19 infection on 1 May. On 2 May, she
+developed a fever.
+Case 62731
+Case 62731 is a 27 year-old female Malaysia national who works as a
+physiotherapist at TTSH Ward 9D. On 29 April, she was placed on
+quarantine and tested for COVID-19 on 30 April. On the same day, she
+developed a runny nose and reported her symptom on 1 May. Her test
+result came back positive for COVID-19 infection on 1 May.
+Update on testing operations at TTSH
+TTSH has completed the swabbing of all inpatients in their main wards on
+30 April and the results are all negative. All patients will continue to
+be monitored closely for their health and wellbeing.
+TTSH will also be testing all 12,000 staff on campus. To date, the
+hospital has swabbed 7,000 staff and priority will be given to swab
+staff working in clinical areas over the next few days.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 25
+Amongst the 25 imported cases,
+• 2 (Cases 62763 and 62766) are Singaporeans and 8 (Cases 62736, 62747,
+62758, 62759, 62762, 62764, 62765 and 62768) are Singapore Permanent
+Residents who returned from India.
+• 4 (Cases 62712, 62741, 62749 and 62756) are Dependant’s Pass holders
+who arrived from Nepal.
+• 2 (Cases 62755 and 62761) are Work Pass holders who arrived from Nepal
+and the US.
+• 5 are Work Permit holders who arrived from Bangladesh, India and the
+Philippines, of whom 3 (Cases 62716, 62738 and 62773) are foreign
+domestic workers.
+• 2 (Cases 62744 and 62751) are Short-Term Visit Pass holders who
+arrived from Indonesia. Case 62744 is here for a work project and Case
+62751 was already receiving medical care in Singapore and had returned
+for further treatment.
+• 2 (Cases 62752 and 62753) are Special Pass holders who are sea crew.
+They arrived from China on a vessel, and were tested onboard without
+disembarking.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.      Epidemiological investigations are ongoing. In the meantime, all
+the identified close contacts of the cases have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      21 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,786 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 126 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 275 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 31 have passed away from
+complications due to COVID-19 infection.
+[1] Case 62553 is a 39 year-old female Vietnam national who works as a
+cleaner deployed at a community care facility at Tuas South. She was
+confirmed to have COVID-19 infection on 28 April.
+[2] Case 62629 is a 41 year-old male Malaysia national who works as a
+sales assistant at New Odense(s) Confectionery & Bakery. He is a
+household contact of Case 62638. He was confirmed to have COVID-19
+infection on 29 April.
+[3] Case 62638 is a 26 year-old female Singapore Permanent Resident who
+works as a cleaner deployed at a community care facility at Tuas South.
+She is a household contact of Case 62629 and a colleague of Case 62553.
+She was confirmed to have COVID-19 infection on 29 April.
+[4]  Case 62517 is a 38 year-old male Singaporean who works as an
+Immigration & Checkpoints Authority Officer deployed at Changi Airport
+Terminal 1. He was confirmed to have COVID-19 infection on 27 April.
+[5] Case 62680 is an 86 year-old female Singaporean whose spouse is Case
+62723. She was confirmed to have COVID-19 infection on 30 April.
+[6] Case 62573 is a 88 year-old female Singaporean who had been warded
+in TTSH Ward 9D from 14 April to 28 April. She was confirmed to have
+COVID-19 infection on 28 April.
+[7] Case 62541 is a 46 year-old female Philippines national who is a
 nurse at Tan Tock Seng Hospital (TTSH), and is deployed at Ward 9D. She
 was confirmed to have COVID-19 infection on 27 April. There are 27 cases
 in total linked to TTSH so far.
