@@ -11,11 +11,11 @@ As of 2 May 2021, 12pm, the Ministry of Health (MOH) has confirmed and
 verified that there are 14 new cases of locally transmitted COVID-19
 infection. 13 are linked to previous cases, and they are either patients
 and staff at Tan Tock Seng Hospital (TTSH) or close contacts who had
-already been placed on quarantined. 1 is currently unlinked, but has
-high Ct value (i.e. low viral load) and positive serology test, which
-may be indicative of an old infection. In addition, there are 25
-imported cases, who had already been placed on Stay-Home Notice (SHN) or
-isolated upon arrival in Singapore. Amongst the new cases today, 28 are
+already been placed on quarantine. 1 is currently unlinked, but has high
+Ct value (i.e. low viral load) and positive serology test, which may be
+indicative of an old infection. In addition, there are 25 imported
+cases, who had already been placed on Stay-Home Notice (SHN) or isolated
+upon arrival in Singapore. Amongst the new cases today, 28 are
 asymptomatic, and were detected from our proactive screening and
 surveillance, while 11 were symptomatic.
 SUMMARY OF NEW CASES
