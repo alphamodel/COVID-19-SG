@@ -1,82 +1,229 @@
-Hospitals Increasing Capacity to Ensure No Disruption to Patient Care
+10 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-HOSPITALS INCREASING CAPACITY TO ENSURE NO DISRUPTION TO PATIENT CARE
+10 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 03 May 2021
 
-With the increased number of COVID-19 cases in the community and at Tan
-Tock Seng Hospital (TTSH), the Ministry of Health (MOH) has worked with
-the public and private hospitals to activate various capacity management
-and load balancing measures.
+        As of 3 May 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 10 new cases of locally
+transmitted COVID-19 infection, all of whom are either patients and
+staff at Tan Tock Seng Hospital (TTSH) or close contacts of previous
+cases who had already been placed on quarantine. In addition, there are
+7 imported cases, who had already been placed on Stay-Home Notice (SHN)
+upon arrival in Singapore. Amongst the new cases today, 11 are
+asymptomatic, and were detected from our proactive screening and
+surveillance, while 6 were symptomatic.
 
-2. TTSH has implemented further steps to reduce the risk of transmission
-as well as free up more manpower to take care of existing patients. From
-2 May 2021, TTSH has progressively ceased admissions of new inpatient
-cases until further notice. All Singapore Civil Defence Force ambulance
-cases will also be diverted to other public and private hospitals for
-the purpose of load-balancing.
+SUMMARY OF NEW CASES
+BREAKDOWN BY
 
-3. For patients requiring Specialist Outpatient Clinic (SOC) services,
-TTSH will defer the appointments of stable cases and initiate
-teleconsultation and medication delivery where appropriate. For SOC
-patients requiring in-person care, TTSH will arrange for them to be seen
-by staff who are not linked to the Case 62541 cluster. From 3 May 2021,
-some hospitals have also started deploying doctors, nurses and allied
-health professionals to assist TTSH teams in caring for their existing
-patients.
+BREAKDOWN BY
 
-4. These measures allow TTSH and the National Centre for Infectious
-Diseases (NCID) to focus its attention on providing appropriate care for
-patients who are presently admitted, and to deal with the cluster of
-COVID-19 cases in the hospital.
+NUMBER OF CASES
 
-NO INTERRUPTION TO URGENT CARE
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
-5. MOH is working closely with all public and private hospitals to
-ensure that patients requiring care will continue to be attended to. The
-healthcare community has also worked together to reserve more beds to
-manage any potential increase in COVID-19 cases. To conserve resources
-across the healthcare sector, MOH has asked all hospitals to defer
-non-urgent surgeries and admissions as well as non-urgent SOC
-appointments until further notice. The hospitals will contact the
-affected patients about these deferments. Where appropriate, MOH
-encourages hospitals’ healthcare teams to work closely with patients in
-arranging teleconsultations and alternative care arrangements until the
-current situation stabilises.
+DETECTED FROM SURVEILLANCE
 
-6. MOH urges members of the public to visit the emergency department
-only for emergency and life-threatening conditions. These include
-persistent chest pain, breathlessness, sudden weakness and numbness,
-serious injuries and multiple trauma. Longer wait times are expected, as
-other hospitals step up to support TTSH, and we seek the understanding
-and patience of Singaporeans.
+SYMPTOMATIC
 
-7. Members of the public with non-emergency conditions should first seek
-consultation with their general practitioners or doctors at the
-polyclinics. Those with respiratory symptoms should visit Public Health
-Preparedness Clinics (PHPCs) as far as possible. At PHPCs, Singapore
-Citizens and Permanent Residents diagnosed with respiratory infections
-(e.g. common cold) will pay a flat subsidised rate of $10 for
-consultation and treatment of the condition. Pioneer Generation and
-Merdeka Generation seniors will pay $5 at PHPCs.
+ASYMPTOMATIC
 
-8. MOH reiterates that no hospital is denying medical care to patients
-who need it. However, as a precautionary measure, hospitals may impose
-stricter triaging criteria for visitors, including asking visitors or
-accompanying persons who had been to TTSH inpatient wards from 18 April
-2021 to defer their visits. This is in the best interest and safety of
-patients and staff in the other hospitals, as the investigation of the
-TTSH outbreak is ongoing.
+CASES IN THE COMMUNITY
 
-9. MOH thanks all public and private healthcare institutions for their
-contribution to contain the outbreak and seek the understanding and
-cooperation of all Singaporeans to support these measures and comply
-with safe distancing measures, while the healthcare system makes
-adjustments to cope with the ongoing situation.
+10
+
+8
+
+2
+
+4
+
+6
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+7
+
+7
+
+0
+
+2
+
+5
+
+TOTAL
+
+17
+
+2.      Overall, the number of new cases in the community has increased
+from 10 cases in the week before to 60 cases in the past week. The
+number of unlinked cases in the community has also increased from 4
+cases in the week before to 10 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.     Amongst the 184 confirmed cases reported from 27 April to 3 May,
+52 cases have tested positive for their serology tests, 105 have tested
+negative, and 27 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 10
+There are 10 cases in the community today, all of whom are linked to
+previous cases.
+
+CASE 62517 CLUSTER
+Cases 62779 and 62780
+Case 62779 is a 37 year-old female Philippines national who is a
+homemaker, and Case 62780 is a 3 year-old male Singaporean. Case 62779
+is the spouse of Case 62571 [1] and Case 62780 is their child.
+As they had been identified as close contacts of 62517[2], Cases 62779
+and 62780 were placed on quarantine on 27 April. They were tested for
+COVID-19 during quarantine on 28 April and their results were negative.
+On 1 May, they were tested again even though they are asymptomatic and
+their test results came back positive for COVID-19 infection the next
+day. Case 62779’s serology test result is negative and Case 62780’s is
+pending.
+
+CASE 62541 [3] CLUSTER
+Cases 62786, 62787, 62791, 62794 and 62795
+Cases 62786, 62787, 62791, 62794 and 62795 are patients who had been
+warded in TTSH Ward 9D. They were transferred to the National Centre for
+Infectious Diseases (NCID) for isolation on 28 April, and tested for
+COVID-19 infection.
+
+-   Case 62786 is an 82 year-old female Singaporean who had been warded
+    in TTSH Ward 9D from 21 April, and was transferred to NCID on 28
+    April. She was tested for COVID-19 on 28 April and again on 1 May,
+    and both results were negative. On 2 May, she was tested again even
+    though she is asymptomatic, and this time her result came back
+    positive for COVID-19 infection. Her serology test result is
+    negative.
+
+-   Case 62787 is a 94 year-old female Singaporean who had been warded
+    in TTSH Ward 9D from 9 April, and was transferred to NCID on 28
+    April. She was tested for COVID-19 on 28 April and her result was
+    negative. She developed a cough on 2 May, and was tested again. This
+    time, her result came back positive for COVID-19 infection. Her
+    serology test result is negative.
+
+-   Case 62791 is a 70 year-old male Singaporean who had been warded in
+    TTSH Ward 9D from 21 April, and was transferred to NCID on 28 April.
+    He was tested for COVID-19 on 30 April and his result was negative.
+    On 2 May, he was tested again for COVID-19 even though he is
+    asymptomatic, and his result came back positive on the same day. His
+    serology test result is negative.
+
+-   Case 62794 is a 53 year-old female Singaporean who had been warded
+    in TTSH Ward 9D from 26 April, and was transferred to NCID on 28
+    April. She was tested for COVID-19 on 28 April and again on 30
+    April, and both results were negative. She developed a cough on 1
+    May, and was swabbed the next day. Her test result came back
+    positive for COVID-19 infection. Later on the same day, she
+    developed a fever and runny nose. Her serology test result is
+    negative.
+
+-   Case 62795 is a 79 year-old male Singaporean who had been warded in
+    TTSH Ward 9D from 22 April, and was transferred to NCID on 28 April.
+    He was tested for COVID-19 on 28 April, and his result was negative.
+    On 2 May, he was tested again for COVID-19 even though he is
+    asymptomatic, and his result came back positive the next day. His
+    serology test result is negative.
+
+Cases 62781, 62784 and 62790
+Cases 62781, 62784 and 62790 are staff working at TTSH, and were tested
+as part of TTSH’s testing of all staff of the hospital.
+-   Case 62781 is a 22 year-old female Malaysia national who is employed
+    by UEMS Solutions Pte Ltd and deployed as a porter at TTSH. She was
+    tested for COVID-19 on 28 April and her result was negative. She
+    developed a sore throat on 29 April but did not seek medical
+    treatment, and subsequently a fever and body aches on 1 May. On 2
+    May, she sought treatment at TTSH emergency department and her test
+    result came back positive for COVID-19 infection. Her serology test
+    result is negative.
+
+-   Case 62784 is a 25 year-old female Singaporean who works as a nurse
+    at TTSH emergency department. She was tested for COVID-19 on 30
+    April and her result was negative. She developed a fever and sore
+    throat on 2 May, and sought treatment at TTSH emergency department.
+    Her test result came back positive on the same day. Her serology
+    test result is pending.
+
+-   Case 62790 is a 26 year-old female Vietnam national who works as a
+    nurse at TTSH Ward 9D. She was tested for COVID-19 on 28 April and
+    her result was negative. She was placed on quarantine on 29 April
+    and conveyed to a dedicated facility the next day. On 2 May, she was
+    tested again for COVID-19 even though she is asymptomatic, and this
+    time her test came back positive. Her serology test result was
+    negative for the N antigen, which suggests the presence of early
+    infection. Case 62790 received her first dose of COVID-19 vaccine on
+    18 January, and the second dose on 8 February.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 7
+Amongst the 7 imported cases,
+
+-   3 (Cases 62782, 62783 and 62796) are Singapore Permanent Residents
+    who returned from India and the Philippines.
+
+-   1 (Case 62789) is a Dependant’s Pass holder who arrived from Nepal.
+
+-   2 (Cases 62793 and 62797) are Work Pass holders who arrived from the
+    Philippines and Russia.
+
+-   1 (Case 62785) is a Short-Term Visit Pass holder who arrived from
+    India to visit a family member who is a Singapore Permanent
+    Resident.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.       Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.       Epidemiological investigations are ongoing. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.       20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,806 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.       There are currently 131 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and none is in the
+intensive care unit. 267 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 31 have passed away from
+complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
-
 3 MAY 2021
+
+[1] Case 62571 is a 39 year-old male Singaporean who is a family member
+of Case 62517, and had interacted with him over dinner on 25 April. He
+was confirmed to have COVID-19 infection on 28 April.
+[2] Case 62517 is a 38 year-old male Singaporean who works as an
+Immigration & Checkpoints Authority Officer deployed at Changi Airport
+Terminal 1. He was confirmed to have COVID-19 infection on 27 April.
+[3] Case 62541 is a 46 year-old nurse at Tan Tock Seng Hospital (TTSH),
+and is deployed at Ward 9D. She was confirmed to have COVID-19 infection
+on 27 April. There are 35 cases in total linked to TTSH so far.
+
+
