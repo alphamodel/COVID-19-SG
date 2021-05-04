@@ -1,304 +1,234 @@
-Updates On Local Situation, Border Measures and Shift to Heightened
-Alert to Minimise Transmission
+5 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-UPDATES ON LOCAL SITUATION, BORDER MEASURES AND SHIFT TO HEIGHTENED ALERT TO MINIMISE TRANSMISSION
+5 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 04 May 2021
 
-           The Multi-Ministry Taskforce (MTF) has been closely
-monitoring the local and global COVID-19 situation. Several countries
-continue to experience a resurgence of cases and the emergence of new
-virus variants which have also been found in Singapore. The number of
-locally transmitted COVID-19 cases and unlinked community cases has also
-continued to increase, signalling undetected community transmissions
-that could rapidly escalate into another major outbreak if not
-adequately contained in a timely manner. We will be taking decisive
-action to curb the COVID-19 infections in Singapore.
+          As of 4 May 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 5 new cases of locally transmitted
+COVID-19 infection, all of whom were detected from our proactive testing
+of patients, visitors and staff at Tan Tock Seng Hospital (TTSH), and
+had already been placed on quarantine. In addition, there are 12
+imported cases, who had already been placed on Stay-Home Notice (SHN)
+upon arrival in Singapore. Amongst the new cases today, 11 are
+asymptomatic, and were detected from our proactive screening and
+surveillance, while 6 were symptomatic.
 
-2.      We will further tighten border measures to manage the risk of
-importation from travellers and onward local transmission. From 7 MAY
-2021, 2359 HOURS, all new travellers arriving from higher risk
-countries/regions will be subject to 21-day Stay-Home Notice (SHN) at
-dedicated SHN facilities.
+SUMMARY OF NEW CASES
 
-3.     We will also be tightening safe management measures to reduce the
-risk of community spread in this period of heightened alert. In the
-upcoming weeks, it is of utmost importance that everyone be extra
-vigilant and take all necessary precautions against the spread of
-COVID-19 infections in Singapore.
 
-REPORT OF VIRUS VARIANTS IDENTIFIED IN SINGAPORE
 
-4.     Within the community in the past week, we have identified 60 new
-cases. As of 3 May 2021, we have detected eight local cases with the
-B.1.351 (S. African) variant, seven local cases with the B.1.1.7 (UK)
-variant, seven local cases with B.1.617.2 (Indian) variant, three local
-cases with P1 (Brazilian) variant, three local cases with B.1.617.1
-(Indian) variant, and one local case with B.1.525 (UK2) variant. In
-addition, there were four re-infection cases RI16, RI17, RI18 and RI20
-with the B.1.351 (S. African) variant [1].
 
-5.     Of note, seven cases in three local clusters have the B.1.617.2
-(Indian) variant, but the viruses in each cluster are phylogenetically
-distinct, suggesting that the clusters are not linked to one another.
-Five cases 62541, 62557, 62561, 62567, and 62568 are part of the cluster
-at Tan Tock Seng Hospital. Case 62517 of the Case 62517 cluster is an
-Immigration & Checkpoints Authority (ICA) officer deployed at Changi
-Airport Terminal 1. Case 62553 of the Case 62553 cluster is a cleaner
-deployed at a community care facility at Tuas South. All necessary
-public health actions have been taken promptly to isolate and ringfence
-all cases. Given the possible increased transmissibility of the new
-virus variants, it is necessary to take tighter measures reflective of
-the heightened alert to mitigate the risk of further transmission in
-Singapore.
 
-REVIEWING BORDER MEASURES TO MANAGE RISKS
 
-6.      Since 1 MAY 2021, 2359 HOURS, to manage the increased risks of
-community spread, all long-term pass holders and short-term visitors
-with recent travel history (including transit) to Bangladesh, Nepal,
-Pakistan and Sri Lanka within the last 14 days are not allowed entry
-into Singapore, or transit through Singapore [2]. In addition, since 2
-MAY 2021, 2359 HOURS, travellers with recent travel history to Thailand
-are required to serve their 14-day SHN at dedicated SHN facilities. In
-view of the worsening situation globally, we will further tighten our
-border measures for travellers with recent travel history to higher risk
-countries/regions, and reduce entry approvals for non-Singapore
-Citizens/ Permanent Residents with immediate effect.
 
-(A) Extending Consecutive Travel History from 14 to 21 Days
+BREAKDOWN BY
 
-7.     From 7 MAY 2021, 2359 HOURS, prevailing border measures that will
-apply to incoming travellers will be determined based on the travellers’
-recent travel history in the past consecutive 21 days to countries/
-regions, instead of the existing assessed travel history period of 14
-days [3] . This will aid the detection of any spread among any groups of
-travellers at pre-departure tests.
 
-(B) Reviewing the Length of the SHN Duration from 14 to 21 Days
 
-8.     From 7 MAY 2021, 2359 HOURS, the following changes to the SHN
-duration will be implemented:
-a.   All travellers with recent travel history to higher risk
-countries/regions[4], and who are arriving from 7 MAY 2021, 2359 HOURS,
-will be required to serve 21-day SHN at dedicated SHN
-facilities. Travellers who are currently serving 14-day SHN and have yet
-to complete their SHN by 7 MAY 2021, 2359 HOURS, will be required to
-serve an additional 7-days at their current SHN location to minimise
-movement and risk of transmission.
-b.   Travellers who have stayed in FIJI AND VIETNAM in the last 14 days
-before arrival in Singapore were previously allowed to opt out of
-serving 14-day SHN at dedicated SHN facilities. FROM 7 MAY 2021, 2359
-HOURS, TRAVELLERS WHO HAVE STAYED IN THESE COUNTRIES IN THE PAST
-CONSECUTIVE 21 DAYS BEFORE ARRIVAL IN SINGAPORE WILL BE SUBJECTED TO
-21-DAY SHN AT DEDICATED SHN FACILITIES, WITH THE OPTION TO SERVE THE
-LAST 7 DAYS AT THEIR PLACE OF RESIDENCE. Those whohave yet to complete
-their 14-day SHN by 7 MAY 2021, 2359 HOURS can complete their remaining
-14-day SHN at their current SHN location, and serve their additional
-7-days at their place of residence, instead of at dedicated SHN
-facilities.
+BREAKDOWN BY
 
-c.   Travellers from the UK, South Africa, Bangladesh, India, Nepal,
-Pakistan, and Sri Lanka who are currently required to serve 21-day SHN
-will be required to serve the full duration of the SHN at dedicated SHN
-facilities. Travellers who have yet to complete their 21-day SHN by 7
-MAY 2021, 2359 HOURS, will have to complete their 21-day SHN at their
-current SHN location to minimise movement and risk of transmission.
 
-d.   Travellers serving 21-day SHN will undergo COVID-19 Polymerase
-Chain Reaction (PCR) tests on-arrival[5], on Day 14 of their SHN, and
-before the end of their 21-day SHN period.
-HEIGHTENED ALERT IN THE FIGHT AGAINST COVID-19
 
-9.     On 30 April 2021, MTF had announced additional community measures
-that would be implemented from 1 May through 14 May 2021 (unless
-otherwise stated). To manage the evolving community situation, we will
-step up efforts to keep the community safe and break the chains of
-transmission by reducing interactions amongst social circles and at the
-workplace. Activities that involve large gatherings will also be
-calibrated to ensure that the risk of transmission at such events are
-mitigated.
-10.     The following additional measures will take effect from 8
-MAY through 30 MAY 2021. In the next few days before the measures take
-effect, we also encourage all to practise the following safe management
-measures to keep our community safe. A summary of all measures
-applicable from 1 May through 30 May 2021 is summarised in Annex B.
+NUMBER OF CASES
 
-A) Reducing Interactions amongst Social Circles
 
-11.     The current permissible group size of up to 8 persons will be
-reduced to up to 5 persons. As earlier announced on 30 April 2021,
-individuals are advised to keep to 2 or less social gatherings per
-day, whether visiting another household or meeting with friends/ family
-members in a public place. The cap of 8 distinct visitors per household
-per day will also be reduced to 5 distinct visitors per household per
-day.
 
-B) Workplace Measures
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
 
-12.      Today, up to 75% of employees who are able to work-from-home
-are allowed to return to the workplace. This will be tightened from 8
-MAY through 30 MAY 2021. Employers must ensure that no more than 50% of
-employees who are able to work from home return to the workplace at any
-time. Employers should continue to stagger start times of employees who
-need to return to the workplace, and implement flexible working hours.
-Social gatherings at the workplace should be avoided. However, if they
-cannot be avoided (e.g. during meal breaks), the gatherings are subject
-to the revised group size of 5 persons. Employers must exercise
-heightened vigilance at the workplace. These measures will lower
-transmission risks by reducing overall footfall and interactions at
-common spaces at or near the workplace, and in public places, including
-public transport.
+DETECTED FROM SURVEILLANCE
 
-C) Reduction of Activity and Event Sizes and Pre-Event Testing
-Requirements
 
-13.      To minimise the likelihood of large cluster formations, we will
-reduce event sizes and/or lower the event size caps beyond which
-pre-event testing[6] is required. More details on pre-event testing can
-be found on the MOH website.
-a.  14.      Congregational and other worship services. As a new
-requirement, pre-event testing will be required if there are more than
-100 attendees at any one time, capped at 250 attendees. To further
-reduce the risks of transmission, congregational singing will be
-suspended in places of worship to manage any risks of spread.
-b.  Weddings. Marriage solemnisations may proceed with up to 250
-attendees in total (including the wedding couple, excluding the Licensed
-Solemniser and vendors) for the entire event, in zones of up to 50
-attendees. Pre-event testing will be required for the wedding couple for
-solemnisations involving more than 50 attendees. Similarly, wedding
-receptions may proceed with up to 250 attendees in total (including the
-wedding couple, excluding vendors) for the entire event, in zones or
-timeslots of up to 50 attendees each. Due to the higher risk at
-receptions where people are unmasked while enjoying their meals and come
-into close and prolonged contact mingling with one another, pre-event
-testing for all attendees (including the wedding couple) will be
-required for wedding receptions involving more than 50 attendees.
-c.  Funerals. Attendees at the day of the burial/ cremation will be
-limited to no more than 30 persons, down from 50 persons currently. The
-cap for other days of the wake remains at 30 attendees at any one time.
-As pre-event testing is not required, attendees are reminded to maintain
-safe distancing and keep masks on at all times to reduce the risk of
-spread.
-d.  Spectator/participation sports events (seated). As a new
-requirement, all mass participation sports events will be suspended and
-no spectators will be allowed.
-e.  Live performances at designated venues, pilot business-to-business
-events, cinemas. The maximum number of attendees allowed at live
-performances and pilot business-to-business events will be reduced from
-750 to 250. Pre-event testing will be required for all attendees of
-these events if there are more than 100 attendees. Similarly, cinema
-attendances will be reduced to 100 attendees, with the potential to
-increase to 250 attendees with the additional requirement of pre-event
-testing.
-f.  Museums and Public Libraries. Operating capacity will be reduced
-from 65% to 50%.
-g.  Attractions and shows.All attractions that have received MTI’s prior
-approval will be permitted to operate at 50% operating capacity, a
-reduction from 65%. The maximum number of attendees allowed at the
-indoor and outdoor shows at these attractions will be reduced to 100.
-Pre-event testing is not required.
-h.  Tours. The maximum tour size offered by tour operators and tourist
-guides will be reduced from 50 attendees to 20 attendees.
-(D) Closure of Higher-risk Settings
-14.      Based on overseas and local experience, higher-risk settings
-such as indoor gymnasiums and indoor fitness studios have a tendency to
-be hotspots for COVID-19 transmission. These settings and the associated
-activities are where there is a high density of people who are unmasked
-and in close proximity with one another, often for prolonged periods.
 
-15.     During the next few weeks of heightened alert, to reduce the
-risks of community transmission, we will close indoor gymnasiums and
-indoor fitness/ health studios. These are small enclosed spaces where
-people are frequently unmasked while exercising, and in close proximity
-with many other unmasked people. Outdoor organised exercise
-programmes/classes may still continue, subject to a class size of 30
-attendees in total, with safe distancing measures. This includes group
-sizes of up to 5 persons and a 3 metre distance between each group.
+SYMPTOMATIC
 
-16.     We will remain vigilant and continue to monitor
-other higher-risk settings and activities such as indoor sports halls
-and personalised services such as massages, spas, and facials. If the
-community cases situation does not improve, we will consider taking
-further actions on these higher-risk settings and activities.
+ASYMPTOMATIC
 
-TRACETOGETHER-ONLY SAFE ENTRY (TT-ONLY SE) BROUGHT FORWARD TO 17 MAY
-2021
+CASES IN THE COMMUNITY
 
-17.     It was previously announced that TT-only SE was slated to be
-implemented from 1 JUNE 2021 across all venues that experience a higher
-throughput of visitors and/or where persons are likely to be in close
-proximity for prolonged periods. The implementation of TT-only SE will
-now be brought forward to 17 MAY 2021. From 17 MAY 2021, scanning of
-SE-QR codes with the phone camera and Singpass App will be discontinued.
-To ease the transition, ID check-ins will be retained until 31 MAY 2021.
+5
 
-SAFEENTRY GATEWAY REQUIRED TO BE DEPLOYED AT MORE VENUES FROM 15 JUNE
-2021
 
-18.      It was also previously announced that SafeEntry Gateway devices
-would be required to be deployed at selected venues with high
-visitorship, such as malls, large standalone retail stores, and cinemas,
-beginning from 19 APRIL 2021. The requirement to deploy SafeEntry
-Gateway devices will be extended to more public-facing venues where
-people are likely to be in contact for prolonged periods, such as
-hotels, dine-in F&B outlets, and sports and fitness centres. This will
-facilitate a more seamless check-in experience and ensure that TT tokens
-are functioning. These venues will be required to deploy the SafeEntry
-Gateway by 15 JUNE 2021. The full list of venues required to deploy the
-SafeEntry Gateway can be found on the SafeEntry website.
 
-19.     These measures will strengthen the TT and SE Programmes, which
-are critical digital tools to facilitate contact tracing and bring down
-community spread. To date, more than 90% of the population have either
-downloaded the TT App and/or collected the TT token. By maximising TT
-coverage and active TT usage, we can facilitate quick detection and
-ringfencing of local cases and their close contacts, and minimise
-further spread to the community.
+5
 
-WORKING TOGETHER AND KEEPING SAFE
+0
 
-20.     Our recent cases show that we must continue to be vigilant in
-our fight against COVID-19. We must continue to observe all the safe
-management measures, practise good hygiene, and see a doctor and be
-tested when sick. Vaccination also remains a key enabler to reduce the
-risks of community transmission. Vaccination sites continue to remain
-open during this period subject to safe management measures and we
-encourage all to continue to be vaccinated when it is offered to you.
 
-21.     We seek the cooperation of all Singaporeans to remain unified
-and disciplined in the fight against COVID-19. Together, we keep our
-loved ones and community safe.
+
+4
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+12
+
+ 12
+
+0
+
+
+
+2
+
+10
+
+TOTAL
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overall, the number of new cases in the community has increased from 11
+cases in the week before to 64 cases in the past week. The number of
+unlinked cases in the community has also increased from 4 cases in the
+week before to 10 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.  Amongst the 189 confirmed cases reported from 28 April to 4
+May, 55 cases have tested positive for their serology tests, 107 have
+tested negative, and 27 serology test results are pending.
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 5
+
+There are 5 cases in the community today, all of whom are linked to the
+Case 62541[1] cluster.
+
+Cases 62801, 62807 and 62808
+
+Cases 62801, 62807 and 62808 had visited TTSH Ward 9D between 18 April
+and 28 April, and were detected from our proactive case-finding.
+
+•  Case 62801 is a 53 year-old female Singaporean who visited
+TTSH Ward 9D on multiple occasions between 18 April and 28 April. She
+was contacted by MOH on 29 April night to self-isolate, and placed on
+quarantine on 30 April. She is asymptomatic, but was tested for COVID-19
+on 2 May during quarantine, and her result came back positive the next
+day. Her serology test result is pending. Case 62801 received her first
+dose of COVID-19 vaccine on 17 April.
+
+•  Case 62807 is a 45 year-old female Philippines national who
+visited TTSH Ward 9D on 25 April. She was placed on quarantine at a
+dedicated facility on 30 April. She developed a runny nose, sore throat
+and fever on 2 May and reported her symptoms. She was tested for
+COVID-19 on the same day, and her result came back positive the next
+day. Her serology test result is pending.
+
+•  Case 62808 is a 39 year-old female Indonesia national who
+visited TTSH Ward 9D on 21 April and 22 April. She was placed on
+quarantine at a dedicated facility on 30 April. She developed a sore
+throat and fever on 3 May and reported her symptoms, and was tested for
+COVID-19 on the same day. Her result came back positive but her serology
+test result is pending.
+
+Case 62803
+
+Case 62803 is a 25 year-old male Singaporean who works as a Pharmacist
+at TTSH, and had interacted with patients and staff at Ward 9D on 20
+April. He was last at work on 28 April. He developed a mild runny nose
+on 30 April which resolved on the same day. On 1 May, he was tested for
+COVID-19, and placed on quarantine in the early morning of 3 May. His
+result came back positive on the same day. His serology test result is
+pending. Case 62803 received his first dose of COVID-19 vaccine on 25
+February, and the second dose on 18 March.
+
+Case 62816
+
+Case 62816 is a 64 year-old male Singaporean who had been warded in TTSH
+Ward 9D on 26 April, and was transferred to NCID on 27 April. He was
+tested for COVID-19 on 28 April and 30 April and his results were
+negative. On 2 May, he developed a cough and fever and was tested again
+for COVID-19 the next day. His result came back positive on 4 May. His
+serology test result is pending.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+c)  Imported cases: 12
+
+Amongst the 12 imported cases,
+
+•  1 (Case 62800) is a Singaporean and 2 (Cases 62806 and
+62813) are Singapore Permanent Residents who returned from India.
+•  3 (Cases 62804, 62810 and 62814) are Dependant’s Pass
+holders who arrived from the Maldives and Nepal.
+•  1 (Case 62819) is a Long-Term Visit Pass holder who arrived
+from Malaysia.
+•  1 (Case 62817) is a Student’s Pass holder who arrived from
+Japan.
+•  1 (Case 62802) is a Work Pass holder who arrived from the
+Philippines.
+•  3 are Work Permit holders who arrived from Bangladesh,
+Indonesia and Malaysia, of whom 1 (Case 62805) is a foreign domestic
+worker.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.  Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are ongoing. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  17 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,823 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+7.  There are currently 131 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit[2]. 267 are isolated and cared for
+at community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 31 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 4 MAY 2021
 
-
-------------------------------------------------------------------------
-
-[1] A breakdown of the local and imported cases detected with these
-variants is outlined in Annex A.
-
-[2] This also applied to all those who had obtained prior approval for
-entry into Singapore.
-
-[3] This excludes bilaterally negotiated travel lanes (e.g. Air Travel
-Bubble, Reciprocal Green Lane).
-
-[4] As of 4 May 2021, this refers to all countries/regions except
-Australia, Brunei Darussalam, Mainland China, New Zealand, Taiwan, Hong
-Kong SAR, and Macao SAR. Please refer to the Safe Travel Office Website
-for updates to the countries/ regions identified.
-
-[5] To expedite the COVID-19 PCR test at the airport, travellers are
-strongly encouraged to register and pre-pay for their on-arrival
-COVID-19 PCR test prior to departing for Singapore at
-https://safetravel.changiairport.com/.
-
-[6] Vaccinated individuals can gain entry to events that implement
-pre-event testing without the need to undergo pre-event testing, by
-presenting relevant documentation. The maximum number of attendees
-includes these vaccinated individuals.
+[1]  Case 62541 is a 46 year-old nurse at Tan Tock Seng Hospital (TTSH),
+and is deployed at Ward 9D. She was confirmed to have COVID-19 infection
+on 27 April. There are 40 cases in total linked to TTSH so far.
+[2]  These are not linked to the Case 62541 cluster.
