@@ -1,165 +1,27 @@
-1 New Case of Locally Transmitted Covid-19 Infection
+2 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-1 NEW CASE OF LOCALLY TRANSMITTED COVID-19 INFECTION
+2 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 06 May 2021
 
-As of 5 May 2021, 12pm, the Ministry of Health (MOH) has confirmed and
-verified that there is 1 new case of locally transmitted COVID-19
-infection. The case is in the community, and there are no new cases in
-the dormitories. There are 15 imported cases, who had already been
-placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the
-new cases today, 13 are asymptomatic, and were detected from our
-proactive screening and surveillance, while 3 were symptomatic.
-SUMMARY OF NEW CASES
+             As of 6 May 2021, 12pm, the Ministry of Health (MOH) has
+preliminarily confirmed 2 new cases of locally transmitted COVID-19
+infection[1]. Based on our investigations so far, both cases are in the
+community, and there are no new cases in the dormitories.
 
-BREAKDOWN BY
+2.         In addition, there are 16 imported cases, who had already
+been placed on Stay-Home Notice upon arrival in Singapore.
 
-BREAKDOWN BY
+3.        In total, there are 18 new cases of COVID-19 infection in
+Singapore today.
 
-NUMBER OF CASES
-
-ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
-
-DETECTED FROM SURVEILLANCE
-
-SYMPTOMATIC
-
-ASYMPTOMATIC
-
-CASES IN THE COMMUNITY
-
-1
-
-0
-
-1
-
-1
-
-0
-
-CASES RESIDING IN DORMITORIES
-
-0
-
-0
-
-0
-
-0
-
-0
-
-IMPORTED CASES
-
-15
-
-15
-
-0
-
-2
-
-13
-
-TOTAL
-
-16
-
-2.     Overall, the number of new cases in the community has increased
-from 13 cases in the week before to 62 cases in the past week. The
-number of unlinked cases in the community has also increased from 6
-cases in the week before to 7 cases in the past week. We will continue
-to closely monitor these numbers, as well as the cases detected through
-our surveillance programme.
-3.     Amongst the 182 confirmed cases reported from 29 April to 5 May,
-49 cases have tested positive for their serology tests, 101 have tested
-negative, and 32 serology test results are pending.
-CASE DETAILS
-A) CASES IN THE COMMUNITY: 1
-There is 1 case in the community today who is linked to previous cases.
-Case 62824 is a 59 year-old male Singaporean who is employed by GKE
-Express Logistics Pte Ltd as a trailer truck driver at Brani Terminal
-and Pasir Panjang Terminal. He was last at work on 1 May.
-He developed a fever and sore throat on 2 May, and remained at home. The
-next day, he sought medical treatment at a General Practitioner clinic
-and was tested for COVID-19. His result came back positive for COVID-19
-on 4 May, and he was conveyed in an ambulance to Alexandra Hospital. His
-serology test result is pending.
-Our investigations found that Cases 61822¹, 62684², 62691³ and 62824 had
-been at Pasir Panjang Terminal for work, and transmission could have
-occurred at the Terminal. Further epidemiological investigations are
-ongoing. As a precautionary measure, MOH will carry out a special
-testing operations to test port workers employed by PSA Singapore who
-had been deployed at Pasir Panjang Terminal.
-B) CASES RESIDING IN DORMITORIES: 0
-There are no cases residing in dormitories today.
-C) IMPORTED CASES: 15
-Amongst the 15 imported cases,
--  5 (Cases 62821, 62825, 62827, 62828 and 62838) are Singaporeans and 2
-(Cases 62822 and 62830) are Singapore Permanent Residents who returned
-from India, Indonesia, Thailand, the UK and US.
--  1 (Case 62826) is a Dependant’s Pass holder who arrived from India,
-and who has a Singaporean family member.
--  2 (Cases 62829 and 62831) are Student’s Pass holders who arrived from
-India and Myanmar. They were already studying in Singapore before, and
-had returned to their home country, or had been emplaced on their course
-earlier.
--  3 (Cases 62823, 62834 and 62837) are Work Pass holders who arrived
-from the Philippines, Sri Lanka and Thailand.
--  2 are Work Permit holders who arrived from the Philippines and Sri
-Lanka, of whom 1 (Case 62833) is a foreign domestic worker.
-They had all already been placed on SHN upon arrival in Singapore and
-were tested while serving SHN. The arrivals from the Indian
-sub-continent had already come in to Singapore before the restrictions
-on travel were imposed⁴.
-4.     Please refer to the Annexes and MOH’s daily Situation Report
-(www.moh.gov.sg/covid-19/situation-report) for details.
-5.     Epidemiological investigations are in progress. In the meantime,
-all the identified close contacts of the cases have been isolated and
-placed on quarantine, and will be tested at the start and end of their
-quarantine period so that we can detect asymptomatic cases. We will also
-conduct serological tests for the close contacts to determine if the
-cases could have been infected by them.
-UPDATE ON CONDITION OF CONFIRMED CASES
-6.     21 more cases of COVID-19 infection have been discharged from
-hospitals or community isolation facilities. In all, 60,844 have fully
-recovered from the infection and have been discharged from hospitals or
-community care facilities.
-7.     There are currently 131 confirmed cases who are still in
-hospital. Of these, most are stable or improving, and 2 are in critical
-condition in the intensive care unit⁵. 262 are isolated and cared for at
-community facilities. These are those who have mild symptoms, or are
-clinically well but still test positive for COVID-19. 31 have passed
-away from complications due to COVID-19 infection.
-MINISTRY OF HEALTH
-5 MAY 2021
-
+4.         We are still working through the details of the cases, and
+further updates will be shared via the MOH press release that will be
+issued tonight.
 
 ------------------------------------------------------------------------
 
-¹ Case 61822 is a 23 year-old male Indian national who works as a
-lashing specialist at Pasir Panjang Terminal. He was confirmed to have
-COVID-19 infection on 10 April.
-² Case 62684 is a 23 year-old male India national who works as a
-stevedore at Pasir Panjang Terminal. He was confirmed to have COVID-19
-infection on 30 April.
-3 Case 62691 is a 35 year-old male Myanmar national who works as a
-stevedore at Pasir Panjang Terminal and Brani Terminal. He was confirmed
-to have COVID-19 infection on 28 April.
-
-⁴  From 23 April 2021, 2359 hours, all long-term pass holders and
-short-term visitors with recent travel history (including transit) to
-India within the last 14 days will not be allowed entry into Singapore,
-or transit through Singapore. From 1 May 2021, 2359 hours, all long-term
-pass holders and short-term visitors with recent travel history
-(including transit) to Bangladesh, Nepal, Pakistan and Sri Lanka within
-the last 14 days will not be allowed entry into Singapore, or transit
-through Singapore.
-⁵ These are not linked to the Case 62541 cluster.
-
-
+[1] The cases are not linked to the Case 62541 cluster.
