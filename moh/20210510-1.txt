@@ -7,20 +7,204 @@
 
 Published Date: 10 May 2021
 
-As of 10 May 2021, 12pm, the Ministry of Health (MOH) has preliminarily
-confirmed 3 new cases of locally transmitted COVID-19 infection, of whom
-2 work in Changi Airport Terminal 3 and are linked to the Case 62873¹
-cluster. Based on our investigations so far, the cases are in the
-community, and there are no new cases in the dormitories.
-2.      In addition, there are 16 imported cases, who had already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore.
-Amongst them, 5 are Singaporeans or Singapore Permanent Residents.
-3.      In total, there are 19 new cases of COVID-19 infection in
-Singapore today.
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+As of 10 May 2021, 12pm, the Ministry of Health (MOH) has confirmed and
+verified that there are 3 new cases of locally transmitted COVID-19
+infection. The cases are in the community, and there are no new cases in
+the dormitories. There are 16 imported cases, who had already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Amongst the new cases today, 16 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 3 were symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+3
+
+
+
+0
+
+3
+
+
+
+2
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+16
+
+
+
+16
+
+0
+
+
+
+1
+
+15
+
+TOTAL
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.      Overall, the number of new cases in the community has decreased
+from 59 cases in the week before to 32 cases in the past week. The
+number of unlinked cases in the community has increased from 9 cases in
+the week before to 10 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3.      Amongst the 143 confirmed cases reported from 4 May to 10 May,
+67 cases have tested positive for their serology tests, 54 have tested
+negative, and 22 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 3
+There are 3 cases in the community today, of whom 2 are linked to
+previous cases and 1 is currently unlinked.
+Case 63037
+Case 63037 is a 59 year-old female Singaporean who works as a chef at
+MOS Burger – Suntec City (3 Temasek Boulevard). Her work does not entail
+interaction with diners.
+She was conveyed to Ng Teng Fong General Hospital on 9 May for an
+unrelated condition, and was tested for COVID-19, even though she is
+asymptomatic. Her test came back positive for COVID-19 infection on the
+same day. Her serological test result is pending.
+CASE 62873¹ CLUSTER
+Case 63047
+Case 63047 is a 44 year-old male Singaporean who works as an operations
+personnel at Raffles Medical located at Changi Airport Terminal 3.
+He developed a blocked nose on 9 May but did not seek medical treatment.
+He was swabbed on the same day as part of MOH’s special COVID-19 testing
+operations for all workers in Changi Airport Terminals 1 and 3, as well
+as Jewel Changi Airport. His test result came back positive on 10 May
+and he was conveyed in an ambulance to the National Centre for
+Infectious Diseases (NCID). His serology test result is pending.  Case
+63047 received his first dose of COVID-19 vaccine on 23 February, and
+the second dose on 16 March.
+Case 63055
+Case 63055 is a 59 year-old male Singaporean who is employed by Certis
+Cisco as an aviation security officer at Changi Airport Terminal 3. His
+job entails security screening at the departure hall.
+He developed a cough on 5 May but did not seek medical treatment until 7
+May, when he visited a General Practitioner clinic. He was given 3 days’
+medical leave and advised to remain at home. On 8 May night, he sought
+medical treatment at another General Practitioner clinic as he had not
+recovered, and was tested for COVID-19 the next day. His result came
+back positive for COVID-19 infection on 10 May, and he was conveyed in
+an ambulance to NCID. His earlier tests from RRT – the last being on 4
+May – were all negative for COVID-19 infection. His serological test
+result is pending. Case 63055 received his first dose of COVID-19
+vaccine on 25 January, and the second dose on 15 February.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 16
+Amongst the 16 imported cases,
+• 5 (Cases 63033, 63042, 63045, 63046 and 63048) are Singaporeans who
+returned from Hong Kong and India.
+• 2 (Cases 63031 and 63041) are Dependant’s Pass holders who arrived
+from Nepal and the UAE.
+• 3 are Work Permit holders who arrived from Indonesia, Malaysia and the
+Philippines, of whom 2 (Cases 63052 and 63053) are foreign domestic
+workers.
+• 4 (Cases 63032, 63034, 63035 and 63036) are Short-Term Visit Pass
+holders. Case 63032 was already receiving medical care in Singapore and
+had arrived from Papua New Guinea for further treatment. Cases 63034 and
+63035 arrived from Indonesia to visit their family members who are
+Singaporeans, and Case 63036 arrived from Indonesia for a work project.
+• 2 (Cases 63038 and 63039) are Special Pass holders who are sea crew.
+They arrived from Japan and were tested onboard without disembarking.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation. The
+arrivals from the Indian sub-continent had already come into Singapore
+before the restrictions on travel were imposed².
+4.      Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5. Epidemiological investigations are in progress. In the meantime, all
+the identified close contacts of the cases have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6.      20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 60,953 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.      There are currently 135 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 3 are in critical
+condition in the intensive care unit. 259 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 31 have passed
+away from complications due to COVID-19 infection.
+
 [1] Case 62873 is an 88 year-old male Singaporean who is employed by
 Ramky Cleantech Services Pte Ltd as a cleaner deployed at Changi Airport
 Terminal 3. He was confirmed to have COVID-19 infection on 5 May.
+[2] From 1 May 2021, 2359 hours, all long-term pass holders and
+short-term visitors with recent travel history (including transit) to
+Bangladesh, Nepal, Pakistan and Sri Lanka within the last 14 days will
+not be allowed entry into Singapore, or transit through Singapore.
 
