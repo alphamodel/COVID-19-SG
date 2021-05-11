@@ -199,8 +199,8 @@ Case 62972
 
 Case 62972 is a 57 year-old male Singaporean who is employed by Certis
 Cisco as an Aviation Security Officer at Changi Airport Terminal 3. His
-job entails maintaining crowd control and checking of travellers’
-documents. He had not gone to work since onset of symptoms.
+job entails queue management and checking of travellers’ documents. He
+had not gone to work since onset of symptoms.
 
 He developed a cough on 7 May and sought medical treatment at a General
 Practitioner clinic on the same day, where he was tested for COVID-19.
