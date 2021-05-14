@@ -296,12 +296,12 @@ is pending.
 Case 63149
 Case 63149 is an 80 year-old female Singaporean who is employed by Ramky
 Cleantech Services Pte Ltd as a cleaner at Changi Airport Terminal 3. As
-she had been identified as a contact of Case 62873, he was placed on
+she had been identified as a contact of Case 62873, she was placed on
 quarantine on 10 May. She is asymptomatic, and was detected when she was
 tested on 12 May during quarantine. Her test result came back positive
-for COVID-19 infection on 13 May. His serology test result is pending.
+for COVID-19 infection on 13 May. Her serology test result is pending.
 Case 63150
-Case 63150 is an 58 year-old female Singaporean who works as an
+Case 63150 is a 58 year-old female Singaporean who works as an
 administrative personnel at SBY Frozen Food Supply. She is a family
 member and household contact of Cases 63055[10] and 63074[11].
 As she had been identified as a contact of Case 63055, she was placed on
