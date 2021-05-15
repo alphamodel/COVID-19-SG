@@ -1,41 +1,70 @@
-Reply to Media Queries On the Number of Imported Cases Who Were Short
-Term Visitors
+Updates On Border Measures for Travellers From Taiwan
 
 
 
-REPLY TO MEDIA QUERIES ON THE NUMBER OF IMPORTED CASES WHO WERE SHORT TERM VISITORS
+UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM TAIWAN
 
 
 Published Date: 15 May 2021
 
-In response to media queries on the number of imported cases who were
-short term visitors, MOH would like to clarify the following.
-The B1617 variant prevalent in South Asia is not just a Singapore
-problem. The WHO has deemed it a variant of global concern.
-According to the Gisaid Institute, Europe has sequenced almost 2,000
-B1617 infections, US 486, Australia 85, Japan 29 and China 17.
-This is a major reason why transmission is rising throughout Asia -- in
-Malaysia, Thailand, Japan. Even hitherto safe regions, such as
-Singapore, Taiwan and Vietnam, are experiencing outbreaks of community
-cases.
-These cases all originated from imports because all borders are porous.
-All it takes is one case to cause an outbreak, and no country can seal
-itself off totally. At the minimum, citizens and residents must be
-allowed to return home.
-For imported cases in Singapore, we reported 409 cases over 28 days from
-16 Apr to 13 May. 41.6% of them were SC/PRs, 50.6% were Work pass
-holders, student pass holders or dependents, and 7.8% were short term
-visitors. All short term visitors are allowed to enter only if they have
-family ties here, or on specific compassionate grounds such as to attend
-a funeral, or seek medical treatment.
-If we just look at South Asia, the number of imported cases over the
-past 28 days was 271, comprising 50.2% SCs/PRs, 46.5% work pass holders,
-student pass holders or dependents and 3.3% short term visitors.
-Every arrival is subject to stringent SHN and tests. Community
-transmission occurred nevertheless because the virus breached our safe
-measures, including at Changi Airport.
-The infiltrating virus can be from SC/PR/work pass holders or a short
-term visitor. This is a challenge faced by all countries because no one
-can entirely close their borders.
+1.     The Multi-Ministry Taskforce has been closely monitoring the
+global COVID-19 situation, and will be tightening border measures given
+the increase in cases in Taiwan.
+
+TRAVELLERS FROM TAIWAN TO SERVE 21-DAY SHN
+
+2.     We had earlier announced that travellers from Taiwan will be
+allowed to go about their activities in Singapore, without a need to
+serve Stay-Home Notice (SHN), if their on-arrival COVID-19 Polymerase
+Chain Reaction (PCR) test results are negative.
+
+3.     As there has been a recent increase in cases reported by Taiwan,
+we will be tightening our border measures with Taiwan. From 16 MAY 2021,
+2359 HOURS:
+
+     a,     Singapore Citizens (SCs), Permanent Residents (PRs) and
+Long-Term Pass holders entering Singapore with travel history to Taiwan
+within the last 21 days before departure for Singapore, will be subject
+to a 14-day SHN at dedicated SHN facilities, followed by an additional
+7-day SHN at their place of residence. They will undergo COVID-19 PCR
+tests on-arrival[1], on Day 14 of their SHN, and before the end of their
+21-day SHN period.
+
+     b.     Short-term travellers holding an Air Travel Pass (ATP) with
+travel history to Taiwan within the last 21 days before departure for
+Singapore, will not be allowed to enter Singapore.
+
+     c.     In addition, travellers who are not SCs or PRs, and who have
+recent travel history to Taiwan within the last 21 days before departure
+will be required to take a COVID-19 PCR test within 72 hours before
+departure. Travellers will need to present a valid negative COVID-19
+test result as a condition of approval to enter Singapore.
+
+4.     All travellers with travel history to Taiwan within the last 21
+days before departure for Singapore, and who ENTERED SINGAPORE BETWEEN
+15 MAY 2021, 0001 HOURS, AND 16 MAY 2021, 2359 HOURS, will be subject to
+Government-funded COVID-19 PCR tests on Day 3 and Day 7 of their arrival
+in Singapore. Affected travellers will be contacted with additional
+details on how they can take their COVID-19 PCR tests.
+
+ENABLING A SAFE REOPENING
+
+5.     As the global situation evolves, we will continue to adjust our
+border measures to manage the risk of importation and transmission to
+the community. Any changes to border measures will be updated on the
+SafeTravel website. Travellers are advised to visit the website to check
+for the most updated border measures before entering Singapore and be
+prepared to be subjected to the prevailing border measures upon entry,
+including payment for their stay at dedicated SHN facilities, tests and
+treatment.
+
 MINISTRY OF HEALTH
+
 15 MAY 2021
+
+------------------------------------------------------------------------
+
+[1] To expedite the COVID-19 PCR test at the airport, travellers are
+strongly encouraged to register and pre-pay for their on-arrival
+COVID-19 PCR test prior to departing for Singapore at
+https://safetravel.changiairport.com/
