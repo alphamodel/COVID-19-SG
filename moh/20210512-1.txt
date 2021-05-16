@@ -144,7 +144,7 @@ General Hospital’s proactive testing of staff and his test result came
 back positive for COVID-19 infection on 11 May. His serology test result
 is positive. Case 63096 received his first dose of COVID-19 vaccine on
 19 January, and the second dose on 8 February. He has tested
-preliminarily positive for the B1617 variant, and is pending further
+preliminarily positive for the B.1.617 variant, and is pending further
 confirmatory tests.
 
 CASE 62969[1] CLUSTER
@@ -195,7 +195,7 @@ all negative for COVID-19 infection. His serology test result is
 negative for the N antigen, which suggests the presence of early
 infection. Case 63094 received his first dose of COVID-19 vaccine on 17
 January, and the second dose on 7 February. He has tested preliminarily
-positive for the B1617 variant, and is pending further confirmatory
+positive for the B.1.617 variant, and is pending further confirmatory
 tests.
 
 Case 63095
@@ -212,8 +212,8 @@ being on 15 April – were all negative for COVID-19 infection. Her
 serology test result is negative for the N antigen, which suggests the
 presence of early infection. Case 63095 received her first dose of
 COVID-19 vaccine on 30 January, and the second dose on 20 February. She
-has tested preliminarily positive for the B1617 variant, and is pending
-further confirmatory tests.
+has tested preliminarily positive for the B.1.617 variant, and is
+pending further confirmatory tests.
 
 Case 63097
 
@@ -252,7 +252,7 @@ tested for COVID-19 on 11 May during quarantine. On the same day, he
 developed a headache and runny nose. His test result came back positive
 on 11 May. His serology test result is negative. Case 63100 received his
 first dose of COVID-19 vaccine on 25 January, and the second dose on 18
-February. He has tested preliminarily positive for the B1617 variant,
+February. He has tested preliminarily positive for the B.1.617 variant,
 and is pending further confirmatory tests.
 
 Case 63109

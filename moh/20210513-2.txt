@@ -90,7 +90,7 @@ developed a fever, sore throat and body aches on 7 May night, but did
 not seek medical treatment until 11 May, when she went to a polyclinic
 and was tested for COVID-19. Her test result came back positive for
 COVID-19 infection the next day. Her serology test result is pending.
-She has tested preliminarily positive for the B1617 variant, and is
+She has tested preliminarily positive for the B.1.617 variant, and is
 pending further confirmatory tests.
 Case 63127
 Case 63127 is a 43 year-old female Myanmar national who is a foreign
@@ -113,7 +113,7 @@ treatment at a GP clinic. On 12 May, she developed a fever, cough, runny
 nose and headache and sought treatment at the same GP clinic, and was
 tested for COVID-19. Her test result came back positive for COVID-19
 infection the next day. Her serology test result is pending. She has
-tested preliminarily positive for the B1617 variant, and is pending
+tested preliminarily positive for the B.1.617 variant, and is pending
 further confirmatory tests.
 Case 63122
 Case 63122 is a 7 year-old male Philippines national who is a student at
@@ -153,7 +153,7 @@ quarantine on 9 May. She is asymptomatic, and was detected when she was
 tested on 11 May during quarantine. Her earlier tests from RRT - the
 last being on 30 April - were all negative for COVID-19 infection. Her
 serology test result is pending. She has tested preliminarily positive
-for the B1617 variant, and is pending further confirmatory tests.
+for the B.1.617 variant, and is pending further confirmatory tests.
 Case 63119
 Case 63119 is a 53 year-old female Singaporean who works as a cleaner at
 Abba Maintenance Services Pte Ltd. She is the spouse and household
@@ -176,9 +176,9 @@ was done. His test result came back positive for COVID-19 infection on
 12 May. His earlier tests from RRT - the last being on 4 May - were all
 negative for COVID-19 infection. His serology test result is negative
 for the N antigen, which suggests the presence of early infection. He
-has tested preliminarily positive for the B1617 variant, and is pending
-further confirmatory tests. Case 63125 received his first dose of
-COVID-19 vaccine on 28 March, and the second dose on 25 April.
+has tested preliminarily positive for the B.1.617 variant, and is
+pending further confirmatory tests. Case 63125 received his first dose
+of COVID-19 vaccine on 28 March, and the second dose on 25 April.
 Case 63126
 Case 63126 is a 39 year-old male Singaporean who works as a retail
 executive at a retail store at Changi Airport Terminal 3. He is
@@ -201,7 +201,7 @@ quarantine. On the same day, he developed a cough but did not report his
 symptom. His test result came back positive for COVID-19 infection on 12
 May. His earlier tests from RRT - the last being on 1 May - were
 negative for COVID-19 infection. His serology result is pending. He has
-tested preliminarily positive for the B1617 variant, and is pending
+tested preliminarily positive for the B.1.617 variant, and is pending
 further confirmatory tests.
 Case 63129
 Case 63129 is a 33 year-old male Malaysia national who is employed by
@@ -213,7 +213,7 @@ but did not report his symptoms. His test result came back positive for
 COVID-19 infection on 12 May. His earlier tests from RRT - the last
 being on 30 April - were all negative for COVID-19 infection. His
 serology result is pending. He has tested preliminarily positive for the
-B1617 variant, and is pending further confirmatory tests. Case 63129
+B.1.617 variant, and is pending further confirmatory tests. Case 63129
 received his first dose of COVID-19 vaccine on 22 January, and the
 second dose on 14 February.
 Case 63132
@@ -239,8 +239,8 @@ As she had been identified as a close contact of Case 63100, she was
 placed on quarantine on 11 May. She informed MOH of her symptom and was
 tested for COVID-19 on 11 May during quarantine. Her test result came
 back positive for COVID-19 infection on 12 May. Her serology test result
-is pending. She has tested preliminarily positive for the B1617 variant,
-and is pending further confirmatory tests.
+is pending. She has tested preliminarily positive for the B.1.617
+variant, and is pending further confirmatory tests.
 Case 63138
 Case 63138 is a 20 year-old male Singaporean who is a student at Temasek
 Polytechnic but had been on home-based learning since 7 May. He is a
@@ -250,7 +250,7 @@ treatment. As he had been identified as a close contact of Case 63100,
 he was placed on quarantine on 11 May. He informed MOH of his symptom
 and was tested for COVID-19 on 11 May. His test result came back
 positive for COVID-19 infection on 12 May. His serology test result is
-negative. He has tested preliminarily positive for the B1617 variant,
+negative. He has tested preliminarily positive for the B.1.617 variant,
 and is pending further confirmatory tests.
 Case 63139
 Case 63139 is a 44 year-old female Singaporean who is a homemaker who
@@ -282,8 +282,8 @@ car driver with GoJek. He visited Changi Airport Terminal 3 on 6 May. He
 developed a fever and cough on 10 May and sought treatment at a GP
 clinic on the same day, where he was tested for COVID-19. His test
 result came back positive on 12 May. His serology test result is
-pending. He has tested preliminarily positive for the B1617 variant, and
-is pending further confirmatory tests.
+pending. He has tested preliminarily positive for the B.1.617 variant,
+and is pending further confirmatory tests.
 Case 63148
 Case 63148 is a 24 year-old female Singaporean who is a student at an
 overseas university and had been on home-based learning in Singapore.
@@ -308,7 +308,7 @@ As she had been identified as a contact of Case 63055, she was placed on
 quarantine on 10 May. She is asymptomatic, and was detected when she was
 tested on 12 May during quarantine. Her test result came back positive
 for COVID-19 infection on 13 May. Her serology test result is pending.
-She has tested preliminarily positive for the B1617 variant, and is
+She has tested preliminarily positive for the B.1.617 variant, and is
 pending further confirmatory tests. Case 63150 received her first dose
 of COVID-19 vaccine on 3 April, and the second dose on 24 April.
 Additional Precautionary Measures at Changi Airport

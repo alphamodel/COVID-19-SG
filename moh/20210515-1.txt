@@ -135,8 +135,8 @@ chauffeur. He developed a sore throat on 12 May, and a fever the next
 day. He sought medical treatment at a General Practitioner (GP) clinic
 on 13 May, where he was tested for COVID-19. His test result came back
 positive for COVID-19 infection the next day. His serology test result
-is negative. He has tested preliminarily positive for the B1617 variant,
-and is pending further confirmatory tests.
+is negative. He has tested preliminarily positive for the B.1.617
+variant, and is pending further confirmatory tests.
 
 Case 63237
 Case 63237 is a 49 year-old male Singaporean who is currently
@@ -230,7 +230,7 @@ a close contact of Case 63070[11]. She is asymptomatic, and was detected
 when she was tested on 13 May as part of our testing operations for
 workers at Changi Airport Terminal 3. Her test result came back positive
 for COVID-19 infection the next day. Her serology test result is
-negative. She has tested preliminarily positive for the B1617 variant,
+negative. She has tested preliminarily positive for the B.1.617 variant,
 and is pending further confirmatory tests.
 
 Case 63238
@@ -295,7 +295,7 @@ asymptomatic and was detected when he was tested on 12 May as part of
 Rostered Routine Testing (RRT).His pooled test result came back positive
 for COVID-19 on 13 May and he was conveyed to hospital for an individual
 test. His individual test result came back positive for COVID-19
-infection on 14 May.His earlier tests from RRT – the last being on 14
+infection on 14 May. His earlier tests from RRT – the last being on 14
 April – were all negative for COVID-19 infection. His serology test
 result is positive. Case 63255 received his first dose of COVID-19
 vaccine on 24 January, and the second dose on 15 February.
