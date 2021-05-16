@@ -398,7 +398,7 @@ pending.
 Case 63296 is a 42 year-old male Singaporean who works at the Land
 Transport Authority. He is a family member and household contact of Case
 63186 [8]. He developed a sore throat on 12 May but did not seek medical
-treatment. As he had been identified as a close contact of Case 63166,
+treatment. As he had been identified as a close contact of Case 63186,
 he was placed on quarantine on 13 May, and tested for COVID-19 on 15
 May. His test result came back positive on the same day. His serology
 test result is negative.
