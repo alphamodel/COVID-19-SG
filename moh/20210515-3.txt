@@ -10,10 +10,10 @@ Published Date: 15 May 2021
 
 In response to media queries on the number of imported cases who were
 short term visitors, MOH would like to clarify the following.
-The B1617 variant prevalent in South Asia is not just a Singapore
+The B.1.617 variant prevalent in South Asia is not just a Singapore
 problem. The WHO has deemed it a variant of global concern.
 According to the Gisaid Institute, Europe has sequenced almost 2,000
-B1617 infections, US 486, Australia 85, Japan 29 and China 17.
+B.1.617 infections, US 486, Australia 85, Japan 29 and China 17.
 This is a major reason why transmission is rising throughout Asia -- in
 Malaysia, Thailand, Japan. Even hitherto safe regions, such as
 Singapore, Taiwan and Vietnam, are experiencing outbreaks of community
