@@ -7,21 +7,341 @@
 
 Published Date: 17 May 2021
 
-      As of 17 May 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 21 new cases of locally transmitted COVID-19
-infection, of whom 10 are linked to previous cases, and 11 are currently
-unlinked. Amongst them, 6 had already been placed on quarantine earlier.
-Based on our investigations so far, the cases are in the community, and
-there are no new cases in the dormitories.
-2.    In addition, there are 7 imported cases, who had already been
-placed on Stay-Home Notice upon arrival in Singapore. Of these, 2 are
-returning Singaporeans or Singapore Permanent Residents.
-3.    In total, there are 28 new cases of COVID-19 infection in
-Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+       As of 17 May 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 21 new cases of locally
+transmitted COVID-19 infection, of whom 10 are linked to previous cases,
+and 11 are currently unlinked. Amongst them, 6 had already been placed
+on quarantine earlier. The cases are in the community, and there are no
+new cases in the dormitories. There are 7 imported cases, who had
+already been placed on Stay-Home Notice (SHN) upon arrival in Singapore.
+Amongst the new cases today, 9 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 19 were symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+21
+
+6
+
+15
+
+19
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+7
+
+7
+
+0
+
+0
+
+7
+
+TOTAL
+
+28
+
+2.     Overall, the number of new cases in the community has increased
+from 32 cases in the week before to 149 cases in the past week. The
+number of unlinked cases in the community has also increased from 7
+cases in the week before to 42 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.    Amongst the 235 confirmed cases reported from 11 May to 17 May, 71
+cases have tested positive for their serology tests, 142 have tested
+negative, and 22 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 21
+There are 21 cases in the community today, of whom 10 are linked to
+previous cases and 11 are currently unlinked.
+CURRENTLY UNLINKED CASES
+_Detected through surveillance:_
+CASE 63333 is a 26 year-old female Singaporean who is a student at the
+National Institute of Education (NIE), and a part-time private tutor.
+She had last gone to NIE on 30 April. She developed body aches on 13
+May, and a blocked nose and cough the next day. On 15 May, she sought
+medical treatment at a General Practitioner (GP) clinic, where she was
+tested for COVID-19. Her test result came back positive for COVID-19
+infection on 16 May. Her serology test result is pending.
+CASE 63334 is a 76 year-old female Singaporean who is a retiree. She
+developed a fever on 13 May and sought medical treatment at a GP clinic
+on 15 May, where she tested positive for her antigen rapid test (ART).
+She was immediately isolated and a polymerase chain reaction (PCR) test
+was taken on the same day. Her PCR test result came back positive for
+COVID-19 infection on 16 May. Her serology test result is negative.
+CASE 63335 is a 57 year-old female Singaporean who works as an
+administrative personnel at Pacific Law Corporation. She developed a
+cough and sore throat on 12 May but did not seek medical treatment until
+15 May, when she visited a polyclinic and was tested for COVID-19. Her
+test result came back positive for COVID-19 infection on 16 May. Her
+serology test result is pending.
+CASE 63336 is a 22 year-old female Singaporean who works at Invade
+Industry Pte Ltd. She developed chills, sore throat and a runny nose on
+14 May, and sought medical treatment at a GP clinic on the same day,
+where she was tested for COVID-19. Her test result came back positive
+for COVID-19 infection on 16 May. Her serology test result is negative.
+CASE 63345 is a 28 year-old male Singaporean who works as a retail
+assistant at Alan Photo Pte Ltd located at Funan Mall. He developed a
+fever and headache on 14 May and sought medical treatment at a GP clinic
+on the same day, where he was given 2 days’ of medical leave. On 15 May,
+as his fever had not subsided, he returned to the clinic, and was tested
+for COVID-19. His test result came back positive for COVID-19 infection
+on 16 May. His serology test result is pending.
+CASE 63347 is a 45 year-old female Indonesia national who is employed by
+Clean Hub Facility Pte Ltd as a cleaner at EuHabitat. She developed a
+cough and body aches on 12 May, and fever and anosmia on 15 May. She
+sought medical treatment at a hospital on 15 May, where she was tested
+for COVID-19. Her test result came back positive for COVID-19 infection
+on 16 May. Her serology test result is pending.
+CASE 63348 is a 47 year-old female Singaporean who works at Inland
+Revenue Authority of Singapore. She developed a fever on 15 May, and
+sought medical treatment at a GP clinic on the same day, where she was
+tested for COVID-19. Her test result came back positive for COVID-19
+infection on 16 May. Her serology test result is pending.
+CASE 63354 is a 37 year-old female Singaporean who is a teacher at
+Frontier Primary School. She developed sore throat, body aches and fever
+on 14 May, and sought medical treatment at a GP clinic on the same day,
+where she was tested for COVID-19. Her test result came back positive
+for COVID-19 infection on 16 May. Her serology test result is pending.
+She has tested preliminarily positive for the B.1.617 variant, and is
+pending further confirmatory tests.
+CASE 63356 is a 16 year-old male Singapore Permanent Resident who is a
+student at Singapore Polytechnic. He developed a fever, sore throat,
+headache and anosmia on 14 May, and sought medical treatment at a GP
+clinic on the same day, where he was tested for COVID-19. His test
+result came back positive for COVID-19 infection on 16 May. His serology
+test result is pending. He has tested preliminarily positive for the
+B.1.617 variant, and is pending further confirmatory tests.
+CASE 63357 is a 32 year-old male Singaporean who works as an IT engineer
+at AbbVie Operations Singapore Pte Ltd. He developed a fever, headache,
+cough and body aches on 15 May and sought medical treatment at a GP
+clinic the next day, where he tested positive for his antigen rapid test
+(ART). He was immediately isolated and a PCR test was taken on the same
+day. His test result came back positive for COVID-19 infection on the
+same day. His serology test result is pending.
+CASE 63366 is a 20 year-old male Singaporean who is a full-time National
+Serviceman. He developed a runny nose on 12 May but did not seek medical
+treatment until 16 May when he also developed a cough. He was tested for
+COVID-19, and his test result came back positive for COVID-19 infection
+on 17 May. His serology test result is pending. Case 63366 received his
+first dose of COVID-19 vaccine on 18 March, and the second dose on 8
+April.
+CHANGI AIRPORT TERMINAL 3 CLUSTER
+_Already quarantined:_
+CASE 63343 is a 37 year-old female Indonesia national who is a foreign
+domestic worker. She is a household contact of Cases 63146¹and 63344,
+and was placed on quarantine on 12 May. She was tested for COVID-19 on
+15 May during quarantine, and developed a fever and cough on the same
+day. Her test result came back positive for COVID-19 infection on 16
+May. Her serology test result is negative.
+CASE 63344 is a 63 year-old female Singaporean who is a homemaker. She
+is a family member and household contact of Cases 63146² and 63291³, and
+was placed on quarantine on 12 May. She is asymptomatic, and was
+detected when she was tested for COVID-19 on 15 May during quarantine.
+Her test result came back positive for COVID-19 infection on 16 May. Her
+serology test result is negative for the N antigen, which suggests the
+presence of early infection. Case 63344 received her first dose of
+COVID-19 vaccine on 8 April, and the second dose on 30 April.
+CASE 63346 is a 8 year-old male Singaporean who is a student at Fuchun
+Primary School. He is a family member and household contact of Case
+63141⁴, and was placed on quarantine on 12 May. He is asymptomatic, and
+was detected when he was tested for COVID-19 on 15 May during
+quarantine. His test result came back positive for COVID-19 infection on
+16 May. His serology test result is negative.
+_Detected through surveillance:_
+CASE 63351 is a 49 year-old female Singaporean who is employed by Certis
+Cisco as an aviation security officer at Changi Airport Terminal 3. She
+developed a cough and headache on 10 May, and anosmia on 14 May. She
+sought medical treatment at a GP clinic on 14 May where she was tested
+for COVID-19. Her test result came back positive for COVID-19 infection
+on 16 May. Her serology test result is pending. Her earlier tests from
+Rostered Routine Testing (RRT) – the last being on 7 May – were all
+negative for COVID-19 infection. She has tested preliminarily positive
+for the B.1.617 variant, and is pending further confirmatory tests.
+LEARNING POINT CLUSTER
+_Already quarantined:_
+CASE 63353 is a 7 year-old female Singaporean who is a student at Maha
+Bodhi School. She also attends student care at Seedlings World Student
+Care @ Frankel, and was identified as a close contact of Case 63188⁵.
+She was placed on quarantine on 14 May. She developed a fever on 15 May
+and was tested for COVID-19 on the same day. Her test result came back
+positive for COVID-19 infection on 16 May. Her serology test result is
+negative.
+_Detected through surveillance:_
+CASE 63337 is a 72 year-old male Singaporean who is a retiree and family
+member of Case 63279⁶. He developed a cough and fever on 15 May and
+sought medical treatment at a GP clinic where he was tested for
+COVID-19. As he had been identified as a close contact of Case 63279, he
+was placed on quarantine on 15 May. His test result came back positive
+for COVID-19 infection on 16 May. His serology test result is positive.
+Case 63337 received his first dose of COVID-19 vaccine on 2 March, and
+the second dose on 23 March.
+WOK HEY (WHITE SANDS) CLUSTER
+_Already quarantined:_
+CASE 63365 is a 62 year-old male Singaporean who is a retiree. He is a
+family member and household contact of Cases 63166⁷, 63241⁸ and 63280⁹.
+As he had been identified as a close contact of Case 63166, he was
+placed on quarantine on 13 May. He developed a fever, cough and flu on
+16 May and was tested for COVID-19 when he reported his symptoms. His
+test result came back positive for COVID-19 infection on 17 May. His
+serology test result is pending.
+MARINA BAY SANDS CASINO DEALER CLUSTER
+_Detected through surveillance:_
+CASE 63350 is a 34 year-old male Malaysia national who is currently
+unemployed. He is a household contact of Case 63317¹⁰. He developed a
+fever and cough on 12 May, and sought medical treatment at a GP clinic
+on 15 May, where he tested positive for his ART. He was immediately
+isolated and a PCR test was taken on the same day. His test result came
+back positive for COVID-19 infection on 16 May. His serology test result
+is pending. He has tested preliminarily positive for the B.1.617
+variant, and is pending further confirmatory tests.
+OTHER LINKED CASES
+_Already quarantined:_
+CASE 63349 is a 36 year-old female Philippines national who is a foreign
+domestic worker. She is a close contact of Case 63236¹¹ and was placed
+on quarantine on 14 May. She developed a fever, cough and sore throat on
+15 May. She reported her symptoms, and was tested for COVID-19 on the
+same day. Her test result came back positive for COVID-19 infection on
+16 May. Her serology test result is negative.
+_Detected through surveillance:_
+CASE 63363 is a 57 year-old male Singaporean who works as an engineer at
+3M Innovation Singapore Pte Ltd. He is a family member and household
+contact of Case 63357. He developed a fever on 16 May and was tested
+when he was informed that Case 63357 was confirmed to have COVID-19
+infection. An ART and PCR test were taken on the same day, which both
+came back positive for COVID-19 infection. His serology test result is
+pending. Case 63363 received his first dose of COVID-19 vaccine on 30
+April.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 7
+Amongst the 7 imported cases,
+-  2 (Cases 63362 and 63369) are Singaporeans who returned from India
+and Malaysia.
+-  3 (Cases 63358, 63361 and 63364) are Dependant’s Pass holders who
+arrived from the Philippines and Russia.
+-  1 (Case 63355) is a Student's Pass holder who arrived from France.
+-  1 (Case 63360) is a Work Permit holder who arrived from Malaysia.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+ADDITIONAL PRECAUTIONARY MEASURES AT WHITE SANDS SHOPPING MALL
+6.     Our epidemiological investigations have found that a few COVID-19
+cases had visited White Sands Shopping Mall during their infectious
+period. As a precautionary measure, we will conduct special testing
+operations for staff who work in White Sands Shopping Mall. To
+pre-emptively mitigate any potential risk of wider, undetected community
+transmission, we will also offer free COVID-19 testing for members of
+the public who had visited White Sands Shopping Mall from 2 May to 11
+May. MOH will progressively inform these individuals via SMS
+notification with information on how to book an appointment for their
+test. All visitors to White Sands Shopping Mall from 2 May to 11 May are
+also advised to monitor their health closely for 14 days from their date
+of visit. They are strongly encouraged to visit a Regional Screening
+Centre or “Swab and Send Home” (SASH) Public Health Preparedness Clinic
+for a free COVID-19 test if they feel unwell.
+TAN TOCK SENG HOSPITAL TO RESUME ADMISSION OF PATIENTS
+7.     As there have been no new unlinked COVID-19 cases detected in Tan
+Tock Song Hospital (TTSH) since 28 April, TTSH will gradually resume
+admission of patients from 18 May, including partial resumption of
+ambulance services to TTSH, and allowing movement of healthcare workers
+into and out of the Novena campus to facilitate patient care. The
+resumption of clinical attachments and training for healthcare students
+will take place from 31 May. As an additional precaution, all patients
+transferring from TTSH and other acute hospitals to intermediate and
+long-term care (ILTC) facilities will be tested for COVID-19 within 48
+hours of their scheduled transfer. We advise patients to defer
+non-urgent visits to TTSH as it reopens its clinical services
+progressively.
+UPDATE ON CONDITION OF CONFIRMED CASES
+8.     19 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,123 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+9.     There are currently 213 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 3 are in critical
+condition in the intensive care unit. 246 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 31 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 17 MAY 2021
 
+------------------------------------------------------------------------
+
+1 Case 63146 is a 44 year-old male Singaporean who works as a private
+hire car driver with GoJek, and visited Changi Airport Terminal 3 on 6
+May. He was confirmed to have COVID-19 infection on 12 May.
+² Case 63146 is a 44 year-old male Singaporean who works as a private
+hire car driver with GoJek. He was confirmed to have COVID-19 infection
+on 12 May.
+
+3 Case 63291 is a 1 year-old male Singaporean. He is a family member and
+household contact of Case 63146. He was confirmed to have COVID-19
+infection on 15 May.
+⁴ Case 63141 is a 40 year-old male Singaporean who works as a software
+engineer at ST Engineering. He was confirmed to have COVID-19 infection
+on 12 May.
+⁵ Case 63188 is a 7 year-old male Singaporean who is a student at St
+Stephen’s School and attended classes at Learning Point. He was
+confirmed to have COVID-19 infection on 13 May.
+
+⁶ Case 63279 is a 9 year-old male Singaporean who is a student at Kong
+Hwa School and attended classes at Learning Point. He was confirmed to
+have COVID-19 infection on 15 May.
+
+⁷Case 63166 is a 22 year-old male Singaporean who works as a cook at WOK
+HEY (White Sands). He was confirmed to have COVID-19 infection on 13
+May.
+⁸ Case 63241 is a 55 year-old female Singaporean who is a homemaker. She
+is a family member and household contact of Case 63166. She was
+confirmed to have COVID-19 infection on 14 May.
+⁹ Case 63280 is a 26 year-old female Singaporean who works as a customer
+service officer at Wareesan Management Pte Ltd. She is a family member
+and household contact of Cases 63166 and 63241. She was confirmed to
+have COVID-19 infection on 15 May.
+
+¹⁰ Case 63317 is a 36 year-old male Malaysia national who works as a
+dealer at Marina Bay Sands Casino. He was confirmed to have COVID-19
+infection on 16 May.
+¹¹ Case 63236 is a 53 year-old male Singaporean who works as a personal
+chauffeur. He was confirmed to have COVID-19 infection on 14 May.
 
