@@ -153,9 +153,10 @@ positive for the B.1.617 variant, and is pending further confirmatory
 tests. Case 63379 received her first dose of COVID-19 vaccine on 8 May.
 
 Case 63382 is a 95 year-old female Singaporean who is a retiree. She
-developed a cough on 15 May, was conveyed to Changi General Hospital the
-next day for an unrelated condition. She was tested for COVID-19 and her
-test came back positive on 17 May. Her serology test result is pending.
+developed a cough on 15 May, and was conveyed to Changi General Hospital
+the next day for an unrelated condition. She was tested for COVID-19 and
+her test came back positive on 17 May. Her serology test result is
+pending.
 
 Case 63392 is a 39 year-old female Singaporean who is a manager at
 Corner Stone Global Partners Pte Ltd but has been working from home
