@@ -142,15 +142,16 @@ Practitioner (GP) clinic on the same day, where she was tested for
 COVID-19. Her test result came back positive for COVID-19 infection on
 17 May. Her serology test result is negative.
 
-Case 63379 is a 57 year-old female Singaporean who works at the Ministry
-of Home Affairs. She developed a cough on 13 May, and anosmia on 14 May.
-On 16 May, she sought medical treatment at a GP clinic, where she tested
-positive for her antigen rapid test (ART). She was immediately isolated
-and a polymerase chain reaction (PCR) test was taken on the same day.
-Her PCR test result came back positive for COVID-19 infection on 17 May.
-Her serology test result is pending. She has tested preliminarily
-positive for the B.1.617 variant, and is pending further confirmatory
-tests. Case 63379 received her first dose of COVID-19 vaccine on 8 May.
+Case 63379 is a 57 year-old female Singaporean who works at the Internal
+Security Department. She developed a cough on 13 May, and anosmia on 14
+May. On 16 May, she sought medical treatment at a GP clinic, where she
+tested positive for her antigen rapid test (ART). She was immediately
+isolated and a polymerase chain reaction (PCR) test was taken on the
+same day. Her PCR test result came back positive for COVID-19 infection
+on 17 May. Her serology test result is pending. She has tested
+preliminarily positive for the B.1.617 variant, and is pending further
+confirmatory tests. Case 63379 received her first dose of COVID-19
+vaccine on 8 May.
 
 Case 63382 is a 95 year-old female Singaporean who is a retiree. She
 developed a cough on 15 May, and was conveyed to Changi General Hospital
