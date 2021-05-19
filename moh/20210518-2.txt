@@ -136,11 +136,11 @@ CURRENTLY UNLINKED CASES
 Detected through surveillance:
 
 Case 63376 is a 46 year-old female Singaporean who is an investment
-banker at DBS at Marina Bay Financial Tower. She developed fever, cough
-and body aches on 16 May, and sought medical treatment at a General
-Practitioner (GP) clinic on the same day, where she was tested for
-COVID-19. Her test result came back positive for COVID-19 infection on
-17 May. Her serology test result is negative.
+banker at DBS at Marina Bay Financial Tower 3. She developed fever,
+cough and body aches on 16 May, and sought medical treatment at a
+General Practitioner (GP) clinic on the same day, where she was tested
+for COVID-19. Her test result came back positive for COVID-19 infection
+on 17 May. Her serology test result is negative.
 
 Case 63379 is a 57 year-old female Singaporean who works at the Internal
 Security Department. She developed a cough on 13 May, and anosmia on 14
@@ -472,8 +472,8 @@ May.
 Andrew’s Junior School, and attended classes at Learning Point. He was
 confirmed to have COVID-19 infection on 13 May.
 
-[8] Case 63353 is a 7 year-old female Singaporean who is a student at
-Maha Bodhi School. She also attends student care at Seedlings World
+[8] Case 63353 is a 7 year-old female Singaporean who is a student at St
+Stephen's School. She also attends student care at Seedlings World
 Student Care @ Frankel. She was confirmed to have COVID-19 infection on
 16 May.
 
