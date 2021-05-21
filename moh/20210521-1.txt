@@ -1,73 +1,511 @@
-Expert Committee On Covid-19 Vaccination Continues to Endorse Safety and
-Efficacy of Pfizer-biontech Covid-19 Vaccine In Individuals Aged 12 to
-15 Years
+30 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-EXPERT COMMITTEE ON COVID-19 VACCINATION CONTINUES TO ENDORSE SAFETY AND EFFICACY OF PFIZER-BIONTECH COVID-19 VACCINE IN INDIVIDUALS AGED 12 TO 15 YEARS
+30 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 21 May 2021
 
-         The Expert Committee on COVID-19 Vaccination recommended that
-the Pfizer-BioNTech COVID-19 vaccine be used in the respective
-population groups, including in adolescents of ages 12 to 15 years
-following the Health Sciences Authority's (HSA) announcement on the
-approval for the use of the vaccine in this age group under the Pandemic
-Special Access Route (PSAR) on 18 May 2021. Our assessment remains that
-the Pfizer-BioNTech vaccine is safe and efficacious for this age group.
-There is currently no credible evidence of a inactivated virus vaccine
-demonstrating a high vaccine efficacy and safety profile among this age
-group. We noted the contents of an Open Letter addressed to parents from
-a small group of doctors on vaccines for children. 11 of the 12 have
-since retracted their statement.
-2.      The Pfizer-BioNTech vaccine is currently the only COVID-19
-vaccine anywhere in the world that has been authorised for use in
-adolescents aged 12 to 15 years. HSA and the Expert Committee had
-reviewed the safety and efficacy of the Pfizer-BioNTech COVID-19 vaccine
-based on the clinical trials for individuals in this age group. The
-safety profile of the vaccine is consistent with the known safety
-profile in the adult population and the standards set for other
-registered vaccines used in the immunisation against other diseases.
-3.      The Singapore population, including adolescents, continue to
-remain at risk of COVID-19 infection, and onward transmission to their
-close contacts. This is seen in the recent local cases and outbreaks
-involving school-going children who had been infected with COVID-19 and
-transmitted to their family members and schoolmates. While the
-international experience is that COVID-19 appears milder in the younger
-age groups, there remains a risk of complications and long-lasting
-symptoms in children and adolescents. The Expert Committee therefore
-recommends that with the availability of a safe and efficacious vaccine,
-all eligible persons should receive the vaccine to attain as high a
-population coverage of COVID-19 vaccination as possible.
-4.      COVID-19 vaccines cannot alter your DNA. The Pfizer-BioNTech
-COVID-19 vaccine comprises  messenger RNA ("mRNA") that contains the
-instructions to enable the vaccine recipient to build a protein
-component of the SARS-CoV-2 virus ("spike protein"). The spike protein
-does not cause infection, but is recognised by the body's immune system
-as foreign. The body then mounts an immune response and produces
-antibodies that protects against future infection by the virus. The
-vaccine mRNA is broken down by the body rapidly after the spike protein
-is built. The mRNA is unable to produce more copies of itself, and
-cannot enter the nucleus of the human cells where human genetic material
-("DNA") is stored. Since the human genome is made up of DNA, it is not
-biologically plausible for the vaccine mRNA to be integrated or to
-interfere with the DNA of the vaccine recipient.
-5.      Expert Committee chairperson A/Prof Benjamin Ong said, "The
-Committee assessed the use of the Pfizer-BioNTech COVID-19 vaccine in
-individuals aged 12 to 15 years to be safe and effective, after careful
-assessment and deliberation of the available clinical data. There is no
-inactivated COVID-19 vaccine approved for use in children yet."
-6.      With the current administration of more than 200 million doses
-of the Pfizer-BioNTech COVID-19 vaccines worldwide, there is currently
-no evidence for rare but serious effects of the Pfizer-BioNTech COVID-19
-vaccine beyond anaphylaxis. The Expert Committee and HSA will continue
-to monitor and review evidence and information that emerge from further
-ongoing studies on long-term safety and efficacy.
-7.      Singapore remains at risk of a surge in cases and it is
-therefore important that we achieve as comprehensive a coverage of
-COVID-19 vaccination as possible across the entire population. We
-strongly encourage all persons who are medically eligible to be
-vaccinated when the vaccine is made available to them.
-EXPERT COMMITTEE ON COVID-19 VACCINATION
+     As of 21 May 2021, 12pm, the Ministry of Health (MOH) has confirmed
+and verified that there are 30 new cases of locally transmitted COVID-19
+infection, of whom 22 are linked to previous cases,and 8 are currently
+unlinked. Amongst them, 17 had already been placed on quarantine
+earlier[1]. The cases are in the community, and there are no new cases
+in the dormitories. There are 10 imported cases, who had already been
+placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the
+new cases today, 14 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 26 were symptomatic.
+
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+30
+
+
+
+17
+
+13
+
+
+
+26
+
+4
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+10
+
+
+
+10
+
+0
+
+
+
+0
+
+10
+
+TOTAL
+
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.     Overall, the number of new cases in the community has increased
+from 91 cases in the week before to 196 cases in the past week. The
+number of unlinked cases in the community has also increased from 13
+cases in the week before to 56 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.    Amongst the 265 confirmed cases reported from 15 May to 21 May,
+44 cases have tested positive for their serology tests, 130 have tested
+negative, and 91 serology test results are pending.
+
+CASE DETAILS
+A)  CASES IN THE COMMUNITY: 30
+There are 30 cases in the community today, of whom 22 are linked to
+previous cases and 8 are currently unlinked.
+
+CURRENTLY UNLINKED CASES
+Detected through surveillance:
+
+Case 63507 is a 31 year-old male Singaporean who is employed by Hong Ye
+Group Pte Ltd as a cleaner at Changi Business Park. He developed a
+cough, blocked nose and breathlessness on 18 May, and sought medical
+treatment at a polyclinic on the same day, where he was tested for
+COVID-19. His test result came back positive for COVID-19 infection on
+19 May. His serology test result is negative.
+
+Case 63510 is a 29 year-old male India nationalwho works as a sales
+personnel at Platinum Yoga. He developed chills and fatigue on 19 May.
+As he had visited Westgate recently, he went for a COVID-19 test on 19
+May offered for those who had visited Westgate. His test result came
+back positive for COVID-19 infection on 20 May. His serology test result
+is pending.
+
+Case 63514 is a 17 year-old male Singaporean who is currently
+unemployed. He developed a fever, cough, headache and flu-like symptoms
+on 18 May, and sought medical treatment at a GP clinic that night, where
+he tested positive for his antigen rapid test (ART). He was immediately
+isolated and a polymerase chain reaction (PCR) test was administered on
+the same day. His PCR test result came back positive for COVID-19
+infection on 20 May. His serology test result is pending.
+
+Case 63515 is a 34 year-old male Singaporean who works as a technician
+at Singapore Refining Company Pte Ltd. He developed a fever on 18 May,
+and sought medical treatment at a GP clinic on the same day, where he
+was tested for COVID-19. His test result came back positive for COVID-19
+infection on 20 May. His serology test result is negative.
+
+Case 63516 is a 28 year-old female Singaporean who is a homemaker. She
+developed a fever on 14 May but did not seek medical treatment until 19
+May, when she developed shortness of breath. She went to a GP clinic on
+19 May, where she tested positive for her ART, and was immediately
+isolated. Her PCR test came back positive for COVID-19 infection on 20
+May. Her serology test result is pending.
+
+Case 63534 is a 27 year-old male Malaysia national who works as a
+delivery rider for IVIC Logistic Pte Ltd and McDonald’s (Bedok
+Reservoir). He developed a fever and cough on 17 May but did not seek
+medical treatment until 20 May, where he underwent both an ART and PCR
+test, and both test results came back positive for COVID-19 infection
+on the same day. His serology test result is pending.
+
+Case 63536 is a 20 year-old female Singaporean who is a student at the
+National University of Singapore, and a part-time retail staff at
+Hijabville. She developed a sore throat, runny nose and cough on 13 May,
+but did not seek medical attention. On 19 May, she went for a COVID-19
+swab as part of our testing operations for those who had visited
+Westgate. Her test result came back positive for COVID-19 infection on
+21 May. Her serology test result is pending.
+
+Case 63543 is a 40 year-old male Singaporean who works as an operations
+personnel at The Meatery SG. He developed a blocked nose and anosmia on
+19 May, and sought medical treatment at a GP clinic on the same day,
+where he was tested for COVID-19. His test result came back positive for
+COVID-19 infection on 21 May. His serology test result is pending.
+
+CHANGI AIRPORT TERMINAL 3 CLUSTER
+
+Already quarantined:
+
+Case 63518 is a 68 year-old male Singaporean who is currently
+unemployed. He is a family member and household contact of
+Case 63382[2], and was placed on quarantine on 17 May. He developed a
+cough on 18 May but did not report his symptom. He was detected when he
+was tested on 19 May during quarantine and his test result came back
+positive for COVID-19 infection on 20 May. His serology test result is
+pending.
+Case 63519 is a 70 year-old male Singaporean who is a retiree. He is a
+family member and household contact of Case 63382, and was placed on
+quarantine on 17 May. He is asymptomatic and was detected when he was
+tested on 19 May during quarantine. His test result came back positive
+for COVID-19 infection on 20 May. His serology test result is pending.
+
+Case 63528 is a 38 year-old female Singaporean who works at Samiko
+Enterprises & PPP International Group Pte Ltd. She is a family member of
+Case 63344[3], and was placed on quarantine on 15 May. She was tested
+for COVID-19 on 20 May during quarantine, and developed a cough, sore
+throat and runny nose on the same day. Her test result came back
+positive for COVID-19 infection on 20 May. Her serology test result is
+negative.
+
+Detected through surveillance:
+
+Case 63553 is a 57 year-old male Singapore Permanent Resident who works
+at Standard Chartered Bank, and had last gone to work on 27 April. He
+developed a runny nose on 15 May but did not seek medical treatment. As
+he had visited Changi Airport Terminal 3 on 2 May, he went for a
+COVID-19 test on 19 May offered as part of our testing operations for
+visitors to Changi Airport. His test result came back positive for
+COVID-19 infection on 21 May. His serology test result is pending. Case
+63553 received his first dose of COVID-19 vaccine on 10 April and the
+second dose on 1 May.
+
+CHANGI PRISON COMPLEX CLUSTER
+
+Already quarantined:
+
+Case 63522 is a 66 year-old male Singaporean who is an inmate at Changi
+Prison Complex. He is a close contact of Case 63160[4] and was placed on
+quarantine on 13 May. He was tested for COVID-19 on 13 May and 17 May
+and his test results came back negative. He developed a fever on 19 May,
+and was tested for COVID-19 again. His test result came back positive
+for COVID-19 infection on 20 May. His serology test result is
+negative. Case 63522 received his first dose of COVID-19 vaccine on 17
+March and the second dose on 7 April.
+Case 63526 is a 40 year-old male Singaporean who is an inmate at Changi
+Prison Complex. He is a close contact of Case 63160 and was placed on
+quarantine on 13 May. He was tested for COVID-19 on 13 May and 17 May
+and his test results came back negative. He was tested on 19 May again,
+and his test result came back positive for COVID-19 infection on 20 May.
+On the same day, he developed a cough. His serology test result is
+pending.
+
+JIN TAI TONG FOOD INDUSTRIES CLUSTER
+
+Already quarantined:
+
+Case 63511 is a 35 year-old Malaysia national who works as a sales
+assistant at Jin Tai Mart. As he had been identified as a close contact
+of Case 63461[5], he was placed on quarantine on 19 May. He is
+asymptomatic and was detected when he was tested for COVID-19 on 19 May
+during quarantine. His test result came back positive for COVID-19
+infection on 20 May. His serology test result is negative.
+
+PACIFIC LAW CORPORATION CLUSTER
+
+Already quarantined:
+
+Case 63523 is a 40 year-old male Singaporean who works as a shipping
+executive at Star Shipping Agencies. He is a family member and household
+contact of Case 63460[6] and was placed on quarantine on 19 May. On the
+same evening, he developed a runny nose, sore throat, cough and
+headache, and reported his symptoms. He was tested for COVID-19 on 19
+May and his test result came back positive or COVID-19 infection the
+next day. His serology test result is pending.
+
+CASE 63236 CLUSTER[7]
+
+Already quarantined:
+
+Case 63506 is a 51 year-old female Singaporean who works at UOB Kay
+Hian. She is a family member and household contact of Case 63236 and was
+placed on quarantine on 14 May. She developed a sore throat on 16 May,
+and a fever on 18 May, and was tested for COVID-19 when she reported her
+symptoms on 18 May. Her test result came back positive for COVID-19
+infection on 20 May. Her serology test result is negative.
+
+CASE 63357 CLUSTER[8]
+Already quarantined:
+
+Case 63509 is a 1 year-old male Singaporean who is a student at
+Skool4kidz Centre at Punggol Way and AWWA Early Intervention Centre @
+Fernvale. As he had been identified as a close contact of Case 63357, he
+was placed on quarantine on 16 May. He was tested for COVID-19 on 18 May
+during quarantine and his test result came back negative on 19 May. He
+is asymptomatic, and was detected when he was tested again on 19 May and
+his test result came back positive for COVID-19 the next day. His
+serology test result is negative.
+
+Case 63520 is a 34 year-old male Singaporean who works as an associate
+at Standard Chartered Bank but has been working from home. As he had
+been identified as a close contact of Case 63357, he was placed on
+quarantine on 17 May. He is asymptomatic, and was detected when he was
+tested on 19 May during quarantine and his test result came back
+positive for COVID-19 infection the next day. His serology test result
+is pending.
+
+Case 63524 is a 41 year-old female Singaporean who is a homemaker. As
+she had been identified as a close contact of Case 63357, she was placed
+on quarantine on 16 May. She developed a fever, sore throat and body
+aches on 18 May but did not report her symptoms until 19 May. She was
+tested for COVID-19 on 20 May and her test result came back positive for
+COVID-19 infection on the same day. Her serology test result is
+negative.
+
+CASE 63376 CLUSTER[9]
+
+Already quarantined:
+
+Case 63537 is a 11 year-old male Singaporean who is a student at
+Anglo-Chinese School (Junior). As he had been identified as a close
+contact of Case 63476[10], he was placed on quarantine on 20 May. He
+developed a fever, cough and runny nose on the same day, and was tested
+for COVID-19 when he reported his symptoms. His test result came back
+positive for COVID-19 infection on 21 May. His serology test result is
+pending.
+
+CASE 63479 CLUSTER[11]
+Already quarantined:
+
+Case 63533 is a 11 year-old male Myanmar national who is a student at
+Bukit View Primary School and had not gone to school since 14 May. He is
+a family member and household contact of Cases 63479 and 63485[12], and
+was placed on quarantine on 19 May. He developed a fever, sore throat,
+cough and anosmia on 17 May, and sought treatment at a GP clinic, and
+was given 5 days’ medical leave. He was tested on 19 May during
+quarantine, and his test result came back positive for COVID-19
+infection on 20 May. His serology test result is pending.
+OTHER LINKED CASES
+
+Already quarantined:
+
+Case 63508 is a 40 year-old male Singaporean who works as an engineer
+at Flexicon Singapore Pte Ltd. He is a family member and household
+contact of Case 63417[13], and was placed on quarantine on 17 May. He
+developed a fever on the same evening, and cough the next day, but did
+not report his symptoms until 19 May. He was tested for COVID-19 on 19
+May during quarantine and his test result came back positive on 20 May.
+His serology test result is pending.
+
+Case 63517 is a 30 year-old female Philippines national who is a foreign
+domestic worker. She is a household contact of Case 63392[14], and was
+placed on quarantine on 17 May. She developed a fever, sore throat and
+body aches on 18 May night, and was tested for COVID-19 on 19 May during
+quarantine. Her test result came back positive for COVID-19 infection on
+20 May. Her serology test result is pending.
+
+Case 63521 is a 31 year-old female Indonesia national who is a foreign
+domestic worker. She is a household contact of Case 63307[15], and was
+placed on quarantine on 16 May. She developed a fever, cough and runny
+nose on 18 May night, but did not report her symptoms. She was tested
+for COVID-19 on 19 May during quarantine, and her test result came back
+positive for COVID-19 infection on 20 May. Her serology test result is
+negative.
+
+Case 63527 is a 49 year-old female Singapore Permanent Resident who
+works as an administrative staff at the Republic of Singapore Yacht
+Club. She is a family member and household contact of Case 63480[16].
+She developed a headache on 14 May, and again on 17 May but did not seek
+medical attention. As she had been identified as a close contact of
+Case 63480, she was placed on quarantine on 19 May. She was tested for
+COVID-19 on 20 May during quarantine, and her test result came back
+positive on the same day. Her serology test result is negative for the N
+antigen, which suggests the presence of early infection. Case 63527
+received her first dose of COVID-19 vaccine on 1 May.
+
+Detected through surveillance:
+
+Case 63505 is a 22 year-old female Malaysia national who works at
+Seagate Singapore International Headquarters Pte Ltd, and is a household
+contact of Case 63482[17]. She developed a fever and cough on 18 May
+night, and sought medical treatment at a GP clinic the next day, where
+she tested positive for her ART and was immediately isolated. Her PCR
+test result came back positive for COVID-19 on 20 May. Her serology test
+result is pending.
+
+Case 63513 is a 29 year-old male Singaporean who works at Slide and Hide
+System Pte Ltd, and is a family member and household contact of
+Case 63516. He developed a fever on 18 May, and sought medical treatment
+at a GP clinic on the same day, where he was tested for COVID-19. He was
+placed on quarantine on 19 May, and his test result came back positive
+on 20 May. His earlier tests from RRT – the last being on 4 May – were
+all negative for COVID-19 infection. His serology test result is
+pending.
+
+Case 63535 is a 27 year-old male Malaysia national who works as a
+delivery rider for IVIC Logistic Pte Ltd and McDonald’s (Pasir Ris Elias
+Community Club). He is a household contact of Case 63534. He developed
+body aches on 18 May but did not seek medical treatment until 20 May,
+where he underwent both an ART and PCR test, and both test results came
+back positive on the same day. His serology test result is pending.
+
+Case 63551 is a 39 year-old female Singaporean who works as an
+administrative personnel at Tomoe Transtech Specialty Gases Pte Ltd. She
+is a family member and household contact of Case 63543. She developed a
+blocked nose and anosmia on 19 May night, and sought medical treatment
+at a GP clinic on same day, where she was tested COVID-19. Her test
+result came back positive for COVID-19 infection on 21 May. Her serology
+test result is pending.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+
+C)  IMPORTED CASES: 10
+
+Amongst the 10 imported cases,
+
+-   3 (Cases 63512, 63525 and 63550) are Singaporeans and 5 (Cases
+    63529, 63531, 63552, 63555 and 63556) are Singapore Permanent
+    Residents who returned from India, Indonesia and the US.
+-   2 (Cases 63532 and 63540) are Work Permit holders who arrived from
+    Indonesia and the Philippines, both of whom are foreign domestic
+    workers.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.    Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+5.    Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.    MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the OM
+Universal Pte Ltd cluster for the past two incubation periods (i.e. 28
+days), the cluster has now been closed.
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+7.    13 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,242 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+8.    There are currently 249 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 4 are in critical
+condition in the intensive care unit. 247 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 32 have passed
+away from complications due to COVID-19 infection.
+
+MINISTRY OF HEALTH
 21 MAY 2021
+
+------------------------------------------------------------------------
+
+[1] This is updated from the 16 reported in the afternoon press release
+as we have verified that 1 more case had been placed on quarantine
+earlier.
+
+[2] Case 63382 is a 95 year-old female Singaporean who is a retiree. She
+was confirmed to have COVID-19 infection on 17 May.
+
+[3] Case 63344 is a 63 year-old female Singaporean who is a
+homemaker. She was confirmed to have COVID-19 infection on 16 May.
+
+[4] Case 63160 is a 39 year-old male China national who is employed by
+SATS Food Services Pte Ltd as a chef at Changi Prison Complex. He was
+confirmed to have COVID-19 infection on 13 May
+
+[5] Case 63461 is a 40 year-old male China national who works as a store
+assistant at Jin Tai Mart. He was confirmed to have COVID-19 infection
+on 19 May.
+
+[6] Case 63460 is a 38 year-old female Singaporean who works at Pacific
+Law Corporation, and is a workplace contact of Case 63335. She was
+confirmed to have COVID-19 infection on 19 May.
+
+[7] Case 63236 is a 53 year-old male Singaporean who works as a personal
+chauffeur. He was confirmed to have COVID-19 infection on 14 May.
+
+[8] Case 63357 is a 32 year-old male Singaporean who works as an IT
+engineer at AbbVie Operations Singapore Pte Ltd. He was confirmed to
+have COVID-19 infection on 16 May.
+
+[9] Case 63376 is a 46 year-old female Singaporean who is an investment
+banker at DBS. She was confirmed to have COVID-19 infection on 17 May.
+
+[10] Case 63476 is a 12 year-old male Singaporean who is a student at
+Anglo-Chinese School (Junior). He was confirmed to have COVID-19
+infection on 19 May.
+
+[11]Case 63479 is a 49 year-old female Singapore Permanent Resident who
+is a homemaker. She was confirmed to have COVID-19 infection on 19 May.
+
+ [12] Case 63485 is a 15 year-old female Singapore Permanent Resident
+who is a student at Yuan Ching Secondary School. She was confirmed to
+have COVID-19 infection on 19 May.
+
+[13] Case 63417 is a 38 year-old female Singaporean who works as an
+analyst at HSBC but has been working from home since 6 May. She was
+confirmed to have COVID-19 infection on 18 May.
+
+[14] Case 63392 is a 39 year-old female Singaporean who is a manager at
+Corner Stone Global Partners Pte Ltd. She was confirmed to have COVID-19
+infection on 17 May.
+
+[15] Case 63307 is a 44 year-old male Singaporean who works at Clean
+Solutions Pte Ltd. He was confirmed to have COVID-19 infection on 15
+May.
+
+[16] Case 63480 is a 41 year-old male Singaporean who works as a
+customer service personnel at Times Bookstore but had not gone to work
+since 30 April. He was confirmed to have COVID-19 infection on 19 May.
+
+[17] Case 63482 is a 54 year-old female Malaysia national who works at
+Seagate Singapore International Headquarters Pte Ltd. She was confirmed
+to have COVID-19 infection on 19 May.
