@@ -160,7 +160,7 @@ CHANGI AIRPORT TERMINAL 3 CLUSTER
 Already quarantined:
 
 Case 63605 is a 7 year-old male Singaporean who is a student at St
-Stephen’s School and was last in school on 12 May. He is a family member
+Stephen’s School and was last in school on 7 May. He is a family member
 of Cases 63139[1] and 63447[2]. As he had been identified as a close
 contact of Case 63139, he was placed on quarantine on 12 May. He was
 tested for COVID-19 on 14 May during quarantine and his test result was
@@ -286,12 +286,12 @@ CASE 63236 CLUSTER[10]
 Already quarantined:
 
 Case 63621 is a 4 year-old female Singaporean who is a student at Heart
-Field Kindergarten and had last gone to school on 12 May. As she had
-been identified as a close contact of Case 63236, she was placed on
-quarantine on 14 May. She developed a fever on 19 May but her symptom
-was not reported to MOH. She was detected when she was tested on 21 May
-during quarantine. Her test result came back positive for COVID-19
-infection on 22 May. Her serology test result is pending.
+Field Kindergarten. As she had been identified as a close contact of
+Case 63236, she was placed on quarantine on 14 May. She developed a
+fever on 19 May but her symptom was not reported to MOH. She was
+detected when she was tested on 21 May during quarantine. Her test
+result came back positive for COVID-19 infection on 22 May. Her serology
+test result is pending.
 
 CASE 63304 CLUSTER[11]
 
