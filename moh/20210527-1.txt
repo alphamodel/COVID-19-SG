@@ -113,7 +113,8 @@ infection the next day. His serology test result is pending. Case 63751
 received his first dose of COVID-19 vaccine on 30 March and the second
 dose on 20 April.
 HONG YE GROUP CLEANERS CLUSTER
-_Already quarantined:_
+_
+Already quarantined:_
 Case 63760 is a 25 year-old male Singaporean who is employed by Hong Ye
 Group Pte Ltd as a cleaner at Changi Business Park. He is a workplace
 contact of Case 63507² and household contact of Case 63740³, and was
@@ -160,7 +161,8 @@ quarantine. Her test result came back positive for COVID-19 on the same
 day. Her serology test result is pending. Case 63762 received her first
 dose of COVID-19 vaccine on 17 April, and the second dose on 15 May.
 TEKTRONIX CLUSTER
-_Already quarantined:_
+_Already quarantined:
+_
 Case 63752 is a 43 year-old male Singapore Permanent Resident who works
 at Tektronix Southeast Asia Pte Ltd, and is a workplace contact of Cases
 63721⁵ and 63748⁶. He was arranged by his company to be tested for
@@ -235,7 +237,7 @@ from Indonesia on a vessel and was tested when he was hospitalised for a
 medical condition that was unrelated to COVID-19.
 They had all already been placed on SHN or isolated upon arrival in
 Singapore and were tested while serving SHN or during isolation.
-4.     Please refer to the Annexes and MOH’s daily Situation Report
+4.     Please refer to the Annexesand MOH’s daily Situation Report
 (www.moh.gov.sg/covid-19/situation-report) for details.
 5.     Epidemiological investigations are in progress. In the meantime,
 all the identified close contacts of the cases have been isolated and
@@ -243,7 +245,7 @@ placed on quarantine, and will be tested at the start and end of their
 quarantine period so that we can detect asymptomatic cases. We will also
 conduct serological tests for the close contacts to determine if the
 cases could have been infected by them.
-UPDATE ON CONDITION OF CONFIRMED CASES
+Update on condition of confirmed cases
 6.     MOH has been monitoring existing clusters for any further
 transmission. As there have been no more cases linked to the Case 62049
 cluster for the past two incubation periods (i.e. 28 days), the cluster
@@ -264,37 +266,35 @@ MINISTRY OF HEALTH
 
 ------------------------------------------------------------------------
 
-1 Case 63526 is a 40 year-old male Singaporean who is an inmate at
+¹ Case 63526 is a 40 year-old male Singaporean who is an inmate at
 Changi Prison Complex. He was confirmed to have COVID-19 infection on 20
 May.
 ² Case 63507 is a 31 year-old male Singaporean who is employed by Hong
 Ye Group Pte Ltd as a cleaner at Changi Business Park. He was confirmed
 to have COVID-19 infection on 19 May.
-3 Case 63740 is a 25 year-old female Singaporean who is employed by Hong
+³ Case 63740 is a 25 year-old female Singaporean who is employed by Hong
 Ye Group Pte Ltd as a cleaner at Changi Business Park. She was confirmed
 to have COVID-19 infection on 26 May.
-4 Case 63579 is a 50 year-old female Singaporean who works at Pacific
+4  Case 63579 is a 50 year-old female Singaporean who works at Pacific
 Law Corporation. She was confirmed to have COVID-19 infection on 21 May.
-5 Case 63721 is a 50 year-old male Singaporean who works as an engineer
+⁵ Case 63721 is a 50 year-old male Singaporean who works as an engineer
 at Tektronix Southeast Asia Pte Ltd. He was confirmed to have COVID-19
 infection on 24 May.
-6 Case 63748 is a 38 year-old male Singapore Permanent Resident who
+⁶ Case 63748 is a 38 year-old male Singapore Permanent Resident who
 works at Tektronix Southeast Asia Pte Ltd. He was confirmed to have
 COVID-19 infection on 26 May.
-7 Case 63446 is a 28 year-old male Singaporean who works as an engineer
+⁷ Case 63446 is a 28 year-old male Singaporean who works as an engineer
 at Patec Ptd Ltd. He was confirmed to have COVID-19 infection on 18 May.
-8 Case 63656 is a 54 year-old female Singaporean who is a homemaker. She
+⁸ Case 63656 is a 54 year-old female Singaporean who is a homemaker. She
 is a family member and close contact of Case 63446. She was confirmed to
 have COVID-19 on 23 May.
-9 Case 63708 is a 15 year-old male Singaporean who is a student at
+⁹ Case 63708 is a 15 year-old male Singaporean who is a student at
 Westwood Secondary School. He was confirmed to have COVID-19 on 24 May.
-10 Case 63709 is a 46 year-old female Singaporean who works as a
+10  Case 63709 is a 46 year-old female Singaporean who works as a
 secretary at Prestige Legal LLP. She was confirmed to have COVID-19 on
 24 May.
-11 Case 63623 is a 74 year-old female Singaporean who is a homemaker.
+¹¹ Case 63623 is a 74 year-old female Singaporean who is a homemaker.
 She was confirmed to have COVID-19 infection on 22 May.
-12 Case 63575 is a 58 year-old male Singaporean who works at
+12  Case 63575 is a 58 year-old male Singaporean who works at
 Assalaamu’alaikum Enterprise Pte Ltd. He was confirmed to have COVID-19
 infection on 21 May.
-
-
