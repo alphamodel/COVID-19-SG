@@ -239,11 +239,11 @@ for COVID-19 infection on the same day. His serology test result is
 pending.
 
 Case 63793 is a 40 year-old female Singaporean who works at Wanderloft
-Capsule Hotel. She is a household contact of Case 63629 and was placed
-on quarantine on 23 May. She is asymptomatic, and was detected when she
-was tested for COVID-19 on 27 May during quarantine. Her test result
-came back positive for COVID-19 infection on the same day. Her serology
-test result is pending.
+Capsule Hostel. She is a close contact of Case 63629 and was placed on
+quarantine on 23 May. She is asymptomatic, and was detected when she was
+tested for COVID-19 on 27 May during quarantine. Her test result came
+back positive for COVID-19 infection on the same day. Her serology test
+result is pending.
 
 Case 63796 is a 21 year-old male Malaysia national who works as a packer
 at DM Wines Pte Ltd. He is a household contact of Case 63629 and was
