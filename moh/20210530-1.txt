@@ -7,17 +7,375 @@
 
 Published Date: 30 May 2021
 
-As of 30 May 2021, 12pm, the Ministry of Health (MOH) has preliminarily
-confirmed 19 new cases of locally transmitted COVID-19 infection. 13 are
-linked to previous cases, amongst whom 11 have already been placed on
-quarantine, and 2 were detected through surveillance. The remaining 6
-are currently unlinked. Based on our investigations so far, the cases
-are in the community, and there are no new cases in the dormitories.
-2.  In addition, there are 6 imported cases, who have already been
-placed on Stay-Home Notice upon arrival in Singapore. Of these, 5 are
-returning Singaporeans or Singapore Permanent Residents.
-3.  In total, there are 25 new cases of COVID-19 infection in
-Singapore today.
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+As of 30 May 2021, 12pm, the Ministry of Health (MOH) has confirmed and
+verified that there are 19 new cases of locally transmitted COVID-19
+infection. 14 are linked to previous cases, amongst whom 11 have already
+been placed on quarantine, and 3 were detected through surveillance. The
+remaining 5 are currently unlinked.¹ The cases are in the community, and
+there are no new cases in the dormitories. There are 6 imported cases,
+who have already been placed on Stay-Home Notice (SHN) upon arrival in
+Singapore. Amongst the new cases today, 9 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 16 were
+symptomatic.
+SUMMARY OF NEW CASES
+
+
+
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+19
+
+
+
+11
+
+8
+
+
+
+15
+
+4
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+6
+
+
+
+6
+
+0
+
+
+
+1
+
+5
+
+TOTAL
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Overall, the number of new cases in the community has decreased from
+182 cases in the week before to 136 cases in the past week. The number
+of unlinked cases in the community has also decreased from 39 cases in
+the week before to 25 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+3. Amongst the 204 confirmed cases reported from 24 May to 30 May, 52
+cases have tested positive for their serology tests, 124 have tested
+negative, and 28 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 19
+There are 19 cases in the community today, of whom 14 are linked to
+previous cases and 5 are currently unlinked.
+CURRENTLY UNLINKED CASES
+Detected through surveillance:
+Case 63865 is a 37 year-old male India national who works as a delivery
+driver with CCG Logistics Pte Ltd. He is asymptomatic, and was detected
+when he was tested on 27 May as part of Rostered Routine Testing (RRT).
+His pooled test result came back positive for COVID-19 on the same day.
+An individual test was done on 28 May, and his test result came back
+positive for COVID-19 infection on the same day. His earlier tests from
+RRT – the last being on 13 May – were all negative for COVID-19
+infection. His serology test result is positive.
+Case 63868 is a 59 year-old male India national who is a retiree. He
+arrived from India on 25 January to visit his Singaporean child, and
+served SHN at a dedicated facility until 8 February. His pre-departure
+test taken in India on 23 January, as well as on-arrival test in
+Singapore on 25 January, were negative for COVID-19 infection. Another
+test taken during SHN on 7 February was also negative. He is
+asymptomatic, and was detected when he took a COVID-19 pre-departure
+test on 27 May in preparation for his return trip to India. His test
+result came back positive for COVID-19 infection on 28 May. His serology
+test result is positive, which is indicative of a past infection.
+However we have classified this case as locally transmitted and taken
+all necessary public health actions as we are unable to rule out that he
+had been infected in Singapore.
+Case 63872 is a 22 year-old male Singaporean who works as a warehouse
+assistant at Keppel Logistics Pte Ltd. He developed a cough and sore
+throat on 28 May and sought medical treatment at a General Practitioner
+(GP) clinic on 29 May, where he underwent both an antigen rapid test
+(ART) and polymerase chain reaction (PCR) test, and was immediately
+isolated when his ART result came back positive. His PCR test result
+also came back positive for COVID-19 infection on the same day. His
+serology test result is negative.
+Case 63876 is a 35 year-old male Singaporean who works at Nur Insan. He
+developed a fever and cough on 29 May and sought medical treatment at a
+GP clinic on the same day. He underwent both an ART and PCR test, and
+both test results came back positive for COVID-19 infection on 29 May.
+His serology test result is negative.
+Case 63887 is a 65 year-old female Singaporean who is a homemaker. She
+developed a fever and sore throat on 29 May, and sought medical
+treatment at a GP clinic on the same day, where she underwent both an
+ART and PCR test. Her ART result came back negative, and she stayed at
+home while waiting for her PCR test result which came back positive for
+COVID-19 infection on 30 May. Her serology test result is pending.
+NTUC FOODFARE (308 ANCHORVALE ROAD) CLUSTER
+Already quarantined:
+Case 63883 is a 47 year-old male Malaysia national who works as a
+kitchen assistant at Hua Zai HK Style Roasted Delights (21 Hougang
+Street 51). He is a household contact of Cases 63853², 63884, 63885,
+63886 and 63896, and was placed on quarantine on 29 May. On the same
+day, he developed a cough and was tested for COVID-19 on 29 May during
+quarantine. His test result came back positive for COVID-19 infection on
+30 May. His serology test result is negative.
+Case 63884 is a 21 year-old male Vietnam national who works as a kitchen
+assistant at Hua Zai HK Style Roasted Delight Rice Noodle (308
+Anchorvale Road). He is a household contact of Cases 63853, 63883,63885,
+63886 and 63896, and was placed on quarantine on 29 May. On the same
+day, he developed a cough. He was tested for COVID-19 in the early hours
+of 30 May during quarantine, and his result came back positive for
+COVID-19 infection on the same day. His serology test result is
+pending.
+Case 63885 is a 22 year-old male Malaysia national who works as a
+kitchen assistant at Hua Zai HK Style Roasted Delights (21 Hougang
+Street 51). He is a household contact of Cases 63853, 63883, 63884,
+63886 and 63896. He developed a cough on 26 May but did not seek medical
+attention. As he had been identified as a household contact of Case
+63853, he was placed on quarantine on 29 May, and was tested for
+COVID-19 on 29 May during quarantine. His test result came back positive
+for COVID-19 infection on 30 May. His serology test result is pending.
+Case 63886 is a 27 year-old male Malaysia national who works as a
+kitchen assistant at Hua Zai HK Style Roasted Delight Rice Noodle (308
+Anchorvale Road). He is a household contact of Cases 63853, 63883,
+63884, 63885 and 63896. He developed loss of taste on 28 May but did not
+seek medical attention. As he had been identified as a household contact
+of Case 63853, he was placed on quarantine on 29 May, and was tested for
+COVID-19 on 29 May during quarantine. His test result came back positive
+for COVID-19 infection on 30 May, and he developed a cough on the same
+day. His serology test result is pending.
+Detected through surveillance:
+Case 63874 is a 29 year-old male Singapore Permanent Resident who works
+as a chef at Rice Garden (308 Anchorvale Road). He is a close contact of
+Cases 63884 and 63886. He developed a cough and fever on 28 May and
+sought medical treatment at a GP clinic on the same day, where he was
+tested for COVID-19. His test result came back positive for COVID-19
+infection on 29 May. His serology test result is pending.
+Closure of NTUC Foodfare at 308 Anchorvale Road
+MOH is investigating cases of COVID-19 infection amongst individuals who
+work at NTUC Foodfare at 308 Anchorvale Road. Our epidemiological
+investigations have found that there is likely ongoing transmission at
+the coffee shop. To break any potential chain of transmission and enable
+deep cleaning of the premises, NTUC Foodfare at 308 Anchorvale Road has
+been closed to all members of the public starting from 30 May 2021 and
+will re-open 14 days later, on 13 June 2021.
+To pre-emptively mitigate any potential risk of wider, undetected
+community transmission, we will also offer free COVID-19 testing for
+members of the public who had visited 308 Anchorvale Road from 13 May to
+30 May. All visitors to 308 Anchorvale Road from 13 May to 30 May are
+advised to monitor their health closely for 14 days from their date of
+visit. They are encouraged to visit a Regional Screening Centre or “Swab
+and Send Home” (SASH) Public Health Preparedness Clinic for a free
+COVID-19 test.³
+CHEVY’S BAR AND BISTRO CLUSTER
+Detected through surveillance:
+Case 63881 is a 25 year-old female Indonesia national who is a foreign
+domestic worker, and a close contact of Case 63777⁴. She developed a
+fever, cough and sore throat on 28 May, and sought medical treatment at
+a GP clinic on 29 May, where she underwent both an ART and PCR test. She
+was immediately isolated when her ART result came back positive on the
+same day. Her PCR test result came back positive for COVID-19 infection
+on 29 May. Her serology test result is pending.
+JEM/ WESTGATE CLUSTER
+Detected through surveillance:
+Case 63882 is a 41 year-old female Philippines national who works as a
+waitress at Erwin’s Gastrobar (8A Marina Boulevard), and was last at
+work on 28 May. As she had been identified as a contact of Case 63829⁵,
+she was placed on phone surveillance on 29 May. She is asymptomatic, but
+visited a GP clinic on the same day to be tested. Her test result came
+back positive for COVID-19 infection on 30 May. Her serology test result
+is pending.
+MCDONALD’S DELIVERY RIDERS CLUSTER
+Already quarantined:
+Case 63871 is a 38 year-old male Singaporean who works at Pizza Hut
+(Punggol Plaza) and had last gone to work on 21 May. He is a close
+contact of Cases 63629⁶, 63669⁷, 63676⁸  and 63682⁹. He underwent an ART
+and PCR test on 22 May, and both test results came back negative on the
+same day. As he had been identified as a close contact of Case 63629, he
+was placed on quarantine on 23 May. He underwent both an ART and PCR
+test on 28 May, and was immediately isolated when his ART result came
+back positive. His PCR test result came back positive for COVID-19
+infection on 29 May. His serology test result is pending.
+CASE 63446 CLUSTER¹⁰
+Already quarantined:
+Case 63866 is a 29 year-old female Singaporean who works in an
+administrative role at Sephora. She is a family member and household
+contact of Cases 63446 and 63867, and was placed on quarantine on 18
+May. She was tested for COVID-19 on 22 May during quarantine, and her
+test result was negative. She developed a fever on 29 May, and was
+tested for COVID-19 on the same day. Her test result came back positive
+for COVID-19 infection on 29 May. Her serology test result is negative.
+Case 63867 is a 7 month-old female Singaporean who is a family member
+and household contact of Cases 63446 and 63866. She was placed on
+quarantine on 18 May, and tested negative for COVID-19 on 21 May during
+quarantine. She developed a fever on 28 May, and was tested for COVID-19
+on 29 May. Her test result came back positive for COVID-19 infection on
+the same day. Her serology test result is pending.
+CASE 63757 CLUSTER¹¹
+Already quarantined:
+Case 63862 is a 57 year-old female Singaporean who is employed by A&P
+Maintenance Pte Ltd as a cleaner at DHL Supply Chain Advanced Regional
+Centre (1 Greenwich Drive). She is a family member and household contact
+of Cases 63757, 63863 and 63864, and was placed on quarantine on 26 May.
+She developed a cough on 28 May but did not report her symptom. She was
+tested for COVID-19 on the same day during quarantine and her test
+result came back positive for COVID-19 infection on 29 May. Her serology
+test result is negative.
+Case 63863 is a 31 year-old male Singaporean who works in an
+administrative role at the Central Provident Fund Board and has been
+working from home. He is a family member and household contact of Cases
+63757, 63862 and 63864, and was placed on quarantine on 26 May. He
+developed a cough on 27 May but did not report his symptom. He was
+tested for COVID-19 on 28 May during quarantine and his test result came
+back positive for COVID-19 infection on 29 May. His serology test result
+is negative.
+Case 63864 is a 27 year-old female Singaporean who works as a retail
+assistant at Lamy (Bugis Junction and Chinatown Point outlets). She is a
+family member and household contact of Cases 63757, 63862 and 63863, and
+was placed on quarantine on 26 May. She was tested for COVID-19 on 28
+May during quarantine and her test result came back positive for
+COVID-19 infection on 29 May. She subsequently developed a fever and
+cough on the same day. Her serology test result is negative.
+CASE 63806 CLUSTER12
+Already quarantined:
+Case 63875 is a 41 year-old male Singapore Permanent Resident who works
+as a consultant at ICSC Pte Ltd. He developed a cough on 25 May, but did
+not seek medical attention. As he had been identified as a close contact
+of Cases 63806 and 63848¹³, he was placed on quarantine on 28 May. He
+was tested for COVID-19 on the same day, and developed a fever on 29
+May. His ART result came back positive on 28 May and he was immediately
+isolated. His PCR test result came back positive on 29 May. His serology
+test result is pending.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 6
+Amongst the 6 imported cases,
+• 3 (Cases 63873, 63877 and 63878) are Singaporeans and 2 (Cases 63869
+and 63870) are Singapore Permanent Residents who returned from Belgium,
+India, Indonesia and the US.
+• 1 (Case 63879) is a Work Permit holder who arrived from the
+Philippines and is a foreign domestic worker.
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4. Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5. Epidemiological investigations are in progress. In the meantime, all
+the identified close contacts of the cases have been isolated and placed
+on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+UPDATE ON CONDITION OF CONFIRMED CASES
+6. 11 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,434 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7. There are currently 222 confirmed cases who are still in hospital. Of
+these, most are stable or improving, and 3 are in critical condition in
+the intensive care unit. 339 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 33 have passed away from
+complications due to COVID-19 infection.
+8. Case 63382, a 95 year-old female Singaporean, has passed away from
+complications due to COVID-19 infection on 30 May 2021. She was
+confirmed to have COVID-19 infection on 17 May when she was warded at
+Changi General Hospital for an unrelated medical condition. She had not
+been vaccinated against COVID-19, and had a history of cancer,
+hypertension and hypothyroidism. Changi General Hospital has reached out
+to her family and is extending assistance to them.
+[1] This is updated from the afternoon press release as 1 more case has
+been linked to previous cases following epidemiological investigations.
+[2] Case 63853 is a 33 year-old male Malaysia national who works as a
+kitchen assistant at Hua Zai Eating House Pte Ltd. He was confirmed to
+have COVID-19 infection on 29 May.
+[3] Please refer to https://go.gov.sg/av-testing for details of the
+testing operations.
+[4] Case 63777 is a 23 year-old male Singaporean who works as a waiter
+at Royz Et Vouz. He was confirmed to have COVID-19 infection on 27 May.
+[5] Case 63829 is a 32 year-old male Singaporean who works as a chef at
+LeVeL33, and had visited Westgate on 20 May. He was confirmed to have
+COVID-19 infection on 28 May.
+
+[6] Case 63629 is a 31 year-old male Malaysia national who works as a
+delivery rider for Pizza Hut (Punggol Plaza). He was confirmed to have
+COVID-19 infection on 23 May.
+[7] Case 63669 is a 15 year-old male Singaporean who is a student at
+Peicai Secondary School and works part-time at Pizza Hut (Punggol Plaza)
+as a kitchen staff. He was confirmed to have COVID-19 infection on 23
+May.
+[8] Case 63676 is an 18 year-old male Singaporean who works part-time at
+Pizza Hut (Punggol Plaza) as a kitchen staff. He was confirmed to have
+COVID-19 infection on 24 May.
+[9] Case 63682 is a 16 year-old male Singaporean who is a student at
+Greendale Secondary School and works part-time at Pizza Hut (Punggol
+Plaza). He was confirmed to have COVID-19 infection on 24 May.
+[10] Case 63446 is a 28 year-old male Singaporean who works as an
+engineer at Patec Ptd Ltd. He was confirmed to have COVID-19 infection
+on 18 May.
+[11] Case 63757 is a 67 year-old male Singaporean who is a retiree. He
+was confirmed to have COVID-19 infection on 26 May.
+
+[12] Case 63806 is a 49 year-old male Singapore Permanent Resident who
+works as a manager at Success Consultancy Pte Ltd. He was confirmed to
+have COVID-19 infection on 28 May.
+[13] Case 63848 is a 26 year-old male India national who works at
+Success Consultancy Pte Ltd. He was confirmed to have COVID-19 infection
+on 28 May.
