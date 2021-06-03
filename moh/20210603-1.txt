@@ -141,17 +141,18 @@ CURRENTLY UNLINKED CASE
 Detected through surveillance:
 
 Case 64008 is a 41 year-old male Singapore Permanent Resident who works
-as a coating inspector at SBM Keppel Tuas. He had travelled to India in
-July 2020, and returned to Singapore on 20 April 2021, and served SHN at
-a dedicated facility until 11 May. His on-arrival test taken on 20
-April, as well as his swabs done on 3 May and 10 May during SHN, were
-all negative for COVID-19. He is asymptomatic, and was detected when he
-was tested on 1 June as part of Rostered Routine Testing (RRT). His test
-result came back positive for COVID-19 infection on 2 June. His serology
-test result is positive, which is indicative of a past infection. We
-have classified him as a local unlinked case, as we cannot fully exclude
-the possibility that he had been infected locally. Case 64008 received
-his first dose of COVID-19 vaccine on 24 May.
+as a coating inspector at SBM Offshore at Keppel Shipyard Tuas Yard. He
+had travelled to India in July 2020, and returned to Singapore on 20
+April 2021, and served SHN at a dedicated facility until 11 May. His
+on-arrival test taken on 20 April, as well as his swabs done on 3 May
+and 10 May during SHN, were all negative for COVID-19. He is
+asymptomatic, and was detected when he was tested on 1 June as part of
+Rostered Routine Testing (RRT). His test result came back positive for
+COVID-19 infection on 2 June. His serology test result is positive,
+which is indicative of a past infection. We have classified him as a
+local unlinked case, as we cannot fully exclude the possibility that he
+had been infected locally. Case 64008 received his first dose of
+COVID-19 vaccine on 24 May.
 
 MCDONALD’S DELIVERY RIDERS CLUSTER
 
