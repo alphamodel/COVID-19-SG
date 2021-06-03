@@ -8,27 +8,408 @@
 Published Date: 03 Jun 2021
 
           As of 3 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 35 new cases of locally transmitted COVID-19
-infection. Of these, 22 cases are linked to MINDSville@Napiri, which
-were announced yesterday evening. They have all been quarantined prior
-to detection.
+confirmed and verified that there are 35 new cases of locally
+transmitted COVID-19 infection. This includes 22 cases from
+MINDSville@napiri which were first reported yesterday.  34 of the 35 new
+cases are linked to previous cases, amongst whom 28 have already been
+placed on quarantine, and 6 were detected through surveillance. The
+remaining case is currently unlinked.[1] The cases are in the community,
+and there are no new cases in the dormitories. There are 10 imported
+cases, who have already been placed on Stay-Home Notice (SHN) upon
+arrival in Singapore. Amongst the new cases today, 35 are asymptomatic,
+and were detected from our proactive screening and surveillance, while
+10 were symptomatic.
 
-2.  Amongst the remaining 13 cases, 11 are linked to previous
-cases, of whom 6 have already been placed on quarantine, and 5 were
-detected through surveillance. The remaining 2 are currently unlinked.
-Based on our investigations so far, the cases are in the community, and
-there are no new cases in the dormitories.
+SUMMARY OF NEW CASES
 
-3.  In addition, there are 10 imported cases, who have already
-been placed on Stay-Home Notice upon arrival in Singapore. Of these, 5
-are returning Singaporeans or Singapore Permanent Residents.
 
-4.  In total, there are 45 new cases of COVID-19 infection in
-Singapore today.
 
-5.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+35
+
+
+
+28
+
+7
+
+
+
+10
+
+25
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+10
+
+
+
+10
+
+0
+
+
+
+0
+
+10
+
+TOTAL
+
+45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.   Overall, the number of new cases in the community has decreased
+from 152 cases in the week before to 147 cases in the past week. The
+number of unlinked cases in the community has increased from 24 cases in
+the week before to 26 cases in the past week. We will continue to
+closely monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.  Amongst the 205 confirmed cases reported from 28 May to 3
+June, 66 cases have tested positive for their serology tests, 106 have
+tested negative, and 33 serology test results are pending.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 35
+
+There are 35 cases in the community today, of whom 34 are linked to
+previous cases and 1 is currently unlinked.
+
+CURRENTLY UNLINKED CASE
+
+Detected through surveillance:
+
+Case 64008 is a 41 year-old male Singapore Permanent Resident who works
+as a coating inspector at SBM Keppel Tuas. He had travelled to India in
+July 2020, and returned to Singapore on 20 April 2021, and served SHN at
+a dedicated facility until 11 May. His on-arrival test taken on 20
+April, as well as his swabs done on 3 May and 10 May during SHN, were
+all negative for COVID-19. He is asymptomatic, and was detected when he
+was tested on 1 June as part of Rostered Routine Testing (RRT). His test
+result came back positive for COVID-19 infection on 2 June. His serology
+test result is positive, which is indicative of a past infection. We
+have classified him as a local unlinked case, as we cannot fully exclude
+the possibility that he had been infected locally. Case 64008 received
+his first dose of COVID-19 vaccine on 24 May.
+
+MCDONALD’S DELIVERY RIDERS CLUSTER
+
+Already quarantined:
+
+Case 64016 is a 30 year-old male Malaysia national who is employed by
+IVIC Logistic Pte Ltd as a delivery rider at McDonald’s (Tampines Street
+32). He underwent an ART and PCR test on 21 May and his test results
+were negative for COVID-19. As he had been identified as a household
+contact of Case 63534 [2], he was placed on quarantine on the same day.
+He is asymptomatic, and was detected when he was tested for COVID-19
+infection on 2 June during quarantine. His test result came back
+positive for COVID-19 infection the same day. He has tested
+preliminarily positive for the B.1.617 variant, and is pending further
+confirmatory tests. His serology test result is pending. Case 64016
+received his first dose of COVID-19 vaccine on 16 May.
+
+MINDSVILLE@NAPIRI CLUSTER
+
+Already quarantined:
+
+Cases 63976, 63977, 63979, 63980, 63984, 63985, 63986, 63987, 63988,
+63989, 63990, 63991, 63992, 63993, 63994, 63995, 63996, 63997 and
+64001 are residents at MINDSville@Napiri. They are all asymptomatic, and
+were detected from our proactive testing of residents of the Home.
+Amongst them, 17 have already been vaccinated against COVID-19.
+
+Cases 63974, 63982 and 63983 work as nursing aides at MINDSville@Napiri,
+and were detected from our proactive testing of staff working in the
+Home. Case 63974 is asymptomatic while Cases 63982 and 63983 developed
+symptoms after being tested for COVID-19. They have all been vaccinated
+against COVID-19.
+
+NTUC FOODFARE (308 ANCHORVALE ROAD) CLUSTER
+
+Already quarantined:
+
+Case 64009 is a 39 year-old female China national who works as a kitchen
+assistant at NTUC Foodfare (308 Anchorvale Road). She is a workplace
+contact of Cases 63854 [3] and 63958[4], and was placed on quarantine on
+31 May. She developed a fever and sore throat on 2 June, and was tested
+on the same day during quarantine. Her test result came back positive
+for COVID-19 infection on 2 June.
+
+506 HOUGANG AVENUE 8 CLUSTER [5]
+
+Detected through surveillance:
+
+Case 63999 is a 58 year-old female Singaporean who is a homemaker, and
+resides at 506 Hougang Avenue 8. She developed a fever on 29 May, cough
+on 30 May and runny nose on 31 May. She sought medical treatment at a
+polyclinic on 1 June, where she underwent both an antigen rapid test
+(ART) and a polymerase chain reaction (PCR) test, and was immediately
+isolated when her ART result came back positive on the same day. Her PCR
+test result came back positive for COVID-19 infection on 2 June. Her
+serology test result is negative for the N antigen, which suggests the
+presence of early infection. Case 63999 received her first dose of
+COVID-19 vaccine on 18 May.
+
+CASE 63887 CLUSTER [6]
+
+Already quarantined:
+
+Case 63998 is a 3 year-old male Singaporean who is a student at My First
+Skool (332B Anchorvale Link), and was last in school on 12 May. He is a
+family member and household contact of Cases 63920[7], 63887, 63928[8]
+and 63947[9], and was placed on quarantine on 30 May. He is
+asymptomatic, and was tested on 1 June during quarantine. His test
+result came back positive for COVID-19 on 2 June. His serology test
+result is negative.
+
+CASE 63714 CLUSTER [10]
+
+Already quarantined:
+
+Case 64022 is a 24 year-old male Singaporean who works as an insurance
+agent at Great Eastern Life and a part-time GrabFood delivery driver. As
+he had been identified as a household contact of Case 63747[11], he was
+placed on quarantine on 24 May. He was tested for COVID-19 on 26 May and
+28 May, and tested negative both times. He developed a fever on 1 June
+during quarantine and was tested for COVID-19 on 2 June. His test result
+came back positive on 3 June. His serology test result is negative.
+
+CASE 63941 CLUSTER [12]
+
+Already quarantined:
+
+Case 64000 is a 17 year-old female Malaysia national who is a student in
+Malaysia. She has been in Singapore since September 2020 to visit her
+Singaporean family members. She developed a fever and cough on 29 May
+but did not seek medical attention. As she had been identified as a
+household contact of Cases 63941, 63963 [13] and 63966 [14] , she was
+placed on quarantine on 1 June, and tested for COVID-19 on the same day.
+Her test result came back positive for COVID-19 infection on 2 June. Her
+serology test result is pending.
+
+CASE 63964 CLUSTER [15]
+
+Detected through surveillance:
+
+Case 63981 is a 23 year-old female Singaporean who is a student at the
+Singapore University of Social Sciences, and has not gone to school
+since 2020. She is a family member of Case 63964, a family member and
+household contact of Case 64011, and a household contact of Case 64010.
+She developed a fever, runny nose and diarrhoea on 1 June and sought
+medical attention at a GP clinic on the same day, where she underwent an
+ART and PCR test, and was immediately isolated when her ART result came
+back positive on the same day. Her PCR test result came back positive
+for COVID-19 infection on 2 June. Her serology test result is negative.
+
+Case 64010 is a 30 year-old female Indonesia national who is a foreign
+domestic worker, and a household contact of Cases 63981 and 64011. She
+developed a cough and runny nose on 23 May and sought medical treatment
+at a GP clinic on 1 June, where she underwent both an ART and PCR test.
+Her ART result came back negative on the same day. Her PCR test result
+came back positive for COVID-19 on 2 June. Her serology test result is
+pending.
+
+Case 64011 is a 51 year-old male Singaporean who works as a private hire
+driver for Grab. He is a family member of Cases 63964 and 63981, and a
+household contact of Case 64010. He developed a cough, runny nose and
+anosmia on 28 May and sought medical treatment at a GP clinic on 1 June,
+where he underwent both an ART and PCR test. His ART test result was
+negative. His PCR test result came back positive for COVID-19 on 2
+June.  His serology test result is positive. Case 64011 received his
+first dose of the COVID-19 vaccine on 17 May.
+
+CASE 63973 CLUSTER [16]
+
+Detected through surveillance:
+
+Case 63975 is an 85 year-old male Singaporean who is a retiree. He is a
+family member and household contact of Case 63973 and a family member of
+Case 63978. He was detected when he was tested for COVID-19 on 1 June as
+part of our special testing operations for residents of Yishun Street
+72. His test result came back positive for COVID-19 infection on the
+same day. His serology result is negative for the N antigen, which
+suggests the presence of early infection. Case 63975 received his first
+dose of COVID-19 vaccine on 11 March, and the second dose on 1 April.
+
+Case 63978 is a 60 year-old female Singaporean who is a homemaker. She
+is a family member of Cases 63973 and 63975. She developed a cough and
+itchy throat on 31 May but did not seek medical attention. She was
+detected when she was tested for COVID-19 on 1 June as part of our
+special testing operations for residents of Yishun Street 72. Her test
+result came back positive for COVID-19 infection the next day. Her
+serology result is negative for the N antigen, which suggests the
+presence of early infection. Case 63978 received her first dose of
+COVID-19 vaccine on 21 March, and the second dose on 11 April.
+
+OTHER LINKED CASES
+
+Already quarantined:
+
+Case 64020 is a 29 year-old female Indonesia national who works as a
+foreign domestic worker. She is a household contact of Case 63931[17],
+and was placed on quarantine on 1 June. She is asymptomatic, and was
+detected when she was tested for COVID-19 on 1 June during quarantine.
+Her test result came back positive for COVID-19 infection on 2 June. Her
+serology test result is pending.
+
+
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+
+
+C)  IMPORTED CASES: 10
+
+Amongst the 10 imported cases,
+
+•  4 (Cases 64003, 64005, 64007 and 64021) are Singaporeans and
+1 (Case 64013) is a Singapore Permanent Resident who returned from
+India.
+•  5 are Work Permit holders who arrived from Indonesia,
+Malaysia and Myanmar, of whom 3 (Cases 64015, 64017 and 64023) are
+foreign domestic workers.
+
+They had all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.  Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  34 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,557 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+7.  There are currently 231 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 2 are in critical
+condition in the intensive care unit. 324 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 33 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 3 JUNE 2021
+
+------------------------------------------------------------------------
+
+[1]  This is updated from the afternoon press release as 1 more case has
+been linked to previous cases following epidemiological investigations.
+[2]  Case 63534 is a 27 year-old male Malaysia national who works as a
+delivery rider for IVIC Logistic Pte Ltd and McDonald’s (Bedok
+Reservoir). He was confirmed to have COVID-19 on 20 May.
+[3]  Case 63854 is a 23 year-old male Malaysia national who works as a
+cook at West Grill Station (Anchorvale). He was confirmed to have
+COVID-19 infection on 29 May.
+[4]  Case 63958 is a 20 year-old female Vietnam national who works as a
+kitchen assistant at NTUC Foodfare (308 Anchorvale Road). She was
+confirmed to have COVID-19 infection on 1 June.
+[5]  Whole genome sequencing and phylogenetic analysis conducted by the
+National Public Health Laboratory have revealed links amongst previous
+cases to the 506 Hougang Avenue 8 cluster.
+[6]  Case 63887 is a 65 year-old female Singaporean who is a homemaker.
+She was confirmed to have COVID-19 infection on 30 May.
+[7]  Case 63920 is a 4 year-old female Singaporean who is a student at
+My First Skool (332B Anchorvale Link). She was confirmed to have
+COVID-19 infection on 31 May.
+[8]  Case 63928 is a 27 year-old female Malaysia national who is a
+homemaker. She was confirmed to have COVID-19 infection infection on 31
+May.
+[9]  Case 63947 is a 28 year-old male Singaporean who works at Typo
+(Westgate). He was confirmed to have COVID-19 infection infection on 31
+May.
+[10]  Case 63714 is a 74 year-old male Singaporean who is a retiree. He
+was confirmed to have COVID-19 infection on 24 May.
+[11]  Case 63747 is a 20 year-old female Singaporean who is a student at
+the National University of Singapore, and works part-time at Poke Theory
+(Novena). She was confirmed to have COVID-19 infection on 26 May.
+[12]  Case 63941 is a 36 year-old female Vietnam national who is a
+homemaker. She was confirmed to have COVID-19 infection on 1 June.
+[13]  Case 63963 is a 3 year-old male Singaporean who is a student at
+PCF Sparkletots Preschool (Kreta Ayer – Kim Seng), and a family member
+and household contact of Cases 63941 and 63966. He was confirmed to have
+COVID-19 infection on 1 June.
+[14]  Case 63966 is a 71 year-old female Singaporean who works as a
+stall assistant at 328 Katong Laksa Tiong Bahru Plaza, and is a close
+contact of Case 63941. She was confirmed to have COVID-19 infection on 1
+June.
+[15]  Case 63964 is a 61 year-old female Singaporean who works at
+Singapore Pools at NTUC FairPrice (Clementi Avenue 3). She was confirmed
+to have COVID-19 infection on 1 June.
+[16]  Case 63973 is an 80 year-old female Singaporean who is a retiree.
+She was confirmed to have COVID-19 infection on 1 June.
+[17]  Case 63931 is an 82 year-old male Singaporean who is a retiree. He
+was confirmed to have COVID-19 infection on 1 June.
