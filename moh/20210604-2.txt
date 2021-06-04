@@ -1,25 +1,53 @@
-7 New Cases of Locally Transmitted Covid-19 Infection
+Safety of Mrna Vaccines In Persons With Anaphylaxis
 
 
 
-7 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+SAFETY OF MRNA VACCINES IN PERSONS WITH ANAPHYLAXIS
 
 
 Published Date: 04 Jun 2021
 
-        As of 4 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 7 new cases of locally transmitted COVID-19
-infection. 5 are linked to previous cases, all of whom have already been
-placed on quarantine. The remaining 2 are currently unlinked. Based on
-our investigations so far, the cases are in the community, and there are
-no new cases in the dormitories.
-2.     In addition, there are 6 imported cases, who have already been
-placed on Stay-Home Notice upon arrival in Singapore. All of them are
-returning Singaporeans or Singapore Permanent Residents.
-3.     In total, there are 13 new cases of COVID-19 infection in
-Singapore today.
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-MINISTRY OF HEALTH
+        The Expert Committee on COVID-19 Vaccination (EC19V) recommends
+extending the use of the mRNA COVID-19 vaccines from Pfizer-BioNTech and
+Moderna to persons with a history of anaphylaxis not related to the mRNA
+vaccines.
+2.     Anaphylaxis is a potentially life-threatening allergic reaction.
+Previously, the EC19V had recommended that persons with a history of
+anaphylaxis should not receive the mRNA-based COVID-19 vaccination. This
+was out of an abundance of caution in light of some overseas and local
+reports of anaphylaxis with the mRNA-based vaccines in individuals with
+a history of allergies, when the mRNA vaccines were first introduced.
+3.     Local and international data indicates that mRNA vaccines are
+suitable for use in persons with anaphylaxis not related to mRNA
+vaccinations or its components. To date, more than 200 million doses of
+mRNA-based vaccines (both Pfizer-BioNTech and Moderna) have been
+administered worldwide. The data has been reassuring, and there are no
+safety issues detected with vaccinating individuals with a history of
+anaphylaxis to other triggers. The incidence rate of anaphylaxis
+reported locally with these mRNA vaccines has also stabilised at about
+0.85 per 100,000 doses administered, a rate comparable to that reported
+internationally.
+4.     EC19V now recommends that persons with a history of anaphylaxis
+or allergic reactions to other drugs, food, insect stings, or unknown
+trigger (idiopathic) can be vaccinated with a 30-minute observation
+period after vaccination.
+5.     Individuals with a history of anaphylaxis to any component of the
+mRNA COVID-19 vaccine are still not recommended to receive the mRNA
+COVID-19 vaccine. Individuals who have an anaphylactic reaction after
+the first dose of mRNA vaccine should not receive the second dose.
+Non-mRNA vaccines may be authorised for use by HSA and be made available
+in the future, hence these individuals are advised to wait for these
+vaccines instead.
+6.     Where individuals had a history of allergies to other vaccines,
+because there may be similar components in these vaccines as the mRNA
+vaccines, these individuals should be first be referred to an allergist
+for further evaluation and if deemed suitable, may be vaccinated with
+the mRNA vaccines.
+7.     The Expert Committee on COVID-19 Vaccination will continue the
+review emerging safety data with the view of allowing more persons who
+remain contraindicated to be vaccinated with mRNA vaccines if it is
+safe.
+EXPERT COMMITTEE ON COVID-19 VACCINATION
 4 JUNE 2021
+
+

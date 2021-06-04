@@ -1,202 +1,133 @@
-7 New Cases of Locally Transmitted Covid-19 Infection
+Giving Maximum Protection to Individuals Through Vaccination
 
 
 
-7 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+GIVING MAXIMUM PROTECTION TO INDIVIDUALS THROUGH VACCINATION
 
 
 Published Date: 04 Jun 2021
 
-        As of 4 June 2021, 12pm, the Ministry of Health (MOH) has
-confirmed and verified that there are 7 new cases of locally transmitted
-COVID-19 infection. 6 are linked to previous cases, amongst whom 5 have
-already been placed on quarantine, and 1 was detected through
-surveillance. The remaining case is currently unlinked[1]. The cases are
-in the community, and there are no new cases in the dormitories. There
-are 6 imported cases, who have already been placed on Stay-Home Notice
-(SHN) upon arrival in Singapore. Amongst the new cases today, 8 are
-asymptomatic, and were detected from our proactive screening and
-surveillance, while 5 were symptomatic.
-SUMMARY OF NEW CASES
+1. Singapore’s vaccination efforts continue to make good progress. A
+total of about 4.2 million doses have been administered, and almost 2.4
+million people here have received at least one dose of the COVID-19
+vaccine. The exercise for students has got off to an encouraging start.
+2. On 31 May 2021, the press release for Multi-Ministry Taskforce
+announced that:
+a) The Expert Committee on COVID-19 Vaccination (EC19V) is reviewing the
+restriction on persons with a history of anaphylaxis taking the
+Pfizer-BioNTech and Moderna vaccines, with a view to relax it; and
+b) The Ministry of Health (MOH) will open up access to other COVID-19
+vaccines under the Special Access Route (SAR) in order to enhance
+overall vaccination coverage.
+This media release provides an update to the two issues.
+REMOVAL OF RESTRICTIONS ON PERSONS WITH ANAPHYLAXIS
+3. Our primary consideration is to protect all Singaporeans, by ensuring
+that our population has access to vaccines that meet strict standards of
+safety, quality and effectiveness.
+4. Currently, there are about 32,000 individuals who are not able to
+take the mRNA vaccines due to severe allergies. The EC19V has been
+reviewing local and international safety data on vaccinating people with
+a history of anaphylaxis due to food and other medicines, with a view to
+allowing this group to receive the mRNA vaccines safely.
+5. After careful study of the data both globally and locally, the EC19V
+has recommended that persons with a history of anaphylaxis or allergic
+reactions to other drugs, food, insect stings, or unknown trigger
+(idiopathic) can be vaccinated with the mRNA vaccines. Persons with a
+history of anaphylaxis or allergic reactions to other vaccines can be
+referred to an allergist for further evaluation fully subsidised by the
+government and may be vaccinated, if deemed suitable. MOH accepts the
+EC19V recommendation and will remove this restriction from 5 June 2021.
+ALTERNATE VACCINES
+6. With this change, we expect a large majority of the 32,000
+individuals will now be able to take the mRNA vaccines under our
+national vaccination programme. A minority will still not be eligible,
+if they have a history of anaphylaxis or allergic reactions to other
+vaccines.
+7. There are also approximately 2,000 individuals who had developed
+anaphylaxis or allergic reactions (hives, face/ eyelid/ lip/ throat
+swelling, generalised rash within 7 days after vaccination) due to the
+first dose of an mRNA COVID-19 vaccine. This group should not receive an
+mRNA-based vaccine again.
+8. To protect them against COVID-19, we are also evaluating and will
+bring in non-mRNA vaccines that are more suitable for them. We expect to
+do this before the end of this year after the vaccines are authorised by
+the Health Sciences Authority (HSA) for use in our national vaccination
+programme. We will provide more details later when these vaccines are
+available.
+SPECIAL ACCESS ROUTE
+9. However, if this group of individuals are not able to wait for the
+alternate non-mRNA vaccines, they can consider taking a vaccine under
+the SAR, which MOH has recently announced that it will open for COVID-19
+vaccines.
+10. Under the SAR, COVID-19 vaccines approved by the World Health
+Organization (WHO) for its Emergency Use List (EUL), can be imported and
+supplied by private healthcare providers as unregistered vaccines, to be
+administered to individuals in Singapore.
+11. On 1 June, the WHO approved the Sinovac-CoronaVac vaccine for its
+EUL¹. This means that the WHO EUL now comprises the following COVID-19
+vaccines: Pfizer-BioNTech, Moderna, Astra-Zeneca, Johnson&Johnson,
+Sinopharm and Sinovac-CoronaVac. More than ten other vaccines are still
+being evaluated by WHO.
+12. As MOH has Sinovac-CoronaVac vaccine in stock, MOH will be inviting
+private healthcare institutions licensed under the Private Hospitals and
+Medical Clinics Act (PHMCA) to apply to be licensed providers for the
+Sinovac-CoronaVac vaccine under the SAR, and draw on our existing stock
+of 200,000 doses. We will select around 20 private clinics around the
+island, who can demonstrate the ability to administer the vaccines
+safely, properly and efficiently. The clinics can provide the vaccine to
+all Singapore Citizens, Permanent Residents and persons holding
+Long-Term Visit Passes, who for one reason or other wish to receive
+Sinovac-CoronaVac instead of a vaccine which is available on the
+national programme.
+13. The vaccines from our current stock will be released for free to
+successful providers. Providers will be allowed to charge patients
+receiving the vaccine a fee to cover their costs. For the 34,000
+individuals who were previously rejected from taking the mRNA vaccines
+or who were allergic to the mRNA vaccine, the government will reimburse
+them this fee if they decide to receive Sinovac-CoronaVac. Details will
+be made known to these individuals in the coming week.
+14. This is ultimately a private arrangement, though facilitated by the
+government. MOH will draw up guidelines on proper counselling, informed
+consent and safe management of patients. However, as the vaccine remains
+unregistered, it cannot be covered by the Vaccine Injury Financial
+Assistance Programme (VIFAP). Individuals who wish to receive
+vaccination under SAR should discuss with their doctor in these
+appointed providers the risks and benefits of using these vaccines, and
+jointly make an informed decision.
+15. Private healthcare institutions who are keen to apply to the
+licensed providers for our existing stock of 200,000 doses can apply at
+https://go.gov.sg/zue5s4 from today onwards. The application will close
+by 11 June 2021, 1200 hours.
+VACCINES APPROVAL
+16. Some members of the public have suggested that HSA should simply
+approve the Sinovac-CoronaVac vaccine to be part of our national
+vaccination programme, now that WHO has included it in its EUL.
+17. We would like to clarify that the WHO EUL pathway focusses on the
+needs of low- and middle-income countries with limited access to
+COVID-19 vaccines. It is a risk-based process that expedites the
+assessment of vaccines for use in a pandemic especially in these
+countries, where the benefits are deemed to outweigh the risks, despite
+uncertainties about the safety and efficacy of the vaccine. Healthcare
+regulators in many developed jurisdictions, including Singapore,
+typically conduct further rigorous evaluations beyond WHO EUL approval
+before approving a vaccine for general use.
+18. We wish to reiterate that HSA evaluates all applications, regardless
+of their country of origin, based on the same standards and
+requirements. Currently HSA is still awaiting outstanding data on
+Sinovac-CoronaVac from Sinovac for it to complete its independent and
+thorough evaluation of the quality, safety and efficacy of the vaccine
+for inclusion in our national vaccination programme.
 
-BREAKDOWN BY
-
-BREAKDOWN BY
-
-NUMBER OF CASES
-
-ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
-
-DETECTED FROM SURVEILLANCE
-
-SYMPTOMATIC
-
-ASYMPTOMATIC
-
-CASES IN THE COMMUNITY
-
-7
-
-5
-
-2
-
-4
-
-3
-
-CASES RESIDING IN DORMITORIES
-
-0
-
-0
-
-0
-
-0
-
-0
-
-IMPORTED CASES
-
-6
-
-6
-
-0
-
-1
-
-5
-
-TOTAL
-
-13
-
-2.      Overall, the number of new cases in the community has increased
-from 137 cases in the week before to 139 cases in the past week. The
-number of unlinked cases in the community has also increased from 21
-cases in the week before to 23 cases in the past week. We will continue
-to closely monitor these numbers, as well as the cases detected through
-our surveillance programme.
-3.     Amongst the 188 confirmed cases reported from 29 May to 4 June,
-74 cases have tested positive for their serology tests, 99 have tested
-negative, and 15 serology test results are pending.
-CASE DETAILS
-A) CASES IN THE COMMUNITY: 7
-There are 7 cases in the community today, of whom 6 are linked to
-previous cases and 1 is currently unlinked.
-CURRENTLY UNLINKED CASE
-Detected through surveillance:
-Case 64029 is a 19 year-old male Singaporean who is a student at Hwa
-Chong Institution and was last in school on 18 May. He developed a
-fever, sore throat and body aches on 2 June and sought medical treatment
-at a General Practitioner (GP) clinic on 3 June, where he underwent both
-an antigen rapid test (ART) and a polymerase chain reaction (PCR) test,
-and was immediately isolated when his ART result came back positive. His
-PCR test result also came back positive for COVID-19 infection on the
-same day. His serology test result is pending.
-HONG YE GROUP CLEANERS CLUSTER
-Already quarantined:
-Case 64026 is an 8 year-old male Singaporean who is a student at Fuhua
-Primary School, and was last in school on 18 May. He is a family member
-and household contact of Cases 63953[2] and 63970[3], and was placed on
-quarantine on 1 June. He was tested for COVID-19 on 2 June during
-quarantine, and developed a cough and fever on the same day. His test
-result came back positive for COVID-19 on 3 June. His serology result is
-negative.
-Detected through surveillance:
-Case 64032 is a 38 year-old male Singaporean who works as a driver at
-Wongso Limousine Services, and is deployed by Certis Cisco to convey
-persons placed on quarantine to government quarantine facilities. At
-work, he dons full personal protective equipment (PPE), including N95
-mask, face shield, gown and gloves. He had transported 2 cases in his
-vehicle on 23 May who were later confirmed to have COVID-19 infection
-and were linked to the Hong Ye Group cleaners cluster. He developed a
-fever on 1 June and sought medical treatment at a hospital on 3 June,
-where he was tested for COVID-19. His test result came back positive for
-COVID-19 infection on the same day. His serology test result is pending.
-CASE 63892 CLUSTER[4]
-Already quarantined:
-Case 64027 is a 34 year-old male Malaysia national who works as a car
-groomer at Kok Wang Car Grooming. He is a household contact of Cases
-63892 and 64028, and was placed on quarantine on 30 May. He was tested
-for COVID-19 infection on 31 May, and his test result was negative. He
-is asymptomatic, and was detected when he was tested again on 3 June and
-his test result came back positive for COVID-19 infection on the same
-day. His serology test result is negative.
-Case 64028 is a 64 year-old female Singaporean who works as a cleaner at
-Phoenix Entertainment KTV Music Lounge, and had last gone to work on 15
-May. She is a household contact of Cases 63892 and 64027, and was placed
-on quarantine on 30 May. She was tested for COVID-19 infection on 31 May
-during quarantine, and her test result was negative. She is
-asymptomatic, and was detected when she was tested again on 2 June. Her
-test result came back positive for COVID-19 infection on 3 June. Her
-serology test result is negative for the N antigen, which suggests the
-presence of early infection. Case 64028 received her first dose of
-COVID-19 vaccine on 21 April and the second dose on 12 May.
-CASE 63922 CLUSTER[5]
-Already quarantined:
-Case 64024 is a 31 year-old male Singaporean who works as a technical
-officer at Fugro Singapore Land Pte Ltd. He is a family member and
-household contact of Cases 63922, 639276 and 64025, and was placed on
-quarantine on 31 May. He is asymptomatic, and was detected when he was
-tested for COVID-19 on 2 June during quarantine. His test result came
-back positive for COVID-19 infection on 3 June. His earlier tests from
-Routine Rostered Testing (RRT) - the last being on 28 May - were all
-negative for COVID-19 infection. His serology test result is negative
-for the N antigen, which suggests the presence of early infection. Case
-64024 received his first dose of COVID-19 vaccine on 4 May.
-Case 64025 is a 31 year-old female Singaporean who works as an
-administrative staff at Citibank, and was last at work on 28 May. She is
-a family member and household contact of Cases 63922, 63927 and 64024,
-and was placed on quarantine on 31 May. She was tested for COVID-19 on 2
-June during quarantine, and developed a cough on 3 June. Her test result
-came back positive for COVID-19 infection on 3 June. Her serology test
-result is negative.
-B) CASES RESIDING IN DORMITORIES: 0
-There are no cases residing in dormitories today.
-C) IMPORTED CASES: 6
-Amongst the 6 imported cases, 2 (Cases 64037 and 64043) are Singaporeans
-and 4 (Cases 64033, 64036, 64038 and 64041) are Singapore Permanent
-Residents who returned from India and the UAE.
-They had all already been placed on SHN upon arrival in Singapore and
-were tested while serving SHN.
-4.       Please refer to the Annexes and MOH's daily Situation Report
-(http://www.moh.gov.sg/covid-19/situation-report) for details.
-5.       Epidemiological investigations are in progress. In the
-meantime, all the identified close contacts of the cases have been
-isolated and placed on quarantine, and will be tested at the start and
-end of their quarantine period so that we can detect asymptomatic cases.
-We will also conduct serological tests for the close contacts to
-determine if the cases could have been infected by them.
-UPDATE ON CONDITION OF CONFIRMED CASES
-6.       23 more cases of COVID-19 infection have been discharged from
-hospitals or community isolation facilities. In all, 61,580 have fully
-recovered from the infection and have been discharged from hospitals or
-community care facilities.
-7.       There are currently 229 confirmed cases who are still in
-hospital. Of these, most are stable or improving, and 2 are in critical
-condition in the intensive care unit. 316 are isolated and cared for at
-community facilities. These are those who have mild symptoms, or are
-clinically well but still test positive for COVID-19. 33 have passed
-away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 4 JUNE 2021
 
-[1] This is updated from the afternoon press release as 1 more case has
-been linked to previous cases following epidemiological investigations.
-[2] Case 63953 is a 4 year-old male Singaporean who is a student at The
-Spark Playhouse (406 Hougang Avenue 10). He was confirmed to have
-COVID-19 infection on 1 June.
-[3] Case 63970 is a 9 year-old male Singaporean who is a student at
-Fuhua Primary School. He was confirmed to have COVID-19 infection on 1
-June.
-[4] Case 63892 is a 68 year-old male Singaporean who works as a manager
-at Phoenix Entertainment Karaoke TV Music Lounge Pte Ltd. He was
-confirmed to have COVID-19 infection on 30 May.
-[5] Case 63922 is a 56 year-old female Singaporean who is a homemaker.
-She was confirmed to have COVID-19 infection on 31 May.
-[6] Case 63927 is a 30 year-old male Singaporean who works as a
-technician at ST Engineering Innosparks. He was confirmed to have
-COVID-19 infection on 31 May.
+[1] For Sinovac-CoronaVac, WHO said in its statement, “Vaccine efficacy
+results showed that the vaccine prevented symptomatic disease in 51% of
+those vaccinated and prevented severe COVID-19 and hospitalisation in
+100% of the studied population.” WHO also revealed that few older adults
+(over 60 years old) were enrolled in these clinical trials and that the
+studies also do not cover those with comorbidities. Nevertheless, WHO
+does not restrict the use of the vaccine to these groups as “there is no
+reason to believe that the vaccine has a different safety profile in
+older and younger population.”
+
