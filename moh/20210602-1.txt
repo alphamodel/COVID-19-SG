@@ -151,16 +151,16 @@ General Practitioner (GP) clinic on 31 May, where she was tested for
 COVID-19. Her test result came back positive for COVID-19 infection on 1
 June. Her serology test result is negative.
 
-Case 63964 is a 61 year-old female Singaporean who works at Singapore
-Pools at NTUC FairPrice (Clementi Avenue 3), and had last gone to work
-on 26 May. She developed body aches on 30 May, and subsequently a fever
-and sore throat on 1 June. She sought medical treatment at a GP clinic
-on the same day, where she underwent an antigen rapid test (ART). She
-was immediately isolated when her ART result came back positive, and a
-polymerase chain reaction (PCR) test was administered. Her PCR test
-result also came back positive for COVID-19 infection on 1 June. Her
-serology test result is pending. Case 63964 received her first dose of
-COVID-19 vaccine on 30 May.
+Case 63964 is a 61 year-old female Singaporean who works at NTUC
+FairPrice (Clementi Avenue 3), and had last gone to work on 26 May. She
+developed body aches on 30 May, and subsequently a fever and sore throat
+on 1 June. She sought medical treatment at a GP clinic on the same day,
+where she underwent an antigen rapid test (ART). She was immediately
+isolated when her ART result came back positive, and a polymerase chain
+reaction (PCR) test was administered. Her PCR test result also came back
+positive for COVID-19 infection on 1 June. Her serology test result is
+pending. Case 63964 received her first dose of COVID-19 vaccine on 30
+May.
 
 Case 63971 is a 43 year-old female Singaporean who works in an
 administrative role at Selarang Park Community Supervision Centre, and
