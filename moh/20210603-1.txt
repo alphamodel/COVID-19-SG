@@ -217,7 +217,7 @@ CASE 63887 CLUSTER [6]
 Already quarantined:
 
 Case 63998 is a 3 year-old male Singaporean who is a student at My First
-Skool (332B Anchorvale Link), and was last in school on 12 May. He is a
+Skool (332B Anchorvale Link), and was last in school on 4 May. He is a
 family member and household contact of Cases 63920[7], 63887, 63928[8]
 and 63947[9], and was placed on quarantine on 30 May. He is
 asymptomatic, and was tested on 1 June during quarantine. His test
