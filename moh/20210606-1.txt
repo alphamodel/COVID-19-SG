@@ -8,19 +8,211 @@
 Published Date: 06 Jun 2021
 
        As of 6 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 6 new cases of locally transmitted COVID-19
-infection. 5 are linked to previous cases, all of whom have already been
-placed on quarantine. The remaining case is currently unlinked. Based on
-our investigations so far, the cases are in the community, and there are
-no new cases in the dormitories.
-2.    In addition, there are 14 imported cases, who have already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. Of
-these, 12 are returning Singaporeans or Singapore Permanent Residents.
-3.    In total, there are 20 new cases of COVID-19 infection in
-Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+confirmed and verified that there are 6 new cases of locally transmitted
+COVID-19 infection. 5 are linked to previous cases, all of whom have
+already been placed on quarantine. The remaining case is currently
+unlinked. The cases are in the community, and there are no new cases in
+the dormitories. There are 14 imported cases, who have already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Amongst the new cases today, 17 are asymptomatic, and were detected from
+our proactive screening and surveillance, while 3 were symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+6
+
+5
+
+1
+
+3
+
+3
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+14
+
+14
+
+0
+
+0
+
+14
+
+TOTAL
+
+20
+
+2.    Overall, the number of new cases in the community has decreased
+from 136 cases in the week before to 116 cases in the past week. The
+number of unlinked cases in the community has also decreased from 23
+cases in the week before to 17 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.    Amongst the 168 confirmed cases reported from 31 May to 6 June, 59
+cases have tested positive for their serology tests, 79 have tested
+negative, and 30 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 6
+There are 6 cases in the community today, of whom 5 are linked to
+previous cases and 1 is currently unlinked.
+CURRENTLY UNLINKED CASE
+_Detected through surveillance:_
+Case 64068 is a 13 year-old female Singaporean who is a student at Paya
+Lebar Methodist Girls’ School and was last in school on 18 May. She
+developed anosmia on 29 May and did not seek medical treatment until 4
+June when she visited a General Practitioner (GP) clinic and was tested
+for COVID-19. Her test result came back positive for COVID-19 infection
+on 5 June. Her serology test result is pending.
+NTUC FOODFARE (308 ANCHORVALE ROAD) CLUSTER
+_Already quarantined:_
+Case 64076 is a 50 year-old male China national who works as a machine
+operator at Xinghe Knife Sharpening Service. He is a family member and
+household contact of Case 64009¹, and was placed on quarantine on 2
+June. He is asymptomatic and was detected when he was tested for
+COVID-19 on 4 June during quarantine. His test result came back positive
+for COVID-19 infection the next day. His serology test result is
+pending.
+MCDONALD’S DELIVERY RIDERS CLUSTER
+_Already quarantined:_
+Case 64079 is a 29 year-old male Malaysia national who works as a
+delivery rider at Pizza Hut (Bukit Merah), and resides at Wanderloft
+Capsule Hostel. On 22 May, he underwent both an antigen rapid test (ART)
+and polymerase chain reaction (PCR) test at a GP clinic, and both
+results were negative. As he has been identified as a close contact of
+Cases 63629², 63668³, 63694⁴, 63791⁵, 63796⁶ and 63834⁷, he was
+subsequently placed on quarantine on the same day. He is asymptomatic
+and was detected when he was tested on 5 June during quarantine. His
+test result came back positive for COVID-19 infection on 5 June. His
+serology test result is pending.
+TEKTRONIX CLUSTER
+_Already quarantined:_
+Case 64065 is a 13 year-old male Singaporean who is a student at
+Canberra Secondary School and was last in school on 18 May. He is a
+family member and household contact of Cases 63721⁸, 63933⁹ and 64066,
+and a household contact of Case 64050¹⁰, and was placed on quarantine on
+25 May. He was tested for COVID-19 on 4 June during quarantine, and his
+test result came back positive for COVID-19 infection on 5 June. He
+developed a sore throat on the same day. His serology test result is
+pending.
+Case 64066 is a 10 year-old male Singaporean who is a student at
+Endeavour Primary School and was last in school on 18 May. He is a
+family member and household contact of Cases 63721, 63933 and 64065, and
+a household contact of Case 64050, and was placed on quarantine on 25
+May. He was tested for COVID-19 on 4 June during quarantine, and
+developed a cough on the same day. His test result came back positive
+for COVID-19 infection on 5 June. His serology test result is pending.
+CASE 63931 CLUSTER¹¹
+_Already quarantined:_
+Case 64077 is a 79 year-old female Singaporean who is a retiree. She is
+a family member and household contact of Case 63931 and a household
+contact of Case 64020¹², and was placed on quarantine on 1 June. She was
+tested for COVID-19 on 2 June during quarantine, and her test result was
+negative. She is asymptomatic, and was detected when she was tested
+again for COVID-19 on 5 June. Her test result came back positive for
+COVID-19 infection on the same day. Her serology test result is pending.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 14
+Amongst the 14 imported cases,
+-  6 (Cases 64071, 64072, 64073, 64074, 64075 and 64084) are
+Singaporeans and 6 (Cases 64067, 64070, 64078, 64083, 64085 and 64086)
+are Singapore Permanent Residents who returned from India.
+-  1 (Case 64087) is a Work Pass holder who arrived from Myanmar.
+-  1 (Case 64069) is a Short-Term Visit Pass holder who arrived from
+Indonesia to visit her family member who is a Singaporean.
+They had all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.    Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.    Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.    MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Tan Tock
+Seng Hospital and Pasir Panjang Terminal clusters for the past two
+incubation periods (i.e. 28 days), the clusters have now been closed.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.    22 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,635 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.    There are currently 207 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 2 are in critical condition
+in the intensive care unit. 321 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 33 have passed away from
+complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 6 JUNE 2021
+
+------------------------------------------------------------------------
+
+¹ Case 64009 is a 39 year-old female China national who works as a
+kitchen assistant at NTUC Foodfare (308 Anchorvale Road). She was
+confirmed to have COVID-19 infection on 2 June.
+² Case 63629 is a 31 year-old male Malaysia national who works as a
+delivery rider for Pizza Hut (Punggol Plaza). He was confirmed to have
+COVID-19 infection on 23 May.
+³ Case 63668 is a 34 year-old male Malaysia national who works as a
+delivery rider for Pizza Hut (Havelock II). He was confirmed to have
+COVID-19 infection on 23 May.
+⁴ Case 63694 is a 25 year-old male Malaysia national who works as a
+delivery rider for Domino’s Pizza (Tanjong Katong). He was confirmed to
+have COVID-19 infection on 23 May.
+⁵ Case 63791 is a 33 year-old male Malaysia national who works as a
+kitchen assistant at Pano Kato Grill, Pizza & Deli. He was confirmed to
+have COVID-19 infection on 27 May.
+⁶ Case 63796 is a 21 year-old male Malaysia national who works as a
+packer at DM Wines Pte Ltd. He was confirmed to have COVID-19 infection
+on 27 May.
+⁷ Case 63834 is a 28 year-old male Malaysia national who works as a
+kitchen staff and service crew at Pizza Hut Express (Holland Village
+MRT). He was confirmed to have COVID-19 infection on 28 May.
+⁸ Case 63721 is a 50 year-old male Singaporean who works as an engineer
+at Tektronix Southeast Asia Pte Ltd. He was confirmed to have COVID-19
+infection on 24 May.
+⁹ Case 63933 is a 39 year-old female Singaporean who is homemaker, and a
+family member and household contact of Case 63721. She was confirmed to
+have COVID-19 infection on 31 May.
+¹⁰ Case 64050 is a 25 year-old female Indonesia national who is a
+foreign domestic worker, and is a household contact of Cases 63721 and
+63933. She was confirmed to have COVID-19 infection on 4 June.
+¹¹ Case 63931 is an 82 year-old male Singaporean who is a retiree. He
+was confirmed to have COVID-19 infection on 1 June.
+¹² Case 64020 is a 29 year-old female Indonesia national who is a
+foreign domestic worker. She was confirmed to have COVID-19 infection on
+2 June.
 
