@@ -99,12 +99,12 @@ June. His serology test result is negative.
 Case 64048 is a 46 year-old female Singaporean who works as a manager at
 Workforce Singapore, and has been working from home since April 2021.
 She is a household contact of Cases 63969 and 64049, and was placed on
-quarantine on 2 June. She developed a fever on 3 June but did not report
-her symptom. She was tested for COVID-19 on 3 June during quarantine and
-her test result came back positive for COVID-19 infection the next day.
-Her serology test result is negative for the N antigen, which suggests
-the presence of early infection. Case 64048 received her first dose of
-COVID-19 vaccine on 18 May.
+quarantine on 2 June. She developed a fever on 3 June. She was tested
+for COVID-19 on 3 June during quarantine and her test result came back
+positive for COVID-19 infection the next day. Her serology test result
+is negative for the N antigen, which suggests the presence of early
+infection. Case 64048 received her first dose of COVID-19 vaccine on 18
+May.
 Case 64049 is a 25 year-old male Malaysia national who works as a barber
 at Atatcutz Singapore (348 Bedok Road). He is a household contact of
 Cases 63969 and 64048, and was placed on quarantine on 2 June. He was
