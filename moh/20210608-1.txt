@@ -7,21 +7,168 @@
 
 Published Date: 08 Jun 2021
 
-        As of 8 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 4 new cases of locally transmitted COVID-19
-infection. 1 is in the community and linked to previous cases, and has
-already been placed on quarantine. The remaining 3 are currently
+      As of 8 June 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 4 new cases of locally transmitted
+COVID-19 infection. 1 is in the community and linked to previous cases,
+and has already been placed on quarantine. The remaining 3 are currently
 unlinked.  Amongst them, 2 are in the community, and 1 resides in a
-dormitory.
-2.     In addition, there are 5 imported cases, who have already been
-placed on Stay-Home Notice upon arrival in Singapore. Of these, 2 are
-returning Singaporeans or Singapore Permanent Residents.
-3.     In total, there are 9 new cases of COVID-19 infection in
-Singapore today.
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+dormitory. There are 5 imported cases, who have already been placed on
+Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new cases
+today, 8 are asymptomatic, and were detected from our proactive
+screening and surveillance, while 1 was symptomatic.
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+3
+
+1
+
+2
+
+1
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+1
+
+0
+
+1
+
+0
+
+1
+
+IMPORTED CASES
+
+5
+
+5
+
+0
+
+0
+
+5
+
+TOTAL
+
+9
+
+2.    Overall, the number of new cases in the community has decreased
+from 125 cases in the week before to 93 cases in the past week. The
+number of unlinked cases in the community has also decreased from 24
+cases in the week before to 10 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.    Amongst the 150 confirmed cases reported from 2 June to 8 June, 79
+cases have tested positive for their serology tests, 61 have tested
+negative, and 10 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 3
+There are 3 cases in the community today, of whom 1 is linked to
+previous cases and 2 are currently unlinked.
+CURRENTLY UNLINKED CASES
+_Detected through surveillance:_
+Case 64107 is a 54 year-old male Singapore Permanent Resident who works
+as a vessel manager at NYK Shipmanagement Pte Ltd. He is asymptomatic,
+and was detected when he was administered both an antigen rapid test
+(ART) and polymerase chain reaction (PCR) test on 7 June before boarding
+a vessel. He was immediately isolated when his ART result came back
+positive for COVID-19. His PCR test result also came back positive for
+COVID-19 infection on 7 June. His earlier tests from Rostered Routine
+Testing (RRT) – the last being on 3 June – were all negative for
+COVID-19 infection. His serology test result is negative for the N
+antigen, which suggests the presence of early infection. Case 64107
+received his first dose of COVID-19 vaccine on 25 January and the second
+dose on 17 February.
+Case 64112 is a 35 year-old female Malaysia national who works as a
+retail assistant at Four Leaves (Ion Orchard and AMK Hub). She developed
+a fever, cough, sore throat and runny nose on 5 June but did not seek
+medical treatment until 7 June when she visited a General Practitioner
+(GP) clinic, where she was administered both an ART and PCR test, and
+was immediately isolated when her ART result came back positive for
+COVID-19. Her PCR test result also came back positive for COVID-19
+infection on the same day. Her serology test result is pending.
+MINDSVILLE@NAPIRI CLUSTER
+_Already quarantined:_
+Case 64108 is a resident at MINDSville@Napiri. He is asymptomatic, and
+was detected from our proactive testing of residents of the Home. He has
+already been vaccinated against COVID-19.
+B) CASES RESIDING IN DORMITORIES: 1
+There is 1 case residing in a dormitory today who is currently
+unlinked.
+_Detected through surveillance:_
+Case 64113 is a 31 year-old male Bangladesh national who is employed by
+Isogo Marine Engineering Pte Ltd as a plumber and pipe fitter, and works
+at Keppel Shipyard Tuas Yard. He resides at Avery Lodge (2D Jalan
+Papan). He is asymptomatic, and was detected when he was tested on 7
+June as part of testing for dormitory residents before they visited
+Terusan Recreation Centre. His ART result came back positive on the same
+day, and he was immediately isolated. His PCR test result came back
+positive for COVID-19 infection on 8 June. His earlier tests from RRT –
+the last being on 3 June – were all negative for COVID-19 infection. His
+serology test result is pending. Case 64113 received his first dose of
+COVID-19 vaccine on 7 March and the second dose on 28 March.
+C) IMPORTED CASES: 5
+Amongst the 5 imported cases,
+-   2 (Cases 64104 and 64110) are Singapore Permanent Residents who
+returned from India.
+-   2 are Work Permit holders who arrived from Indonesia and the
+Philippines, of whom 1 (Case 64109) is a foreign domestic worker.
+-   1 (Case 64106) is a Short-Term Visit Pass holder who was already
+receiving medical care in Singapore and had arrived from Indonesia for
+further treatment.
+They have all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+4.    Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.    Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.    MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the MT ALLI
+cluster for the past two incubation periods (i.e. 28 days), the cluster
+has now been closed.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.   42 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,702 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.    There are currently 187 confirmed cases who are still in hospital.
+Of these, most are stable or improving, and 2 are in critical condition
+in the intensive care unit. 296 are isolated and cared for at community
+facilities. These are those who have mild symptoms, or are clinically
+well but still test positive for COVID-19. 34 have passed away from
+complications due to COVID-19 infection.
+9.    Case 62680, an 86 year-old female Singaporean, has passed away
+from complications due to COVID-19 infection on 7 June 2021. She was
+confirmed to have COVID-19 infection on 30 April when she was warded at
+Khoo Teck Puat Hospital for an unrelated medical condition. She had not
+been vaccinated against COVID-19, and had a history of diabetes
+mellitus, hyperlipidaemia, hypertension and hypothyroidism. Khoo Teck
+Puat Hospital has reached out to her family and is extending assistance
+to them.
 MINISTRY OF HEALTH
 8 JUNE 2021
-
 
