@@ -7,22 +7,201 @@
 
 Published Date: 09 Jun 2021
 
-             As of 9 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 2 new cases of locally transmitted COVID-19
-infection. 1 is linked to previous cases, and has already been placed on
-quarantine. The remaining case is currently unlinked. Based on our
-investigations so far, the cases are in the community, and there are no
-new cases in the dormitories.
+                  As of 9 June 2021, 12pm, the Ministry of Health (MOH)
+has confirmed and verified that there are 2 new cases of locally
+transmitted COVID-19 infection. 1 is linked to previous cases, and has
+already been placed on quarantine. The remaining case is currently
+unlinked. The cases are in the community, and there are no new cases in
+the dormitories. There are 2 imported cases, who have already been
+placed on Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the
+new cases today, 2 are asymptomatic, and were detected from our
+proactive screening and surveillance, while 2 were symptomatic.
 
-2.          In addition, there are 2 imported cases, who have already
-been placed on Stay-Home Notice upon arrival in Singapore. Both are
-returning Singaporeans or Singapore Permanent Residents.
-
-3.          In total, there are 4 new cases of COVID-19 infection in
-Singapore today.
-
-4.           We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+SUMMARY OF NEW CASES
 
 
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+2
+
+
+
+1
+
+1
+
+
+
+2
+
+0
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+2
+
+
+
+2
+
+0
+
+
+
+0
+
+2
+
+TOTAL
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.
+
+Overall, the number of new cases in the community has decreased from 126
+cases in the week before to 71 cases in the past week. The number of
+unlinked cases in the community has also decreased from 26 cases in the
+week before to 6 cases in the past week. We will continue to closely
+monitor these numbers, as well as the cases detected through our
+surveillance programme.
+
+3.  Amongst the 123 confirmed cases reported from 3 June to 9
+June, 72 cases have tested positive for their serology tests, 42 have
+tested negative, and 9 serology test results are pending.
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 2
+
+There are 2 cases in the community today, of whom 1 is linked to
+previous cases and 1 is currently unlinked.
+
+CURRENTLY UNLINKED CASE
+
+Detected through surveillance:
+
+Case 64114 is a 29 year-old male Myanmar national who works as a repair
+worker at Grandwork Interior. He developed a fever on 1 June and sought
+medical treatment at a General Practitioner (GP) clinic on the same day.
+He subsequently developed body aches on 4 June and returned to the same
+GP clinic. On both occasions, he was not tested for COVID-19. He was
+detected when he was tested on 5 June as part of Rostered Routine
+Testing (RRT). His pooled test result came back positive for COVID-19 on
+7 June, and an individual test was done on the same day. His test result
+came back positive for COVID-19 infection on 7 June. His earlier tests
+from RRT – the last being on 8 May – were all negative for COVID-19
+infection. His serology test result is positive. Case 64114 received his
+first dose of COVID-19 vaccine on 31 May.
+
+NTUC FOODFARE (308 ANCHORVALE ROAD) CLUSTER
+
+Already Quarantined:
+
+Case 64117 is a 21 year-old male Malaysia national who works as a
+kitchen assistant at Rice Garden (308 Anchorvale Road). He is a
+workplace contact of Case 63874[1], and was placed on quarantine on 29
+May. He was tested for COVID-19 on 30 May during quarantine and his test
+result was negative. He subsequently developed a fever and cough on 7
+June and reported his symptoms. He was tested for COVID-19 on 8 June and
+his test result came back positive for COVID-19 infection on the same
+day. His serology test result is pending.
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+C)  IMPORTED CASES: 2
+
+Amongst the 2 imported cases, 1 (Case 64118) is a Singaporean and 1
+(Case 64119) is a Singapore Permanent Resident who returned from India
+and Iraq.
+
+They have already been placed on SHN upon arrival in Singapore and were
+tested while serving SHN.
+
+4.  Please refer to the Annexesand MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  38 more cases of COVID-19 infection have been discharged
+from hospitals or community isolation facilities. In all, 61,740 have
+fully recovered from the infection and have been discharged from
+hospitals or community care facilities.
+
+7.  There are currently 158 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 291 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 34 have passed
+away from complications due to COVID-19 infection.
+
+------------------------------------------------------------------------
+
+[1] Case 63874 is a 29 year-old male Singapore Permanent Resident who
+works as a chef at Rice Garden (308 Anchorvale Road). He was confirmed
+to have COVID-19 infection on 29 May.
