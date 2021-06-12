@@ -1,28 +1,284 @@
-12 New Cases of Locally Transmitted Covid-19 Infection
+9 New Cases of Locally Transmitted Covid-19 Infection
 
 
 
-12 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+9 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
 
 
 Published Date: 12 Jun 2021
 
-      As of 12 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 12 new cases of locally transmitted COVID-19
-infection. 7 are linked to previous cases, amongst whom 2 have already
-been placed on quarantine, and 5 were detected through surveillance.The
-remaining 5 cases are currently unlinked. Based on our investigations so
-far, the cases are in the community, and there are no new cases in the
-dormitories.
-2.    In addition, there are 9 imported cases, who have already been
-placed on Stay-Home Notice upon arrival in Singapore. All 9 are
-returning Singaporeans or Singapore Permanent Residents.
+        As of 12 June 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 9 new cases of locally transmitted
+COVID-19 infection. 4 are linked to previous cases, amongst whom 3 have
+already been placed on quarantine, and 1 was detected through
+surveillance. The remaining 5 cases are currently unlinked. This is
+updated from our afternoon press release as we have withdrawn 3 cases
+which were verified to be negative for COVID-19 upon further tests. The
+9 cases are in the community, and there are no new cases in the
+dormitories. There are 9 imported cases, who have already been placed on
+Stay-Home Notice (SHN) upon arrival in Singapore. Amongst the new cases
+today, 11 are asymptomatic, and were detected from our proactive
+screening and surveillance, while 7 were symptomatic.
 
-3.        In total, there are 21 new cases of COVID-19 infection in
-Singapore today.
+SUMMARY OF NEW CASES
 
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+9
+
+
+
+3
+
+6
+
+
+
+7
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+9
+
+
+
+9
+
+0
+
+
+
+0
+
+9
+
+TOTAL
+
+18
+
+
+
+
+
+
+
+
+
+
+
+2.        Overall, the number of new cases in the community has
+decreased from 129 cases in the week before to 32 cases in the past
+week. The number of unlinked cases in the community has also decreased
+from 20 cases in the week before to 14 cases in the past week. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+3.        Amongst the 87 confirmed cases reported from 6 June to 12
+June, 46 cases have tested positive for their serology tests, 25 have
+tested negative, and 16 serology test results are pending.
+
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 9
+
+There are 9 cases in the community today, of whom 4 are linked to
+previous cases and 5 are currently unlinked.
+
+CURRENTLY UNLINKED CASES
+
+Detected through surveillance:
+
+Case 64159 is an 18 year-old female Singaporean who is a student at SIM
+Global Education, and was last in school on 24 May. She developed a
+runny nose and fever on 10 June and sought medical treatment at a
+General Practitioner (GP) clinic on 11 June, where she underwent both an
+antigen rapid test (ART) and a polymerase chain reaction (PCR) test. She
+was immediately isolated when her ART result came back positive. Her PCR
+test result also came back positive for COVID-19 infection on 11 June.
+Her serology test result is pending.
+
+Case 64162 is a 27 year-old female Myanmar national who is a foreign
+domestic worker.She developed a fever on 10 June and sought medical
+treatment at a GP clinic on 11 June, where she underwent both an ART and
+PCR test. She was immediately isolated when her ART result came back
+positive. Her PCR test result also came back positive for COVID-19
+infection on 11 June. Her serology test result is pending.
+
+Case 64169 is a 57 year-old male Malaysia national who works as a land
+rigger at Jurong Port Pte Ltd. He is asymptomatic, and was detected when
+he was tested for COVID-19 on 10 June as part of Rostered Routine
+Testing (RRT). He was immediately isolated when his ART result came back
+positive, and a PCR test was administered on the same day. His PCR test
+result came back positive for COVID-19 infection on 11 June. His
+serology test result is negative. His Ct value was very high, which is
+indicative of a low viral load. Another test taken on 12 June came back
+negative for COVID-19 infection. He is likely to be shedding minute
+fragments of the virus RNA, which are no longer transmissible and
+infective to others, but we have taken all necessary public health
+actions. Case 64169 received his first dose of COVID-19 vaccine on 23
+January, and the second dose on 17 February.
+
+Case 64174 is a 45 year-old female China national who is employed by
+Hong Ye Group as a cleaner at ION Orchard. She is asymptomatic, and was
+detected when she went for a COVID-19 test directed by her employer on
+11 June. Her test result came back positive for COVID-19 infection on
+the same day. Her serology test result is pending.
+
+Case 64183 is a 68 year-old male Singaporean who works as a landscape
+gardener at Amozonia Landscape Pte Ltd. He developed a runny nose and
+cough on 8 June and sought medical treatment at a GP clinic on 11 June,
+where he underwent both an ART and PCR test. He was immediately isolated
+when his ART result came back positive. His PCR test result came back
+positive for COVID-19 infection on 12 June. His serology test result is
+pending. Case 64183 received his first dose of COVID-19 vaccine on 18
+April, and the second dose on 9 May.
+
+MARINA ARIEL CLUSTER
+
+Already quarantined:
+
+Case 64180 is a 40 year-old male Indonesia national who is employed by
+Marina Offshore Pte Ltd as an engineer on board tugboat MARINA ARIEL. He
+developed a cough on 1 June and a fever on 10 June but did not seek
+medical attention. As he had been identified as a workplace contact of
+Case 64149[1], he was placed on quarantine on 11 June. He reported his
+symptoms on the same day and was conveyed to a hospital and tested for
+COVID-19. Prior to that, he had not disembarked from the vessel. His
+test result came back positive for COVID-19 infection on 12 June. His
+serology test result is pending.
+
+Case 64181 is a 38 year-old male Indonesia national who is employed by
+Marina Offshore Pte Ltd as a sea crew on board tugboat MARINA ARIEL. He
+developed a fever on 1 June and a cough on 9 June but did not seek
+medical attention. As he had been identified as a workplace contact of
+Case 64149, he was placed on quarantine on 11 June. He reported his
+symptoms on the same day and was conveyed to a hospital and tested for
+COVID-19. His test result came back positive for COVID-19 infection on
+12 June. His serology test result is pending.
+
+CASE 63399 CLUSTER[2]
+
+Already quarantined:
+
+Case 64182 is a 35 year-old female Malaysia national who works as an
+administrative staff at Ces Lamination Pte Ltd. She is a household
+contact of Cases 63399, 63900[3] and 63917[, and was placed on
+quarantine on 17 May. She developed a runny nose on 10 June during
+quarantine but did not report her symptom until 11 June. She was tested
+for COVID-19 on 11 June, and her test result came back positive for
+COVID-19 infection on 12 June. Her serology test result is negative.
+
+OTHER LINKED CASES
+
+Detected through surveillance:
+
+Case 64158 is an 82 year-old female Singaporean who regularly helps out
+at a sundry store at 115 Bukit Merah View Market & Hawker Centre. She
+developed a fever and shortness of breath on 10 June and sought medical
+treatment at a polyclinic on 11 June, where she underwent both an ART
+and PCR test. She was immediately isolated when her ART result came
+back positive. Her PCR test result also came back positive for COVID-19
+infection on 11 June. Her serology test result is pending. Case 64158
+received her first dose of COVID-19 vaccine on 29 March, and the second
+dose on 19 April.
+
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+
+C) IMPORTED CASES: 9
+Amongst the 9 imported cases, 6 (Cases 64155, 64164, 64165, 64166, 64167
+and 64175) are Singaporeans and 3 (Cases 64153, 64154 and 64156) are
+Singapore Permanent Residents who returned from India, Portugal, Russia,
+Thailand, the UK and US.
+They have all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.       Please refer to the Annexes and MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.        Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.        39 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,838 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+7.        There are currently 125 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 266 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 34 have passed
+away from complications due to COVID-19 infection.
+
+
+
 MINISTRY OF HEALTH
 12 JUNE 2021
+
+------------------------------------------------------------------------
+
+[1] Case 64149 is a 38 year-old male Indonesia national who is employed
+by Marina Offshore Pte Ltd as a sea crew on board tugboat MARINA ARIEL.
+He was confirmed to have COVID-19 infection on 11 June.
+
+[2] Case 63399 is a 35 year-old male Malaysia national who is a kitchen
+crew at Kota Zheng Zong Bak Kut Teh (Serangoon Gardens). He was
+confirmed to have COVID-19 infection on 17 May.
+
+[3] Case 63900 is a 30 year-old male Malaysia national who works as an
+administrative staff at Sin Wei Precision Mechanical. He was confirmed
+to have COVID-9 infection on 30 May.
+
+[4] Case 63917 is a 29 year-old female Malaysia national who works as a
+waitress at Chir Chir Restaurant (Bugis Junction). She was confirmed to
+have COVID-19 infection on 31 May.
