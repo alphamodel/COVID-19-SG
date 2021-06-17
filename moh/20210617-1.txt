@@ -8,26 +8,370 @@
 Published Date: 17 Jun 2021
 
 1.     As of 17 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 20 new cases of locally transmitted COVID-19
-infection. 18 are linked to previous cases, amongst whom 13 have already
-been placed on quarantine, and 5 were detected through surveillance. The
-remaining 2 cases are currently unlinked. Based on our investigations so
-far, the cases are in the community, and there are no new cases in the
-dormitories.
+confirmed and verified that there are 20 new cases of locally
+transmitted COVID-19 infection. The cases are in the community, and
+there are no new cases in the dormitories. Of the 20 cases, 14 are
+linked to previous cases and have already been placed on quarantine. 6
+were detected through surveillance, amongst whom 5 are linked to
+previous cases and 1 is currently unlinked.[1] There are 7 imported
+cases, who have already been placed on Stay-Home Notice (SHN) or
+isolated upon arrival in Singapore. Amongst the new cases today, 12 are
+asymptomatic, and were detected from our proactive screening and
+surveillance, while 15 were symptomatic.
 
-2.     In addition, there are 7 imported cases, who have already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. Of
-these, 3 are returning Singaporeans or Singapore Permanent Residents.
+SUMMARY OF NEW CASES
 
-3.     In total, there are 27 new cases of COVID-19 infection in
-Singapore today.
+BREAKDOWN BY
 
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+20
+
+14
+
+6
+
+14
+
+6
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+7
+
+7
+
+0
+
+1
+
+6
+
+TOTAL
+
+27
+
+2.     Overall, the number of new cases in the community has increased
+from 40 cases in the week before to 93 cases in the past week. The
+number of unlinked cases in the community has also increased from 7
+cases in the week before to 18 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.     Amongst the 130 confirmed cases reported from 11 June to 17 June,
+45 cases have tested positive for their serology tests, 66 have tested
+negative, and 19 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 20
+There are 20 cases in the community today, of whom 19 are linked to
+previous cases and 1 is currently unlinked.
+CURRENTLY UNLINKED CASES
+Detected through surveillance
+Case 64286 is a 72 year-old female Singaporean who works as a counter
+staff at McDonald‘s (Tiong Bahru Plaza). She is asymptomatic, and was
+detected when she was tested for COVID-19 on 16 June as part of our
+surveillance testing for staff who work at Tiong Bahru Plaza. Her test
+result came back positive for COVID-19 infection on the same day. Her
+serology test result is pending. Case 64286 received her first dose of
+COVID-19 vaccine on 8 March and the second dose on 29 March.
+115 BUKIT MERAH VIEW MARKET & FOOD CENTRE CLUSTER
+Already quarantined
+Case 64269 is a 32 year-old female Singapore Permanent Resident who
+works as an administrative staff at MSIG Insurance. She is a family
+member and household contact of Cases 64231[2] and 64278, and was placed
+on quarantine on 14 June. She was tested for COVID-19 on 15 June during
+quarantine. On the same day, she developed a fever and cough, and
+reported her symptoms. Her test result came back positive for COVID-19
+infection on 16 June. Her serology test result is negative.
+Case 64270 is a 73 year-old female Singaporean who works as a stall
+assistant at Tiong Bahru Yong Tao Hu (56 Eng Hoon Street). She is a
+family member and household contact of Case 64217[3] and
+workplace contact of Case 64248[4], and was placed on quarantine on 14
+June. She was tested for COVID-19 on 14 June during quarantine, and
+subsequently developed a sore throat on 15 June. On the same day, her
+test result came back positive for COVID-19 infection. Her serology test
+result is pending. Case 64270 received her first dose of COVID-19
+vaccine on 6 March, and the second dose on 27 March.
+Case 64272 is an 87 year-old female Singaporean who works at a sundry
+store at 115 Bukit Merah View Market & Food Centre, and was placed on
+quarantine on 12 June. She was tested for COVID-19 on 14 June during
+quarantine. On the same day, she developed a fever, headache and body
+aches. Her test result came back positive for COVID-19 infection on 16
+June. Her serology test result is negative.
+Case 64273 is a 52 year-old female Singaporean who works as a food store
+vendor at 115 Bukit Merah View Market & Food Centre. As she had been
+identified as a close contact of Cases 64132[5] and 64195[6] , she was
+placed on quarantine on 13 June. She is asymptomatic, and was detected
+when she was tested for COVID-19 on 14 June during quarantine. Her test
+result came back positive for COVID-19 infection on 15 June. Her
+serology test result is pending. Case 64273 received her first dose of
+COVID-19 vaccine on 18 April, and the second dose on 16 May.
+Case 64274 is a 14 year-old female Singapore Permanent Resident who is a
+student at Bukit Merah Secondary School, and had last gone to school on
+18 May. She is a family member and household contact of Cases 64223[7] ,
+64225[8] , 64279, 64280, 64281 and 64283, and was placed on quarantine
+on 14 June. She was tested for COVID-19 on 15 June during quarantine and
+her test result came back positive for COVID-19 infection on 16 June.
+She also developed a fever on the same day. Her serology test result is
+positive.
+Case 64278 is a 3 year-old female Singaporean who does not attend any
+childcare facility. She is a family member and household contact of
+Cases 64231 and 64269, and was placed on quarantine on 14 June. She was
+tested for COVID-19 on 15 June during quarantine. On the same day, she
+developed a fever and cough. Her test result came back positive for
+COVID-19 infection on 16 June. Her serology test result is negative.
+Case 64279 is a 69 year-old female India national who is currently
+unemployed. She is a family member and household contact of Cases 64223,
+64225, 64274, 64280, 64281 and 64283, and was placed on quarantine on 14
+June. She is asymptomatic, and was detected when she was tested for
+COVID-19 test on 14 June during quarantine. Her test result came back
+positive for COVID-19 infection on 15 June. Her serology test result is
+positive.
+Case 64280 is a 50 year-old female India national who is unemployed. She
+is a family member and household contact of Cases 64223, 64225, 64274,
+64279, 64281 and 64283, and was placed on quarantine on 14 June. She is
+asymptomatic and was detected when she was tested for COVID-19 on 15
+June during quarantine. Her test result came back positive for COVID-19
+infection on 16 June. Her serology test result is positive.
+Case 64281 is a 5 year-old male Singapore Permanent Resident who is a
+student at PCF Sparkletots Preschool (Henderson) and was last in school
+on 18 May. He is a family member and household contact of Cases 64223,
+64225, 64274, 64279, 64280 and 64283, and was placed on quarantine on 14
+June. He is asymptomatic and was detected when he was tested for
+COVID-19 on 15 June during quarantine. His test result came back
+positive for COVID-19 infection on 16 June. His serology test result is
+positive.
+Case 64283 is a 13 year-old female Singapore Permanent Resident who is a
+student at Bukit Merah Secondary School and was last in school on 18
+May. She is a family member and household contact of Cases 64223, 64225,
+64274, 64279, 64280 and 64281, and was placed on quarantine on 14 June.
+She is asymptomatic and was detected when she was tested for COVID-19 on
+15 June during quarantine. Her test result came back positive for
+COVID-19 infection on 16 June. Her serology test result is positive.
+Case 64284 is a 62 year-old female Singaporean who is a homemaker. She
+developed a cough and fever on 15 June but did not seek medical
+attention. As she had been identified as a close contact of Case 64271,
+she was placed on quarantine on 16 June, and reported her symptoms. She
+was tested for COVID-19 on 16 June during quarantine and her test result
+came back positive for COVID-19 infection on the same day. Her serology
+test result is negative for the N antigen, which suggests the presence
+of early infection. Case 64284 received her first dose of COVID-19
+vaccine on 15 March, and the second dose on 4 May.
+Case 64296 is a 69 year-old male Singaporean who is a retiree, and helps
+out at a food stall at 115 Bukit Merah View Market & Food Centre. As he
+had been identified as a close contact of Cases 64187[9] and 64196[10],
+he was placed on quarantine on 13 June. He developed a runny nose on 15
+June and reported his symptom on 16 June. He was tested for COVID-19 on
+16 June during quarantine, and his antigen rapid test (ART) result came
+back positive on the same day. His polymerase chain reaction (PCR) test
+result came back positive for COVID-19 infection on 17 June. His
+serology test result is pending. Case 64296 received his first dose of
+COVID-19 vaccine on 16 March, and the second dose on 6 April.
+Detected through surveillance:
+Case 64266 is a 60 year-old female Singaporean who works at Bioinfocomm
+Pte Ltd, and frequently visited 115 Bukit Merah View Market & Food
+Centre. She developed a fever on 15 June and sought treatment at a
+General Practitioner (GP) clinic on the same day, where she was
+administered both an ART and PCR test. Her ART result was negative for
+COVID-19. Her PCR test result came back positive for COVID-19 infection
+on 16 June. Her serology test result is negative for the N antigen,
+which suggests the presence of early infection. Case 64266 received her
+first dose of COVID-19 vaccine on 19 March, and the second dose on 9
+April.
+Case 64267 is a 36 year-old male Singaporean who works as a shipping
+operator at Skyline Shipping Pte Ltd. He frequently visited 116 Bukit
+Merah View. He developed a fever on 15 June and sought medical treatment
+at a GP clinic on the same day, where he underwent both an ART and PCR
+test. His ART result was negative for COVID-19. His PCR test result came
+back positive for COVID-19 infection on 16 June. His serology test
+result is negative.
+Case 64288 is a 65 year-old male Singaporean who works as a part-time
+food stall assistant at 115 Bukit Merah View Market and Food Centre. He
+was not placed on quarantine as he had not been identified as a worker
+at the food centre by his employer. He developed a cough on 13 June but
+did not seek medical treatment until 16 June when he visited a GP
+clinic, where he underwent an ART and PCR test. He was immediately
+isolated when his ART result came back positive for COVID-19. His PCR
+test result also came back positive for COVID-19 infection on 16
+June. His serology test result is pending.
+Case 64271 is a 23 year-old female Singaporean who works as a patient
+service associate at Singapore General Hospital. She is a family member
+and household contact of Case 64284, and a family member of Case 64285.
+She was detected when she was tested for COVID-19 on 15 June as part of
+the hospital’s surveillance testing for staff. Her test result came back
+positive for COVID-19 on 16 June. On the same day, she developed a sore
+throat and blocked nose. Her serology test result is pending. Case 64271
+received her first dose of COVID-19 vaccine on 1 February and the second
+dose on 24 February.
+Case 64285 is a 10 year-old female Singaporean who is a student at
+Zhangde Primary School, and had last gone to school on 18 May. She is a
+family member of Case 64271. She developed a fever on 15 June and sought
+medical treatment at a polyclinic the next day where she was tested for
+COVID-19. Her test result came back positive for COVID-19 infection on
+16 June. Her serology test result is pending.
+CASE 64184 CLUSTER[11]
+Already quarantined:
+Case 64295 is a 52 year-old male Singaporean who works as a private hire
+driver for Tada. As he had been identified as a close contact of Case
+64186[12], he was placed on quarantine on 15 June. He was tested for
+COVID-19 on 16 June and developed a cough on the same day. His test
+result came back positive for COVID-19 infection on 17 June. His
+serology test result is pending. Case 64295 received his first dose of
+COVID-19 vaccine on 17 March, and the second dose on 14 April.
+OTHER LINKED CASES
+Already quarantined:
+Case 64268 is a 12 year-old female Singapore Permanent Resident who is a
+student at Tanglin Trust School. She developed a fever on 15 June. On
+the same day, as she had been identified as a household contact of Case
+64233[13], she was placed on quarantine. She was tested for COVID-19 on
+15 June during quarantine, and her test result came back positive for
+COVID-19 infection on 16 June. Her serology test result is negative.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 7
+
+Amongst the 7 imported cases,
+
+-   1 (Case 64277) is a Singaporean and 2 (Cases 64275 and 64276) are
+    Singapore Permanent Residents who returned from India.
+
+-   3 are Work Permit holders who arrived from Indonesia and Malaysia,
+    of whom 2 (Cases 64287 and 64294) are foreign domestic workers.
+
+-   1 (Case 64265) entered Singapore waters from Indonesia without valid
+    documentation, and was arrested by the Singapore Police Force’s
+    Police Coast Guard. He was tested for COVID-19 infection, and
+    isolated until he was conveyed to the hospital when his result came
+    back positive.
+
+They have all already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Learning
+Point, Jin Tai Tong Food Industries and Case 63336 clusters for the past
+two incubation periods (i.e. 28 days), the clusters have now been
+closed.
+Community surveillance testing for visitors to shops at 78, 79, 80, 84
+and 85 Redhill Lane, 86 Redhill Close, 18 Jalan Membina and Tiong Bahru
+Yong Tao Hu Coffeeshop
+7.     MOH is investigating cases of COVID-19 infection amongst
+individuals who work in or visited 78, 79, 80, 84 and 85 Redhill Lane,
+86 Redhill Close, 18 Jalan Membina and Tiong Bahru Yong Tao Hu
+Coffeeshop (56 Eng Hoon Street). In order to disrupt any wider,
+undetected community transmission, we will conduct special testing
+operations for all staff and tenants who have been working at these
+premises.
+8.     We will also extend free COVID-19 testing to members of the
+public who had visited:
+     i) Any of the shops at 78, 79, 80, 84 and 85 Redhill Lane and 86
+Redhill Close between 1 June and 15 June 2021;
+     ii) Any of the shops at 18 Jalan Membina between 9 June and 15 June
+2021; and
+     iii) Tiong Bahru Yong Tao Hu Coffeeshop between 7 June and 14 June.
+
+Please refer to https://go.gov.sg/rh-tb-testing for details on the
+testing operations.
+9.     All visitors to these premises during the specified dates are
+advised to monitor their health closely, and minimise social
+interactions as far as possible, for 14 days from their date of visit.
+They are encouraged to see a doctor immediately if they feel unwell.
+UPDATE ON CONDITION OF CONFIRMED CASES
+10.     29 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 61,960 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+11.     There are currently 151 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 1 is in critical
+condition in the intensive care unit. 221 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 34 have passed
+away from complications due to COVID-19 infection.
 
 MINISTRY OF HEALTH
 
 17 JUNE 2021
 
+------------------------------------------------------------------------
 
+[1] This is updated from the afternoon press release as 1 more case has
+been linked to previous cases following epidemiological investigations.
+
+[2] Case 64231 is a 35 year-old male India national who works as a sales
+executive at Halnaz Frozen Goods Pte Ltd. He was confirmed to have
+COVID-19 infection on 14 June.
+
+[3] Case 64217 is a 79 year-old male Singaporean who is employed by AO
+ServicePro Pte Ltd as a cleaner at 375 and 376 Clementi Avenue 4. He was
+confirmed to have COVID-19 infection on 13 June.
+
+[4] Case 64248 is a 45 year-old female Malaysia national who works as a
+stall assistant at Tiong Bahru Yong Tao Hu. She was confirmed to have
+COVID-19 infection on 15 June.
+
+[5] Case 64132 is a 74 year-old male Singaporean who works at a sundry
+store at 115 Bukit Merah View Market & Hawker Centre. He was confirmed
+to have COVID-19 infection on 9 June.
+
+[6] Case 64195 is a 67 year-old female Singaporean who is a food stall
+vendor at 115 Bukit Merah View Market & Food Centre. She was confirmed
+to have COVID-19 infection on 13 June.
+
+[7] Case 64223 is a 37 year-old female India national who is a food
+stall vendor at 115 Bukit Merah View Market & Food Centre. She was
+confirmed to have COVID-19 infection on 14 June.
+
+[8] Case 64225 is a 39 year-old male India national who is a food stall
+vendor at 115 Bukit Merah View Market & Food Centre. He was confirmed to
+have COVID-19 infection on 14 June.
+
+[9] Case 64187 is a 50 year-old male Bangladesh national who is employed
+by Theng Liang Lee Services as a conservancy worker at 115 Bukit Merah
+View Market & Food Centre. He was confirmed to have COVID-19 infection
+on 12 June.
+
+[10] Case 64196 is a 65 year-old male Singaporean who is a food stall
+vendor at 115 Bukit Merah View Market & Food Centre. He was confirmed to
+have COVID-19 infection on 13 June.
+
+[11] Case 64184 is a 27 year-old male India national who works as an
+engineer at Ecoxplore Pte Ltd. He was confirmed to have COVID-19
+infection on 12 June.
+
+[12] Case 64186 is a 19 year-old female Singaporean who works as a
+warehouse assistant at DHL Express (Singapore) Pte Ltd. She was
+confirmed to have COVID-19 infection on 11 June.
+
+[13] Case 64233 is a 41 year-old female Philippines national who is a
+foreign domestic worker. She was confirmed to have COVID-19 infection on
+14 June.
