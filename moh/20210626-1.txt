@@ -8,23 +8,407 @@
 Published Date: 26 Jun 2021
 
           As of 26 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 13 new cases of locally transmitted COVID-19
-infection. 7 are linked to previous cases, amongst whom 4 have already
-been placed on quarantine, and 3 were detected through surveillance. The
-remaining 6 cases are currently unlinked. Based on our investigations so
-far, the cases are in the community, and there are no new cases in the
-dormitories.
+confirmed and verified that there are 13 new cases of locally
+transmitted COVID-19 infection. The cases are in the community, and
+there are no new cases in the dormitories. Of the 13 cases, 5 are linked
+to previous cases and have already been placed on quarantine. 8 were
+detected through surveillance, amongst whom 4 are linked to previous
+cases and 4 are currently unlinked.[1] There are 4 imported cases, who
+have already been placed on Stay-Home Notice (SHN) upon arrival in
+Singapore. Amongst the new cases today, 6 are asymptomatic, and were
+detected from our proactive screening and surveillance, while 11 were
+symptomatic.
 
-2.  In addition, there are 4 imported cases, who have already
-been placed on Stay-Home Notice upon arrival in Singapore. Of these, 3
-are returning Singaporeans or Singapore Permanent Residents.
+SUMMARY OF NEW CASES
 
-3.  In total, there are 17 new cases of COVID-19 infection in
-Singapore today.
 
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+
+
+
+
+
+BREAKDOWN BY
+
+
+
+BREAKDOWN BY
+
+
+
+NUMBER OF CASES
+
+
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+13
+
+
+
+5
+
+8
+
+
+
+11
+
+2
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+
+
+0
+
+0
+
+
+
+0
+
+0
+
+IMPORTED CASES
+
+4
+
+
+
+4
+
+0
+
+
+
+0
+
+4
+
+TOTAL
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Overall, the number of new cases in the community has
+decreased from 109 cases in the week before to 92 cases in the past
+week. The number of unlinked cases in the community has increased from
+13 cases in the week before to 19 cases in the past week. We will
+continue to closely monitor these numbers, as well as the cases detected
+through our surveillance programme.
+
+3.  Amongst the 127 confirmed cases reported from 20 June to 26
+June, 39 cases have tested positive for their serology tests, 74 have
+tested negative, and 14 serology test results are pending.
+
+
+
+CASE DETAILS
+
+A)  CASES IN THE COMMUNITY: 13
+
+There are 13 cases in the community today, of whom 9 are linked to
+previous cases and 4 are currently unlinked.
+
+
+
+CURRENTLY UNLINKED CASES
+
+Detected through surveillance:
+
+Case 64463 is a 32 year-old female Singaporean who works as an
+administrative staff at Walt Disney. She developed a fever, cough and
+body aches on 16 June but did not seek medical attention until 21 June
+when she sought medical treatment via a telehealth provider but was not
+referred for a COVID-19 test. On 24 June, she sought medical treatment
+at a General Practitioner (GP) clinic, where she was tested for
+COVID-19. Her test result came back positive for COVID-19 infection on
+25 June. Her serology test result is positive.
+
+Case 64464 is a 21 year-old female Singaporean who works as a nurse at
+Changi General Hospital. She was tested for COVID-19 on 23 June as part
+of Rostered Routine Testing (RRT), and developed a fever and runny nose
+on 24 June. Her test result came back positive for COVID-19 infection on
+25 June. Her earlier tests from RRT – the last being on 14 June – were
+all negative for COVID-19 infection. Her serology test result is
+negative for the N antigen, which suggests the presence of early
+infection. Case 64464 received her first dose of COVID-19 vaccine on 5
+February and the second dose on 1 March.
+
+Case 64468 is a 27 year-old male Singaporean who is a serviceman in the
+Singapore Navy. As he had been identified as a close contact of Case
+64135[2], he was placed on quarantine on 10 June. He was tested for
+COVID-19 on 10 June, 11 June, 18 June, and 21 June during quarantine,
+and his test results were all negative for COVID-19. His quarantine
+ended on 22 June but he subsequently developed a fever on 24 June
+evening. He sought medical treatment at a polyclinic the next day, where
+he underwent both an antigen rapid test (ART) and polymerase chain
+reaction (PCR) test. He was immediately isolated when his ART result
+came back positive for COVID-19 on the same day. His PCR test result
+also came back positive for COVID-19 infection on 25 June. His serology
+test result is pending. Case 64468 received his first dose of COVID-19
+vaccine on 16 March, and his second dose on 6 April.
+
+Case 64478 is a 76 year-old female Singaporean who is a retiree. She is
+asymptomatic, and was detected she sought medical treatment at Singapore
+General Hospital for an unrelated medical condition on 25 June, and was
+tested for COVID-19. Her test result came back positive for COVID-19
+infection on 26 June. Her serology test result is pending.
+
+
+
+115 BUKIT MERAH VIEW MARKET & FOOD CENTRE CLUSTER
+
+Already quarantined:
+
+Case 64472 is a 31 year-old female Singaporean who works as a waitress
+at Cheflix Restaurant and was last at work on 13 May. As she had been
+identified as a contact of Case 64216[3], she was placed on phone
+surveillance on 17 June. On the same day, she was placed on quarantine
+as a close contact of Case 64305[4]. She was tested for COVID-19 on 19
+June during quarantine and her test result was negative. She developed a
+cough on 20 June, fever on 22 June and subsequently anosmia on 25 June
+but did not report her symptoms. She was detected when she was tested
+for COVID-19 on 25 June and her test result came back positive for
+COVID-19 on the same day. Her serology test result is pending.
+
+
+
+Detected through surveillance:
+
+Case 64474 is a 28 year-old female Singaporean who works as an officer
+with the Singapore Police Force, and is deployed at the Bukit Merah West
+Neighbourhood Police Centre (500 Bukit Merah View). She was last at work
+on 22 June. She developed a runny nose on 25 June and sought medical
+treatment at a GP clinic on the same day, where she underwent both an
+ART and PCR test. She was immediately isolated when her ART result came
+back positive for COVID-19 on the same day. Her PCR test result also
+came back positive for COVID-19 infection on 25 June. Her serology test
+result is pending. Case 64474 received her first dose of COVID-19
+vaccine on 12 March, and her second dose on 5 April.
+
+
+
+119 BUKIT MERAH VIEW CLUSTER
+
+Detected through surveillance:
+
+Case 64470 is a 34 year-old female Philippines national who is a foreign
+domestic worker. She developed a fever and cough on 24 June but did not
+seek medical attention. She was detected when she was tested for
+COVID-19 the next day as part of our community surveillance testing for
+residents of the Bukit Merah View area. Her test result came back
+positive for COVID-19 infection on 25 June. Her serology test result is
+pending.
+
+
+
+105 HENDERSON CRESCENT CLUSTER
+
+Detected through surveillance:
+
+Case 64473 is a 43 year-old female Indonesia national who is a foreign
+domestic worker. She developed a headache and runny nose on 24 June but
+did not seek medical attention. She was detected when she was tested for
+COVID-19 on 25 June as part of our community surveillance testing for
+residents of 105 Henderson Crescent. She was immediately isolated when
+her ART result came back positive for COVID-19 on the same day. Her PCR
+test result also came back positive for COVID-19 infection on 25 June.
+Her serology test result is pending.
+
+
+
+CHANGI GENERAL HOSPITAL CLUSTER
+
+Already quarantined:
+
+Case 64476 is a 48 year-old female Singaporean who works as a porter at
+Changi General Hospital. She is a workplace contact of Cases 64413[5] ,
+64442[6] , 64443[7] and 64462, and was placed on quarantine on 24 June.
+She is asymptomatic, and was detected when she was tested for COVID-19
+on 25 June during quarantine. Her test result came back positive for
+COVID-19 infection on the same day. Her earlier tests from RRT – the
+last being on 22 June – were all negative for COVID-19 infection. Her
+serology test result is pending. Case 64476 received her first dose of
+COVID-19 vaccine on 12 April and the second dose on 5 May.
+
+
+
+Detected through surveillance:
+
+Case 64462 is a 66 year-old male Singaporean who works as a porter at
+Changi General Hospital. He is a workplace contact of Cases 64413,
+64442, 64443 and 64476. He developed a fever, cough and runny nose on 23
+June, and sought medical treatment at a GP clinic the next day, where he
+was tested for COVID-19. His test result came back positive for COVID-19
+infection on 24 June. His earlier tests from RRT – the last being on 21
+June – were all negative for COVID-19 infection. His serology test
+result is negative for the N antigen, which suggests the presence of
+early infection. Case 64462 received his first dose of COVID-19 vaccine
+on 13 January and the second dose on 3 February.
+
+
+
+CASE 64264 CLUSTER [8]
+
+Already quarantined:
+
+Case 64475 is an 86 year-old male Singaporean who is a retiree, and
+attends day care at St Luke’s ElderCare (Hougang Meadow Centre). As he
+had been identified as a close contact of Case 64420[9], he was placed
+on quarantine on 24 June. He developed a cough and a fever on 25 June,
+and was tested for COVID-19 on the same day during quarantine. His test
+result came back positive for COVID-19 infection on 25 June. His
+serology test result is pending.
+
+
+
+CASE 64349 CLUSTER [10]
+
+Already quarantined:
+
+Case 64465 is a 22 year-old male Singaporean who works as a trainee
+engineer at Skyworks Global Pte Ltd, and was last at work on 11 June. He
+is a close contact of Cases 64387[11], 64414[12], 64415[13], 64416[14]
+and 64437[15], and was placed on quarantine on 21 June. He was tested
+for COVID-19 on 22 June during quarantine, and his test result was
+negative. He developed a cough, fever and sore throat on 25 June, and
+was tested for COVID-19 on the same day. His test result came back
+positive for COVID-19 infection on 25 June. His serology test result is
+pending.
+
+Case 64467 is a 26 year-old male Singaporean who works at Helping Hands
+Cleaning Services. He is a close contact of Cases 64387, 64414, 64415,
+64416, 64437 and 64465, and was placed on quarantine on 21 June. He was
+tested for COVID-19 on 22 June during quarantine, and his test result
+was negative. He developed a fever and sore throat on 25 June, and was
+tested for COVID-19 on the same day during quarantine. His test result
+came back positive for COVID-19 infection on 25 June. His serology test
+result is pending.
+
+
+
+B)  CASES RESIDING IN DORMITORIES: 0
+
+There are no cases residing in dormitories today.
+
+
+
+C)  IMPORTED CASES: 4
+
+Amongst the 4 imported cases,
+
+•  1 (Case 64477) is a Singaporean and 2 (Cases 64469 and
+64479) are Singapore Permanent Residents who returned from India and the
+UK.
+•  1 (Case 64466) is a Short-Term Visit Pass holder who arrived
+from Saudi Arabia for a work project in Singapore.
+
+They have all already been placed on SHN upon arrival in Singapore and
+were tested while serving SHN.
+
+4.  Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+5.  Epidemiological investigations are in progress. In the
+meantime, all the identified close contacts of the cases have been
+isolated and placed on quarantine, and will be tested at the start and
+end of their quarantine period so that we can detect asymptomatic cases.
+We will also conduct serological tests for the close contacts to
+determine if the cases could have been infected by them.
+
+
+
+UPDATE ON CONDITION OF CONFIRMED CASES
+
+6.  20 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 62,181 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+
+7.  There are currently 143 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 4 are in critical
+condition in the intensive care unit. 170 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 36 have passed
+away from complications due to COVID-19 infection.
+
+8.  Case 64255, an 84 year-old female Singaporean, has passed
+away from complications due to COVID-19 infection on 26 June 2021. She
+was tested for COVID-19 on 15 June as part of our community surveillance
+testing for visitors to 115 and 116 Bukit Merah View, and was confirmed
+to have COVID-19 infection on 15 June. She had not been vaccinated
+against COVID-19, and had a history of cancer, hypertension and
+hyperlipidaemia. The National Centre for Infectious Diseases has reached
+out to her family and is extending assistance to them.
 
 MINISTRY OF HEALTH
 26 JUNE 2021
+
+------------------------------------------------------------------------
+
+[1]  This is updated from the afternoon press release as 2 more cases
+have been linked to previous cases following epidemiological
+investigations.
+[2]  Case 64135 is a 57 year-old female Singaporean who works as a
+promoter at Guardian (ION Orchard). She was confirmed to have COVID-19
+infection on 10 June.
+[3]  Case 64216 is a 94 year-old male Singaporean who is a retiree. He
+was confirmed to have COVID-19 infection on 13 June.
+[4]  Case 64305 is a 39 year-old male Singaporean who works as a
+logistics officer at CKD Singapore Pte Ltd. He was confirmed to have
+COVID-19 infection on 17 June.
+[5]  Case 64413 is a 35 year-old male Singaporean who works as a porter
+at Changi General Hospital. He was confirmed to have COVID-19 infection
+on 23 June.
+[6]  Case 64442 is a 67 year-old male Singaporean who works as a porter
+at Changi General Hospital. He was confirmed to have COVID-19 infection
+on 24 June.
+[7]  Case 64443 is a 72 year-old male Singaporean who works as a porter
+at Changi General Hospital. He was confirmed to have COVID-19 infection
+on 24 June.
+[8]  Case 64264 is a 32 year-old female Indonesia national who is a
+foreign domestic worker. She was confirmed to have COVID-19 infection on
+16 June.
+[9]  Case 64420 is a 78 year-old female Singaporean who is a retiree.
+She was confirmed to have COVID-19 infection on 23 June.
+[10]  Case 64349 is a 24 year-old male Singaporean who works as a
+financial consultant with Prudential. He was confirmed to have COVID-19
+infection on 19 June.
+[11]  Case 64387 is a 23 year-old male Singaporean who is a student at
+Singapore Institute of Management. He was confirmed to have COVID-19
+infection on 22 June.
+[12]  Case 64414 is a 22 year-old male Singaporean who is currently
+unemployed. He was confirmed to have COVID-19 infection on 23 June.
+[13]  Case 64415 is a 23 year-old male Singaporean who works at Skyworks
+Global Pte Ltd. He was confirmed to have COVID-19 infection on 23 June.
+[14]  Case 64416 is a 22 year-old female Singaporean who is a software
+engineer at NCS Pte Ltd. She was confirmed to have COVID-19 infection on
+23 June.
+[15]  Case 64437 is a 23 year-old male Singaporean who works at Unity
+Assurance PAC. He was confirmed to have COVID-19 infection on 23 June.
