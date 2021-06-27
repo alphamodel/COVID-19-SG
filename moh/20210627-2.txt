@@ -131,7 +131,7 @@ There are 12 cases in the community today, of whom 11 are linked to
 previous cases and 1 is currently unlinked.
 CURRENTLY UNLINKED CASES
 Detected through surveillance:
-Case 64483 is a 37 year-old male Singaporean who works as a bunk
+Case 64483 is a 37 year-old male Singaporean who works as a bunker
 surveyor at GW Marine Pte Ltd. He was detected when he was tested for
 COVID-19 on 24 June as part of Rostered Routine Testing (RRT). His
 pooled test result came back positive for COVID-19 on 25 June, and he
