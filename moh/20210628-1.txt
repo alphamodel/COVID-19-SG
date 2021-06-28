@@ -7,18 +7,179 @@
 
 Published Date: 28 Jun 2021
 
-        As of 28 June 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 4 new cases of locally transmitted COVID-19
-infection, all of whom are linked to previous cases, and have already
-been placed on quarantine. Based on our investigations so far, the cases
-are in the community, and there are no new cases in the dormitories.
-2.     In addition, there are 5 imported cases, who have already been
-placed on Stay-Home Notice or isolated upon arrival in Singapore. Of
-these, 2 are returning Singaporeans or Singapore Permanent Residents.
-3.     In total, there are 9 new cases of COVID-19 infection in
-Singapore today.
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 28 June 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 4 new cases of locally transmitted
+COVID-19 infection. The cases are in the community, and there are no new
+cases in the dormitories. All 4 cases are linked to previous cases and
+have already been placed on quarantine. There are 5 imported cases, who
+have already been placed on Stay-Home Notice (SHN) or isolated upon
+arrival in Singapore. Amongst the new cases today, 5 are asymptomatic,
+and were detected from our proactive screening and surveillance, while 4
+were symptomatic.
+
+SUMMARY OF NEW CASES
+
+BREAKDOWN BY
+
+BREAKDOWN BY
+
+NUMBER OF CASES
+
+ALREADY IN QUARANTINE/ ISOLATION BEFORE DETECTION
+
+DETECTED FROM SURVEILLANCE
+
+SYMPTOMATIC
+
+ASYMPTOMATIC
+
+CASES IN THE COMMUNITY
+
+4
+
+4
+
+0
+
+3
+
+1
+
+CASES RESIDING IN DORMITORIES
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IMPORTED CASES
+
+5
+
+5
+
+0
+
+1
+
+4
+
+TOTAL
+
+9
+
+2.     Overall, the number of new cases in the community has decreased
+from 103 cases in the week before to 86 cases in the past week. The
+number of unlinked cases in the community has also decreased from 16
+cases in the week before to 15 cases in the past week. We will continue
+to closely monitor these numbers, as well as the cases detected through
+our surveillance programme.
+3.     Amongst the 123 confirmed cases reported from 22 June to 28 June,
+46 cases have tested positive for their serology tests, 70 have tested
+negative, and 7 serology test results are pending.
+CASE DETAILS
+A) CASES IN THE COMMUNITY: 4
+There are 4 cases in the community today, all of whom are linked to
+previous cases.
+105 HENDERSON CRESCENT CLUSTER
+Already quarantined:
+_
+_Case 64499 is a 60 year-old male Singaporean who works at Lam Chuan
+Import-Export Pte Ltd. He is a family member and household contact of
+Case 64495[1] and a household contact of Case 64473[2], and was placed
+on quarantine on 26 June. He is asymptomatic, and was detected when he
+was tested for COVID-19 on 26 June during quarantine. His test result
+came back positive for COVID-19 infection on 27 June. His serology test
+result is negative for the N antigen, which suggests the presence of
+early infection. Case 64499 received his first dose of COVID-19 vaccine
+on 3 April and the second dose on 24 April.
+OTHER LINKED CASES
+Already quarantined:
+Case 64496 is a 37 year-old male Singaporean who is employed by Best
+Denki as a television installer. He developed a fever and body aches on
+17 June but did not seek medical attention. As he had been identified as
+a family member and household contact of Case 64463[3], he was placed on
+quarantine on 25 June. He was tested for COVID-19 on 26 June during
+quarantine, and his test result came back positive for COVID-19
+infection on 27 June. His serology test result is positive.
+Case 64498 is an 81 year-old male Singaporean who is a retiree. He is a
+family member and household contact of Case 64478[4], and was placed on
+quarantine on 26 June. He developed a cough on the same day but did not
+report his symptom. He was detected when he was tested for COVID-19 on
+26 June during quarantine, and his test result came back positive for
+COVID-19 infection on 27 June. His serology test result is pending.
+Case 64504 is a 56 year-old male Singaporean who works as an engineer at
+PUB (80 Toh Guan Road). He is a family member and household contact of
+Case 64468[5], and was placed on quarantine on 25 June. He was tested
+for COVID-19 on 26 June during quarantine but his test result was
+inconclusive. He was tested for COVID-19 again on 27 June, and developed
+a sore throat later that day. His test result came back positive for
+COVID-19 infection on 28 June. His serology test result is negative for
+the N antigen, which suggests the presence of early infection. Case
+64504 received his first dose of COVID-19 vaccine on 1 March and the
+second dose on 22 March.
+B) CASES RESIDING IN DORMITORIES: 0
+There are no cases residing in dormitories today.
+C) IMPORTED CASES: 5
+Amongst the 5 imported cases,
+
+-   2 (Cases 64501 and 64502) are Singaporeans who returned from
+    Pakistan.
+
+-   1 (Case 64503) is a Student’s Pass holder who arrived from
+    Indonesia.
+
+-   1 (Case 64500) is a Work Permit holder who arrived from Indonesia.
+
+-   1 (Case 64505) entered Singapore waters from Indonesia without valid
+    documentation. He was arrested by the Singapore Police Force’s
+    Police Coast Guard, and tested for COVID-19 infection during
+    isolation.
+
+They have already been placed on SHN or isolated upon arrival in
+Singapore and were tested while serving SHN or during isolation.
+4.     Please refer to the Annexes and MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+5.     Epidemiological investigations are in progress. In the meantime,
+all the identified close contacts of the cases have been isolated and
+placed on quarantine, and will be tested at the start and end of their
+quarantine period so that we can detect asymptomatic cases. We will also
+conduct serological tests for the close contacts to determine if the
+cases could have been infected by them.
+6.     MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Case 63892,
+Chevy’s Bar and Bistro, and JEM/ Westgate clusters for the past two
+incubation periods (i.e. 28 days), the clusters have now been closed.
+UPDATE ON CONDITION OF CONFIRMED CASES
+7.     17 more cases of COVID-19 infection have been discharged from
+hospitals or community isolation facilities. In all, 62,212 have fully
+recovered from the infection and have been discharged from hospitals or
+community care facilities.
+8.     There are currently 135 confirmed cases who are still in
+hospital. Of these, most are stable or improving, and 3 are in critical
+condition in the intensive care unit. 170 are isolated and cared for at
+community facilities. These are those who have mild symptoms, or are
+clinically well but still test positive for COVID-19. 36 have passed
+away from complications due to COVID-19 infection.
 MINISTRY OF HEALTH
 28 JUNE 2021
+[1] Case 64495 is an 82 year-old female Singaporean who is a retiree.
+She was confirmed to have COVID-19 infection on 27 June.
+[2] Case 64473 is a 43 year-old female Indonesia national who is a
+foreign domestic worker. She was confirmed to have COVID-19 infection on
+25 June.
+[3] Case 64463 is a 32 year-old female Singaporean who works as an
+administrative staff at Walt Disney. She was confirmed to have COVID-19
+infection on 25 June.
+[4] Case 64478 is a 76 year-old female Singaporean who is a retiree. She
+was confirmed to have COVID-19 infection on 26 June.
+[5] Case 64468 is a 27 year-old male Singaporean who is a serviceman in
+the Singapore Navy. He was confirmed to have COVID-19 infection on 25
+June.
+
+
