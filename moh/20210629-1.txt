@@ -1,54 +1,138 @@
-Community Surveillance Testing At Henderson Road
+Update On Local Covid-19 Situation (29 Jun 2021)
 
 
 
-COMMUNITY SURVEILLANCE TESTING AT HENDERSON ROAD
+UPDATE ON LOCAL COVID-19 SITUATION (29 JUN 2021)
 
 
 Published Date: 29 Jun 2021
 
-       The Ministry of Health (MOH) is investigating likely COVID-19
-transmission at Henderson Road. So far, five cases of COVID-19 infection
-have been detected in three households at 91
-Henderson Road. Epidemiological investigations are ongoing to determine
-linkages and the source of transmission.
+      As of 29 June 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 5 new cases of locally transmitted
+COVID-19 infection. 4 are linked to previous cases, and have already
+been placed on quarantine. 1 is linked to previous cases and was
+detected through surveillance. There are no unlinked cases today. There
+are 5 imported cases, who have already been placed on Stay-Home Notice
+(SHN) or isolated upon arrival in Singapore. 4 were detected upon
+arrival in Singapore, while 1 developed the illness during SHN or
+isolation. In total, there are 10 new cases of COVID-19 infection in
+Singapore today.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance¹
+[Chart1_29Jun]
+SUMMARY OF TRENDS FOR LOCAL CASES
+2.     Overall, the number of new cases in the community has decreased
+from 104 cases in the week before to 76 cases in the past week. The
+number of unlinked cases in the community has decreased from 17 cases in
+the week before to 12 cases in the past week. The 7-day moving average
+number of all linked community cases and all unlinked community cases
+are 9.1 and 1.7 respectively.
 
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases²
 
+[Chart2_29Jun]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+3.     There are a total of 5 imported cases today. 4 were detected upon
+arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+During SHN or Isolation
+[Chart3_29Jun]
+ACTIVE CLUSTERS UNDER MONITORING
+4.    There are currently 34 active clusters, ranging between 3 and 91
+infections.
+FIGURE 4: Number of Active Clusters
+[Chart4_29Jun]
+FIGURE 5: List of Active Clusters
 
-2. In order to disrupt any wider, undetected community
-transmission, MOH will conduct mandatory COVID-19 testing for all
-residents of 91 Henderson Road. Testing is optional for those who have
-tested negative for COVID-19 infection from 25 June onwards. In the
-event that a positive COVID-19 case is detected, MOH will isolate the
-case, identify all close contacts, test and quarantine them to protect
-the community from further transmission. Mandatory testing will be
-conducted at the pavilion at 96B Henderson Road from 30 June to 1 July
-2021 between 9am and 4pm.
+  ------------------------------------------- ----------- --------
+  CLUSTER                                     NEW CASES   TOTAL³
+  Case 64394                                  1           4
+  105 Henderson Crescent                      1           14
+  Changi General Hospital                     3           13
+  Case 64444                                  0           3
+  115 Bukit Merah View Market & Food Centre   0           91
+  Case 64264                                  0           8
+  Case 64349                                  0           10
+  119 Bukit Merah View                        0           8
+  Case 64359                                  0           6
+  Case 64135                                  0           4
+  ION Orchard                                 0           5
+  Case 64184                                  0           14
+  Case 64374                                  0           3
+  90 Redhill Close                            0           4
+  Case 64233                                  0           3
+  121 Bukit Merah View                        0           5
+  Case 64263                                  0           4
+  Tektronix                                   0           8
+  Case 64183                                  0           3
+  MARINA ARIEL                                0           3
+  Changi Prison Complex                       0           16
+  NTUC Foodfare                               0           13
+  MINDSville@Napiri                           0           33
+  Atatcutz Singapore                          0           8
+  Case 63964                                  0           6
+  Case 63931                                  0           3
+  Case 63922                                  0           5
+  Hong Ye Group cleaners                      0           27
+  506 Hougang Avenue 8                        0           13
+  Case 63973                                  0           3
+  Case 63887                                  0           7
+  Case 63941                                  0           4
+  Case 63806                                  0           10
+  Case 63743                                  0           3
+  ------------------------------------------- ----------- --------
 
+CONDITION OF CONFIRMED CASES
+5.    129 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 11 cases of serious illness
+requiring oxygen supplementation, and 3 in critical condition in the
+intensive care unit (ICU).
 
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Chart5_29Jun]
 
-3. To detect possible asymptomatic cases in the community, MOH
-will also conduct voluntary COVID-19 testing for visitors and those who
-have interacted with residents of 91 Henderson Road between 9 June and
-28 June 2021. We encourage these individuals to come forward for
-testing. Testing will be conducted by appointment only at designated
-Regional Screening Centres from 30 June to 1 July 2021 and at the
-pavilion at 96B Henderson Road on 1 July 2021, between 9am and 4pm.To
-book an appointment and for information on the alternate test locations,
-please visit https://go.gov.sg/91-hr-covid-19-testing or call 1800 333
-9999 if you have any queries.
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Chart6_29Jun]
 
+6.    There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 23 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away.  20 are unvaccinated, 2 are partially vaccinated and 1 is fully
+vaccinated (patient was already ill before infection).
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition4
 
+[Chart7_29Jun]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁵
+[Chart8_29Jun]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+7.     As of 28 June 2021, we have administered a total of 5,378,041
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 5,378,041, covering 3,279,411
+individuals.  2,098,630 individuals have received their second dose and
+completed the full vaccination regimen.
 
-4. All residents are to bring along their NRIC for
-identification purposes. Leaflets have been distributed and SMS
-notifications have been sent to the residents to provide them with more
-information. Residents are also advised to monitor their health closely
-and consult a doctor immediately if they feel unwell. Those who are
-still awaiting their test results are advised to minimise social
-interactions as much as possible. They should continue to monitor their
-health and seek immediate medical attention if they feel unwell.
-
+FIGURE 10: Progress of Vaccination Programme
+[Chart10_29Jun]
+8.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 29 JUNE 2021
+
+------------------------------------------------------------------------
+
+¹ Incorporates re-classifications of earlier reported cases.
+2 Incorporates re-classifications of earlier reported cases.
+3 Includes new cases added today.
+⁴ Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+5 Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
 
