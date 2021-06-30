@@ -109,7 +109,7 @@ Severity of Condition4
 [Chart7_29Jun]
 FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
 Supplementation, by Vaccination Status⁵
-[Chart8_29Jun]
+[Figure09-(290621)]
 PROGRESS OF NATIONAL VACCINATION PROGRAMME
 7.     As of 28 June 2021, we have administered a total of 5,378,041
 doses of COVID-19 vaccines under the national vaccination programme. The
