@@ -17,8 +17,7 @@ isolated upon arrival in Singapore. 1 was detected upon arrival in
 Singapore, while 5 developed the illness during SHN or isolation. In
 total, there are 10 new cases of COVID-19 infection in Singapore today.
 FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
-Already Quarantined/ Detected through Surveillance[1]
-[FIG 1]
+Already Quarantined/ Detected through Surveillance[1][FIG 1]
 SUMMARY OF TRENDS FOR LOCAL CASES
 2.   Overall, the number of new cases in the community has decreased
 from 92 cases in the week before to 58 cases in the past week. The
@@ -280,7 +279,7 @@ MINISTRY OF HEALTH
 [3] Includes new cases added today.
 
 [4] Fully vaccinated – more than 14 days after completing vaccination
-regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+regimen. Partially vaccinated – received 1 dose only of 2-dose vaccine
 or COVID-19 positive within 14 days of completing vaccination regimen.
 
 [5] Fully vaccinated – more than 14 days after completing vaccination
