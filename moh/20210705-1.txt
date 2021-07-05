@@ -1,52 +1,269 @@
-Updated Advisory On Covid-19 Vaccination
+Update On Local Covid-19 Situation (5 July)
 
 
 
-UPDATED ADVISORY ON COVID-19 VACCINATION
+UPDATE ON LOCAL COVID-19 SITUATION (5 JULY)
 
 
 Published Date: 05 Jul 2021
 
-1.     The Ministry of Health was alerted on 3 July 2021 by Khoo Teck
-Puat Hospital (KTPH) to a case of a 16 year-old male Singaporean
-patient, who was treated at the emergency department at KTPH after he
-collapsed at home on the same morning. He was subsequently transferred
-to the National University Hospital (NUH) in the evening, where he is in
-critical condition at the intensive care unit.
+      As of 5 July 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 6 cases of locally transmitted
+COVID-19 infection. 4 are linked to previous cases, and have already
+been placed on quarantine. 2 are currently unlinked. There are 7
+imported cases, who have already been placed on Stay-Home Notice (SHN)
+or isolated upon arrival in Singapore. 5 were detected upon arrival in
+Singapore, while 2 developed the illness during SHN or isolation. In
+total, there are 13 new cases of COVID-19 infection in Singapore today.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance [1]
+
+[Figure 1]
+SUMMARY OF TRENDS FOR LOCAL CASES
+
+2.    Overall, the number of new cases in the community has decreased
+from 86 cases in the week before to 28 cases in the past week. The
+number of unlinked cases in the community has also decreased from 14
+cases in the week before to 4 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 3.4 and 0.6 respectively.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases [2]
+[Figure 2]
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+3.     There are a total of 7 imported cases today. 5 were detected upon
+arrival in Singapore, while 2 developed the illness during SHN or
+isolation.
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+During SHN or Isolation
+
+[Figure 3]
+ACTIVE CLUSTERS UNDER MONITORING
+
+4.     There is 1 new cluster (Case 64388 cluster) today. In total,
+there are currently 24 active clusters, ranging between 3 and 93
+infections. MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the
+MINDSville@Napiri cluster for the past two incubation periods (i.e. 28
+days), the cluster has now been closed.
+FIGURE 4: Number of Active Clusters
+
+[Figure 4]
+FIGURE 5: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL [3]
+
+Case 64388 _(new cluster)_
+
+1
+
+3
+
+105 Henderson Crescent
+
+1
+
+21
+
+Changi General Hospital
+
+2
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+93
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+Case 64263
+
+0
+
+4
+
+Case 64183
+
+0
+
+3
+
+MARINA ARIEL
+
+0
+
+3
+
+Changi Prison Complex
+
+0
+
+16
+
+Atatcutz Singapore
+
+0
+
+8
+
+Case 63964
+
+0
+
+6
+
+CONDITION OF CONFIRMED CASES
+5.     102 cases are currently warded in hospital.Most are well and
+under observation. There are currently 10 cases of serious illness
+requiring oxygen supplementation, and 3 in critical condition in the
+intensive care unit (ICU).
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Figure 6]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[Figure 7]
+6.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 23 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 20 are unvaccinated, 3 are partially vaccinated and none was fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition [4]
+
+[Figure 8]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+
+by Vaccination Status [5]
+
+[Figure 9]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+
+7.    As of 4 July 2021, we have administered a total of 5,780,703 doses
+of COVID-19 vaccines under the national vaccination programme. The total
+number of doses administered was 5,780,703, covering 3,608,688
+individuals. 2,172,015 individuals have received their second dose and
+completed the full vaccination regimen.
+
+FIGURE 10: Progress of National Vaccination Programme
+[Figure 10]
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group [6]
+[Figure 11]
+
+FIGURE 12: Percentage of Individuals who Completed Full Regimen [7] with
+any COVID-19 Vaccine by Age Group
+[Figure 12]
+8.    Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 
 
-
-2.     He received his first dose of the Pfizer-BioNTech/Comirnaty
-vaccine on 27 June. He was assessed by trained healthcare personnel to
-be suitable for COVID-19 vaccination, observed on-site for about 30
-minutes post-vaccination and was well. He was also well for the
-following five days after vaccination. Prior to his collapse on 3 July,
-he did weightlifting at the gym. MOH understands that he trains with
-very heavy weights which were above his body weight.
-
-3.     We are in contact with the medical team in NUH who are providing
-close medical care for the patient. The preliminary diagnosis of his
-condition is an out-of-hospital cardiac arrest. Clinical and laboratory
-tests are in progress to understand the underlying cause. We will also
-work with the medical team in NUH to determine if this might be linked
-to his COVID-19 vaccination. This will include a thorough consideration
-of whether there was acute severe myocarditis, which is severe
-inflammation of the heart muscles affecting the heart function, as a
-possible diagnosis.
-
-4.     The Expert Committee on COVID-19 Vaccination will monitor the
-outcome of this investigation.
-
-5.     The Expert Committee and the Health Sciences Authority (HSA) have
-reviewed additional local and overseas data, independently of this
-incident. MOH concurs with the recommendations by both the Expert
-Committee and HSA for vaccinated persons to avoid strenuous physical
-activity after either the first or second COVID-19 vaccination dose. We
-advise all persons, in particular adolescents and younger men aged less
-than 30 years old, to avoid strenuous physical activity for seven days
-after their vaccination, be it the first or second doses, as a further
-precautionary measure.
 
 MINISTRY OF HEALTH
-
 5 JULY 2021
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Incorporates re-classifications of earlier reported cases.
+[3] Includes new cases added today.
+[4] Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+[5] Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+[6] Based on National Immunisation Registry data.
+[7] Full regimen refers to individuals who have received both doses of
+the vaccine.
