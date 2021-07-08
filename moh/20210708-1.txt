@@ -1,29 +1,270 @@
-3 New Cases of Locally Transmitted Covid-19 Infection
+Updates On Local Covid-19 Situation (8 July 2021)
 
 
 
-3 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATES ON LOCAL COVID-19 SITUATION (8 JULY 2021)
 
 
 Published Date: 08 Jul 2021
 
 1.     As of 8 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 3 new cases of locally transmitted COVID-19
-infection. 1 is linked to previous cases, and was detected through
-surveillance. 2 are currently unlinked.
+confirmed and verified that there are 3 cases of locally transmitted
+COVID-19 infection. 1 is linked to previous cases, and was detected
+through surveillance. 2 are currently unlinked. There are 13 imported
+cases, who have already been placed on Stay-Home Notice (SHN) or
+isolated upon arrival in Singapore. 12 were detected upon arrival in
+Singapore, while 1 developed the illness during SHN or isolation. In
+total, there are 16 new cases of COVID-19 infection in Singapore today.
 
-2.     In addition, there are 13 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-12 were detected upon arrival in Singapore, while 1 developed the
-illness during SHN or isolation.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases [1]
 
-3.     In total, there are 16 new cases of COVID-19 infection in
-Singapore today.
+[210708 IMAGE001]
 
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+SUMMARY OF TRENDS FOR LOCAL CASES
+
+2.     Overall, the number of new cases in the community has decreased
+from 58 cases in the week before to 23 cases in the past week. The
+number of unlinked cases in the community has increased from 8 cases in
+the week before to 9 cases in the past week. The 7-day moving average
+number of all linked community cases and all unlinked community cases
+are 2.0 and 1.3 respectively.
+
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases [2]
+
+[210708 image002]
+
+
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+3.     There are a total of 13 imported cases today. 12 were detected
+upon arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/Detected
+During SHN or Isolation
+
+[210708 image003]
+
+ACTIVE CLUSTERS UNDER MONITORING
+
+4.     There are currently 22 active clusters, ranging between 3 and 94
+infections. MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to the Changi
+Prison Complex cluster for the past two incubation periods (i.e. 28
+days), the cluster has now been closed.
+
+FIGURE 4: Number of Active Clusters
+
+[210708 image004]
+
+FIGURE 5: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL [3]
+
+Case 64599
+
+1
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+Case 64263
+
+0
+
+4
+
+Case 64183
+
+0
+
+3
+
+MARINA ARIEL
+
+0
+
+3
+
+CONDITION OF CONFIRMED CASES
+
+5.     84 cases are currently warded in hospital. Most are well and
+under observation. There are currently 10 cases of serious illness
+requiring oxygen supplementation, and 2 in critical condition in the
+intensive care unit (ICU).
+
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[210708 image005]
+
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[210708 image006]
+6.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 23 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 20 are unvaccinated, 3 are partially vaccinated and none was fully
+vaccinated.
+
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition [4]
+[210708 image007]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status [4]
+[210708 image008]
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+7.     As of 7 July 2021, we have administered a total of 6,009,699
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,009,699, covering 3,787,801
+individuals. 2,221,898 individuals have received their second dose and
+completed the full vaccination regimen.
+
+FIGURE 10: PROGRESS OF NATIONAL VACCINATION PROGRAMME
+[210708 IMAGE009]
+FIGURE 11: PERCENTAGE OF VACCINATED INDIVIDUALS WHO RECEIVED AT LEAST
+FIRST DOSE BY AGE GROUP [5]
+[210708 IMAGE010]
+FIGURE 12: PERCENTAGE OF INDIVIDUALS WHO COMPLETED FULL REGIMEN
+[6] COVID-19 VACCINE BY AGE GROUP
+[210708 IMAGE011]
+
+8.     Please refer to MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
 
 MINISTRY OF HEALTH
 
- 8 JULY 2021
+8 JULY 2021
+
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+
+[2] Incorporates re-classifications of earlier reported cases.
+
+[3] Includes new cases added today.
+
+[4] Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+
+[5] Based on National Immunisation Registry data.
+
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine.
