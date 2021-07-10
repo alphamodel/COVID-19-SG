@@ -1,69 +1,248 @@
-Updates On Border Measures for Travellers From Indonesia
+Update On Local Covid-19 Situation
 
 
 
-UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM INDONESIA
+UPDATE ON LOCAL COVID-19 SITUATION
 
 
 Published Date: 10 Jul 2021
 
-     The Multi-Ministry Taskforce has been closely monitoring the
-global COVID-19 situation and regularly reviews Singapore’s border
-measures to manage the risk of importation from travellers and onward
-local transmission, taking into account the current situation in their
-source countries/ regions.
+     As of 10 July 2021, 12pm, the Ministry of Health (MOH) has
+preliminarily confirmed zero new cases of locally transmitted COVID-19
+infection. There are 6 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 3 were
+detected upon arrival in Singapore, while 3 developed the illness during
+SHN or isolation.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases¹
+[Fig 1 10 Jul]
+SUMMARY OF TRENDS FOR LOCAL CASES
+2.     Overall, the number of new cases in the community has decreased
+from 37 cases in the week before to 17 cases in the past week. The
+number of unlinked cases in the community has increased from 1 case in
+the week before to 9 cases in the past week. The 7-day moving average
+number of all linked community cases and all unlinked community cases
+are 1.1 and 1.3 respectively.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases²
 
-TIGHTENING OF ENTRY APPROVALS FOR TRAVELLERS AND TRANSFERS FROM
-INDONESIA
+[Fig 2 10 Jul]
 
-2.    Given the worsening situation in Indonesia, we will tighten our
-border measures for travellers from Indonesia by reducing entry
-approvals for non-Singapore Citizens/ Permanent Residents WITH IMMEDIATE
-EFFECT. Entry approvals may be considered where additional safe
-management measures are taken.
-3.    With effect from 12 JULY 2021, 2359 HOURS, all travellers with
-travel history to Indonesia within the last 21 days will also not be
-allowed to transit through Singapore.
+SUMMARY OF TRENDS FOR IMPORTED CASES
+3.      There are a total of 6 imported cases today. 3 were detected
+upon arrival in Singapore, while 3 developed the illness during SHN or
+isolation.
 
-UPDATES IN PRE-DEPARTURE TESTING REQUIREMENTS
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+During SHN or Isolation
 
-4.    Currently, all travellers entering Singapore with recent travel
-history to INDONESIA within the last 21 days prior to departure for
-Singapore will need to present a valid negative COVID-19 polymerase
-chain reaction (PCR) test taken within 72 hours before departure for
-Singapore. With effect from 12 JULY 2021, 2359 HOURS, such travellers
-will instead be required to present a valid negative COVID-19 PCR test
-taken within 48 hours before departure for Singapore.
-5.    Travellers who arrive in Singapore without a valid negative PCR
-test result may be denied entry into Singapore. Permanent Residents and
-long-term pass holders who fail to comply with the new requirements may
-have their permit or pass cancelled. All travellers will continue to be
-subjected to:
-        a.  14-day Stay-Home Notice (SHN) at dedicated SHN facilities;
-        b.  On-arrival PCR test[1] and PCR test on Day 14 of arrival;
-and
-        c.  On-arrival Antigen Rapid Test (ART)[2] and self-administered
-ART test on Day 3, 7 and 11 of arrival.
+[Fig 3 10 Jul]
+ACTIVE CLUSTERS UNDER MONITORING
 
-REGULAR REVIEW OF BORDER MEASURES
-6.    As the global situation evolves, we will continue to adjust our
-border measures to manage the risk of importation and transmission to
-the community. Any changes to border measures will be updated on
-the SafeTravel website. Travellers are advised to visit the website to
-check for the most updated border measures before entering Singapore and
-be prepared to be subjected to the prevailing border measures upon
-entry.
+4.     There are currently 22 active clusters, ranging between 3 and 94
+infections.
+FIGURE 4: Number of Active Clusters
+
+[Fig 4 10 Jul]
+FIGURE 5: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL³
+
+Case 64599
+
+0
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+Case 64263
+
+0
+
+4
+
+Case 64183
+
+0
+
+3
+
+MARINA ARIEL
+
+0
+
+3
+
+CONDITION OF CONFIRMED CASES
+5.     76 cases are currently warded in hospital. Most are well and
+under observation. There are currently 7 cases of serious illness
+requiring oxygen supplementation, and 2 in critical condition in the
+intensive care unit (ICU).
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig 6 10 Jul]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig 7 10 Jul]
+6.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 24 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 20 are unvaccinated, 4 are partially vaccinated and none was fully
+vaccinated.
+
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition⁴
+[Fig\ 8\ 10\ Jul]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁴
+[Fig\ 9\ 10\ Jul]
+Progress of national vaccination programme
+
+7.     As of 9 July 2021, we have administered a total of 6,163,124
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,163,124, covering 3,895,149
+individuals. 2,267,975 individuals have received their second dose and
+completed the full vaccination regimen.
+FIGURE 10: Progress of National Vaccination Programme
+[Fig 10 10 Jul]
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Fig 11 10 Jul]
+
+
+
+FIGURE 12: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+
+[Fig 12 10 Jul]
+
+8.     Please refer to MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
 
 MINISTRY OF HEALTH
 10 JULY 2021
+-----------------------
 
-[1] To expedite the COVID-19 PCR test at the checkpoints, travellers are
-strongly encouraged to register and pre-pay for their on-arrival
-COVID-19 PCR test prior to departing for Singapore at
-https://safetravel.changiairport.com/ (for Changi Airport)
-and https://t.2c2p.com/express/parkwayshenton (for Tanah Merah Ferry
-Terminal).
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Incorporates re-classifications of earlier reported cases.
+[3] Includes new cases added today.
+[4] Fully vaccinated – more than 14 days after completing vaccination
+regimen. Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+[5] Based on National Immunisation Registry data.
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine.
 
-[2] This requirement has been in effect from 6 July 2021, 0001hrs.
-Additional details on testing requirements are available at
-https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest.
+
