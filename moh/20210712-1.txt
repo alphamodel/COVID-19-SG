@@ -1,39 +1,322 @@
-8 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (12 July)
 
 
 
-8 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (12 JULY)
 
 
 Published Date: 12 Jul 2021
 
-          As of 12 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 8 new cases of locally transmitted COVID-19
-infection. 5 are linked to previous cases, and have already been placed
-on quarantine. 3 are currently unlinked.
+          As of 12 July 2021, 12pm, Ministry of Health (MOH) has
+confirmed and verified that there are 8 cases of locally transmitted
+COVID-19 infection. 5 are linked to previous cases, and have already
+been placed on quarantine. 3 are currently unlinked. There are 18
+imported cases, who have already been placed on Stay-Home Notice (SHN)
+or isolated upon arrival in Singapore. 13 were detected upon arrival in
+Singapore, while 5 developed the illness during SHN or isolation. In
+total, there are 26 new cases of COVID-19 infection in Singapore today.
+
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases [1]
+
+[Fig 1 12 Jul]
 
 
 
-2.  In addition, there are 18 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-13 were detected upon arrival in Singapore, while 5 developed the
-illness during SHN or isolation.
+SUMMARY OF TRENDS FOR LOCAL CASES
+
+2.  Overall, the number of new cases in the community has
+decreased from 28 cases in the week before to 19 cases in the past week.
+The number of unlinked cases in the community has increased from 4 cases
+in the week before to 10 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 1.3 and 1.4 respectively.
+
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases [2]
+
+[Fig 2 12 Jul]
 
 
 
-3.  In total, there are 26 new cases of COVID-19 infection in
-Singapore today.
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+3.  There are a total of 18 imported cases today. 13 were
+detected upon arrival in Singapore, while 5 developed the illness during
+SHN or isolation.
+
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+During SHN or Isolation
+
+[Fig 3 12 Jul]
 
 
 
-4.  We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+ACTIVE CLUSTERS UNDER MONITORING
+
+4.  There are 2 new clusters (Case 64693 and Case 64697 clusters)
+today. In total, there are currently 22 active clusters, ranging between
+3 and 94 infections.
+
+FIGURE 4: Number of Active Clusters
+
+[Fig 4 12 Jun]
+
+
+
+FIGURE 5: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL [3]
+
+Case 64693_(new cluster)_
+
+3
+
+3
+
+Case 64697_(new cluster)_
+
+4
+
+4
+
+Case 64599
+
+0
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+COMMUNITY SURVEILLANCE TESTING
+
+5.  MOH is investigating cases of COVID-19 infection amongst
+Vietnamese social hostesses who had frequented KTV lounges or clubs
+currently operating as F&B outlets, and their close social contacts. To
+quickly uncover any community infection cases, we will be conducting
+special testing operations for all staff of Supreme KTV (Far East
+Shopping Centre), Empress KTV (Tanglin Shopping Centre) and Club Dolce
+(Balestier Point).
+
+6.  We will also extend free COVID-19 testing to members of the
+public who had:
+
+i)  Visited the following premises between 29 June and 12 July
+2021:
+•  Supreme KTV (Far East Shopping Centre), Empress KTV (Tanglin
+Shopping Centre) or Club Dolce (Balestier Point); or
+•  Similar KTV lounges or clubs operating as F&B outlets.
+
+ii)  Interacted with Vietnamese social hostesses in any setting
+between 29 June and 12 July 2021.
+
+Please refer to https://go.gov.sg/ktv-testing for details on the testing
+operations.
+
+7.  All visitors to these premises and similar settings and those
+who had interacted with Vietnamese social hostesses are advised to
+monitor their health closely, and minimise social interactions as far as
+possible, for 14 days from their date of visit or interaction. They are
+encouraged to see a doctor immediately if they feel unwell.
+
+
+
+CONDITION OF CONFIRMED CASES
+
+8.  80 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 6 cases of serious illness
+requiring oxygen supplementation, and 2 in critical condition in the
+intensive care unit (ICU).
+
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Fig 6 12 Jul]
+
+
+
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[Fig 7 12 Jul]
+
+
+
+9.  There is continuing evidence that vaccination helps to
+prevent serious disease when one gets infected. Over the last 28 days,
+22 local cases required oxygen supplementation, were admitted to ICU or
+passed away. 18 are unvaccinated, 4 are partially vaccinated and none
+was fully vaccinated.
+
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition [4]
+
+[Fig 8 12 Jul]
+
+
+
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status [4]
+
+[Fig 9 12 Jul]
+
+
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+
+10.  As of 11 July 2021, we have administered a total of 6,304,415
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,304,415, covering 3,981,886
+individuals. 2,322,529 individuals have received their second dose and
+completed the full vaccination regimen.
+
+FIGURE 10: Progress of National Vaccination Programme
+
+[Fig 10 12 Jul]
 
 
 
 
+
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group [5]
+
+[Fig 11 12 Jul]
+
+
+
+FIGURE 12: Percentage of Individuals who Completed Full Regimen [6] of
+COVID-19 Vaccine by Age Group
+
+[Fig 12 12 Jul]
+
+
+
+11.  Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 
 MINISTRY OF HEALTH
-
 12 JULY 2021
+
+------------------------------------------------------------------------
+
+[1]  Incorporates re-classifications of earlier reported cases.
+[2]  Incorporates re-classifications of earlier reported cases.
+[3]  Includes new cases added today.
+[4]  Fully vaccinated – more than 14 days after completing vaccination
+regimen.  Partially vaccinated – received 1 dose only of 2-dose vaccine
+or COVID-19 positive within 14 days of completing vaccination regimen.
+[5]  Based on National Immunisation Registry data.
+[6]  Full regimen refers to individuals who have received both doses of
+the vaccine.
