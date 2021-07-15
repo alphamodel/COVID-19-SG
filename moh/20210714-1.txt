@@ -296,7 +296,7 @@ MINISTRY OF HEALTH
 been linked to the KTV cluster following epidemiological investigations.
 [2] Incorporates re-classifications of earlier reported cases.
 [3] Incorporates re-classifications of earlier reported cases.
-
+[4] Includes new cases added today.
 [5] Fully vaccinated - more than 14 days after completing vaccination
 regimen (both doses of the vaccine or one dose for recovered
 individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
