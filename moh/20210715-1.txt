@@ -1,65 +1,317 @@
-Updates On Vaccination Records
+Update On Local Covid-19 Situation (15 July)
 
 
 
-UPDATES ON VACCINATION RECORDS
+UPDATE ON LOCAL COVID-19 SITUATION (15 JULY)
 
 
 Published Date: 15 Jul 2021
 
-1.   We have made good progress in our national COVID-19 vaccination
-programme thus far. As of 14 July 2021, we have administered around 6.5
-million doses of COVID-19 vaccine. Around 4 million individuals have
-received at least the first dose of the vaccine, of whom about 2.4
-million have completed the full vaccination regimen.
+       As of 15 July 2021, 12pm, Ministry of Health (MOH) has
+confirmed and verified that there are 42 cases of locally transmitted
+COVID-19 infection, of which 34 belong to the KTV cluster. Of the 42
+cases today, 17 are linked to previous cases, and have already been
+placed on quarantine. 21 are linked to previous cases and were detected
+through surveillance. 4 are currently unlinked.¹  There are 6 imported
+cases, who have already been placed on Stay-Home Notice (SHN) or
+isolated upon arrival in Singapore. 4 were detected upon arrival in
+Singapore, while 2 developed the illness during SHN or isolation. In
+total, there are 48 new cases of COVID-19 infection in Singapore today.
 
-UPDATES OF VACCINATION RECORDS FOR SINGAPORE CITIZENS, PERMANENT
-RESIDENTS OR LONG-TERM PASS HOLDERS VACCINATED OVERSEAS
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases2
+[Fig\ 1\ _15\ Jul]
 
-2.   As vaccinations grow in availability worldwide, there are also many
-Singapore Citizens, Permanent Residents, and Long-Term Pass Holders who
-have returned from overseas with vaccinations done abroad and would like
-their vaccination records updated in Singapore.
+SUMMARY OF TRENDS FOR LOCAL CASES
 
-3.   From 14 July 2021, such individuals who have received COVID-19
-vaccinations overseas with COVID-19 vaccines authorised by the Heath
-Sciences Authority under the Pandemic Special Access Route (PSAR)[1]
-or listed on the World Health Organization’s Emergency Use Listing (WHO
-EUL) can have their vaccination records updated in the National
-Immunisation Registry when they return to Singapore. To do so, they
-should have documentation to show proof of their overseas vaccination
-and a positive serology test result in Singapore. The positive serology
-test provides an additional means to validate the vaccination status of
-an individual by detecting that antibodies have been mounted against the
-virus.
+2.      Overall, the number of new cases in the community has increased
+from 23 cases in the week before to 127 cases in the past week. The
+number of unlinked cases in the community has also increased from 9
+cases in the week before to 16 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 15.9 and 2.3 respectively.
 
-4.   To update their vaccination records in Singapore, individuals
-canvisit a private healthcare provider onboard this initiative[2]
-with their overseas COVID-19 vaccination documentation. Upon positive
-serology test result, the individual’s vaccination records will
-subsequently be reflected on HealthHub after a few days. For Singapore
-residents who received their COVID-19 vaccination in Singapore, serology
-testing is not required.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases³
+[Fig 2 _15 Jul]
 
-KEEPING OUR COMMUNITY SAFE
+SUMMARY OF TRENDS FOR IMPORTED CASES
+3.     There are a total of 6 imported cases today. 4 were detected upon
+arrival in Singapore, while 2 developed the illness during SHN or
+isolation.
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+During SHN or Isolation
+[Fig 3 _15 Jul]
 
-5.   Vaccination remains a key enabler in our fight against COVID-19 and
-its ability to help Singapore re-open safely can only be felt when we
-can collectively achieve a high level of population coverage for
-vaccination. We encourage those who still have not done so, to register
-their interest via vaccine.gov.sg and book their vaccinations and get
+ACTIVE CLUSTERS UNDER MONITORING
+
+4.     There are currently 25 active clusters, ranging between 3 and 94
+infections.
+FIGURE 4: Number of Active Clusters
+[Fig 4 _15 Jul]
+
+FIGURE 5: List of Active Clusters
+
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁴
+
+KTV lounges/clubs
+
+34
+
+88
+
+Case 64697
+
+3
+
+14
+
+Case 64752
+
+1
+
+6
+
+Case 64642
+
+0
+
+3
+
+Case 64735
+
+0
+
+4
+
+Case 64599
+
+0
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+Case 64263
+
+0
+
+4
+
+COMMUNITY SURVEILLANCE TESTING AND CLOSURE OF AFFECTED PREMISES
+
+Closure of ComfortDelGro Driving Centre
+5.     MOH is investigating cases of COVID-19 infection
+amongst individuals who work in or visited ComfortDelGro Driving Centre
+(205 Ubi Avenue 4). There are so far 6 cases linked to the cluster. To
+break the chain of transmission and enable deep cleaning of the
+premises, ComfortDelGro Driving Centre has been closed to all members of
+the public from 15 July to 29 July 2021.
+6.     To quickly uncover any community infection cases, we will be
+conducting special testing operations for all staff of ComfortDelGro
+Driving Centre. We will also extend free COVID-19 testing to members of
+the public who had visited the driving centre between 6 July and 15 July
+2021. Please refer to https://go.gov.sg/cdc-testing for details on the
+testing operations.
+Closure of Las Vegas KTV and Tuberose KTV
+7.      MOH is investigating cases of COVID-19 infection amongst social
+hostesses who had frequented KTV lounges or clubs currently operating as
+F&B outlets, and their close social contacts. Our epidemiological
+investigations have found that there is likely ongoing transmission
+at Las Vegas KTV (35 Selegie Road) and Tuberose KTV (35 Selegie Road).
+8.      To break any potential chain of transmission and enable deep
+cleaning, these premises will be closed to all members of the public
+from 16 July to 30 July 2021. We will also extend free COVID-19 testing
+to members of the public who had:
+         i)   Visited the following premises between 29 June and 15 July
+2021:
+               -  Las Vegas KTV (35 Selegie Road) or Tuberose KTV (35
+Selegie Road); or
+               -  Similar KTV lounges or clubs operating as F&B outlets.
+        ii)     Interacted with social hostesses of any nationality in
+any setting between 29 June and 15 July 2021.
+Please refer to https://go.gov.sg/ktv-testing for details on the testing
+operations.
+9.      All visitors to ComfortDelGro Driving Centre, as well as Las
+Vegas KTV and Tuberose KTV and similar settings,and those who had
+interacted with social hostesses of any nationality, are advised to
+monitor their health closely, and minimise social interactions as far as
+possible, for 14 days from their date of visit or interaction. They are
+encouraged to see a doctor immediately if they feel unwell.
+CONDITION OF CONFIRMED CASES
+10.     180 cases are currently warded in hospital. Most are well and
+under observation. There are currently 7 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU).
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig 6 _15 Jul]
+
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[Fig 7 _15 Jul]
+11.      There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 17 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 13 are unvaccinated, 4 are partially vaccinated and none was fully
 vaccinated.
 
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition
+[Fig 8 _15 Jul]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁴
+[Fig 9 _15 Jul]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+12.      As of 14 July 2021, we have administered a total of 6,504,568
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,504,568, covering 4,075,822
+individuals. 2,480,287 individuals have completed the full vaccination
+regimen, consisting of 51,541 recovered persons who received at least
+one dose and 2,428,746 who received their second dose.
+FIGURE 10: Progress of National Vaccination Programme
+[Fig 10 _15 Jul]
 
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group⁶
+[Fig 11 _15 Jul]
+
+FIGURE 12: Percentage of Individuals who Completed Full Regimen⁷ of
+COVID-19 Vaccine by Age Group
+[Fig 12 _15 Jul]
+13.      Please refer to MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
 
 MINISTRY OF HEALTH
+15 JULY 2021
 
- 15 JULY 2021
+--------------------------
+1 This is updated from the afternoon press release as 1 more case has
+been linked to the KTV cluster following epidemiological investigations.
+2\  Incorporates re-classifications of earlier reported cases.
+3\  Incorporates re-classifications of earlier reported cases.
+4\  Includes new cases added today.
+5 Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+6 Based on National Immunisation Registry data.
+7\  Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
 
-------------------------------------------------------------------------
 
-[1] PSAR approved vaccines are Pfizer-BioNTech/Comirnaty and Moderna
-vaccines
 
-[2] Details on the providers can be found at:
-https://www.moh.gov.sg/covid-19/vaccination/faqs/faqs---post-vaccination-matters
+
