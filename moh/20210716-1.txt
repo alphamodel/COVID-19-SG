@@ -1,259 +1,363 @@
-Updates On Phase 3 (heightened Alert) Measures
+Update On Local Covid-19 Situation (16 July)
 
 
 
-UPDATES ON PHASE 3 (HEIGHTENED ALERT) MEASURES
+UPDATE ON LOCAL COVID-19 SITUATION (16 JULY)
 
 
 Published Date: 16 Jul 2021
 
-      The Multi-Ministry Taskforce (MTF) had earlier announced a
-calibrated path for resumption of more economic and social activities
-under Phase 3 (Heightened Alert) from 12 JULY 2021 onwards. It will
-depend heavily on our population vaccination rate, and we aim to have
-two-thirds of our population complete the vaccination regimen by
-National Day. However, the new infection clusters that emerged in this
-past week have been a setback to the efforts of our people in the battle
-against COVID-19. We have to act quickly now to contain the spread of
-the virus in our community, but recognising that a good proportion of
-our population are now fully vaccinated. While this setback will delay
-our re-opening plans, the significant and continuing progress made in
-our vaccination efforts will put us in a strong position to safely
-re-open our economy and society once the latest situation is contained.
+          As of 16 July 2021, 12pm, Ministry of Health (MOH) has
+confirmed and verified that there are 53 cases of locally transmitted
+COVID-19 infection, of which 32 belong to the KTV cluster. Of the 53
+cases today, 24 are linked to previous cases, and have already been
+placed on quarantine. 24 are linked to previous cases and were detected
+through surveillance. 5 are currently unlinked.[1] There are 8 imported
+cases, who have already been placed on Stay-Home Notice (SHN) or
+isolated upon arrival in Singapore. 2 were detected upon arrival in
+Singapore, while 6 developed the illness during SHN or isolation. In
+total, there are 61 new cases of COVID-19 infection in Singapore today.
+There are currently 7 cases of serious illness requiring oxygen
+supplementation, and 1 in critical condition in the intensive care unit
+(ICU).
 
-SUSPENSION OF ALL PIVOTED NIGHTLIFE ESTABLISHMENTS
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases [2]
 
-2.    Within the community, we detected a number of clusters in multiple
-KTV lounges or nightclubs that had pivoted to operate as Food & Beverage
-(F&B) establishments. To break potential chains of transmission, we have
-undertaken testing operations for staff and those who have visited these
-identified premises. Even as we do so, we are identifying more cases and
-clusters in such similar settings.
-
-3.    Since October 2020, nightlife establishments have not been allowed
-to operate but, upon representation by the industry, have been allowed
-to pivot into F&B operations. Regrettably, several errant establishments
-have abused the system by operating clandestine and illegal activities.
-Three such F&B establishments have since had their licenses to serve
-food revoked by the Singapore Food Agency. We will continue to take
-strict enforcement actions against all F&B operators who breach the safe
-management measures (SMMs).
-
-4.     In addition, we will implement a two-week suspension of
-operations from 16 JULY 2021 THROUGH 30 JULY 2021 FOR ALL NIGHTLIFE
-ESTABLISHMENTS THAT HAD PIVOTED INTO F&B ESTABLISHMENTS. There are over
-400 such establishments, and they will be individually notified about
-the suspension. During this period, we will test all the staff of these
-establishments. We will also inspect the SMM protocols in these
-establishments, and ensure these are properly implemented, before they
-are allowed to resume F&B operations.
-
-AGGRESSIVE RINGFENCING AROUND CASES
-
-5.     To mitigate the risk of wider, undetected community transmission,
-we will aggressively ringfence cases emerging around the KTV cluster
-through the use of SafeEntry (SE) data:
-
--   Individuals who have been identified to have visited hotspots at the
-    same time as a confirmed COVID-19 case will receive an SMS “Health
-    Risk Warning”.
--   These individuals will be required under the law to get tested at a
-    designated testing centre and self-isolate until they receive a
-    negative test from their first polymerase chain reaction (PCR) test.
--   As such individuals who test negative could still be incubating the
-    virus, they should still limit their interactions with others as an
-    added precaution for 14 days from their last exposure and only
-    undertake essential activities during this period.
--   These individuals will also be issued with self-test Antigen Rapid
-    Test (ART) kits when they come forward to do their first PCR test.
-    They will be required to self-administer an ART test on the 7th day
-    from the last exposure to confirm that they are not infected.
--   They will also be required to undergo another PCR test at designated
-    testing centres around the 14th day from their date of last known
-    exposure for assurance that they are not incubating the virus.
--   If these individuals should develop any acute respiratory infection
-    (ARI) symptoms, such as cough, runny nose, or fever, they should see
-    their doctor immediately.
-
-6.     We will also be sending a “Health Risk Alert” via SMS to
-individuals who have visited the locations where these nightlife
-establishments operating as F&B establishments are located in, or at
-other similar establishments flagged out by the Singapore Police Force:
-
-a. Unlike “Health Risk Warning”, these individuals are not subject to
-actions required by the law. However, they should monitor their health
-and limit their interactions with others for 14 days from their last
-exposure as an added precaution.
-
-b. They are encouraged to also purchase self-test ART kits from retail
-pharmacies and do self-tests regularly over the 14 days.
-
-7.  Individuals who have recently visited such nightlife establishments
-now operating as F&B establishments, and/or interacted with social
-hostesses in any settings between 29 JUNE 2021 to 15 JULY 2021 are to
-come forward for a free swab test [1]. They may also go to a private
-clinic and pay for tests. Similarly, individuals who develop any ARI
-symptoms, such as cough, runny nose or fever, should see their doctor
-immediately.
-
-TIGHTENING OF SELECTED SAFE MANAGEMENT MEASURES IN PHASE 3 (HEIGHTENED
-ALERT) FROM 19 JULY 2021
-
-8.    To mitigate further community spread, we will tighten community
-SMMs for higher-risk indoor, mask-off settings with effect from 19 JULY
-2021 THROUGH 8 AUGUST 2021 (both dates inclusive). Please refer to Annex
-A for full details on the updated SMMs.
-
-Dining-In at Food & Beverage (F&B) establishments
-
-9.     Dining-in at F&B establishments will be dialled back to GROUPS OF
-UP TO 2 PERSONS, i.e. a decrease from the groups of up to 5 persons
-allowed currently.
-
-10.    As fully-vaccinated individuals have good protection against
-infection and severe illness, and are also less likely to infect others
-as compared to unvaccinated individuals, WE WILL ALLOW FULLY-VACCINATED
-INDIVIDUALS TO CONTINUE TO DINE-IN IN GROUPS OF UP TO 5 PERSONS, AT
-PARTICIPATING F&B ESTABLISHMENTS THAT HAVE PUT IN PLACE SYSTEMS TO CHECK
-THE STATUS OF SUCH INDIVIDUALS. An individual is considered
-fully-vaccinated two weeks after he or she has received two doses of
-Pfizer-BioNTech/ Comirnaty or Moderna vaccines. Unvaccinated individuals
-with a valid negative pre-event test (PET) result or recovered
-individuals are of similarly lower risk, and may also join in such
-groups of 5.
-
-11.   Children below the age of 12 are currently ineligible for any
-COVID-19 vaccine in our national vaccination programme. It is also more
-challenging to swab these young children for PET. We will therefore
-allow a concession for members of the same household to dine together
-with their unvaccinated children aged 12 years and below, without the
-need for PET for the children. This whole group should not exceed 5
-persons. If the children are not from the same household, then they
-should constitute not more than half the dine-in group.
-
-12.   In summary, the following individuals will be eligible to dine-in
-in a group of up to five persons in an F&B establishment:
-
-1.  A fully vaccinated person;
-2.  A person who has recovered from COVID-19 (within 270 days);
-3.  An unvaccinated person who has a valid negative PET result for the
-    duration of his dining-in[2]; or
-4.  A child aged 12 years and below.
+[Fig 1 16 Jul]
 
 
- Annex B illustrates different scenarios involving such dine-in groups.
 
-13.    Individual F&B establishments have the flexibility to decide
-whether to introduce the vaccination-differentiated group sizes,
-depending on their own operating model and clientele, and their ability
-to check the status of dining-in individuals.
+SUMMARY OF TRENDS FOR LOCAL CASES
 
-14.     As hawker centres, food courts and coffee shops have a more
-porous setting and generally do not impose mandatory SE check-in, it
-would be very challenging to check the status of individuals before they
-seat themselves at a table. Hence, group sizes will be limited to 2
-persons for hawker centres, food courts, and coffee shops as a default.
+2.  Overall, the number of new cases in the community has
+increased from 21 cases in the week before to 179 cases in the past
+week. The number of unlinked cases in the community has also increased
+from 9 cases in the week before to 20 cases in the past week. The 7-day
+moving average number of all linked community cases and all unlinked
+community cases are 22.7 and 2.9 respectively.
 
-15.     As dining-in in F&B establishments remains a high-risk activity
-because many people will be unmasked and in close proximity with each
-other, ENTERTAINMENT SUCH AS LIVE PERFORMANCES, RECORDED MUSIC AND
-VIDEOS/TV SCREENING, WILL CONTINUE TO BE PROHIBITED at F&B
-establishments.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases [3]
 
-16.     Patrons to F&B establishments are also reminded to adhere to all
-SMMs and keep their masks on at all times except when eating or
-drinking.
-
-Wedding Receptions
-
-17.    Wedding receptions will continue at the current group size of up
-to 5 persons per table, without the requirement for all individuals in
-the group to be fully vaccinated. There will be no change to the PET
-requirement, i.e. up to 250 persons with PET and 50 persons with PET
-only for the wedding party.
-
-18.     We acknowledge that wedding couples have faced significant
-uncertainties over the past few months. Hence, we will allow this key
-life event to continue at current numbers and PET provisions, so that
-couples do not need to revise their wedding plans again.
-
-Indoor, High-Intensity Mask-off Sports/Exercise activities.
-
-19.    Outdoor activities (mask-on and mask-off) and indoor mask-on
-activities: These can continue in groups of no more than 5 persons, in
-classes of up to 50 persons including the instructor, subject to the
-venue’s capacity limit, whichever is lower. This is irrespective of
-vaccination or test status.
-
-20.   Indoor high-intensity mask-off activities:
-
-a) We will be REDUCING THE GROUP SIZE TO NO MORE THAN 2 PERSONS, in
-classes of up to 30 persons including the instructor, without the need
-for testing or vaccination.
-
-b) These activities can continue in groups of up to 5 persons in classes
-of up to 30 persons provided all individuals in the class are fully
-vaccinated, or are a recovered patient, or have a valid negative
-COVID-19 test result covering the duration of the class.
-
-c)  However, for activities that involve children aged 12 years and
-below who are not vaccinated, the group size limit will remain at 2
-persons, in classes of up to 30 persons.
-
-d)   The class size of up to 30 persons is also subject to the venue’s
-capacity limit, whichever is lower.
-
-21.   SportSG will release more details on this.
-
-Social gatherings at the workplace
-
-22.   Work-from-home will continue to remain the default arrangement so
-as to reduce overall interaction within workplaces and on public
-transport. Employers are reminded to adhere to the practice. Employees
-who need to come to the workplace must continue to stagger their start
-times and observe flexible working hours.
-
-23.    SOCIAL AND RECREATIONAL GATHERINGS AT THE WORKPLACE WILL BE
-DISALLOWED and work-related events (e.g. product launches, townhalls)
-should continue to not serve F&B at the event itself.
-
-TARGETED SUPPORT MEASURES
-
-24.     In view of the tightened safe management measures of various
-activities until 8 August, the Government will extend the 10% Jobs
-Support Scheme (JSS) for the affected sectors from 26 JULY 2021 to 8
-AUGUST 2021. This will provide support to licensed F&B businesses, gyms,
-fitness studios, performing arts organisations and arts education
-centres. Please refer to Annex C for details.
-
-25.    To provide targeted support to hawkers who are self-employed, the
-Government will extend the rental waivers and subsidies for fees for
-table-cleaning and centralised dishwashing services by one month for
-stallholders in centres managed by the National Environment Agency (NEA)
-or NEA-appointed operators.
-
-TOWARDS A COVID-19 ENDEMIC SINGAPORE
-
-26.    We have made significant progress in reopening and vaccinating
-the Singapore population since the start of this year and we must not
-lose our momentum. Any further steps towards reopening and a Singapore
-with endemic COVID-19 will only be possible when everyone stays vigilant
-and continue to adhere to the SMMs, and we are able to protect more of
-the population through vaccination.
-
-27.    We urge everyone who is eligible, in particular our seniors, to
-step forward and get vaccinated as soon as possible. We encourage all to
-register their interest via vaccine.gov.sg and book their appointments.
+[Fig 2 16 Jul]
 
 
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+3.  There are a total of 8 imported cases today. 2 were detected
+upon arrival in Singapore, while 6 developed the illness during SHN or
+isolation.
+
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/Detected
+During SHN or Isolation
+
+[Fig 3 16 Jul]
+
+
+
+ACTIVE CLUSTERS UNDER MONITORING
+
+4.  There are two new clusters today. In total, there are
+currently 27 active clusters, ranging between 3 and 120 infections.
+
+FIGURE 4: Number of Active Clusters
+
+[Fig 4 16 Jul]
+
+
+
+FIGURE 5: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL [4]
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre _(new cluster)_
+
+6
+
+7
+
+Khoi Grill & Hotpot _(new cluster)_
+
+5
+
+7
+
+KTV lounges/clubs
+
+32
+
+120
+
+Case 64697
+
+3
+
+17
+
+Case 64752
+
+0
+
+6
+
+Case 64642
+
+0
+
+3
+
+Case 64735
+
+0
+
+4
+
+Case 64599
+
+0
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+Case 64263
+
+0
+
+4
+
+
+
+COMMUNITY SURVEILLANCE TESTING AND CLOSURE OF AFFECTED PREMISES
+
+Closure of Hong Lim Market & Food Centre and Jurong Fishery Port
+
+5.  MOH is investigating cases of COVID-19 infection amongst
+individuals who worked in or visited Hong Lim Market & Food Centre (531A
+Upper Cross St) and Jurong Fishery Port. There are so far 7 cases linked
+to the cluster. To break the chain of transmission and enable deep
+cleaning of the premises, Hong Lim Market & Food Centre and Jurong
+Fishery Port will be closed to all members of the public from 17 July to
+31 July 2021.
+
+6.  To quickly uncover any community infection cases, mandatory
+COVID-19 testing will be conducted for all visitors to Jurong Fishery
+Port between 3 July and 16 July 2021. We will also extend free COVID-19
+testing to members of the public who had visited Hong Lim Market & Food
+Centre between 2 July and 16 July 2021. Please refer
+to https://go.gov.sg/hlm-testing for details on the testing operations.
+
+7.  All visitors to the premises are advised to monitor their
+health closely, and minimise social interactions as far as possible, for
+14 days from their date of visit or interaction. They are encouraged to
+see a doctor immediately if they feel unwell.
+
+Closure of Khoi Grill & Hotpot
+
+8.  MOH is investigating cases of COVID-19 infection amongst
+individuals who work in or visited Khoi Grill & Hotpot (293 Jalan
+Besar). There are so far 7 cases linked to the cluster. To break the
+chain of transmission and enable deep cleaning of the premises, Khoi
+Grill & Hotpot has been closed to all members of the public from 16 July
+to 30 July 2021. All individuals who work in or visited the restaurant
+have been placed on quarantine, and will be tested during quarantine.
+
+
+
+CONDITION OF CONFIRMED CASES
+
+9.  184 cases are currently warded in hospital.  Most are well
+and under observation. There are currently 7 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU).
+
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Fig 6 16 Jul]
+
+
+
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[Fig 7 16 Jul]
+
+
+
+10.  There is continuing evidence that vaccination helps to
+prevent serious disease when one gets infected. Over the last 28 days,
+17 local cases required oxygen supplementation, were admitted to ICU or
+passed away. 13 are unvaccinated, 4 are partially vaccinated and none
+was fully vaccinated.
+
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition [5]
+
+[Fig 8 16 Jul]
+
+
+
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status [5]
+
+[Fig 9 16 Jul]
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+
+11.  As of 15 July 2021, we have administered a total of 6,570,666
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,570,666, covering 4,096,705
+individuals. 2,545,838 individuals have completed the full vaccination
+regimen, consisting of 71,877 recovered persons who received at least
+one dose and 2,473,961 who received their second dose.
+
+FIGURE 10: Progress of National Vaccination Programme
+
+[Fig 10 16 Jul]
+
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group [6]
+
+[Fig 11 16 Jul]
+
+FIGURE 12: Percentage of Individuals who Completed Full Regimen [7] of
+COVID-19 Vaccine by Age Group
+
+[Fig 12 16 Jul]
+
+12.  Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 
 MINISTRY OF HEALTH
 16 JULY 2021
 
 ------------------------------------------------------------------------
 
-[1] Sites where individuals can be swabbed can be found at:
-go.gov.sg/ktv-testing
 
-[2] The PET must have been taken in the past 24 hours before the
-expected end of the event.
+
+1  This is updated from the afternoon press release as 4 more cases have
+been linked to previous cases following epidemiological investigations.
+2  Incorporates re-classifications of earlier reported cases.
+3  Incorporates re-classifications of earlier reported cases.
+4  Includes new cases added today.
+5  Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+⁶  Based on National Immunisation Registry data.
+7  Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
