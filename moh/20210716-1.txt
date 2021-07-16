@@ -268,7 +268,7 @@ see a doctor immediately if they feel unwell.
 Closure of Khoi Grill & Hotpot
 
 8.  MOH is investigating cases of COVID-19 infection amongst
-individuals who work in or visited Khoi Grill & Hotpot (293 Jalan
+individuals who work in or visited Khoi Grill & Hotpot (283 Jalan
 Besar). There are so far 7 cases linked to the cluster. To break the
 chain of transmission and enable deep cleaning of the premises, Khoi
 Grill & Hotpot has been closed to all members of the public from 16 July
@@ -329,6 +329,8 @@ FIGURE 10: Progress of National Vaccination Programme
 
 [Fig 10 16 Jul]
 
+
+
 FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
 First Dose by Age Group [6]
 
@@ -341,6 +343,8 @@ COVID-19 Vaccine by Age Group
 
 12.  Please refer to MOH’s daily Situation Report
 (www.moh.gov.sg/covid-19/situation-report) for details.
+
+
 
 MINISTRY OF HEALTH
 16 JULY 2021
