@@ -1,34 +1,349 @@
-Update On Cases of Locally Transmitted Covid-19 Infection At Jurong
-Fishery Port
+Update On Local Covid-19 Situation (17 July 2021)
 
 
 
-UPDATE ON CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION AT JURONG FISHERY PORT
+UPDATE ON LOCAL COVID-19 SITUATION (17 JULY 2021)
 
 
 Published Date: 17 Jul 2021
 
-       MOH is investigating seven cases of infection among individuals
-at the Jurong Fishery Port as of 16 July 2021. The premises has been
-closed for deep cleaning till 31 July.
+As of 17 July 2021, 12pm, Ministry of Health (MOH) has confirmed and
+verified that there are 60 cases of locally transmitted COVID-19
+infection, of which 29 belong to the KTV cluster. Of the 60 cases today,
+33 are linked to previous cases, and have already been placed on
+quarantine. 25 are linked to previous cases and were detected through
+surveillance. 2 are currently unlinked.1  There are 8 imported cases,
+who have already been placed on Stay-Home Notice (SHN) or isolated upon
+arrival in Singapore. 1 was detected upon arrival in Singapore, while 7
+developed the illness during SHN or isolation. In total, there are 68
+new cases of COVID-19 infection in Singapore today. There are currently
+5 cases of serious illness requiring oxygen supplementation, and 1 in
+critical condition in the intensive care unit (ICU).
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases²
+[FIGURE1_17JUL2021]
 
-2.    All who worked at the Jurong Fishery Port between 3 July to 16
-July have already been placed on quarantine. Special Testing Ops are
-ongoing for all visitors to the Port during that period.
+SUMMARY OF TRENDS FOR LOCAL CASES
+2. Overall, the number of new cases in the community has increased from
+17 cases in the week before to 239 cases in the past week. We are likely
+to see rising cases in the coming days as we step up efforts to detect
+them to contain their spread in the community. The number of unlinked
+cases in the community has also increased from 8 cases in the week
+before to 22 cases in the past week. The 7-day moving average number of
+all linked community cases and all unlinked community cases are 31.0 and
+3.1 respectively.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases³
+[Figure2_17jul2021]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+3. There are a total of 8 imported cases today. 1 was detected upon
+arrival in Singapore, while 7 developed the illness during SHN or
+isolation.
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Figure3_17jul2021]
 
-3.     However, there has been spread from the Jurong Fishery Port to
-Hong Lim Market, and there is a  risk of transmission of the virus to
-other markets. As a precautionary measure, MOH has arranged with the
-National Environment Agency to test fishmongers from all markets at our
-test centres and distribute Antigen Rapid Test kits to them, so that
-they can continue to monitor themselves. Details on this will be
-released shortly.
+ACTIVE CLUSTERS UNDER MONITORING
+4. There are 3 new clusters today. In total, there are currently 29
+active clusters, ranging between 3 and 148 infections. MOH has been
+monitoring existing clusters for any further transmission. As there have
+been no more cases linked to the Case 64263 cluster for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+FIGURE 4: Number of Active Clusters
+[Figure4_17jul2021]
+FIGURE 5: List of Active Clusters
+CLUSTER
 
-4.     We understand that there is now a rush to buy fish. MOH advises
-all visitors to the wet markets to avoid crowds and to do your marketing
-during off-peak hours, or at supermarkets. Please be mindful of safe
-management measures, by keeping a 1-metre distance from one another and
-wearing your masks properly while marketing.
+NEW CASES
 
-MINISTRY OF HEALTH
-17 JULY 2021
+TOTAL⁴
+
+Case 64782 _(new cluster)_
+
+1
+
+3
+
+Case 64850 _(new cluster)_
+
+1
+
+3
+
+PSC Express Pte Ltd _(new cluster)_
+
+2
+
+3
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre __
+
+11
+
+19
+
+Khoi Grill & Hotpot __
+
+1
+
+8
+
+KTV lounges/clubs
+
+29
+
+148
+
+Case 64697
+
+12
+
+29
+
+Case 64752
+
+0
+
+6
+
+Case 64642
+
+0
+
+3
+
+Case 64735
+
+0
+
+4
+
+Case 64599
+
+0
+
+5
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+21
+
+Changi General Hospital
+
+0
+
+20
+
+115 Bukit Merah View Market & Food Centre
+
+0
+
+94
+
+Case 64478
+
+0
+
+3
+
+Case 64394
+
+0
+
+4
+
+Case 64444
+
+0
+
+3
+
+Case 64264
+
+0
+
+8
+
+Case 64349
+
+0
+
+10
+
+119 Bukit Merah View
+
+0
+
+8
+
+Case 64359
+
+0
+
+6
+
+Case 64135
+
+0
+
+4
+
+ION Orchard
+
+0
+
+5
+
+Case 64184
+
+0
+
+14
+
+Case 64374
+
+0
+
+3
+
+90 Redhill Close
+
+0
+
+4
+
+Case 64233
+
+0
+
+3
+
+121 Bukit Merah View
+
+0
+
+5
+
+ADDITIONAL MEASURES TO RINGFENCE CLUSTERS
+5. We have uncovered clusters involving markets and food centres. These
+clusters are likely seeded by fishmongers who visited the Jurong Fishery
+Port to collect their stock and sell at the markets. We announced the
+cluster at Hong Lim Market & Food Centre yesterday, and MOH is now
+investigating 2 cases who work in or visited Chong Boon Market & Food
+Centre (453A Ang Mo Kio Avenue 10), with 3 more cases pending
+confirmation. To break the chain of transmission and enable deep
+cleaning of the premises, Chong Boon Market & Food Centre will be closed
+to all members of the public from 18 July to 1 August 2021. All
+individuals who work in the market and food centre will be placed on
+quarantine, and tested during quarantine.
+6. MOH has also detected cases amongst fishmongers working at Amoy
+Street Food Centre, Chong Pang Market & Food Centre, Whampoa Wet Market,
+Telok Blangah Crescent Block 11, Taman Jurong Market, Redhill Market,
+Geylang Serai Malay Market, Geylang Bahru Market, 527 Ang Mo Kio Market,
+726 West Coast Wet Market and Bukit Timah Wet Market.  Most are tested
+positive via Antigen Rapid Tests (ART) and are being confirmed with
+polymerase chain reaction (PCR) testing. Our epidemiological
+investigations found that they are likely to have been infected through
+contact with stallholders at Jurong Fishery Port.
+7. Testing of fishmongers is still ongoing. As there is risk of
+transmission to other markets and food centres, we are conducting
+aggressive contact tracing, quarantine and testing to ringfence the
+cases and prevent further spread. Fishmongers from all markets will
+receive an SMS Health Risk Warning on 18 July, and will be required
+under the law to get tested at  designated testing centres and
+self-isolate until they receive a negative test from their first PCR
+test. They will be issued with self-test ART kits and are required to
+self-administer an ART test on the seventh day from the last exposure.
+They will also be required to undergo another PCR test at designated
+testing centres around the 14th day from their date of last known
+exposure.
+8. MOH therefore advises all visitors to the markets and food centres to
+avoid crowds and to do your marketing during off-peak hours, or at
+supermarkets, and to strictly observe the safe management measures.
+Ongoing transmission at KTV clubs/lounges
+9. MOH is investigating cases of COVID-19 infection amongst social
+hostesses who had frequented KTV lounges or clubs currently operating as
+F&B outlets, and their close social contacts. Our epidemiological
+investigations have found that there is likely ongoing transmission at
+the following KTV lounges/clubs:
+• Quinn KTV (207A Syed Alwi Road);
+• Club AURA (442 Orchard Road);
+• Club Ion (271 Bukit Timah Road);
+• Icon II (35 Selegie Road);
+• Club Lucky Thai (5001 Beach Road); and
+• M. Sakhon (5001 Beach Road).
+10. All visitors to the affected premises are advised to monitor their
+health closely, and minimise social interactions as far as possible, for
+14 days from their date of visit or interaction. They are encouraged to
+see a doctor immediately if they feel unwell.
+CONDITION OF CONFIRMED CASES
+11. 196 cases are currently warded in hospital.  Most are well and under
+observation. There are currently 5 cases of serious illness requiring
+oxygen supplementation, and 1 in critical condition in the intensive
+care unit (ICU). None amongst these 6 cases is fully vaccinated.
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Figure6_17jul2021]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Figure7_17jul2021]
+12. There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 14 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 10 are unvaccinated, 4 are partially vaccinated and none was fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition5
+
+[Figure8_17jul2021]
+
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Vaccination Status⁵
+[Figure9_17jul2021]
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+13. As of 16 July 2021, we have administered a total of 6,650,677, doses
+of COVID-19 vaccines under the national vaccination programme. The total
+number of doses administered was 6,650,677, covering 4,118,334
+individuals. 2,609,367 individuals have completed the full vaccination
+regimen, consisting of 77,024 recovered persons who received at least
+one dose and 2,532,343 who received their second dose.
+FIGURE 10: Progress of National Vaccination Programme
+
+[Figure10_17jul2021]
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group6
+[Figure11_17jul2021]
+FIGURE 12: Percentage of Individuals who Completed Full Regimen⁷ of
+COVID-19 Vaccine by Age Group
+[Figure12_17jul2021]
+
+14. Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+[1]  This is updated from the afternoon press release as 3 more cases
+have been linked to previous cases following epidemiological
+investigations.
+[2] Incorporates re-classifications of earlier reported cases.
+[3] Incorporates re-classifications of earlier reported cases.
+
+[4] Includes new cases added today.
+[5] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[6] Based on National Immunisation Registry data.
+[7] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+
