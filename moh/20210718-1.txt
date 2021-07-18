@@ -22,7 +22,7 @@ detected upon arrival in Singapore, while 3 developed the illness during
 SHN or isolation.
 
 3.     In total, there are 92 new cases of COVID-19 infection in
-Singapore today. There are currently 12 cases of serious illness
+Singapore today. There are currently 5 cases of serious illness
 requiring oxygen supplementation, and 1 in critical condition in the
 intensive care unit (ICU).
 
@@ -302,10 +302,10 @@ strictly observe the safe management measures.
 
 CONDITION OF CONFIRMED CASES
 
-11.     243 cases are currently warded in hospital.Most are well and
-under observation. There are currently 12 cases of serious illness
+11.     243 cases are currently warded in hospital. Most are well and
+under observation. There are currently 5 cases of serious illness
 requiring oxygen supplementation, and 1 in critical condition in the
-intensive care unit (ICU). None amongst these 13 cases is fully
+intensive care unit (ICU). None amongst these 6 cases is fully
 vaccinated.
 
 FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
@@ -313,19 +313,15 @@ Supplementation
 
 [Figure 6]
 
-
-
 FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
 Supplementation, by Age Group
 
-[Figure 7]
-
-
+ [Figure 7]
 
 12.     There is continuing evidence that vaccination helps to prevent
-serious disease when one gets infected. Over the last 28 days, 17 local
+serious disease when one gets infected. Over the last 28 days, 11 local
 cases required oxygen supplementation, were admitted to ICU or passed
-away. 11 are unvaccinated, 6 are partially vaccinated and none was fully
+away. 7 are unvaccinated, 4 are partially vaccinated and none was fully
 vaccinated.
 
 FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
