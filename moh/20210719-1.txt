@@ -1,28 +1,210 @@
-163 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (19 July)
 
 
 
-163 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (19 JULY)
 
 
 Published Date: 19 Jul 2021
 
-       As of 19 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 163 new cases of locally transmitted COVID-19
-infection, of which 106 are linked to the Jurong Fishery Port cluster
-and 19 belong to the KTV cluster. Of the 163 cases today, 66 are linked
-to previous cases, and have already been placed on quarantine. 71 are
-linked to previous cases and were detected through surveillance. 26 are
-currently unlinked. Amongst the cases is 1 senior above 70 years who is
-unvaccinated, and is at risk of serious illness.
-2.     In addition, there are 9 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-4 were detected upon arrival in Singapore, while 5 developed the illness
-during SHN or isolation.
-3.     In total, there are 172 new cases of COVID-19 infection in
-Singapore today.
-4.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+       As of 19 July 2021, 12pm, Ministry of Health (MOH) has
+confirmed and verified that there are 163 cases of locally transmitted
+COVID-19 infection, of which 116 are linked to the Jurong Fishery Port
+cluster and 20 belong to the KTV cluster. Of the 163 cases today, 44
+are linked to previous cases, and have already been placed on
+quarantine. 102 are linked to previous cases and were detected through
+surveillance. 17 are currently unlinked¹. Amongst the cases is 1 senior
+above 70 years who is unvaccinated, and is at risk of serious illness.
+2.       There are 9 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 3 were
+detected upon arrival in Singapore, while 6 developed the illness during
+SHN or isolation.
+3.   In total, there are 172 new cases of COVID-19 infection in
+Singapore today. There are currently 5 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU).
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases2
+[Fig.\ 1\ (19\ Jul)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+4.     Overall, the number of new cases in the community has increased
+from 19 cases in the week before to 480 cases in the past week. We are
+likely to see rising cases in the coming days as we step up efforts to
+detect them to contain their spread in the community. The number of
+unlinked cases in the community has also increased from 8 cases in the
+week before to 45 cases in the past week. The 7-day moving average
+number of all linked community cases and all unlinked community cases
+are 62.1 and 6.4 respectively.
+FIGURE 2: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases3
+[Fig.\ 2\ (19\ Jul)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+5. There are a total of 9 imported cases today. 3 were
+detected upon arrival in Singapore, while 6 developed the illness during
+SHN or isolation.
+FIGURE 3: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[FIG. 3 (19 JUL)]
+
+
+
+ACTIVE CLUSTERS UNDER MONITORING
+6.     There are currently 28 active clusters, ranging between 3 and 193
+infections. MOH has been monitoring existing clusters for any further
+transmission. As there have been no more cases linked to 121 Bukit Merah
+View cluster for the past two incubation periods (i.e. 28 days), the
+cluster has now been closed.
+FIGURE 4: Number of Active Clusters
+
+ [Fig. 4 (19 Jul)]
+
+
+FIGURE 5: List of Active Clusters
+
+  ---------------------------------------------------- ----------- --------
+  CLUSTER                                              NEW CASES   TOTAL⁴
+  KTV lounges/clubs                                    20          193
+  Jurong Fishery Port/ Hong Lim Market & Food Centre   116         179
+  Case 64697                                           7           44
+  Case 64752                                           1           7
+  PSC Express Pte Ltd                                  0           4
+  Case 64782                                           0           3
+  Case 64850                                           0           3
+  Khoi Grill & Hotpot                                  0           8
+  Case 64642                                           0           3
+  Case 64735                                           0           4
+  Case 64599                                           0           5
+  Case 64388                                           0           3
+  105 Henderson Crescent                               0           21
+  Changi General Hospital                              0           20
+  115 Bukit Merah View Market & Food Centre            0           94
+  Case 64478                                           0           3
+  Case 64394                                           0           4
+  Case 64444                                           0           3
+  Case 64264                                           0           8
+  Case 64349                                           0           10
+  119 Bukit Merah View                                 0           8
+  Case 64359                                           0           6
+  Case 64135                                           0           4
+  ION Orchard                                          0           5
+  Case 64184                                           0           14
+  Case 64374                                           0           3
+  90 Redhill Close                                     0           4
+  Case 64233                                           0           3
+  ---------------------------------------------------- ----------- --------
+
+Collection of ART self-test kits for visitors of selected markets and
+food centres
+7.     MOH is investigating cases of COVID-19 infection involving
+markets and food centres which are likely seeded by fishmongers who
+visited Jurong Fishery Port to collect their stock and sell at the
+markets and food centres. There are currently clusters detected at Hong
+Lim Market & Food Centre and Chong Boon Market & Food Centre. We have
+also detected cases amongst fishmongers working at Albert Centre Market
+& Food Centre, Ang Mo Kio Central Market & Food Centre, 630 Bedok
+Reservoir Road Market 7 Food Centre, 497 Jurong West Street 41 Market,
+505 Jurong West Street 52 Market, Kim Keat Palm Market & Food Centre,
+Mayflower Wet Market & Food Centre, Teck Ghee Market & Food Centre, 146
+Teck Whye Avenue Market and Tekka Centre.
+8.   We are closely monitoring the situation and taking action to
+quickly contain and manage the cases, including contact tracing,
+quarantine and aggressive testing. As an added layer of ringfencing to
+help to identify cases and prevent further transmission, MOH is working
+with the People’s Association to distribute antigen rapid test (ART)
+self-test kits to individuals who had visited selected markets and food
+centres in the last 14 days, such as residents living in the vicinity of
+these centres. The collection will run from 20 to 21 July 2021 at
+Residents’ Committee Centres in the vicinity of the following locations:
+
+-   Cheng San Market & Cooked Food Centre (527 Ang Mo Kio Ave 10);
+
+-   Chong Boon Market & Food Centre (453A Ang Mo Kio Ave 10);
+
+-   Geylang Serai Market and Food Centre (1 Geylang Serai); and
+
+-   Haig Road Market & Food Centre (14 Haig Rd).
+
+9.     Eligible persons are strongly encouraged to collect and perform
+self-testing using these ART kits. Please refer
+to https://www.gowhere.gov.sg/art to check on the nearest Residents’
+Committee Centre for self-collection.
+Ongoing transmission at KTV clubs/lounges
+10.     MOH is investigating cases of COVID-19 infection amongst social
+hostesses who had frequented KTV lounges or clubs currently operating as
+F&B outlets, and their close social contacts. Our epidemiological
+investigations have found that there is likely ongoing transmission at
+Dynasty Classic KTV (1 Sophia Road) and True Love (211 Geylang Road).
+
+11.     All visitors to the affected premises are advised to monitor
+their health closely, and minimise social interactions as far as
+possible, for 14 days from their date of visit or interaction. They are
+encouraged to see a doctor immediately if they feel unwell. We also
+advise all visitors to markets and food centres to avoid crowds and to
+do your marketing during off-peak hours, or at supermarkets, and to
+strictly observe the safe management measures.
+CONDITION OF CONFIRMED CASES
+12.     289 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 5 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU). None amongst these 6 cases is fully
+vaccinated.
+Figure 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig. 6 (19 Jul)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+ [Fig. 7 (19 Jul)]
+13.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 12 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 8 are unvaccinated, 4 are partially vaccinated and none was fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status and
+Severity of Condition5
+[Fig.\ 8\ (19\ Jul)]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁵
+
+ [Fig. 9 (19 Jul)]
+
+
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+14.     As of 18 July 2021, we have administered a total of 6,794,394,
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,794,394, covering 4,153,143
+individuals. 2,747,489 individuals have completed the full vaccination
+regimen, consisting of 106,238 recovered persons who received at least
+one dose and 2,641,251 who received their second dose.
+FIGURE 10: Progress of National Vaccination Programme
+[Fig. 10 (19 Jul)]
+FIGURE 11: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group6
+[Fig.\ 11\ (19\ Jul)]
+FIGURE 12: Percentage of Individuals who Completed Full Regimen⁷ of
+COVID-19 Vaccine by Age Group
+[Fig. 12 (19 Jul)]
+15.     Please refer to MOH’s daily Situation
+Report (www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 19 JULY 2021
+
+------------------------------------------------------------------------
+
+[1] This is updated from the afternoon press release as 9 more cases
+have been linked to previous cases following epidemiological
+investigations.
+[2] Incorporates re-classifications of earlier reported cases.
+[3] Incorporates re-classifications of earlier reported cases.
+[4] Includes new cases added today.
+[5] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[6] Based on National Immunisation Registry data.
+[7] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
