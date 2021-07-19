@@ -332,8 +332,7 @@ Severity of Condition[5]
 FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
 Supplementation, by Vaccination Status⁵
 
-[Figure 9]
-
+[FIGURE 9]
 PROGRESS OF NATIONAL VACCINATION PROGRAMME
 
 13.     As of 17 July 2021, we have administered a total of 6,726,540,
