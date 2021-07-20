@@ -65,7 +65,7 @@ transmission may not be sufficient.
 REVERSION TO SAFE MANAGEMENT MEASURES FOR PHASE 2 (HEIGHTENED ALERT)
 5. We will therefore be further tightening community safe management
 measures by going back to Phase 2 (Heightened Alert)¹. The following
-measures will take effect from 22 JULY 2021 through 18 August 2021 and
+measures will take effect from 22 JULY 2021 through 18 AUGUST 2021 and
 will supersede those that were introduced on 19 July 2021. We will do a
 review of the measures two weeks after implementation, and will adjust
 further based on the infection situation at that time. Please refer to
@@ -210,3 +210,4 @@ minimise their movement and social interactions so that we can reduce
 footfall at common spaces at or near the workplace and in public places,
 including public transport. If you are unwell, see a doctor and get
 tested. It is only together, that we can emerge stronger and safer.
+[1] Prevailing from 16 May 2021 to 13 June 2021.
