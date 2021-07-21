@@ -1,30 +1,221 @@
-179 New Cases of Locally Transmitted Covid-19 Infection
+Updates On Local Covid-19 Situation (21 July 2021)
 
 
 
-179 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATES ON LOCAL COVID-19 SITUATION (21 JULY 2021)
 
 
 Published Date: 21 Jul 2021
 
-       As of 21 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 179 new cases of locally transmitted COVID-19
-infection, of which 130 are linked to the Jurong Fishery Port cluster
-and 8 belong to the KTV cluster. Of the 179 cases today, 80 are linked
-to previous cases, and have already been placed on quarantine. 69 are
-linked to previous cases and were detected through surveillance. 30 are
-currently unlinked. Amongst the cases are 4 seniors above 70 years who
-are unvaccinated, and are at risk of serious illness.
-2.    In addition, there are 2 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-Both developed the illness during SHN or isolation.
+      As of 21 July 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 179 cases of locally transmitted
+COVID-19 infection of which 130 are linked to the Jurong Fishery Port
+cluster and 8 belong to the KTV cluster. Of the 179 cases today, 80 are
+linked to previous cases, and have already been placed on quarantine. 69
+are linked to previous cases and were detected through surveillance. 30
+are currently unlinked. Amongst the cases are 4 seniors above 70 years
+who are unvaccinated, and are at risk of serious illness.
+2.    There are 2 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. Both
+developed the illness during SHN or isolation.
 3.    In total, there are 181 new cases of COVID-19 infection in
-Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+Singapore today. There are currently 7 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU).
+
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases¹
+[Figure01_21Jul]
+FIGURE 2: Community Unlinked and Linked Cases in the Last 14 Days, by
+Detection Method
+[Figure02_21Jul]
+FIGURE 3: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Figure03_21Jul]
+SUMMARY OF TRENDS FOR LOCAL CASES
+4.    Overall, the number of new cases in the community has increased
+from 88 cases in the week before to 766 cases in the past week. We are
+likely to continue to see high number of cases in the coming days as we
+step up efforts to detect them to contain their spread in the community.
+The number of unlinked cases in the community has also increased from 14
+cases in the week before to 82 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 97.7 and 11.7 respectively.
+FIGURE 4: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases²
+[Figure04_21Jul]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+5.    There are a total of 2 imported cases today. Both developed the
+illness during SHN or isolation.
+FIGURE 5: Number of Imported Cases by Detected Upon Arrival/Detected
+during SHN or Isolation
+[Figure05_21Jul]
+ACTIVE CLUSTERS UNDER MONITORING
+6.    There are 2 new clusters today. In total, there are currently 28
+active clusters, ranging between 3 and 454 infections.
+FIGURE 6: Number of Active Clusters
+
+[Figure06_21Jul]
+FIGURE 7: List of Active Clusters
+  ----------------------------------------------------- ----------- --------
+  CLUSTER                                               NEW CASES   TOTAL³
+  Case 65231 (new cluster)                              3           4
+  Marina Bay Sands Casino (new cluster)                 3           11
+  KTV lounges/clubs                                     8           215
+  Jurong Fishery Port/ Hong Lim Market & Food Centre*   130         454
+  Case 64697                                            0           48
+  Case 64599                                            0           6
+  Case 64752                                            0           7
+  PSC Express Pte Ltd                                   0           4
+  Case 64782                                            0           3
+  Case 64850                                            0           3
+  Khoi Grill & Hotpot                                   0           8
+  Case 64642                                            0           3
+  Case 64735                                            0           4
+  Case 64388                                            0           3
+  105 Henderson Crescent                                0           21
+  Changi General Hospital                               0           20
+  115 Bukit Merah View Market & Food Centre             0           94
+  Case 64478                                            0           3
+  Case 64394                                            0           4
+  Case 64444                                            0           3
+  Case 64264                                            0           8
+  Case 64349                                            0           10
+  119 Bukit Merah View                                  0           8
+  Case 64359                                            0           6
+  Case 64135                                            0           4
+  ION Orchard                                           0           5
+  Case 64184                                            0           14
+  Case 64374                                            0           3
+  ----------------------------------------------------- ----------- --------
+
+* Please refer to Annex A for the affected markets and food centres
+_Closure of Clementi 448 Market & Food Centre and Whampoa Drive Market _
+7.    MOH is investigating cases of COVID-19 infection involving markets
+and food centres which are likely seeded by fishmongers who visited
+Jurong Fishery Port to collect their stock and sell at the markets and
+food centres. We have detected 22 cases amongst individuals who worked
+in or visited Clementi 448 Market & Food Centre, and 12 cases at Whampoa
+Drive Market. To break the chain of transmission and enable deep
+cleaning of the premises, Clementi 448 Market & Food Centre (448
+Clementi Avenue 3) and Whampoa Drive Market (92 Whampoa Drive) will be
+closed to all members of the public from 22 July to 5 August 2021.
+_Community surveillance testing for visitors to selected markets & food
+centres_
+8.    To uncover any community infection cases, we will extend free
+COVID-19 testing to members of the public who had visited the following
+premises between 7 July and 21 July:
+
+-   Clementi 448 Market & Food Centre; and
+-   Haig Road Market & Food Centre.
+
+Please refer to https://go.gov.sg/mbs-mkt-testing for details on the
+testing operations.
+_Collection of ART self-test kits for visitors to selected markets and
+food centres
+_
+9.    As an added layer of ringfencing to help to identify cases and
+prevent further transmission, MOH is working with the People’s
+Association to distribute antigen rapid test (ART) self-test kits to
+individuals who had visited selected markets and food centres in the
+last 14 days, such as residents living in the vicinity of these centres.
+The collection will run from 22 to 23 July 2021 at Residents’ Committee
+Centres in the vicinity of the following locations:
+
+-   Whampoa Drive Market (92 Whampoa Drive); and
+-   726 West Coast Market (726 West Coast Road).
+
+10.    Eligible persons are strongly encouraged to collect and perform
+self-testing using these ART kits. Please refer to
+https://www.gowhere.gov.sg/art to check on the nearest Residents’
+Committee Centre for self-collection.
+
+_Closure of Marina Bay Sands Casino_
+11.    MOH is investigating cases of COVID-19 infection involving
+individuals who worked in or visited Marina Bay Sands Casino. To date,
+we have detected 11 cases linked to the cluster, and our epidemiological
+investigations have found that there is likely ongoing transmission at
+the Casino. To break the chain of transmission and enable deep cleaning
+of the premises, Marina Bay Sands Casino will be closed to all members
+of the public from 22 July to 5 August 2021.
+12.    To quickly uncover any community infection cases, we are
+conducting special testing operations for all staff of the Casino. We
+will also extend free COVID-19 testing to members of the public who had
+visited Marina Bay Sands Casino between 7 July and 21 July 2021. Please
+refer to https://go.gov.sg/mbs-mkt-testing for details on the testing
+operations.
+_
+Ongoing transmission at KTV clubs/lounges_
+13.    MOH is investigating cases of COVID-19 infection amongst social
+hostesses who had frequented KTV lounges or clubs currently operating as
+F&B outlets, and their close social contacts. Our epidemiological
+investigations have found that there is likely ongoing transmission at
+Sakura Entertainment (517 Geylang Road).
+14.    All visitors to the affected premises are advised to monitor
+their health closely, and minimise social interactions as far as
+possible, for 14 days from their date of visit or interaction. They are
+encouraged to see a doctor immediately if they feel unwell. We also
+advise all visitors to markets and food centres to avoid crowds and to
+do your marketing during off-peak hours, or at supermarkets, and to
+strictly observe the safe management measures.
+CONDITION OF CONFIRMED CASES
+15.    379 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 7 cases of serious illness
+requiring oxygen supplementation, and 1 in critical condition in the
+intensive care unit (ICU). None amongst these 8 cases is fully
+vaccinated. 2 seniors above 60 years, one completely unvaccinated, and
+one partially vaccinated, have fallen very ill.
+FIGURE 8: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Figure08_21Jul]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Figure09_21Jul]
+16.    There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 8 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 6 are unvaccinated, 2 are partially vaccinated and none was fully
+vaccinated.
+
+FIGURE 10: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Figure10_21Jul]
+FIGURE 11: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁴
+[Figure11_21Jul]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+17.    As of 20 July 2021, we have administered a total of 6,837,539,
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 6,837,539, covering 4,165,024
+individuals. 2,792,667 individuals have completed the full vaccination
+regimen, consisting of 120,152 recovered persons who received at least
+one dose and 2,672,515 who received their second dose. In addition,
+70,504 doses of Sinovac vaccines have been administered as of 20 July,
+covering 63,733 individuals.
+FIGURE 12: Progress of National Vaccination Programme
+[Figure12_21Jul]
+FIGURE 13: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group⁵
+[Figure13_21Jul]
+FIGURE 14: Percentage of Individuals who Completed Full Regimen⁶ of
+COVID-19 Vaccine by Age Group
+[Figure14_21Jul]
+18.    Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 21 JULY 2021
 
+------------------------------------------------------------------------
 
+¹ Incorporates re-classifications of earlier reported cases.
 
+² Incorporates re-classifications of earlier reported cases.
+3 Includes new cases added today.
+⁴ Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+5 Based on National Immunisation Registry data.
+⁶ Full regimen refers to individuals who have received both doses of the
+vaccine or one dose for vaccinated recovered individuals.
