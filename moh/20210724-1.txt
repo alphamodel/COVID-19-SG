@@ -294,11 +294,11 @@ FIGURE 12: Progress of National Vaccination Programme
 
 [Figure12_24jul2021]
 FIGURE 13: Percentage of Total Population who Received At Least First
-Dose⁵ and Completed Full Regimen⁶
+Dose and Completed Full Regimen⁵
 [Figure13_24jul2021]
 
 FIGURE 14: Percentage of Vaccinated Individuals who Received At Least
-First Dose⁵ by Age Group
+First Dose by Age Group
 [Figure14_24jul2021]
 FIGURE 15: Percentage of Individuals who Completed Full Regimen⁶ of
 COVID-19 Vaccine by Age Group
