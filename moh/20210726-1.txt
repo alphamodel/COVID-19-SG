@@ -1,26 +1,344 @@
-129 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (26 July 2021)
 
 
 
-129 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (26 JULY 2021)
 
 
 Published Date: 26 Jul 2021
 
-As of 26 July 2021, 12pm, the Ministry of Health (MOH) has preliminarily
-confirmed 129 new cases of locally transmitted COVID-19 infection, of
-which 61 are linked to the Jurong Fishery Port cluster and 6 belong to
-the KTV cluster. Of the 129 cases today, 76 are linked to previous
-cases, and have already been placed on quarantine. 25 are linked to
-previous cases and were detected through surveillance. 28 are currently
-unlinked. Amongst the cases is 1 senior above 70 years who is partially
-vaccinated, and is at risk of serious illness.
-2.      In addition, there are 6 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-3 were detected upon arrival in Singapore, while 3 developed the illness
-during SHN or isolation.
-3.      In total, there are 135 new cases of COVID-19 infection in
-Singapore today.
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+As of 26 July 2021, 12pm, the Ministry of Health (MOH) has confirmed and
+verified that there are 129 cases of locally transmitted COVID-19
+infection, of which 61 are linked to the Jurong Fishery Port cluster and
+6 belong to the KTV cluster. Of the 129 cases today, 76 are linked to
+previous cases, and have already been placed on quarantine. 25 are
+linked to previous cases and were detected through surveillance. 28 are
+currently unlinked. Amongst the cases is 1 senior above 70 years who is
+partially vaccinated, and is at risk of serious illness.
+2. There are 6 imported cases, who have already been placed on Stay-Home
+Notice (SHN) or isolated upon arrival in Singapore. 3 were detected upon
+arrival in Singapore, while 3 developed the illness during SHN or
+isolation.
+3. In total, there are 135 new cases of COVID-19 infection in Singapore
+today.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases¹
+
+[Figure1_26jul2021]
+CONDITION OF CONFIRMED CASES
+4. 551 cases are currently warded in hospital.  Most are well and under
+observation. There are currently 18 cases of serious illness requiring
+oxygen supplementation, and 2 in critical condition in the intensive
+care unit (ICU). None amongst these 20 cases is fully vaccinated. 12
+seniors above 60 years, who are completely unvaccinated or partially
+vaccinated, have fallen very ill.
+FIGURE 2: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Figure2_26jul2021]
+FIGURE 3: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Age Group
+[Figure3_26jul2021]
+
+5. There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 21 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 10 are unvaccinated,11 are partially vaccinated and none was fully
+vaccinated.
+FIGURE 4: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition²
+[Figure4_26jul2021]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Vaccination Status2
+[Figure5_26jul2021]
+SUMMARY OF TRENDS FOR LOCAL CASES
+6. Overall, the number of new cases in the community has increased from
+479 cases in the week before to 1,021 cases in the past week. We are
+likely to continue to see high number of cases in the coming days as we
+step up efforts to detect them to contain their spread in the community.
+The number of unlinked cases in the community has also increased from 35
+cases in the week before to 143 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 125.4 and 20.4 respectively.
+FIGURE 6: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases³
+
+[Figure6_26jul2021]
+FIGURE 7: Community Unlinked and Linked Cases in the Last 14 Days, by
+Detection Method
+
+[Figure7_26jul2021]
+FIGURE 8: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Figure8_26jul2021]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+7. There are a total of 6 imported cases today. 3 were detected upon
+arrival in Singapore, while 3 developed the illness during SHN or
+isolation.
+FIGURE 9: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[Figure9_26jul2021]
+ACTIVE CLUSTERS UNDER MONITORING
+8. There are 10 new clusters today. In total, there are currently 35
+active clusters, ranging between 3 and 858 infections.
+FIGURE 10: Number of Active Clusters
+[Figure10_26jul2021]
+FIGURE 11: List of Active Clusters
+CLUSTER
+
+NEW CASES
+
+TOTAL⁴
+
+Case 65721 _(new cluster)_
+
+2
+
+4
+
+Case 65751 _(new cluster)_
+
+2
+
+4
+
+Case 65929 _(new cluster)_
+
+2
+
+3
+
+Case 65972 _(new cluster)_
+
+1
+
+3
+
+Case 66007 _(new cluster)_
+
+3
+
+4
+
+Apex Medical Centre (Jurong) _(new cluster)_
+
+2
+
+3
+
+Case 65893
+
+1
+
+4
+
+Samy’s Curry Restaurant
+
+9
+
+22
+
+KTV lounges/clubs
+
+6
+
+243
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre* __
+
+61
+
+858
+
+Marina Bay Sands Casino
+
+2
+
+34
+
+Case 65754 _(new cluster)_
+
+0
+
+3
+
+Case 65979 _(new cluster)_
+
+0
+
+3
+
+Case 65132 _(new cluster)_
+
+0
+
+3
+
+Case 66168 _(new cluster)_
+
+0
+
+3
+
+Case 64697
+
+3
+
+70
+
+Case 65360
+
+4
+
+8
+
+Case 65846
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+Case 65484
+
+0
+
+5
+
+Case 65365
+
+0
+
+3
+
+Case 64735
+
+0
+
+6
+
+Case 65231
+
+0
+
+4
+
+Case 64599
+
+0
+
+6
+
+Case 64752
+
+0
+
+7
+
+PSC Express Pte Ltd
+
+0
+
+4
+
+Case 64782
+
+0
+
+3
+
+Case 64850
+
+0
+
+3
+
+Khoi Grill & Hotpot __
+
+0
+
+8
+
+Case 64642
+
+0
+
+3
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+22
+
+Changi General Hospital
+
+0
+
+20
+
+Case 64478
+
+0
+
+3
+
+ * Please refer to Annex A for the affected markets and food centres.
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+9. As of 25 July 2021, we have administered a total of 7,192,180 doses
+of COVID-19 vaccines under the national vaccination programme. The total
+number of doses administered was 7,192,180, covering 4,242,505
+individuals.  3,070,092 individuals have completed the full vaccination
+regimen, consisting of 120,417 recovered persons who received at least
+one dose and 2,949,675 who received their second dose. In addition,
+83,072 doses of Sinovac vaccines have been administered as of 25 July
+2021, covering 67,970 individuals.
+FIGURE 12: Progress of National Vaccination Programme
+
+[Figure12_26jul2021]
+FIGURE 13: Percentage of Total Population who Received At Least First
+Dose⁵ and Completed Full Regimen⁶
+
+[Figure13_26jul2021]
+FIGURE 14: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Figure14_26jul2021]
+FIGURE 15: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+
+[Figure15_26jul2021]
+10. Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+[1] Incorporates re-classifications of earlier reported cases.
+
+[2] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[3] Incorporates re-classifications of earlier reported cases.
+[4] Includes new cases added today.
+[5] Based on National Immunisation Registry data.
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+
