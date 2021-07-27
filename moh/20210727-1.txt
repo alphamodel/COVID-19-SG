@@ -1,14 +1,14 @@
-136 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (27 July)
 
 
 
-136 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (27 JULY)
 
 
 Published Date: 27 Jul 2021
 
-     As of 27 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 136 new cases of locally transmitted COVID-19
+    As of 27 July 2021, 12pm, the Ministry of Health (MOH) has confirmed
+and verified that there are 136 cases of locally transmitted COVID-19
 infection, of which 36 are linked to the Jurong Fishery Port cluster and
 2 belong to the KTV cluster. Of the 136 cases today, 59 are linked to
 previous cases, and have already been placed on quarantine. 22 are
@@ -16,15 +16,427 @@ linked to previous cases and were detected through surveillance. 55 are
 currently unlinked. Amongst the cases are 3 seniors above 70 years who
 are unvaccinated or partially vaccinated, and are at risk of serious
 illness.
-2.    In addition, there are 3 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-2 were detected upon arrival in Singapore, while 1 developed the illness
-during SHN or isolation.
-3.    In total, there are 139 new cases of COVID-19 infection in
-Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
 
-MINISTRY OF HEALTH
-27 JULY 2021
+2.   There are 3 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 2 were
+detected upon arrival in Singapore, while 1 developed the illness during
+SHN or isolation.
+
+3.   In total, there are 139 new cases of COVID-19 infection in
+Singapore today.
+
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases [1]
+
+
+
+[Figure 1]
+
+CONDITION OF CONFIRMED CASES
+
+4.   545 cases are currently warded in hospital.Most are well and under
+observation. There are currently 21 cases of serious illness requiring
+oxygen supplementation, and 2 in critical condition in the intensive
+care unit (ICU). 1 amongst these 23 cases is fully vaccinated, but
+requires oxygen supplementation as she has underlying medical
+conditions. 13 seniors above 60 years, of whom 12 are completely
+unvaccinated or partially vaccinated, have fallen very ill.
+
+FIGURE 2: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Fig 2]
+
+FIGURE 3: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+
+[Fig 3]
+
+
+
+5.    There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 27 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 14 are unvaccinated,12 are partially vaccinated and 1 is fully
+vaccinated.
+
+
+
+FIGURE 4: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition[2]
+
+[Fig 4]
+
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status²
+
+[Fig 5]
+
+
+
+SUMMARY OF TRENDS FOR LOCAL CASES
+
+6.   Overall, the number of new cases in the community has increased
+from 642 cases in the week before to 967 cases in the past week. We are
+likely to continue to see high number of cases in the coming days as we
+step up efforts to detect them to contain their spread in the community.
+The number of unlinked cases in the community has also increased from 46
+cases in the week before to 182 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 112.1 and 26 respectively.
+
+FIGURE 6: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases [3]
+
+[Fig 6]
+
+FIGURE 7: Community Unlinked and Linked Cases in the Last 14 Days, by
+Detection Method
+
+[Fig 7]
+
+FIGURE 8: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+
+[Fig 8]
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+
+7.   There are a total of 3 imported cases today. 2 were detected upon
+arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+
+FIGURE 9: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[Fig 9]
+
+ACTIVE CLUSTERS UNDER MONITORING
+
+8.     There are 4 new clusters today. In total, there are currently 39
+active clusters, ranging between 3 and 902 infections.
+
+FIGURE 10: Number of Active Clusters
+
+[Fig 10]
+
+
+
+FIGURE 11: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL[1]
+
+Case 65695 _(new cluster)_
+
+2
+
+3
+
+Case 66259 _(new cluster)_
+
+2
+
+3
+
+Westlite Juniper Dormitory _(new cluster)_
+
+8
+
+9
+
+Cleaner at Punggol Primary School _(new cluster)_
+
+3
+
+4
+
+Case 65893
+
+1
+
+5
+
+Samy’s Curry Restaurant
+
+6
+
+28
+
+KTV lounges/clubs
+
+2
+
+245
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre* __
+
+36
+
+902
+
+Marina Bay Sands Casino
+
+5
+
+40
+
+Case 64697
+
+3
+
+73
+
+Case 65360
+
+2
+
+10
+
+Case 65721
+
+0
+
+4
+
+Case 65751
+
+0
+
+4
+
+Case 65929
+
+0
+
+3
+
+Case 65972
+
+0
+
+3
+
+Case 66007
+
+0
+
+4
+
+Apex Medical Centre (Jurong)
+
+0
+
+3
+
+Case 65754
+
+0
+
+3
+
+Case 65979
+
+0
+
+3
+
+Case 65132
+
+0
+
+3
+
+Case 66168
+
+0
+
+3
+
+Case 65846
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+Case 65484
+
+0
+
+5
+
+Case 65365
+
+0
+
+3
+
+Case 64735
+
+0
+
+6
+
+Case 65231
+
+0
+
+4
+
+Case 64599
+
+0
+
+6
+
+Case 64752
+
+0
+
+7
+
+PSC Express Pte Ltd
+
+0
+
+4
+
+Case 64782
+
+0
+
+3
+
+Case 64850
+
+0
+
+3
+
+Khoi Grill & Hotpot __
+
+0
+
+8
+
+Case 64642
+
+0
+
+3
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+22
+
+Changi General Hospital
+
+0
+
+20
+
+Case 64478
+
+0
+
+3
+
+*Please refer to Annex A for the affected markets and food centres.
+
+Collection of ART self-test kits for visitors to selected markets and
+food centres
+
+9.     MOH is investigating cases of COVID-19 infection involving
+markets and food centres which are likely seeded by fishmongers who
+visited Jurong Fishery Port to collect their stock and sell at the
+markets and food centres. As an added layer of ringfencing to help to
+identify cases and prevent further transmission, MOH is working with the
+People’s Association to distribute antigen rapid test (ART) self-test
+kits to individuals who had visited selected markets and food centres in
+the last 14 days, such as residents living in the vicinity of these
+centres. The collection will run from 28 to 29 July 2021 at Residents’
+Committee Centres in the vicinity of the following locations:
+
+-   Teban Gardens Market & Food Centre (37A Teban Gardens Road); and
+-   216 Bedok Food Centre and Market (216 Bedok North Street 1).
+
+
+
+10.    Eligible persons are strongly encouraged to collect and perform
+self-testing using these ART kits. Please refer to
+https://www.gowhere.gov.sg/art to check on the nearest Residents’
+Committee Centre for self-collection.
+
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+
+11.      As of 26 July 2021, we have administered a total of 7,256,331
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 7,256,331, covering 4,254,789
+individuals. 3,122,180 individuals have completed the full vaccination
+regimen, consisting of 120,638 recovered persons who received at least
+one dose and 3,001,542 who received their second dose. In addition,
+89,047 doses of Sinovac vaccines have been administered as of 26 July
+2021, covering 69,769 individuals.
+
+FIGURE 12: Progress of National Vaccination Programme
+
+[fig 12]
+
+FIGURE 13: Percentage of Total Population who Received At Least First
+Dose [5] and Completed Full Regimen [6]
+[fig 13]
+
+FIGURE 14: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+
+[fig 14]
+
+FIGURE 15: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+
+[fig 15]
+
+
+
+Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+
+[2] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+
+[3] Incorporates re-classifications of earlier reported cases.
+
+[5] Based on National Immunisation Registry data.
+
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
