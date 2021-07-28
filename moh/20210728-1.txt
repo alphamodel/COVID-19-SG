@@ -1,60 +1,426 @@
-Community Surveillance Testing At 438 Ang Mo Kio Avenue 10 and 430/445a
-Clementi Avenue 3
+Update On Local Covid-19 Situation (28 July 2021)
 
 
 
-COMMUNITY SURVEILLANCE TESTING AT 438 ANG MO KIO AVENUE 10 AND 430/445A CLEMENTI AVENUE 3
+UPDATE ON LOCAL COVID-19 SITUATION (28 JULY 2021)
 
 
 Published Date: 28 Jul 2021
 
-        The Ministry of Health (MOH) is investigating likely COVID-19
-transmission at Ang Mo Kio Avenue 10 and Clementi Avenue 3. So far, 10
-cases of COVID-19 infection have been detected in six households at 438
-Ang Mo Kio Avenue 10. Separately, 10 cases of COVID-19 infection have
-been detected in seven households at 430 Clementi Avenue 3, and three
-cases in three households at 445A Clementi Avenue 3. Most of these cases
-are linked to the Jurong Fishery Port cluster. Epidemiological
-investigations are ongoing.
-438 ANG MO KIO AVENUE 10
-2.     In order to uncover community infection cases, MOH will conduct
-mandatory COVID-19 testing for all residents of 438 Ang Mo Kio Avenue
-10. Testing is optional for those who have tested negative for COVID-19
-infection from 24 July onwards. Mandatory testing will be conducted at
-the void deck of 438 Ang Mo Kio Avenue 10 on 29 July 2021 between 9am
-and 4pm.
-3.     To detect possible asymptomatic cases in the community, MOH will
-also conduct voluntary COVID-19 testing for visitors and those who have
-interacted with residents of 438 Ang Mo Kio Avenue 10 between 13 July
-and 27 July 2021. We encourage these individuals to come forward for
-testing. Testing will be conducted by appointment only at designated
-Regional Screening Centres from 29 July to 30 July 2021 between 9am and
-4pm. To book an appointment and for information on the alternate test
-locations, please visit https://go.gov.sg/438-amk-appt, or call 1800 333
-9999 if you have any queries.
-430 & 445A CLEMENTI AVENUE 3
-4.     MOH will conduct mandatory COVID-19 testing for all residents of
-430 and 445A Clementi Avenue 3. Testing is optional for those who have
-tested negative for COVID-19 infection from 24 July onwards. Mandatory
-testing will be conducted at the void deck of 430 Clementi Avenue 3 from
-29 July to 30 July 2021 between 9am and 4pm.
-5.     MOH will also conduct voluntary COVID-19 testing for visitors and
-those who have interacted with residents of 430 and 445A Clementi Avenue
-3 between 13 July and 27 July 2021. Testing will be conducted by
-appointment only at designated Regional Screening Centres, and at the
-void deck of 321 Clementi Avenue 5 from 29 July to 31 July 2021 between
-9am and 4pm. To book an appointment and for information on the alternate
-test locations, please visit https://go.gov.sg/430-445a-clementi-apptor
-call 1800 333 9999 if you have any queries.
-6.     All residents are to bring along their NRIC for identification
-purposes. Leaflets have been distributed and SMS notifications have been
-sent to the residents to provide them with more information. Residents
-are reminded to keep to their appointment time. Residents are also
-advised to monitor their health closely and consult a doctor immediately
-if they feel unwell. Those who are still awaiting their test results are
-advised to minimise social interactions as much as possible. They should
-continue to monitor their health and seek immediate medical attention if
-they feel unwell.
+        As of 28 July 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 130 cases of locally transmitted
+COVID-19 infection, of which 27 are linked to the Jurong Fishery Port
+cluster and 2 belong to the KTV cluster. Of the 130 cases today, 61 are
+linked to previous cases, and have already been placed on quarantine. 21
+are linked to previous cases and were detected through surveillance. 48
+are currently unlinked. Amongst the cases are 3 seniors above 70 years
+who are unvaccinated or partially vaccinated, and are at risk of serious
+illness.
+2.     There are 6 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 2 were
+detected upon arrival in Singapore, while 4 developed the illness during
+SHN or isolation.
+3.     In total, there are 136 new cases of COVID-19 infection in
+Singapore today.
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases[1]
+[Fig1(28Jul)]
+CONDITION OF CONFIRMED CASES
+4.     567 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 23 cases of serious illness
+requiring oxygen supplementation, and 2 in critical condition in the
+intensive care unit (ICU). 1 amongst these 25 cases is fully vaccinated,
+but requires oxygen supplementation as she has underlying medical
+conditions. 16 seniors above 60 years, of whom 15 are completely
+unvaccinated or partially vaccinated, have fallen very ill.
+FIGURE 2: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Fig2(28Jul)]
+FIGURE 3: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Age Group
+[Fig3(28Jul)]
+5.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 31 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 16 are unvaccinated,13 are partially vaccinated and 2 is fully
+vaccinated.
+FIGURE 4: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition[2]
+[Fig4(28Jul)]
+
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Vaccination Status[2]
+[Fig5(28Jul)]
+
+SUMMARY OF TRENDS FOR LOCAL CASES
+6.     Overall, the number of new cases in the community has increased
+from 765 cases in the week before to 915 cases in the past week. We are
+likely to continue to see high number of cases in the coming days as we
+step up efforts to detect them to contain their spread in the community.
+The number of unlinked cases in the community has also increased from 45
+cases in the week before to 217 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 99.7 and 31 respectively.
+FIGURE 6: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases[3]
+[Fig6(28Jul)]
+
+FIGURE 7: Community Unlinked and Linked Cases in the Last 14 Days, by
+Detection Method
+[Fig7(28Jul)]
+
+FIGURE 8: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig8(28Jul)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+7.     There are a total of 6 imported cases today. 2 were detected upon
+arrival in Singapore, while 4 developed the illness during SHN or
+isolation.
+FIGURE 9: Number of Imported Cases by Detected Upon Arrival/
+Detected during SHN or Isolation
+[Fig9(28Jul)]
+ACTIVE CLUSTERS UNDER MONITORING
+8.     There are 5 new clusters today. In total, there are currently 44
+active clusters, ranging between 3 and 932 infections.
+FIGURE 10: Number of Active Clusters
+
+[Fig10(28Jul)]
+FIGURE 11: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL[4]
+
+Case 66377 _(new cluster)_
+
+1
+
+4
+
+Home’s Favourite Pte Ltd _(new cluster)_
+
+5
+
+6
+
+Case 66413 _(new cluster)_
+
+3
+
+4
+
+Case 66435 _(new cluster)_
+
+2
+
+3
+
+Case 66542 _(new cluster)_
+
+1
+
+3
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre*
+
+27
+
+932
+
+Samy’s Curry Restaurant
+
+10
+
+38
+
+KTV lounges/clubs
+
+2
+
+247
+
+Marina Bay Sands Casino
+
+5
+
+46
+
+Westlite Juniper Dormitory
+
+2
+
+11
+
+Case 64752
+
+1
+
+8
+
+PSC Express Pte Ltd
+
+1
+
+5
+
+Case 64697
+
+2
+
+75
+
+Case 66259
+
+1
+
+4
+
+Cleaner at Punggol Primary School
+
+3
+
+7
+
+Case 65360
+
+0
+
+10
+
+Case 65751
+
+1
+
+5
+
+Case 65695
+
+0
+
+3
+
+Case 65893
+
+0
+
+5
+
+Case 65721
+
+0
+
+4
+
+Case 65929
+
+0
+
+3
+
+Case 65972
+
+0
+
+3
+
+Case 66007
+
+0
+
+4
+
+Apex Medical Centre (Jurong)
+
+0
+
+3
+
+Case 65754
+
+0
+
+3
+
+Case 65979
+
+0
+
+3
+
+Case 65132
+
+0
+
+3
+
+Case 66168
+
+0
+
+3
+
+Case 65846
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+Case 65484
+
+0
+
+5
+
+Case 65365
+
+0
+
+3
+
+Case 64735
+
+0
+
+6
+
+Case 65231
+
+0
+
+4
+
+Case 64599
+
+0
+
+6
+
+Case 64782
+
+0
+
+3
+
+Case 64850
+
+0
+
+3
+
+Khoi Grill & Hotpot
+
+0
+
+8
+
+Case 64642
+
+0
+
+3
+
+Case 64388
+
+0
+
+3
+
+105 Henderson Crescent
+
+0
+
+22
+
+Changi General Hospital
+
+0
+
+20
+
+Case 64478
+
+0
+
+3
+
+* Please refer to Annex A for the affected markets and food centres.
+_Closure of Home’s Favourite Pte Ltd_
+9.     MOH is investigating cases of COVID-19 infection involving
+individuals who worked in Home’s Favourite Pte Ltd (15 Jalan Tepong,
+#04-08 and #04-09). To date, we have detected 6 cases linked to the
+cluster, and our epidemiological investigations have found that there is
+likely ongoing transmission at the premises. To break the chain of
+transmission and enable deep cleaning of the premises, Home’s Favourite
+Pte Ltd will be closed to all members of the public from 29 July to 12
+August 2021. All staff will be placed on quarantine, and will be tested
+during quarantine.
+_Community surveillance testing for visitors to Taman Jurong Market &
+Food Centre_
+10.     MOH is investigating cases of COVID-19 infection involving
+markets and food centres which are likely seeded by fishmongers who
+visited Jurong Fishery Port to collect their stock and sell at the
+markets and food centres. To uncover any community infection cases, we
+will extend free COVID-19 testing to members of the public who had
+visited Taman Jurong Market & Food Centre (3 Yung Sheng Road) between 13
+July and 27 July. Please refer to https://go.gov.sg/tj-testing for
+details on the testing operations.
+11.     All visitors to the affected premises are advised to monitor
+their health closely, and minimise social interactions as far as
+possible, for 14 days from their date of visit or interaction. They are
+encouraged to see a doctor immediately if they feel unwell.
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+12.     As of 27 July 2021, we have administered a total of 7,305,300
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 7,305,300, covering 4,267,577
+individuals. 3,158,737 individuals have completed the full vaccination
+regimen, consisting of 121,014 recovered persons who received at least
+one dose and 3,037,723 who received their second dose. In addition,
+91,712 doses of Sinovac vaccines have been administered as of 27 July
+2021, covering 70,712 individuals.
+FIGURE 12: Progress of National Vaccination Programme
+[Fig12(28Jul)]
+
+FIGURE 13: Percentage of Total Population who Received At Least First
+Dose[5] and Completed Full Regimen[6]
+[Fig13(28Jul)]
+FIGURE 14: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Fig14(28Jul)]
+FIGURE 15: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+[Fug15(28Jul)]
+13.      Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 28 JULY 2021
 
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[3] Incorporates re-classifications of earlier reported cases.
+[4] Includes new cases added today.
+[5] Based on National Immunisation Registry data.
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
