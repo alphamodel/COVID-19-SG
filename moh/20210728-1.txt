@@ -45,11 +45,11 @@ by Age Group
 5.     There is continuing evidence that vaccination helps to prevent
 serious disease when one gets infected. Over the last 28 days, 31 local
 cases required oxygen supplementation, were admitted to ICU or passed
-away. 16 are unvaccinated,13 are partially vaccinated and 2 is fully
+away. 16 are unvaccinated,13 are partially vaccinated and 1 is fully
 vaccinated.
 FIGURE 4: Local Cases in the Last 28 Days by Vaccination Status &
 Severity of Condition[2]
-[Fig4(28Jul)]
+[Fig. 4 (28 Jul)]
 
 FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
 Supplementation,
