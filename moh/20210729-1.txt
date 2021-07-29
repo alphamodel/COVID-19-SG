@@ -1,48 +1,249 @@
-Community Surveillance Testing At 3 Teck Whye Avenue and 357 Yung An
-Road
+Update On Local Covid-19 Situation (29 July)
 
 
 
-COMMUNITY SURVEILLANCE TESTING AT 3 TECK WHYE AVENUE AND 357 YUNG AN ROAD
+UPDATE ON LOCAL COVID-19 SITUATION (29 JULY)
 
 
 Published Date: 29 Jul 2021
 
-       The Ministry of Health (MOH) is investigating likely COVID-19
-transmission at 3 Teck Whye Avenue and 357 Yung An Road. So far, seven
-cases of COVID-19 infection have been detected in four households at 3
-Teck Whye Avenue. Separately, four cases of COVID-19 infection have been
-detected in three households at 357 Yung An Road. Epidemiological
-investigations are ongoing to determine linkages and the source of
-transmission.
+        As of 29 July 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 129 cases of locally transmitted
+COVID-19 infection, of which 30 are linked to the Jurong Fishery Port
+cluster and 2 belong to the KTV cluster. Of the 129 cases today, 68
+are linked to previous cases, and have already been placed on
+quarantine. 11 are linked to previous cases and were detected through
+surveillance. 50 are currently unlinked. Amongst the cases are 4 seniors
+above 70 years who are unvaccinated or partially vaccinated, and are at
+risk of serious illness.
+
+2.     There are 4 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 3 were
+detected upon arrival in Singapore, while 1 developed the illness during
+SHN or isolation.
 
 
 
-2.        In order to uncover community infection cases, MOH will
-conduct mandatory COVID-19 testing for all residents of 3 Teck Whye
-Avenue and 357 Yung An Road. Testing is optional for those who have
-tested negative for COVID-19 infection from 25 July onwards. Mandatory
-testing will be conducted on 30 July 2021 between 9am and 4pm at the
-void deck of 1 Teck Whye Avenue, and the pavilion between 357 and 359
-Yung An Road, respectively.
+3.     In total, there are 133 new cases of COVID-19 infection in
+Singapore today.
+
+FIGURE 1: Number of Community Unlinked Cases, and Linked Cases by
+Already Quarantined/ Detected through Surveillance, and Dormitory
+Resident Cases1
+[Fig.\ 1.\ (29\ Jul)]
+
+CONDITION OF CONFIRMED CASES
 
 
 
-3.    All residents are to bring along their NRIC for identification
-purposes. Leaflets have been distributed and SMS notifications have been
-sent to the residents to provide them with more information. Residents
-are reminded to keep to their appointment time. Residents are also
-advised to monitor their health closely and consult a doctor immediately
-if they feel unwell. Those who are still awaiting their test results are
-advised to minimise social interactions as much as possible. They should
-continue to monitor their health and seek immediate medical attention if
-they feel unwell.
+4.     572 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 30 cases of serious illness
+requiring oxygen supplementation, and 3 in critical condition in the
+intensive care unit (ICU). 1 amongst these 33 cases is fully vaccinated,
+but requires ICU care as she has underlying medical conditions. 24
+seniors above 60 years, of whom 23 are completely unvaccinated or
+partially vaccinated, have fallen very ill.
+
+
+
+FIGURE 2: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+
+
+[FIG. 2. (29 JUL)]
+FIGURE 3: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+
+by Age Group
+[Fig. 3. (29 Jul)]
 
 
 
 
 
+5.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 39 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 23 are unvaccinated, 15 are partially vaccinated and 1 is fully
+vaccinated.
+
+FIGURE 4: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition²
+
+[FIG. 4 (29 JUL)]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status²
+
+[FIG. 5. (29 JUL)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+
+
+
+6.     Overall, the number of new cases in the community has decreased
+from 884 cases in the week before to 881 cases in the past week. We are
+likely to continue to see high number of cases in the coming days as we
+step up efforts to detect them to contain their spread in the community.
+The number of unlinked cases in the community has increased from 64
+cases in the week before to 238 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 91.9 and 34.0 respectively.
+
+
+
+FIGURE 6: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases³
+[Fig. 6. (29 Jul)]
+
+
+
+FIGURE 7: Community Unlinked and Linked Cases in the Last 14 Days, by
+Detection Method
+[Fig. 7. (29 Jul)]
+FIGURE 8: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig. 8. (29 Jul)]
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+7.     There are a total of 4 imported cases today. 3 were detected upon
+arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+
+
+
+FIGURE 9: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[Fig. 9. (29 Jul)]
+
+ACTIVE CLUSTERS UNDER MONITORING
+
+8.     There are 10 new clusters today. In total, there are currently 53
+active clusters, ranging between 3 and 969 infections. MOH has been
+monitoring existing clusters for any further transmission. As there have
+been no more cases linked to the Case 64478 cluster for the past two
+incubation periods (i.e. 28 days), the cluster has now been closed.
+FIGURE 10: Number of Active Clusters
+[Fig. 10. (29 Jul)]
+
+  ----------------------------------------------------- ----------- --------
+  CLUSTER                                               NEW CASES   TOTAL⁴
+  Seng Leong Steel (Ent) Pte Ltd (_new cluster_)        2           3
+  Case 66538 (_new cluster_)                            2           3
+  Case 66517 (_new cluster_)                            1           3
+  Case 66487 (_new cluster_)                            3           4
+  Case 66468 (_new cluster_)                            1           3
+  Case 66464 (_new cluster_)                            2           3
+  Case 66462 (_new cluster_)                            1           3
+  Case 66370 (_new cluster_)                            2           3
+  Case 66215 (_new cluster_)                            2           4
+  Case 66106 (_new cluster_)                            1           3
+  Case 66377                                            1           5
+  Case 66435                                            3           6
+  Jurong Fishery Port/ Hong Lim Market & Food Centre*   30          969
+  Samy’s Curry Restaurant                               2           41
+  KTV lounges/clubs                                     2           248
+  Marina Bay Sands Casino                               5           51
+  Westlite Juniper Dormitory                            2           13
+  Case 64697                                            1           76
+  Punggol Primary School                                3           12
+  Case 65893                                            1           6
+  Case 66542                                            0           3
+  Home’s Favourite Pte Ltd                              0           6
+  Case 66413                                            0           4
+  Case 64752                                            0           8
+  PSC Express Pte Ltd                                   0           5
+  Case 66259                                            0           4
+  Case 65360                                            0           10
+  Case 65751                                            0           5
+  Case 65695                                            0           3
+  Case 65721                                            0           4
+  Case 65929                                            0           3
+  Case 65972                                            0           3
+  Case 66007                                            0           4
+  Apex Medical Centre (Jurong)                          0           3
+  Case 65754                                            0           3
+  Case 65979                                            0           3
+  Case 65132                                            0           3
+  Case 66168                                            0           3
+  Case 65846                                            0           3
+  Case 65791                                            0           4
+  Case 65342                                            0           3
+  Case 65484                                            0           5
+  Case 65365                                            0           3
+  Case 64735                                            0           6
+  Case 65231                                            0           4
+  Case 64599                                            0           6
+  Case 64782                                            0           3
+  Case 64850                                            0           3
+  Khoi Grill & Hotpot                                   0           8
+  Case 64642                                            0           3
+  Case 64388                                            0           3
+  105 Henderson Crescent                                0           22
+  Changi General Hospital                               0           20
+  ----------------------------------------------------- ----------- --------
+
+* Please refer to Annex A for the affected markets and food centres.
+
+
+
+Collection of ART self-test kits for visitors to selected markets and
+food centres
+9.     MOH is investigating cases of COVID-19 infection involving
+markets and food centres which are likely seeded by fishmongers who
+visited Jurong Fishery Port to collect their stock and sell at the
+markets and food centres. As an added layer of ringfencing to help to
+identify cases and prevent further transmission, MOH is working with the
+People’s Association to distribute antigen rapid test (ART) self-test
+kits to individuals who had visited selected markets and food centres in
+the last 14 days, such as residents living in the vicinity of these
+centres. The collection will run from 30 to 31 July 2021 at Residents’
+Committee Centres in the vicinity of the following locations:
+
+-   Mayflower Market & Food Centre (162 Ang Mo Kio Avenue 4); and
+
+-   Redhill Market (79 Redhill Lane).
+
+10.     Eligible persons are strongly encouraged to collect and perform
+self-testing using these ART kits. Please refer to
+https://www.gowhere.gov.sg/art to check on the nearest Residents’
+Committee Centre for self-collection.
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+11.     As of 28 July 2021, we have administered a total of 7,365,873
+doses of COVID-19 vaccines under the national vaccination programme. The
+total number of doses administered was 7,365,873, covering 4,278,760
+individuals. 3,208,556 individuals have completed the full vaccination
+regimen, consisting of 121,443 recovered persons who received at least
+one dose and 3,087,113 who received their second dose. In addition,
+95,029 doses of Sinovac vaccines have been administered as of 28 July
+2021, covering 71,810 individuals.
+FIGURE 12: Progress of National Vaccination Programme
+[FIG. 12. (29 JUL)]
+FIGURE 13: Percentage of Total Population who Received At Least First
+Dose⁵ and Completed Full Regimen⁶
+[Fig. 13 (29 Jul)]
+FIGURE 14: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Fig. 14. (29 Jul)]
+FIGURE 15: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+[Fig. 15 (29 Jul)]
+12.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 29 JULY 2021
+
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[3] Incorporates re-classifications of earlier reported cases.
+[4] Includes new cases added today
+[5] Based on National Immunisation Registry data.
+[6] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
 
 
