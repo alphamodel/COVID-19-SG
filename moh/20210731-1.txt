@@ -1,29 +1,220 @@
-117 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (31 July)
 
 
 
-117 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (31 JULY)
 
 
 Published Date: 31 Jul 2021
 
-       As of 31 July 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 117 new cases of locally transmitted COVID-19
-infection, of which 26 are linked to the Jurong Fishery Port cluster and
-1 belongs to the KTV cluster. Of the 117 cases today, 67 are linked to
-previous cases, and have already been placed on quarantine. 8 are linked
-to previous cases and were detected through surveillance. 42 are
-currently unlinked. Amongst the cases are 7 seniors above 70 years who
-are unvaccinated or partially vaccinated, and are at risk of serious
+         As of 31 July 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 117 cases of locally transmitted
+COVID-19 infection, of which 26 are linked to the Jurong Fishery Port
+cluster and 1 belongs to the KTV cluster. Of the 117 cases today, 67 are
+linked to previous cases, and have already been placed on quarantine. 8
+are linked to previous cases and were detected through surveillance. 42
+are currently unlinked. Amongst the cases are 7 seniors above 70 years
+who are unvaccinated or partially vaccinated, and are at risk of serious
 illness.
-2.    In addition, there are 3 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-1 was detected upon arrival in Singapore, while 2 developed the illness
-during SHN or isolation.
-3.    In total, there are 120 new cases of COVID-19 infection in
+2.      There are 3 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 1 was
+detected upon arrival in Singapore, while 2 developed the illness during
+SHN or isolation.
+3.      In total, there are 120 new cases of COVID-19 infection in
 Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+FIGURE 1: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance ¹
+[Fig. 1 (31 Jul)]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+4.      As of 30 July 2021, 59% of our population has completed their
+full regimen/ received two doses of COVID-19 vaccines under the national
+vaccination programme, and 77% has received at least one dose.  In
+total, we have administered a total of 7,504,554 doses of COVID-19
+vaccines under the national vaccination programme, covering 4,299,667
+individuals, with 3,327,272 individuals having completed the full
+vaccination regimen. In addition, 102,840 doses of Sinovac vaccines have
+been administered as of 30 July 2021, covering 73,793 individuals.
+FIGURE 2: Percentage of Total Population who Received At Least First
+Dose  and Completed Full Regimen
+[Fig. 2 (31 Jul)]
+FIGURE 3: Percentage of Vaccinated Individuals who Received At Least
+First Dose² by Age Group³
+[Fig. 3 (31 Jul)]
+FIGURE 4: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+[Fig. 4 (31 Jul)]
+FIGURE 5: Total number of doses administered
+[Fig. 5 (31 Jul)]
+CONDITION OF CONFIRMED CASES
+5.      604 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 33 cases of serious illness
+requiring oxygen supplementation, and 7 in critical condition in the
+intensive care unit (ICU). 3 amongst these 40 cases are fully
+vaccinated. Of these, 2 require oxygen supplementation while 1 requires
+ICU care as they have underlying medical conditions. 26 seniors above 60
+years, of whom 24 are completely unvaccinated or partially vaccinated,
+have fallen very ill.
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig. 6 (31 Jul)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig. 7 (31 Jul)]
+6.      There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 49 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 28 are unvaccinated, 18 are partially vaccinated and 3 are fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig. 8 (31 Jul)]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁴
+[Fig. 9 (31 Jul)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+7.      Overall, the number of new cases in the community has decreased
+from 1,027 cases in the week before to 868 cases in the past week. We
+are likely to continue to see high number of cases in the coming days as
+we step up efforts to detect them to contain their spread in the
+community. The number of unlinked cases in the community has increased
+from 99 cases in the week before to 273 cases in the past week. The
+7-day moving average number of all linked community cases and all
+unlinked community cases are 85.0 and 39.0 respectively.
+FIGURE 10: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+[Fig. 10 (31 Jul)]
+FIGURE 11: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig. 11 (31 Jul)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.      There are a total of 3 imported cases today. 1 was detected upon
+arrival in Singapore, while 2 developed the illness during SHN or
+isolation.
+FIGURE 12: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig. 12 (31 Jul)]
+ACTIVE CLUSTERS UNDER MONITORING
+9.      There are 8 new clusters today. In total, there are currently 71
+active clusters, ranging between 3 and 1,027 infections. MOH has been
+monitoring existing clusters for any further transmission. As there have
+been no more cases linked to the Changi General Hospital cluster for the
+past two incubation periods (i.e. 28 days), the cluster has now been
+closed.
+FIGURE 13: Number of Active Clusters
+[Fig. 13 (31 Jul)]
+FIGURE 14: List of Active Clusters
+
+  ----------------------------------------------------- ----------- --------
+  CLUSTER                                               NEW CASES   TOTAL⁶
+  Case 65952 (new cluster)                              1           3
+  Case 66240 (new cluster)                              1           4
+  Case 66754 (new cluster)                              2           4
+  Institution S2 Selarang Park Complex (new cluster)    5           6
+  Case 66774 (new cluster)                              2           3
+  Case 66790 (new cluster)                              1           3
+  Case 66807 (new cluster)                              2           4
+  Case 66995 (new cluster)                              2           3
+  Case 66449                                            4           8
+  Case 66473                                            1           4
+  Zuellig Pharma                                        1           7
+  Jurong Fishery Port/ Hong Lim Market & Food Centre*   26          1,027
+  Samy’s Curry Restaurant                               1           50
+  KTV lounges/clubs                                     1           251
+  Marina Bay Sands Casino                               1           56
+  Punggol Primary School                                1           13
+  Case 66464                                            1           7
+  Case 66370                                            1           4
+  Westlite Juniper Dormitory                            1           15
+  Case 64697                                            1           77
+  Home’s Favourite Pte Ltd                              2           8
+  Case 66293                                            0           3
+  Case 65882                                            0           4
+  Case 66142                                            0           3
+  Case 66450                                            0           3
+  Case 66458                                            0           4
+  Case 66482                                            0           4
+  Case 66851                                            0           4
+  Case 66915                                            0           6
+  Case 65999                                            0           3
+  Seng Leong Steel (Ent) Pte Ltd                        0           3
+  Case 66538                                            0           4
+  Case 66517                                            0           3
+  Case 66487                                            0           4
+  Case 66468                                            0           3
+  Case 66462                                            0           3
+  Case 66215                                            0           4
+  Case 66106                                            0           3
+  Case 66377                                            0           5
+  Case 66435                                            0           6
+  Case 65893                                            0           6
+  Case 66542                                            0           3
+  Case 66413                                            0           4
+  Case 64752                                            0           8
+  PSC Express Pte Ltd                                   0           5
+  Case 66259                                            0           4
+  Case 65360                                            0           10
+  Case 65751                                            0           5
+  Case 65695                                            0           3
+  Case 65721                                            0           4
+  Case 65929                                            0           3
+  Case 65972                                            0           3
+  Case 66007                                            0           4
+  Apex Medical Centre (Jurong)                          0           3
+  Case 65754                                            0           3
+  Case 65979                                            0           3
+  Case 65132                                            0           3
+  Case 66168                                            0           3
+  Case 65846                                            0           3
+  Case 65791                                            0           4
+  Case 65342                                            0           3
+  Case 65484                                            0           5
+  Case 65365                                            0           3
+  Case 64735                                            0           6
+  Case 65231                                            0           4
+  Case 64599                                            0           6
+  Case 64782                                            0           3
+  Case 64850                                            0           3
+  Khoi Grill & Hotpot                                   0           8
+  Case 64642                                            0           3
+  Case 64388                                            0           3
+  ----------------------------------------------------- ----------- --------
+
+* Please refer to Annex A for the affected markets and food centres.
+Collection of ART self-test kits for visitors to selected markets and
+food centres
+10.     MOH is investigating cases of COVID-19 infection involving
+markets and food centres which are likely seeded by fishmongers who
+visited Jurong Fishery Port to collect their stock and sell at the
+markets and food centres. As an added layer of ringfencing to help to
+identify cases and prevent further transmission, MOH is working with the
+People’s Association to distribute antigen rapid test (ART) self-test
+kits to individuals who had visited selected markets and food centres in
+the last 14 days, such as residents living in the vicinity of these
+centres. The collection will run from 1 to 2 August 2021 at Residents’
+Committee Centres in the vicinity of the following locations:
+
+-   497 Jurong West Street 41 Market; and
+
+-   Fajar Market (445 Fajar Rd)
+
+11.     Eligible persons are strongly encouraged to collect and perform
+self-testing using these ART kits. Please refer
+to https://www.gowhere.gov.sg/art to check on the nearest Residents’
+Committee Centre for self-collection.
+12.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 31 JULY 2021
+
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Based on National Immunisation Registry data.
+[3] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[5] Incorporates re-classifications of earlier reported cases.
+[6] Includes new cases added today.
