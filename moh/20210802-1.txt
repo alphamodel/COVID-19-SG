@@ -1,30 +1,229 @@
-106 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (2 Aug 2021)
 
 
 
-106 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (2 AUG 2021)
 
 
 Published Date: 02 Aug 2021
 
        As of 2 August 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 106 new cases of locally transmitted COVID-19
-infection. 65 are linked to previous cases, and have already been placed
-on quarantine. 16 are linked to previous cases and were detected through
-surveillance. 25 are currently unlinked. Amongst the cases are 7 seniors
-above 70 years who are unvaccinated or partially vaccinated, and are at
-risk of serious illness.
-2.    In addition, there are 5 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-3 were detected upon arrival in Singapore, while 2 developed the illness
-during SHN or isolation.
-3.    In total, there are 111 new cases of COVID-19 infection in
+confirmed and verified that there are 106 cases of locally transmitted
+COVID-19 infection. 65 are linked to previous cases, and have already
+been placed on quarantine. 16 are linked to previous cases and were
+detected through surveillance. 25 are currently unlinked. Amongst the
+cases are 7 seniors above 70 years who are unvaccinated or partially
+vaccinated, and are at risk of serious illness.
+2.     There are 5 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 3 were
+detected upon arrival in Singapore, while 2 developed the illness during
+SHN or isolation.
+3.     In total, there are 111 new cases of COVID-19 infection in
 Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+FIGURE 1: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance¹
+[Figure01_2Aug]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+4.     As of 1 August 2021, 62% of our population has completed their
+full regimen/ received two doses of COVID-19 vaccines under the national
+vaccination programme, and 77% has received at least one dose. In total,
+we have administered a total of 7,638,279 doses of COVID-19 vaccines
+under the national vaccination programme, covering 4,313,182
+individuals, with 3,448,193 individuals having completed the full
+vaccination regimen. In addition, 107,730 doses of Sinovac vaccines have
+been administered as of 1 August 2021, covering 74,935 individuals.
+FIGURE 2: Percentage of Total Population who Received At Least First
+Dose² and Completed Full Regimen³
+[Figure02_2Aug]
+FIGURE 3: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Figure03_2Aug]
+FIGURE 4: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+[Figure04_2Aug]
+FIGURE 5: Total number of doses administered
+[Figure05_2Aug]
+CONDITION OF CONFIRMED CASES
+5.     602 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 36 cases of serious illness
+requiring oxygen supplementation, and 7 in critical condition in the
+intensive care unit (ICU). 4 amongst these 43 cases are fully
+vaccinated. Of these, 3 require oxygen supplementation while 1 requires
+ICU care as they have underlying medical conditions. 31 seniors above 60
+years, of whom 28 are completely unvaccinated or partially vaccinated,
+have fallen very ill.
+6.     Imported Case 67264, a 34 year-old male Ukraine national, has
+passed away from complications due to COVID-19 infection on 1 August
+2021. He was a sea crew who arrived in Singapore on board a vessel on 29
+July. He had developed a fever, cough and lethargy on 25 July, and
+subsequently breathlessness on 31 July. He was conveyed from the vessel
+to Singapore General Hospital on 1 August, and was confirmed to have
+COVID-19 infection on the same day. In total, 38 have passed away from
+complications due to COVID-19 infection.
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Figure06_2Aug]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Figure07_2Aug]
+7.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 61 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 37 are unvaccinated, 20 are partially vaccinated and 4 are fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Figure08_2Aug]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status⁴
+[Figure09_2Aug]
+SUMMARY OF TRENDS FOR LOCAL CASES
+8.      Overall, the number of new cases in the community has decreased
+from 1,021 cases in the week before to 835 cases in the past week. We
+are likely to continue to see high number of cases in the coming days as
+we step up efforts to detect them to contain their spread in the
+community. The number of unlinked cases in the community has increased
+from 133 cases in the week before to 276 cases in the past week. The
+7-day moving average number of all linked community cases and all
+unlinked community cases are 79.9 and 39.4 respectively.
+FIGURE 10: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+
+[Figure10_2Aug]
+FIGURE 11: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Figure11_2Aug]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+9.     There are a total of 5 imported cases today. 3 were detected upon
+arrival in Singapore, while 2 developed the illness during SHN or
+isolation.
+FIGURE 12: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Figure12_2Aug]
+ACTIVE CLUSTERS UNDER MONITORING
+10.     There are 10 new clusters today. In total, there are currently
+93 active clusters, ranging between 3 and 1,072 infections.
+FIGURE 13: Number of Active Clusters
+
+[Figure13_2Aug]
+FIGURE 14: List of Active Clusters
+  ----------------------------------------------------- ----------- --------
+  CLUSTER                                               NEW CASES   TOTAL⁶
+  Case 66567 (new cluster)                              12          17
+  Case 66764 (new cluster)                              1           3
+  Case 66868 (new cluster)                              1           3
+  Case 66888 (new cluster)                              1           3
+  Case 66913 (new cluster)                              2           3
+  Case 67004 (new cluster)                              2           4
+  Case 67041 (new cluster)                              4           5
+  Case 67085 (new cluster)                              2           3
+  Case 67204 (new cluster)                              1           3
+  Case 67297 (new cluster)                              2           3
+  Jurong Fishery Port/ Hong Lim Market & Food Centre*   24          1,072
+  Samy’s Curry Restaurant                               3           54
+  Westlite Mandai Dormitory                             3           8
+  Case 65952                                            2           5
+  Case 66929                                            1           5
+  Home’s Favourite Pte Ltd                              1           12
+  Case 65929                                            1           5
+  Yishun Community Hospital                             0           4
+  Case 66391                                            0           3
+  Case 66713                                            0           3
+  Case 66784                                            0           4
+  Case 66804                                            0           4
+  Case 66844                                            0           3
+  Case 67048                                            0           6
+  Case 67226                                            0           3
+  Case 66774                                            0           5
+  Case 66807                                            0           5
+  Case 66449                                            0           9
+  Punggol Primary School                                0           14
+  Case 66851                                            0           5
+  Case 65999                                            0           4
+  Seng Leong Steel (Ent) Pte Ltd                        0           4
+  Case 65751                                            0           8
+  Case 66623                                            0           3
+  Case 65793                                            0           3
+  Case 66240                                            0           4
+  Case 66754                                            0           4
+  Institution S2 Selarang Park Complex                  0           6
+  Case 66790                                            0           3
+  Case 66995                                            0           3
+  Case 66473                                            0           4
+  Zuellig Pharma                                        0           7
+  KTV lounges/clubs                                     0           251
+  Marina Bay Sands Casino                               0           56
+  Case 66464                                            0           7
+  Case 66370                                            0           4
+  Westlite Juniper Dormitory                            0           15
+  Case 64697                                            0           77
+  Case 66293                                            0           3
+  Case 65882                                            0           4
+  Case 66142                                            0           3
+  Case 66450                                            0           3
+  Case 66458                                            0           4
+  Case 66482                                            0           4
+  Case 66915                                            0           6
+  Case 66538                                            0           4
+  Case 66517                                            0           3
+  Case 66487                                            0           4
+  Case 66468                                            0           3
+  Case 66462                                            0           3
+  Case 66215                                            0           4
+  Case 66106                                            0           3
+  Case 66377                                            0           5
+  Case 66435                                            0           6
+  Case 65893                                            0           6
+  Case 66542                                            0           3
+  Case 66413                                            0           4
+  Case 64752                                            0           8
+  PSC Express Pte Ltd                                   0           5
+  Case 66259                                            0           4
+  Case 65360                                            0           10
+  Case 65695                                            0           3
+  Case 65721                                            0           4
+  Case 65972                                            0           3
+  Case 66007                                            0           4
+  Apex Medical Centre (Jurong)                          0           3
+  Case 65754                                            0           3
+  Case 65979                                            0           3
+  Case 65132                                            0           3
+  Case 66168                                            0           3
+  Case 65846                                            0           3
+  Case 65791                                            0           4
+  Case 65342                                            0           3
+  Case 65484                                            0           5
+  Case 65365                                            0           3
+  Case 64735                                            0           6
+  Case 65231                                            0           4
+  Case 64599                                            0           6
+  Case 64782                                            0           3
+  Case 64850                                            0           3
+  Khoi Grill & Hotpot                                   0           8
+  Case 64642                                            0           3
+  Case 64388                                            0           3
+  ----------------------------------------------------- ----------- --------
+
+* Please refer to Annex A for the affected markets and food centres.
+11.    Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 2 AUGUST 2021
+
+------------------------------------------------------------------------
+
+¹ Incorporates re-classifications of earlier reported cases.
+² Based on National Immunisation Registry data
+³ Full regimen refers to individuals who have received both doses of the
+vaccine or one dose for vaccinated recovered individuals.
+⁴ Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+⁵ Incorporates re-classifications of earlier reported cases.
+⁶ Includes new cases added today.
+
 
 
 
