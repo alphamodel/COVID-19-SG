@@ -1,27 +1,868 @@
-96 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation (5 Aug 2021)
 
 
 
-96 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION (5 AUG 2021)
 
 
 Published Date: 05 Aug 2021
 
-      As of 5 August 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 96 new cases of locally transmitted COVID-19
-infection. 38 are linked to previous cases, and have already been placed
-on quarantine. 20 are linked to previous cases and were detected through
-surveillance. 38 are currently unlinked. Amongst the cases are 2 seniors
-above 70 years who are unvaccinated or partially vaccinated, and are at
-risk of serious illness.
-2.    In addition, there are 2 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-1 was detected upon arrival in Singapore, while 1 developed the illness
-during SHN or isolation.
-3.    In total, there are 98 new cases of COVID-19 infection in
+        As of 5 August 2021, 12pm, the Ministry of Health (MOH) has
+confirmed and verified that there are 96 cases of locally transmitted
+COVID-19 infection. 38 are linked to previous cases, and have already
+been placed on quarantine. 20 are linked to previous cases and were
+detected through surveillance. 38 are currently unlinked. Amongst the
+cases are 2 seniors above 70 years who are unvaccinated or partially
+vaccinated, and are at risk of serious illness.
+2.      There are 2 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. 1 was
+detected upon arrival in Singapore, while 1 developed the illness during
+SHN or isolation.
+3.      In total, there are 98 new cases of COVID-19 infection in
 Singapore today.
-4.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+FIGURE 1: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance[1]
+
+[Fig1(5Aug)]
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
+4.     As of 4 August 2021, 65% of our population has completed their
+full regimen/ received two doses of COVID-19 vaccines under the national
+vaccination programme, and 78% has received at least one dose. In total,
+we have administered a total of 7,831,520 doses of COVID-19 vaccines
+under the national vaccination programme, covering 4,337,397
+individuals, with 3,618,488 individuals having completed the full
+vaccination regimen. In addition, 115,970 doses of Sinovac vaccines have
+been administered as of 4 August 2021, covering 77,095 individuals.
+FIGURE 2: Percentage of Total Population who Received At Least First
+Dose[2] and Completed Full Regimen[3]
+[Fig2(5Aug)]
+FIGURE 3: Percentage of Vaccinated Individuals who Received At Least
+First Dose by Age Group
+[Fig3(5Aug)]
+FIGURE 4: Percentage of Individuals who Completed Full Regimen of
+COVID-19 Vaccine by Age Group
+[Fig4(5Aug)]
+FIGURE 5: Total number of doses administered
+[Fig5(5Aug)]
+CONDITION OF CONFIRMED CASES
+5.     577 cases are currently warded in hospital.  Most are well and
+under observation. There are currently 40 cases of serious illness
+requiring oxygen supplementation, and 8 in critical condition in the
+intensive care unit (ICU). 7 amongst these 48 cases are fully
+vaccinated. Of these, 5 require oxygen supplementation while 2 require
+ICU care as they have underlying medical conditions. 36 seniors above 60
+years, of whom 31 are completely unvaccinated or partially vaccinated,
+have fallen very ill.
+6.     Case 67610, a 79 year-old male Singaporean, has passed away from
+complications due to COVID-19 infection on 4 August 2021. He had sought
+medical treatment at Sengkang General Hospital on 4 August for shortness
+of breath and low blood pressure, and was confirmed to have COVID-19
+infection on the same day. He had not been vaccinated against COVID-19,
+and had a history of heart disease, chronic obstructive pulmonary
+disease and hypertension. In total, 40 have passed away from
+complications due to COVID-19 infection.
+FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig6(5Aug)]
+
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Age Group
+[Fig7(5Aug)]
+7.     There is continuing evidence that vaccination helps to prevent
+serious disease when one gets infected. Over the last 28 days, 80 local
+cases required oxygen supplementation, were admitted to ICU or passed
+away. 48 are unvaccinated, 24 are partially vaccinated and 8 are fully
+vaccinated.
+FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition
+[Fig8(5Aug)]
+FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation,
+by Vaccination Status[4]
+[Fig9(5Aug)]
+
+SUMMARY OF TRENDS FOR LOCAL CASES
+8.     Overall, the number of new cases in the community has decreased
+from 881 cases in the week before to 723 cases in the past week. The
+number of unlinked cases in the community has increased from 223 cases
+in the week before to 228 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 70.7 and 32.6 respectively.
+FIGURE 10: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases[5]
+[Fig10(5Aug)]
+
+FIGURE 11: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+
+[Fig11(5Aug)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+9.     There are a total of 2 imported cases today. 1 was detected upon
+arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+FIGURE 12: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig12(5Aug)]
+ACTIVE CLUSTERS UNDER MONITORING
+10.     There are 10 new clusters today. In total, there are currently
+122 active clusters, ranging between 3 and 1,127 infections.
+FIGURE 13: Number of Active Clusters
+[Fig13(5Aug)]
+FIGURE 14: List of Active Clusters
+CLUSTER
+
+NEW CASES
+
+TOTAL[6]
+
+Case 65687 _(new cluster)_
+
+2
+
+3
+
+Case 66996 _(new cluster)_
+
+1
+
+3
+
+Case 67143 _(new cluster)_
+
+1
+
+3
+
+Case 67161 _(new cluster)_
+
+2
+
+3
+
+Case 67388 _(new cluster)_
+
+2
+
+3
+
+Case 67425 _(new cluster)_
+
+2
+
+3
+
+Case 67471 _(new cluster)_
+
+3
+
+5
+
+Case 67476 _(new cluster)_
+
+1
+
+3
+
+Case 67582 _(new cluster)_
+
+2
+
+3
+
+Case 67651 _(new cluster)_
+
+2
+
+3
+
+Case 67278
+
+1
+
+4
+
+Case 67534
+
+1
+
+4
+
+Kian Hiap Construction
+
+2
+
+11
+
+Case 67343
+
+1
+
+8
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre*
+
+12
+
+1,127
+
+Case 66449
+
+1
+
+15
+
+North Bridge Road Market & Food Centre
+
+3
+
+8
+
+Case 67436
+
+1
+
+4
+
+Marina Bay Sands Casino
+
+1
+
+60
+
+Samy’s Curry Restaurant
+
+1
+
+56
+
+Westlite Mandai Dormitory
+
+1
+
+10
+
+Case 67041
+
+1
+
+6
+
+Case 67051
+
+1
+
+5
+
+Punggol Primary School
+
+1
+
+16
+
+Zuellig Pharma
+
+1
+
+8
+
+Case 67283
+
+0
+
+6
+
+Case 66707
+
+0
+
+5
+
+Case 66766
+
+0
+
+3
+
+Case 66922
+
+0
+
+3
+
+Case 66998
+
+0
+
+3
+
+Case 67014
+
+0
+
+3
+
+Case 67069
+
+0
+
+3
+
+Case 67236
+
+0
+
+3
+
+Case 67276
+
+0
+
+5
+
+Case 66844
+
+0
+
+8
+
+Case 66774
+
+0
+
+7
+
+Case 67048
+
+0
+
+8
+
+Case 66567
+
+0
+
+21
+
+Home’s Favourite Pte Ltd
+
+0
+
+14
+
+Case 65999
+
+0
+
+5
+
+Institution S2 Selarang Park Complex
+
+0
+
+8
+
+KTV lounges/clubs
+
+0
+
+252
+
+Case 65972
+
+0
+
+4
+
+Changi General Hospital
+
+0
+
+3
+
+Case 66940
+
+0
+
+4
+
+Case 67017
+
+0
+
+3
+
+Case 67078
+
+0
+
+3
+
+Case 67227
+
+0
+
+3
+
+Seng Leong Steel (Ent) Pte Ltd
+
+0
+
+5
+
+Case 66804
+
+0
+
+5
+
+Case 66754
+
+0
+
+5
+
+Case 67085
+
+0
+
+4
+
+Case 67204
+
+0
+
+3
+
+Case 67297
+
+0
+
+3
+
+Case 65952
+
+0
+
+5
+
+Case 66929
+
+0
+
+5
+
+Case 65929
+
+0
+
+4
+
+Case 66764
+
+0
+
+3
+
+Case 66868
+
+0
+
+3
+
+Case 66888
+
+0
+
+3
+
+Case 66913
+
+0
+
+3
+
+Case 67004
+
+0
+
+4
+
+Yishun Community Hospital
+
+0
+
+4
+
+Case 66391
+
+0
+
+3
+
+Case 66713
+
+0
+
+3
+
+Case 66784
+
+0
+
+4
+
+Case 66807
+
+0
+
+5
+
+Case 66851
+
+0
+
+5
+
+Case 65751
+
+0
+
+8
+
+Case 66623
+
+0
+
+3
+
+Case 65793
+
+0
+
+3
+
+Case 66240
+
+0
+
+4
+
+Case 66790
+
+0
+
+3
+
+Case 66995
+
+0
+
+3
+
+Case 66473
+
+0
+
+4
+
+Case 66464
+
+0
+
+7
+
+Case 66370
+
+0
+
+4
+
+Westlite Juniper Dormitory
+
+0
+
+15
+
+Case 64697
+
+0
+
+76
+
+Case 66293
+
+0
+
+3
+
+Case 65882
+
+0
+
+4
+
+Case 66142
+
+0
+
+3
+
+Case 66450
+
+0
+
+3
+
+Case 66458
+
+0
+
+4
+
+Case 66482
+
+0
+
+4
+
+Case 66915
+
+0
+
+6
+
+Case 66538
+
+0
+
+4
+
+Case 66517
+
+0
+
+3
+
+Case 66487
+
+0
+
+4
+
+Case 66468
+
+0
+
+3
+
+Case 66462
+
+0
+
+3
+
+Case 66215
+
+0
+
+4
+
+Case 66106
+
+0
+
+3
+
+Case 66377
+
+0
+
+5
+
+Case 66435
+
+0
+
+6
+
+Case 65893
+
+0
+
+6
+
+Case 66542
+
+0
+
+3
+
+Case 66413
+
+0
+
+4
+
+Case 64752
+
+0
+
+8
+
+PSC Express Pte Ltd
+
+0
+
+5
+
+Case 66259
+
+0
+
+4
+
+Case 65360
+
+0
+
+10
+
+Case 65695
+
+0
+
+3
+
+Case 65721
+
+0
+
+4
+
+Case 66007
+
+0
+
+4
+
+Apex Medical Centre (Jurong)
+
+0
+
+3
+
+Case 65754
+
+0
+
+3
+
+Case 65979
+
+0
+
+3
+
+Case 65132
+
+0
+
+3
+
+Case 66168
+
+0
+
+3
+
+Case 65846
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+Case 65484
+
+0
+
+5
+
+Case 65365
+
+0
+
+3
+
+Case 64735
+
+0
+
+6
+
+Case 65231
+
+0
+
+4
+
+Case 64599
+
+0
+
+6
+
+Case 64782
+
+0
+
+3
+
+Case 64850
+
+0
+
+3
+
+Khoi Grill & Hotpot
+
+0
+
+8
+
+Case 64642
+
+0
+
+3
+
+* Please refer to Annex A for the affected markets and food centres.
+11.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 5 AUGUST 2021
+
+------------------------------------------------------------------------
+
+[1] Incorporates re-classifications of earlier reported cases.
+[2] Based on National Immunisation Registry data.
+[3] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[5] Incorporates re-classifications of earlier reported cases.
+[6] Includes new cases added today.
