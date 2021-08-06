@@ -102,6 +102,7 @@ FIGURE 12: Number of Imported Cases by Detected Upon Arrival/ Detected
 during SHN or Isolation
 [Figure12_2Aug]
 ACTIVE CLUSTERS UNDER MONITORING
+
 10.     There are 10 new clusters today. In total, there are currently
 93 active clusters, ranging between 3 and 1,072 infections.
 FIGURE 13: Number of Active Clusters
