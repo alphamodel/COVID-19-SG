@@ -26,8 +26,7 @@ Quarantined/ Detected through Surveillance¹
 
 [Fig1_7Aug]
 
-Progress of national vaccination programme
-
+PROGRESS OF NATIONAL VACCINATION PROGRAMME
 4.      As of 6 August 2021, 68% of our population has completed their
 full regimen/ received two doses of COVID-19 vaccines under the national
 vaccination programme, and 79% has received at least one dose. In total,
@@ -36,6 +35,7 @@ under the national vaccination programme, covering 4,351,541
 individuals, with 3,744,802 individuals having completed the full
 vaccination regimen. In addition, 129,787 doses of Sinovac vaccines have
 been administered as of 6 August 2021, covering 81,555 individuals.
+
 FIGURE 2: Percentage of Total Population who Received At Least First
 Dose² and Completed Full Regimen³
 [Fig2_7Aug]
@@ -52,9 +52,7 @@ COVID-19 Vaccine by Age Group
 FIGURE 5: Total number of doses administered
 [Fig5_7Aug]
 
-
 CONDITION OF CONFIRMED CASES
-
 5.     529 cases are currently warded in hospital. Most are well and
 under observation. There are currently 38 cases of serious illness
 requiring oxygen supplementation, and 4 in critical condition in the
@@ -70,20 +68,28 @@ Hospital on 23 July after testing positive for COVID-19 infection. She
 had not been vaccinated against COVID-19, and had a history of
 diabetes, hypertension and atrial fibrillation. In total, 42 have passed
 away from complications due to COVID-19 infection.
+
 FIGURE 6: Number of Active Cases in ICU or Requiring Oxygen
 Supplementation
 [Fig6_7Aug]
 
 FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
-Supplementation, by Age Group
-[Fig7_7Aug]
+Supplementation, by Age Group[Fig7_7Aug]
+
+
+
+
 
 FIGURE 8: Local Cases in the Last 28 Days by Vaccination Status &
 Severity of Condition⁴
+
 [Fig8_7Aug]
+
+
 
 FIGURE 9: Deaths and Active Cases in ICU or Requiring Oxygen
 Supplementation, by Vaccination Status⁴
+
 [Fig9_7Aug]
 
 SUMMARY OF TRENDS FOR LOCAL CASES
@@ -906,7 +912,5 @@ vaccine or one dose for vaccinated recovered individuals.
 4 Fully vaccinated - more than 14 days after completing vaccination
 regimen (both doses of the vaccine or one dose for recovered
 individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
-or COVID-positive within 14 days of completing vaccination regimen.
-5 Incorporates re-classifications of earlier reported cases.
-
-
+or COVID-positive within 14 days of completing vaccination
+regimen.5 Incorporates re-classifications of earlier reported cases.
