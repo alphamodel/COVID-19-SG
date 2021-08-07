@@ -140,7 +140,7 @@ during SHN or Isolation
 
 ACTIVE CLUSTERS UNDER MONITORING
 
-10.   There are 5 new clusters today. In total, there are currently 126
+10.   There are 5 new clusters today. In total, there are currently 127
 active clusters, ranging between 3 and 1,134 infections. As there have
 been no more cases linked to Case 64599 cluster for the past two
 incubation periods (i.e. 28 days), the cluster has now been closed.
@@ -236,6 +236,12 @@ Case 67436
 2
 
 6
+
+ Case 67463
+
+ 0
+
+ 3
 
 Case 67476
 
