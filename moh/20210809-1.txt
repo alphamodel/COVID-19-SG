@@ -1,32 +1,90 @@
-No Appointment Needed At Pfizer-biontech/comirnaty Vaccination Centres
+Clarifications In Response to Queries On (1) Eligibility for Dining In
+F&b Outlets; and (2) Recognition of the World Health Organization’s
+Emergency Use Listing (who Eul) Vaccines
 
 
 
-NO APPOINTMENT NEEDED AT PFIZER-BIONTECH/COMIRNATY VACCINATION CENTRES
+CLARIFICATIONS IN RESPONSE TO QUERIES ON (1) ELIGIBILITY FOR DINING IN F&B OUTLETS; AND (2) RECOGNITION OF THE WORLD HEALTH ORGANIZATION’S EMERGENCY USE LISTING (WHO EUL) VACCINES
 
 
 Published Date: 09 Aug 2021
 
-         We have made good progress in our national COVID-19 vaccination
-programme thus far. As of 8 August 2021, 70% of the population have
-completed their full vaccination regimen under the national vaccination
-programme and 79% of the population have received at least one dose.
-2.      Since mid-July, seniors aged 60 and above have been allowed to
-walk into any vaccination centre, polyclinic or participating Public
-Health Preparedness Clinic to receive their vaccination without an
-appointment. From 2 August, all Singaporeans, Permanent Residents, and
-Long-Term Pass holders aged 18 years old and above have also been
-allowed to walk in to any of our 11 community vaccination centres
-offering the Moderna COVID-19 vaccine without a prior appointment.
-3.      From 10 August 2021, to make it more convenient to get
-vaccinated, all Singaporeans, Permanent Residents, and Long-Term Pass
-holders aged 12 years old and above who have yet to come forward for
-their first dose will be able to walk in to any of the 26 vaccination
-centres offering the Pfizer-BioNTech/Comirnaty COVID-19 vaccine without
-a prior appointment.
-4.      Vaccination remains a key enabler in our fight against COVID-19.
-We urge all who are eligible to be vaccinated. Individuals can also
-continue to book appointments at http://www.vaccine.gov.sg to get
-vaccinated.
-MINISTRY OF HEALTH
-9 AUGUST 2021
+(1) ELIGIBLE DINERS FOR DINING-IN IN F&B OUTLETS
+1.     At the Multi-Ministry Task Force (MTF) press conference on 6
+August 2021, the Multi-Ministry Taskforce announced that F&B
+establishments are permitted to seat
+fully vaccinated diners in groups of up to 5 persons. “Fully vaccinated”
+means two weeks after receiving a full regimen of the
+Pfizer-BioNTech/Comirnaty or Moderna vaccines, or any of the vaccines on
+the WHO EUL listing, with the vaccination status updated in MOH’s
+national IT system as indicated in Section (2) below.
+2.     In addition, the following individuals are eligible to dine-in at
+F&B establishments if they:
+a.  Have recovered from COVID-19 and have a valid Pre-Event Test (PET)
+exemption notice¹; or
+b. Have a negative PET result for the duration of his/her dine-in² from
+an MOH-approved COVID-19 test provider within the last 24 hours; or
+c.  Are children aged 12 years and below, so long as all children at a
+given table are from the same household.
+3.     MOH and ESG would like to clarify that F&B ESTABLISHMENTS ARE NOT
+ALLOWED TO ACCEPT ANY DINE-IN CUSTOMERS WHO DO NOT MEET THE CRITERIA IN
+(A)-(C) ABOVE.  Enforcement officers will be doing their checks, and
+will take strict enforcement actions against any F&B establishments and
+individuals who do not comply with these rules.
+4.     UNVACCINATED INDIVIDUALS WHO DO NOT MEET ANY OF CRITERIA (A)-(C)
+CAN DINE IN GROUPS OF UP TO 2 PERSONS ONLY AT COFFEESHOPS AND HAWKER
+CENTRES. For now, the concession for unvaccinated persons to dine
+applies SPECIFICALLY TO HAWKER CENTRES AND COFFEESHOPS³. We encourage
+unvaccinated individuals who dine at such locations to vigilantly
+maintain hand hygiene, and not to linger after their meals, in order to
+reduce their risk of contracting COVID-19.
+(2) UPDATING AND VERIFICATION OF VACCINE STATUS
+5.     All Singapore residents who obtained their
+Pfizer-BioNTech/Comirnaty or  Moderna locally would automatically have
+their vaccination records updated in the National Immunisation Registry
+(NIR), and reflected on the TraceTogether and HealthHub Apps from 10 Aug
+2021. This will also enable businesses using the SafeEntry (Business)
+App to easily verify the vaccination status of their customers.
+ Residents who received Sinovac locally will also be able to access
+their vaccination record on the HealthHub App from 10 Aug 2021, pending
+further updates to TraceTogether and the SafeEntry (Business) App.
+6.     Singaporeans, Permanent Residents and Long-Term Pass Holders
+(LTPHs) who have been fully vaccinated overseas (be it
+Pfizer-BioNTech/Comirnaty, Moderna, or any of the other vaccines under
+the WHO Emergency Use Listing) will have to provide documents showing
+proof of vaccination and take a serology test at an approved provider to
+confirm that the vaccination has been effective.  Upon a positive
+serology result, their vaccination record will be updated in the
+National Immunisation Registry (NIR), and reflected on their
+TraceTogether and HealthHub Apps.  More details on the process,
+including the list of the approved providers, can be found on MOH’s Post
+Vaccination Matters website.
+7.     We will have a separate process for Short-Term Visitor Pass
+holders who were vaccinated overseas to update their vaccination status
+on the NIR. This is still being worked out, and details will be released
+soon.
+8.     Hard copies of overseas vaccination certificates will not be
+accepted for the vaccination-differentiated safe management measures.
+This is because it will be difficult for individual establishments to
+verify the authenticity of these certificates which are issued in
+different formats and languages.
+9.     We look forward to the cooperation of all Singaporeans as we
+strive towards a COVID-resilient Singapore.
+
+------------------------------------------------------------------------
+
+¹Recovered individuals (within last 270 days) can obtain a PET Exemption
+Notice from any clinic offering ART or PCR testing services.  Refer to
+go.gov.sg/swabproviders for the list of MOH-approved COVID-19 test
+providers.
+
+²Unvaccinated individuals aged 13 or above must have a valid negative
+ART or PCR result from an MOH-approved COVID-19 test provider within the
+last 24 hours. Refer to go.gov.sg/swabproviders for the list of
+MOH-approved COVID-19 test providers. Self-administered ART (including
+those supervised by employers) are not recognised for
+vaccination-differentiated SMMs.
+³Coffee shops refer to F&B establishments with SFA coffee shop/ eating
+house/ canteen license.
+
+
