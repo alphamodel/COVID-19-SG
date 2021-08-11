@@ -8,6 +8,27 @@ UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (10 AUG 2021)
 
 Published Date: 10 Aug 2021
 
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · As of 10 August 2021, 12pm, the Ministry of Health (MOH) has        |
+| confirmed and verified that there are 53 cases of locally transmitted |
+| COVID-19 infection and 1 imported case.                               |
+|                                                                       |
+| · 508 cases are currently warded in hospital. Most are well and under |
+| observation. There are currently 32 cases of serious illness          |
+| requiring oxygen supplementation, and 11 in critical condition in the |
+| intensive care unit (ICU).                                            |
+|                                                                       |
+| · Over the last 28 days, the percentage of unvaccinated who became    |
+| severely ill or died is 8.4%, while that for the fully vaccinated is  |
+| 0.8%.                                                                 |
+|                                                                       |
+| · As of 9 August 2021, 72% of our population has completed their full |
+| regimen/ received two doses of COVID-19 vaccines, and 81% has         |
+| received at least one dose.                                           |
++-----------------------------------------------------------------------+
+
 UPDATE ON VACCINATION PROGRESS
         As of 9 August 2021, we have administered a total of 8,145,237
 doses of COVID-19 vaccines under the national vaccination programme
