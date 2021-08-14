@@ -92,14 +92,14 @@ vaccination if they are eligible but have not done so yet. The list of
 participating PHPCs can be found on www.vaccine.gov.sg.
 
 10.  From 10 August 2021, all Singaporeans, Permanent Residents, and
-Long-Term Pass holders aged 12 years old will be able to walk in to any
-of the vaccination sites offering the Pfizer-BioNTech/Comirnaty COVID-19
-vaccine without an appointment. As part of our continued efforts to make
-it more convenient for vaccinations, from 18 August 2021, all
-Singaporeans, Permanent Residents, and Long-Term Pass holders, aged 12
-years old and above, who have yet to receive their first dose will also
-be able to walk in to any polyclinic or participating PHPC without a
-prior appointment.
+Long-Term Pass holders aged 12 years old and above will be able to walk
+in to any of the vaccination sites offering the
+Pfizer-BioNTech/Comirnaty COVID-19 vaccine without an appointment. As
+part of our continued efforts to make it more convenient for
+vaccinations, from 18 August 2021, all Singaporeans, Permanent
+Residents, and Long-Term Pass holders, aged 12 years old and above, who
+have yet to receive their first dose will also be able to walk in to any
+polyclinic or participating PHPC without a prior appointment.
 
 OPENING VACCINATION TO SELECTED SHORT-TERM PASS HOLDERS
 
