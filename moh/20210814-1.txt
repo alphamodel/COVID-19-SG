@@ -1,46 +1,804 @@
-Community Surveillance Testing At 52 & 53 Chin Swee Road and 3 & 9 Jalan
-Kukoh
+Update On Local Covid-19 Situation and Vaccination Progress (14 Aug
+2021)
 
 
 
-COMMUNITY SURVEILLANCE TESTING AT 52 & 53 CHIN SWEE ROAD AND 3 & 9 JALAN KUKOH
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (14 AUG 2021)
 
 
 Published Date: 14 Aug 2021
 
-    The Ministry of Health (MOH) is investigating likely COVID-19
-transmission at 52 and 53 Chin Swee Road[1], and 3 and 9 Jalan Kukoh. So
-far, five cases of COVID-19 infection have been detected in two
-households at 52 Chin Swee Road. Separately, three cases of COVID-19
-infection in three households and seven cases of COVID-19 infection in
-four households, have been detected at 3 and 9 Jalan Kukoh,
-respectively. Epidemiological investigations are ongoing to determine
-linkages and the source of transmission.
-2.  In order to uncover community infection cases, MOH will
-conduct mandatory COVID-19 testing for all residents of 52 and 53 Chin
-Swee Road, and 3 and 9 Jalan Kukoh; as well as owners and staff of
-commercial units at these blocks. As an added precautionary measure,
-mandatory COVID-19 testing will also be conducted for all staff and
-cleaners working at Jalan Kukoh Food Centre (1 Jalan Kukoh). Testing is
-optional for those who have tested negative for COVID-19 infection from
-11 August onwards.
-3.  Mandatory testing will be conducted on 15 August between 9am to 4pm
-at the void deck between 51 and 53 Chin Swee Road, and from 15 August to
-16 August between 9am to 4pm at the level 4 void deck of 9 Jalan Kukoh,
-respectively.
-4.  All residents are to bring along their NRIC for identification
-purposes.Leaflets have been distributed and SMS notifications have been
-sent to the residents to provide them with more information. Residents
-are reminded to keep to their appointment time. Residents are also
-advised to monitor their health closely and consult a doctor immediately
-if they feel unwell. Those who are still awaiting their test results are
-advised to minimise social interactions as much as possible. They should
-continue to monitor their health and seek immediate medical attention if
-they feel unwell.
+SUMMARY OF LOCAL SITUATION
 
+-   As of 14 August 2021, 12pm, the Ministry of Health (MOH) has
+    confirmed and verified that there are 57 cases of locally
+    transmitted COVID-19 infection and 1 imported case.
+-   451 cases are currently warded in hospital. Most are well and under
+    observation. There are currently 26 cases of serious illness
+    requiring oxygen supplementation, and 9 in critical condition in the
+    intensive care unit (ICU).
+-   Over the last 28 days, the percentage of unvaccinated who became
+    severely ill or died is 9.5%, while that for the fully vaccinated is
+    1.0%.
+-   As of 13 August 2021, 75% of our population has completed their full
+    regimen/ received two doses of COVID-19 vaccines, and 81% has
+    received at least one dose.
+
+UPDATE ON VACCINATION PROGRESS
+
+       As of 13 August 2021, we have administered a total of 8,343,303
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,413,484 individuals,
+with 4,058,584 individuals having completed the full vaccination
+regimen.
+
+2.    In addition, 145,688 doses of other vaccines recognised in the
+World Health Organization’s Emergency Use Listing (WHO EUL) have been
+administered as of 13 August 2021, covering 83,327 individuals. In
+total, 75% of our population has completed their full regimen/ received
+two doses of COVID-19 vaccines, and 81% has received at least one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
+[Fig1_14 Aug]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+[Fig2_14 Aug]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+[Fig3_14 Aug]
+FIGURE 4: Total number of doses administered
+[Fig4_14 Aug]
+CONDITION OF HOSPITALISED CASES
+3.   451 cases are currently warded in hospital. There are currently 26
+cases of serious illness requiring oxygen supplementation, and 9 in
+critical condition in the ICU. 6 amongst these 35 cases are fully
+vaccinated. Of those who have fallen very ill, 31 are seniors above 60
+years, of whom 25 are completely unvaccinated or partially vaccinated.
+FIGURE 5: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig5_14 Aug]
+FIGURE 6: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig6_14 Aug]
+4.   There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 9.5%, while that for the fully vaccinated is 1.0%.
+FIGURE 7: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig7_14 Aug]
+FIGURE 8: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+[Fig8_14 Aug]
+LOCALLY TRANSMITTED COVID-19 CASES
+5.   There are 57 cases of locally transmitted COVID-19 infection today.
+29 are linked to previous cases, and have already been placed on
+quarantine. 11 are linked to previous cases and were detected through
+surveillance. 17 are currently unlinked.
+6.   There is 1 imported cases, have already been placed on Stay-Home
+Notice (SHN) or isolated upon arrival in Singapore. In total, there are
+58 new cases of COVID-19 infection in Singapore today.
+FIGURE 9: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance⁵
+[Fig9_14 Aug]
+SUMMARY OF TRENDS FOR LOCAL CASES
+7.   Overall, the number of new cases in the community has decreased
+from 611 cases in the week before to 377 cases in the past week. The
+number of unlinked cases in the community has also decreased from 166
+cases in the week before to 101 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 39.4 and 14.4 respectively.
+FIGURE 10: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases5
+[Fig10_14 Aug]
+FIGURE 11: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig11_14 Aug]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.   There is 1 imported case today, who was detected and isolated upon
+arrival in Singapore.
+FIGURE 12: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig12_14 Aug]
+ACTIVE CLUSTERS UNDER MONITORING
+9. There are 3 new clusters today, and 8 clusters that have closed.
+There are currently 111 active clusters, ranging between 3 and 1,155
+infections.
+FIGURE 13: Number of Active Clusters
+[Fig13_14 Aug]
+FIGURE 14: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁶
+
+Case 67302_(new cluster)_
+
+1
+
+3
+
+Bishan Bus Interchange staff_(new cluster)_
+
+5
+
+9
+
+Sengkang Bus Interchange staff_(new cluster)_
+
+4
+
+13
+
+Case 68131
+
+1
+
+4
+
+SAFRA Tampines
+
+3
+
+15
+
+My First Skool (54 Chin Swee Road)
+
+5
+
+17
+
+Superland Pre-School (Kreta Ayer Community Centre)
+
+2
+
+13
+
+Sin Ming 23 Coffee Shop
+
+1
+
+15
+
+Zuellig Pharma
+
+2
+
+12
+
+Case 66567
+
+1
+
+34
+
+Westlite Mandai Dormitory
+
+3
+
+14
+
+Case66838
+
+1
+
+4
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre*
+
+1
+
+1,155
+
+North Bridge Road Market & Food Centre
+
+1
+
+14
+
+Case 67045
+
+0
+
+3
+
+Case 67353
+
+0
+
+5
+
+NKF Dialysis Centre (Sakyadhita)
+
+0
+
+9
+
+Case67982
+
+0
+
+7
+
+Case 67981
+
+0
+
+3
+
+Case 66215
+
+0
+
+6
+
+Westlite Juniper Dormitory
+
+0
+
+48
+
+Case 67343
+
+0
+
+40
+
+Samy’s Curry Restaurant
+
+0
+
+61
+
+Punggol Primary School
+
+0
+
+17
+
+Marina Bay Sands Casino
+
+0
+
+65
+
+Elsie’s Kitchen
+
+0
+
+6
+
+Jem
+
+0
+
+6
+
+CHIJ Katong Convent
+
+0
+
+10
+
+Kian Hiap Construction
+
+0
+
+15
+
+Case66449
+
+0
+
+21
+
+Case 67704
+
+0
+
+4
+
+Chee Song Frozen Foods
+
+0
+
+7
+
+Case 67651
+
+0
+
+8
+
+Case 67283
+
+0
+
+12
+
+Case 66244
+
+0
+
+8
+
+Case 67425
+
+0
+
+5
+
+Home’s Favourite Pte Ltd
+
+0
+
+16
+
+Case 67738
+
+0
+
+3
+
+Nimble/Knead
+
+0
+
+7
+
+Case 66542
+
+0
+
+4
+
+Case 67436
+
+0
+
+7
+
+Case 67582
+
+0
+
+9
+
+Changi General Hospital
+
+0
+
+4
+
+Case 66764
+
+0
+
+4
+
+Case 66804
+
+0
+
+6
+
+Case 66844
+
+0
+
+9
+
+Case 67278
+
+0
+
+5
+
+Case 67276
+
+0
+
+7
+
+Case 67476
+
+0
+
+6
+
+Case 66998
+
+0
+
+4
+
+Case 65687
+
+0
+
+3
+
+Case 66996
+
+0
+
+3
+
+Case 67143
+
+0
+
+3
+
+Case 67161
+
+0
+
+3
+
+Case 67388
+
+0
+
+3
+
+Case 67471
+
+0
+
+5
+
+Case 67534
+
+0
+
+4
+
+Case 67041
+
+0
+
+6
+
+Case 67051
+
+0
+
+5
+
+Case 66707
+
+0
+
+5
+
+Case 66766
+
+0
+
+3
+
+Case 66922
+
+0
+
+3
+
+Case 67014
+
+0
+
+3
+
+Case 67069
+
+0
+
+3
+
+Case 67236
+
+0
+
+3
+
+Case 66774
+
+0
+
+7
+
+Case 67048
+
+0
+
+8
+
+Institution S2 Selarang Park Complex
+
+0
+
+8
+
+KTV lounges/clubs
+
+0
+
+252
+
+Case 65972
+
+0
+
+4
+
+Case 66940
+
+0
+
+4
+
+Case 67017
+
+0
+
+3
+
+Case 67078
+
+0
+
+3
+
+Case 67227
+
+0
+
+3
+
+Seng Leong Steel (Ent) Pte Ltd
+
+0
+
+5
+
+Case 66754
+
+0
+
+5
+
+Case 67085
+
+0
+
+4
+
+Case 67204
+
+0
+
+3
+
+Case 67297
+
+0
+
+3
+
+Case 65952
+
+0
+
+5
+
+Case 66929
+
+0
+
+5
+
+Case 66868
+
+0
+
+3
+
+Case 66888
+
+0
+
+3
+
+Case 66913
+
+0
+
+3
+
+Case 67004
+
+0
+
+4
+
+Yishun Community Hospital
+
+0
+
+4
+
+Case 66391
+
+0
+
+3
+
+Case 66713
+
+0
+
+3
+
+Case 66784
+
+0
+
+4
+
+Case 66807
+
+0
+
+5
+
+Case 65751
+
+0
+
+8
+
+Case 66623
+
+0
+
+3
+
+Case 65793
+
+0
+
+3
+
+Case 66240
+
+0
+
+4
+
+Case 66790
+
+0
+
+3
+
+Case 66995
+
+0
+
+3
+
+Case 66464
+
+0
+
+7
+
+Case 64697
+
+0
+
+76
+
+Case 66293
+
+0
+
+3
+
+Case 66142
+
+0
+
+3
+
+Case 66538
+
+0
+
+4
+
+Case 66468
+
+0
+
+3
+
+Case 66377
+
+0
+
+5
+
+Case 65893
+
+0
+
+6
+
+PSC Express Pte Ltd
+
+0
+
+5
+
+Case 65360
+
+0
+
+10
+
+Apex Medical Centre (Jurong)
+
+0
+
+3
+
+Case 65979
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+Case 64850
+
+0
+
+3
+
+* Yuhua Market & Hawker Centre is currently linked to this cluster.
+
+10.   Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 14 AUGUST 2021
 
-------------------------------------------------------------------------
+1\  Based on National Immunisation Registry data.
+2\  Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+3\  Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+4\  Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+5\  Incorporates re-classifications of earlier reported cases.
+6\  Includes new cases added today.
 
-1 52 and 53 Chin Swee Road are connected.
+
