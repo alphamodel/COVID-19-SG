@@ -1,24 +1,90 @@
-48 New Cases of Locally Transmitted Covid-19 Infection
+Vaccination-differentiated Approach for Visitors At All Hospitals
 
 
 
-48 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+VACCINATION-DIFFERENTIATED APPROACH FOR VISITORS AT ALL HOSPITALS
 
 
 Published Date: 16 Aug 2021
 
-        As of 16 August 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 48 new cases of locally transmitted COVID-19
-infection. 32 are linked to previous cases, and have already been placed
-on quarantine. 7 are linked to previous cases and were detected through
-surveillance. 9 are currently unlinked.
-2.     In addition, there are 5 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-All were detected upon arrival in Singapore.
-3.      In total, there are 53 new cases of COVID-19 infection in
-Singapore today.
-4.      We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
-MINISTRY OF HEALTH
-16 AUGUST 2021
+To protect hospital patients from COVID-19 infection, a
+vaccination-differentiated visitation approach for hospital wards will
+be implemented at all hospitals from 19 August 2021 to further reduce
+importation risk of COVID-19 into our hospitals. This would also help to
+safeguard hospital capacity as Singapore transitions into a COVID-19
+resilient nation. The measures complement existing measures, namely
+routine testing for hospital staff and admitted patients, which had been
+implemented from May 2021, and the Vaccinate or Regular Test regime for
+hospital staff which will come into effect from 1 October 2021.
+2. To reduce the risk of COVID-19 clusters in the hospitals, the current
+visitation duration of 30 minutes will be maintained for all visitors,
+regardless of vaccination status. Each patient can register up to two
+visitors for each admission. Each patient can receive up to two visits
+per day and only one visitor is allowed at the bedside. Patients who are
+very ill will be allowed five registered visitors for each admission,
+with two visitors allowed at the bedside each time. Exception will be
+given to visitors of the following patient groups to extend their visit
+beyond 30 minutes¹, on a conditional, case-by-case basis, as assessed by
+the hospital:
+a. Paediatric patients;
+b. Birthing/post-partum mothers; and
+c. Patients requiring additional care support from care givers.  For
+example, assistance of inpatients who have mental incapacities, visitors
+involved in caregiver training, etc.
+3. Fully vaccinated² visitors as well as persons who have recovered from
+COVID-19 and have a valid Pre-Event Test (PET) exemption notice³ will be
+able to enter the hospital wards without the need for a pre-visit
+COVID-19 test from 19 August 2021. Vaccinated visitors will be required
+to show their vaccination status on HealthHub or the TraceTogether app
+as proof of vaccination. Screenshots will not be allowed.
+4. Partially vaccinated individuals have not attained sufficient immune
+protection from COVID-19 vaccination and will be at risk for being
+infected, or may infect hospital patients when they visit their loved
+ones. From 1 October 2021, they will be required to show a negative
+pre-visit COVID-19 test result before being allowed to visit the
+hospital wards. Between now and 30 September 2021, they will be
+temporarily exempted from the testing requirement.
+5. Unvaccinated visitors should ensure they obtain a self-paid pre-visit
+COVID-19 test prior to visiting the hospital wards. They will not be
+allowed to enter hospital wards unless they can show a valid negative
+antigen rapid test (ART) or polymerase chain reaction (PCR) test result
+obtained within the last 24 hours of the visit, as administered or
+supervised by Ministry of Health (MOH)-approved COVID-19 test providers⁴
+(including employer directed tests performed at the Quick Test Centres).
+6. Pre-visit COVID-19 testing can be done at any MOH-approved ART
+provider⁵.  From 1 September 2021, hospitals may also assist
+unvaccinated visitors to make advanced testing arrangement for pre-visit
+test at the Quick Test Centres (QTCs). The date and time of the
+appointment slot will be dependent on the daily availability of slots at
+the respective QTCs. Visitors will need to pay for the pre-visit tests.
+7. Visitors who are unwell or symptomatic should not visit patients in
+hospital wards, regardless of their vaccination status.
+8. Under exceptional and time-sensitive situations, such as visiting
+patients with sudden life-threatening conditions, unexpected child
+birth/delivery, individuals or elderly with severe physical limitations
+which restrict their access to pre-visit testing providers, hospitals
+may exercise discretion to assist unvaccinated visitors with ART testing
+on a case-by-case basis.
+9. MOH will calibrate the visitor management measures regularly and we
+seek the understanding of all visitors, as the measures will protect the
+patients and reduce the risk of COVID-19 transmission in our hospitals.
+
+[1] Visitors who are allowed to extend their visit beyond 30 minutes
+will be required to obtain a valid negative COVID-19 test result
+regardless of their vaccination status.
+[2] An individual is considered fully vaccinated two weeks after he or
+she has received the full regimen of Pfizer-BioNTech/ Comirnaty,
+Moderna, Sinovac (if contraindicated for the PSAR vaccines) or WHO EUL
+vaccines. Unvaccinated individuals who have recovered from COVID-19
+within the last 270 days will also be exempted from pre-visit test.
+[3] Recovered individuals (within last 270 days) can obtain a PET
+Exemption Notice from any clinic offering ART or PCR testing services.
+
+[4] Negative results obtained from self-administered ART test and
+self-administered ART test performed under supervision by parties other
+than MOH-approved COVID-19 test providers are not recognised for
+pre-visit testing.
+[5] Please refer to go.gov.sg/swabproviders for the updated list of
+MOH-approved providers. Visitors should contact the clinic to confirm
+that they provide self-paid ART tests before visiting the clinic.
+
