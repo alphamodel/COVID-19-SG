@@ -1,62 +1,683 @@
-Covid-19 Vaccination Extended to Eligible Short-term Pass Holders
+Update On Local Covid-19 Situation and Vaccination Progress (18 Aug
+2021)
 
 
 
-COVID-19 VACCINATION EXTENDED TO ELIGIBLE SHORT-TERM PASS HOLDERS
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (18 AUG 2021)
 
 
 Published Date: 18 Aug 2021
 
-       Over the past few months, we have made good progress on our
-vaccination programme.  As of 16 Aug, 76% of our population has received
-the full vaccination regimen and 82% have received at least one dose.
-Daily administration is coming down, to about 40,000 doses a day,
-compared to 80,000 at its peak.
-2.    From 18 August 2021, we will extend the COVID-19 national
-vaccination programme further, to short-term pass holders (STPHs) who
-have been in Singapore for an extended period of time. Although their
-stay in Singapore is temporary, vaccinating this group would further
-strengthen the resilience of our society against COVID-19.
-3.    The groups included comprise short-term work pass and special pass
-holders, such as those on Training Employment Passes (TEPs), Training
-Work Permits (TWP), Work Holiday Passes (WHP) and Special Passes. It
-will also be made available to eligible Short-Term Visit Pass (STVP)
-holders who have been in Singapore for at least 60 days continuously,
-many of whom who were unable to return because of global travel
-restrictions during the pandemic.
-VACCINATION REGISTRATION PROCESS
-Short-Term Work Pass and Special Pass holders
-4.      All age-eligible TEP, TWP, WHP, and Special Pass holders may
-walk-in to any of the vaccination centres to receive their first dose
-without a prior appointment. They should bring along identifying
-documents such as their passport and their work/special passes for
-verification. These pass holders will not be notified by Ministry of
-Health (MOH). They will not be able to walk-in to polyclinics or
-participating PHPCs.
-Short-Term Visit Pass holders
-5.      Eligible STVP holders who have valid phone numbers registered
-with the Government will receive an SMS from MOH via their registered
-mobile number. The SMS, that will be sent progressively over the coming
-days, will include a personalised booking link to vaccine.gov.sg where
-individuals can book their appointments. They will not be able to
-walk-in to any of the vaccination sites without an appointment.
-6.      STVP holders with valid pass extensions who do not receive an
-SMS from MOH by 22 Aug may request for an appointment by sending MOH
-supporting immigration documentation via www.vaccine.gov.sg/appeal. We
-will review such requests on a case-by-case basis over the next few
-weeks, after receiving these requests.
-7.      The eligible STPH groups mentioned above may view their
-vaccination status in the TraceTogether App from late-September 2021
-onwards.
-VACCINATION WILL BE PROVIDED FREE
-8.      COVID-19 vaccination will be provided free for eligible STPHs.
-However, they will not qualify for the Vaccine Injury Financial
-Assistance Programme for COVID-19 Vaccination. Any medical bills
-incurred by them following the vaccination appointment will also be
-subject to the prevailing charging policies.
-9.      As more of our population get vaccinated and the local situation
-remains under control, we can stay on track to further re-opening and
-progress as a nation towards COVID resilience.
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · As of 18 August 2021, 12pm, the Ministry of Health (MOH) has        |
+| confirmed and verified that there are 49 cases of locally transmitted |
+| COVID-19 infection and 4 imported cases.                              |
+|                                                                       |
+| · 402 cases are currently warded in hospital. Most are well and under |
+| observation. There are currently 26 cases of serious illness          |
+| requiring oxygen supplementation, and 6 in critical condition in the  |
+| intensive care unit (ICU).                                            |
+|                                                                       |
+| · Over the last 28 days, the percentage of unvaccinated who became    |
+| severely ill or died is 8.8%, while that for the fully vaccinated is  |
+| 1.5%.                                                                 |
+|                                                                       |
+| · As of 17 August 2021, 77% of our population has completed their     |
+| full regimen/ received two doses of COVID-19 vaccines, and 82% has    |
+| received at least one dose.                                           |
++-----------------------------------------------------------------------+
+
+UPDATE ON VACCINATION PROGRESS
+        As of 17 August 2021, we have administered a total of 8,486,232
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,447,250 individuals,
+with 4,170,573 individuals having completed the full vaccination
+regimen.
+2.      In addition, 153,020 doses of other vaccines recognised in the
+World Health Organization’s Emergency Use Listing (WHO EUL) have been
+administered as of 17 August 2021, covering 84,172 individuals. In
+total, 77% of our population has completed their full regimen/ received
+two doses of COVID-19 vaccines, and 82% has received at least one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose[1] and Completed Full Regimen[2] of NVP and WHO EUL Vaccines[3]
+[Fig1(18Aug21)]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+
+[Fig2(18Aug21)]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+
+[Fig3(18Aug21)]
+CONDITION OF HOSPITALISED CASES
+3.      402 cases are currently warded in hospital. There are currently
+26 cases of serious illness requiring oxygen supplementation, and 6 in
+critical condition in the ICU. Of those who have fallen very ill, 27 are
+seniors above 60 years, of whom 22 are completely unvaccinated or
+partially vaccinated.
+4.      Case 67560, a 64 year-old male Singaporean, has passed away from
+complications due to COVID-19 infection on 16 August 2021. He had
+developed a cough on 2 August, and was conveyed to Raffles Hospital on 3
+August after suffering heart problems. He had not been vaccinated
+against COVID-19, and had a history of End Stage Renal Failure,
+ischaemic cardiomyopathy, hypertension and hyperlipidaemia.
+5.      In total, 46 have passed away from complications due to COVID-19
+infection.
+
+FIGURE 4: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig4(18Aug21)]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig5(18Aug21)]
+
+6.      There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 8.8%, while that for the fully vaccinated is 1.5%.
+
+FIGURE 6: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition[4]
+[Fig6(18Aug21)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+
+[Fig7(18Aug21)]
+
+LOCALLY TRANSMITTED COVID-19 CASES
+7.      There are 49 cases of locally transmitted COVID-19 infection
+today. 23 are linked to previous cases, and have already been placed on
+quarantine. 7 are linked to previous cases and were detected through
+surveillance. 19 are currently unlinked.
+8.      There are 4 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. In total,
+there are 53 new cases of COVID-19 infection in Singapore today.
+FIGURE 8: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance[5]
+[Fig8(18Aug21)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+9.     Overall, the number of new cases in the community has decreased
+from 448 cases in the week before to 316 cases in the past week. The
+number of unlinked cases in the community has also decreased from 125
+cases in the week before to 94 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 31.7 and 13.4 respectively.
+FIGURE 9: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases[5]
+
+[Fig9(18Aug21)]
+
+FIGURE 10: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig10(18Aug21)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+10.     There are a total of 4 imported cases. Of these, 3 were detected
+upon arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+FIGURE 11: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[Fig11(18Aug21)]
+ACTIVE CLUSTERS UNDER MONITORING
+11.     There is 1 new cluster today, and 7 clusters have closed. There
+are currently 87 active clusters, ranging between 3 and 1,155
+infections.
+FIGURE 12: Number of Active Clusters
+[Fig12(18Aug21)]
+
+FIGURE 13: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL[6]
+
+Case 68431 _(new cluster)_
+
+3
+
+5
+
+Westlite Juniper Dormitory
+
+1
+
+66
+
+Sengkang Bus Interchange staff
+
+1
+
+20
+
+My First Skool (54 Chin Swee Road)
+
+1
+
+38
+
+Case 67278
+
+2
+
+7
+
+Case 67343
+
+1
+
+41
+
+Superland Pre-School (Kreta Ayer Community Centre)
+
+1
+
+16
+
+43 Sungei Kadut Loop dormitory
+
+0
+
+14
+
+Chee Song Frozen Foods
+
+0
+
+8
+
+Case 67651
+
+0
+
+9
+
+North Bridge Road Market & Food Centre
+
+0
+
+16
+
+Bishan Bus Interchange staff
+
+0
+
+15
+
+Kian Hiap Construction
+
+0
+
+17
+
+SAFRA Tampines
+
+0
+
+17
+
+Sin Ming 23 Coffee Shop
+
+0
+
+17
+
+Marina Bay Sands Casino
+
+0
+
+66
+
+Case 67143
+
+0
+
+4
+
+KTV lounges/clubs
+
+0
+
+253
+
+Case 67302
+
+0
+
+3
+
+Case 68131
+
+0
+
+4
+
+Zuellig Pharma
+
+0
+
+12
+
+Case 66567
+
+0
+
+34
+
+Westlite Mandai Dormitory
+
+0
+
+14
+
+Case 66838
+
+0
+
+4
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre*
+
+0
+
+1,155
+
+Case 67045
+
+0
+
+3
+
+Case 67353
+
+0
+
+5
+
+NKF Dialysis Centre (Sakyadhita)
+
+0
+
+9
+
+Case 67982
+
+0
+
+7
+
+Case 67981
+
+0
+
+3
+
+Case 66215
+
+0
+
+6
+
+Samy’s Curry Restaurant
+
+0
+
+61
+
+Punggol Primary School
+
+0
+
+17
+
+Elsie’s Kitchen
+
+0
+
+6
+
+Jem
+
+0
+
+6
+
+CHIJ Katong Convent
+
+0
+
+10
+
+Case 66449
+
+0
+
+21
+
+Case 67704
+
+0
+
+4
+
+Case 67283
+
+0
+
+12
+
+Case 66244
+
+0
+
+8
+
+Case 67425
+
+0
+
+5
+
+Home’s Favourite Pte Ltd
+
+0
+
+16
+
+Case 67738
+
+0
+
+3
+
+Nimble/Knead
+
+0
+
+7
+
+Case 66542
+
+0
+
+4
+
+Case 67436
+
+0
+
+7
+
+Case 67582
+
+0
+
+9
+
+Changi General Hospital
+
+0
+
+4
+
+Case 66764
+
+0
+
+4
+
+Case 66804
+
+0
+
+6
+
+Case 66844
+
+0
+
+9
+
+Case 67276
+
+0
+
+7
+
+Case 67476
+
+0
+
+6
+
+Case 66998
+
+0
+
+4
+
+Case 65687
+
+0
+
+3
+
+Case 66996
+
+0
+
+3
+
+Case 67161
+
+0
+
+3
+
+Case 67388
+
+0
+
+3
+
+Case 67471
+
+0
+
+5
+
+Case 67534
+
+0
+
+4
+
+Case 67041
+
+0
+
+6
+
+Case 67051
+
+0
+
+5
+
+Case 66707
+
+0
+
+5
+
+Case 66766
+
+0
+
+3
+
+Case 66922
+
+0
+
+3
+
+Case 67014
+
+0
+
+3
+
+Case 67069
+
+0
+
+3
+
+Case 67236
+
+0
+
+3
+
+Institution S2 Selarang Park Complex
+
+0
+
+8
+
+Case 65972
+
+0
+
+4
+
+Case 67078
+
+0
+
+3
+
+Seng Leong Steel (Ent) Pte Ltd
+
+0
+
+5
+
+Yishun Community Hospital
+
+0
+
+4
+
+Case 65751
+
+0
+
+8
+
+Case 66464
+
+0
+
+7
+
+Case 64697
+
+0
+
+76
+
+Case 66293
+
+0
+
+3
+
+Case 66142
+
+0
+
+3
+
+Case 66538
+
+0
+
+4
+
+Case 66468
+
+0
+
+3
+
+Case 66377
+
+0
+
+5
+
+Case 65893
+
+0
+
+6
+
+Case 65360
+
+0
+
+10
+
+Apex Medical Centre (Jurong)
+
+0
+
+3
+
+Case 65979
+
+0
+
+3
+
+Case 65791
+
+0
+
+4
+
+Case 65342
+
+0
+
+3
+
+* Yuhua Market & Hawker Centre is currently linked to this cluster.
+12.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 18 AUGUST 2021
+
+------------------------------------------------------------------------
+
+[1] Based on National Immunisation Registry data.
+[2] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+[3] Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[5] Incorporates re-classifications of earlier reported cases.
+
+[6] Includes new cases added today.
+
 
