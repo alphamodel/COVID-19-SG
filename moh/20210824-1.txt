@@ -45,7 +45,7 @@ Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
 [Fig 1_24 Aug]
 FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
 First Dose of NVP and WHO EUL Vaccines by Age Group
-[Fig 3_24 Aug]
+[Fig 2_24 Aug]
 FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
 and WHO EUL Vaccines by Age Group
 [Fig 3_24 Aug]
