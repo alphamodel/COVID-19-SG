@@ -1,32 +1,231 @@
-118 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation and Vaccination Progress (25 Aug
+2021)
 
 
 
-118 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (25 AUG 2021)
 
 
 Published Date: 25 Aug 2021
 
-       As of 25 August 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 118 new cases of locally transmitted COVID-19
+++
+|  |
+++
+
+UPDATE ON VACCINATION PROGRESS
+         As of 24 August 2021, we have administered a total of 8,619,767
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,486,367 individuals,
+with 4,261,137 individuals having completed the full vaccination
+regimen.
+2.      In addition, 161,563 doses of other vaccines recognised in the
+World Health Organization's Emergency Use Listing (WHO EUL) have been
+administered as of 24 August 2021, covering 85,242 individuals. In
+total, 78% of our population has completed their full regimen/ received
+two doses of COVID-19 vaccines, and 82% has received at least one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
+[Fig. 1 (25 Aug)]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+[Fig. 2 (25 Aug)]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+[Fig. 3 (25 Aug)]
+CONDITION OF HOSPITALISED CASES
+3.      350 cases are currently warded in hospital. There are currently
+19 cases of serious illness requiring oxygen supplementation, and 7 in
+critical condition in the ICU. Of those who have fallen very ill, 21 are
+seniors above 60 years, of whom 17 are completely unvaccinated or
+partially vaccinated.
+4.      Case 66762, an 86 year-old male Singaporean, has passed away
+from complications due to COVID-19 infection on 24 August 2021. His case
+was first reported on 28 July. He had been admitted to Tan Tock Seng
+Hospital for an unrelated medical condition on 1 July, and tested
+negative for COVID-19 multiple times. Another test taken on 28 July came
+back positive for COVID-19 infection.  He had been partially vaccinated
+against COVID-19, and had a history of cancer, cardiomyopathy, chronic
+kidney disease, hypertension and hyperlipidaemia.
+5.      Case 67995, a 95 year-old female Singaporean, has passed away
+from complications due to COVID-19 infection on 25 August 2021. Her case
+was first reported on 9 August. She had developed symptoms on 5 August,
+and tested positive for COVID-19 infection on 9 August after being
+admitted to the National Centre for Infectious Diseases. She had not
+been vaccinated against COVID-19, and had a history of Alzheimer's
+Disease.
+6.      In total, 52 have passed away from complications due to COVID-19
 infection.
-2.    26 of the cases are linked to the North Coast Lodge cluster, of
+FIGURE 4: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig. 4 (25 Aug)]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig. 5 (25 Aug)]
+7.     There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 9.2%, while that for the fully vaccinated is 1.5%.
+FIGURE 6: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig. 6 (25 Aug)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+[Fig. 7 (25 Aug)]
+LOCALLY TRANSMITTED COVID-19 CASES
+8.      There are 118 cases of locally transmitted COVID-19 infection
+today.
+9.      26 of the cases are linked to the North Coast Lodge cluster, of
 whom 25 have been placed on quarantine earlier. Of the remaining 92
 cases, 19 are linked to previous cases, and have already been placed on
 quarantine. 44 are linked to previous cases and were detected through
-surveillance. 29 are currently unlinked. Amongst the cases are 2 seniors
-above 70 years who are unvaccinated/ partially vaccinated, and are at
-risk of serious illness.
-3.    In addition, there are 2 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-1 was detected upon arrival in Singapore, while 1 developed the illness
-during SHN or isolation.
-4.   In total, there are 120 new cases of COVID-19 infection in
-Singapore today.
-5.    We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
+surveillance. 29 are currently unlinked.
+10.      There are 2 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. In total,
+there are 120 new cases of COVID-19 infection in Singapore today.
+FIGURE 8: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance⁵
+[Fig. 8 (25 Aug)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+11.      Overall, the number of new cases in the community has increased
+from 316 cases in the week before to 335 cases in the past week. The
+number of unlinked cases in the community has also increased from 81
+cases in the week before to 131 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 29.1 and 18.7 respectively.
+FIGURE 9: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+[Fig. 9 (25 Aug)]
+FIGURE 10: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig. 10 (25 Aug)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+12.      There are a total of 2 imported cases. Of these, 1 was detected
+upon arrival in Singapore, while 1 developed the illness during SHN or
+isolation.
+FIGURE 11: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig. 11 (25 Aug)]
+ACTIVE CLUSTERS UNDER MONITORING
+13.     There are no new clusters today, and 2 clusters have closed.
+There are currently 68 clusters, ranging between 3 and 1,155 infections.
+FIGURE 12: Number of Active Clusters
+[Fig. 12 (25 Aug)]
+FIGURE 13: List of Active Clusters
+
+  ---------------------------------------------------- ----------- --------
+  CLUSTER                                              NEW CASES   TOTAL⁶
+  Bugis Junction                                       38          61
+  Selarang Halfway House                               10          19
+  Case 68238                                           1           5
+  North Coast Lodge                                    26          112
+  Giant (683 Hougang Avenue 8)                         0           9
+  SAFRA Tampines                                       0           19
+  Superland Pre-School (Kreta Ayer Community Centre)   0           18
+  Bishan Bus Interchange staff                         0           19
+  FairPrice (Kallang Bahru)                            0           6
+  My First Skool (54 Chin Swee Road)                   0           40
+  Case 68669                                           0           3
+  Case 68646                                           0           4
+  Case 68647                                           0           5
+  Nimble/Knead                                         0           8
+  Sengkang Bus Interchange staff                       0           22
+  Westlite Juniper Dormitory                           0           71
+  Case 67343                                           0           42
+  Case 67220                                           0           32
+  Case 68431                                           0           7
+  43 Sungei Kadut Loop dormitory                       0           14
+  Chee Song Frozen Foods                               0           8
+  North Bridge Road Market & Food Centre               0           16
+  Kian Hiap Construction                               0           17
+  Sin Ming 23 Coffee Shop                              0           17
+  Marina Bay Sands Casino                              0           66
+  KTV lounges/clubs                                    0           253
+  Case 67302                                           0           3
+  Case 68131                                           0           4
+  Zuellig Pharma                                       0           12
+  Case 66567                                           0           34
+  Westlite Mandai Dormitory                            0           14
+  Case 66838                                           0           4
+  Jurong Fishery Port/ Hong Lim Market & Food Centre   0           1,155
+  Case 67045                                           0           3
+  Case 67353                                           0           5
+  NKF Dialysis Centre (Sakyadhita)                     0           9
+  Case 67982                                           0           7
+  Case 67981                                           0           3
+  Case 66215                                           0           6
+  Samy’s Curry Restaurant                              0           61
+  Punggol Primary School                               0           17
+  Elsie’s Kitchen                                      0           6
+  Jem                                                  0           6
+  CHIJ Katong Convent                                  0           10
+  Case 66449                                           0           21
+  Case 67704                                           0           4
+  Case 66244                                           0           8
+  Home’s Favourite Pte Ltd                             0           16
+  Case 67738                                           0           3
+  Case 66542                                           0           4
+  Case 67436                                           0           7
+  Changi General Hospital                              0           4
+  Case 66764                                           0           4
+  Case 67276                                           0           7
+  Case 66996                                           0           3
+  Case 67051                                           0           5
+  Case 66922                                           0           3
+  Case 67236                                           0           3
+  Institution S2 Selarang Park Complex                 0           8
+  Case 67078                                           0           3
+  Seng Leong Steel (Ent) Pte Ltd                       0           5
+  Yishun Community Hospital                            0           4
+  Case 66464                                           0           7
+  Case 66293                                           0           3
+  Case 66142                                           0           3
+  Case 66538                                           0           4
+  Case 66468                                           0           3
+  Case 66377                                           0           5
+  ---------------------------------------------------- ----------- --------
+
+Closure of BHG Bugis Junction
+14.      MOH is investigating cases of COVID-19 infection amongst
+individuals who work in or visited Bugis Junction. A total of 61 cases
+are currently linked to the cluster, with 38 new cases added today. Of
+the 61 cases, 51 are staff who work in Bugis Junction, of whom 46 are
+staff of BHG, and 10 are visitors to the mall. To break any potential
+chain of transmission and enable deep cleaning of the premises, the
+closure of BHG Bugis Junction to all members of the public will be
+extended for another 5 days until 30 August 2021 (inclusive).
+15.      Staff who have been working in affected shops at Bugis Junction
+are being tested, and close contacts of confirmed cases will be
+quarantined. To uncover any community infection cases, we announced
+yesterday that we are extending free COVID-19 testing to members of the
+public who had visited the retail shops or used the services/ facilities
+at Bugis Junction between 17 August and 24 August.
+Selarang Halfway House cluster
+16.      10 new cases are linked to the Selarang Halfway House cluster
+today, with a total of 19 cases. Of these, 17 are supervisees at
+Selarang Halfway House, and 2 are household or workplace contacts of
+supervisees. All staff of Selarang Halfway House and residents of the
+affected block have been tested for COVID-19, and all close contacts of
+cases and supervisees living in the same block will be placed on
+quarantine.
+17.      Please refer to MOH's daily Situation Report
+(http://www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 25 AUGUST 2021
+
+------------------------------------------------------------------------
+
+[1] Based on National Immunisation Registry data.
+[2] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+[3] Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated - received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[5] Incorporates re-classifications of earlier reported cases.
+[6] Includes new cases added today.
 
 

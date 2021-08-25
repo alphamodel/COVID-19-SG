@@ -1,46 +1,45 @@
-Termination of Rafflesia Dental Surgery From Chas
+Statement On Cybersecurity Incident At Eye & Retina Surgeons
 
 
 
-TERMINATION OF RAFFLESIA DENTAL SURGERY FROM CHAS
+STATEMENT ON CYBERSECURITY INCIDENT AT EYE & RETINA SURGEONS
 
 
 Published Date: 25 Aug 2021
 
-       The Ministry of Health (MOH) has, on 5 August 2021, served a
-notice of intended termination on Rafflesia Dental Pte Ltd, for the
-intended termination of Rafflesia Dental Surgery from the Community
-Health Assist Scheme (CHAS). The termination will take effect from 28
-August 2021.
-2.     Audits on Rafflesia Dental Surgery (100 Jalan Sultan #01-04A
-Sultan Plaza) conducted in late 2020 revealed severe non-compliances,
-including numerous improper claims for CHAS subsidies with no proper
-supporting documentation and overclaims[1].
-3.     The termination from CHAS means that Rafflesia Dental Surgery
-will no longer be allowed to make claims for CHAS subsidies on behalf of
-its patients. Affected patients may wish to visit other nearby CHAS
-accredited dental clinics instead.
-4.     MOH encourages patients to actively engage their doctors and
-dentists if they have any queries on their bills. CHAS, Pioneer
-Generation and Merdeka Generation cardholders who wish to check on
-claims for CHAS subsidies made on their behalf, may do so by logging
-into the “MY CHAS” module on the CHAS website (www.chas.sg) or by
-calling the CHAS hotline (1800-275-2427).
-5.     If they come across any suspicious or unusual claims for CHAS
-subsidies made on their behalf, they may contact MOH at 1800-225-4122 or
-send their feedback to MOH_QSM@moh.gov.sg. MOH also reminds healthcare
-professionals to uphold a high standard of professionalism and to adhere
-to their Ethical Code and Ethical Guidelines.
-6.     MOH takes a serious view of such errant practices and will not
-hesitate to take enforcement actions where required, including referral
-of the errant healthcare professionals to their respective professional
-boards. We have referred this case to the Police for further
-investigation.
-MINISTRY OF HEALTH
-25 AUGUST 2021
-
-------------------------------------------------------------------------
-
-[1] Claims reflecting a higher subsidy amount in the claims system than
-in the receipts
-
+The Ministry of Health (MOH) was informed on 16 August 2021 that Eye &
+Retina Surgeons (ERS), a specialist medical clinic, was the target of a
+ransomware attack on 6 August 2021. The incident affected its clinic
+server and clinic management system which managed more than 73,000
+patients. The clinic’s compromised IT systems are not connected to MOH’s
+IT systems, such as the National Electronic Health Record, and there
+have been no similar cyberattacks on MOH’s IT systems.
+2. ERS made a Police report on 13 August 2021. The incident was also
+reported to the Personal Data Protection Commission and Singapore
+Computer Emergency Response Team for further investigations. Upon
+notification, MOH had requested ERS to investigate the incident, carry
+out a thorough review of its systems and work with the Cyber Security
+Agency to take immediate mitigating actions to strengthen its cyber
+defence.
+3. The Government takes a serious view of any cyberattack, illegal
+access of data or action that compromises the integrity, confidentiality
+and availability of data and IT systems in Singapore. Section 12(1) of
+the Private Hospitals and Medical Clinics Regulations states that
+licensees shall implement adequate safeguards (whether administrative,
+technical or physical) to protect medical records against accidental or
+unlawful loss, modification or destruction, or unauthorised access,
+disclosure, copying, use or modification, as well as to periodically
+monitor and evaluate such safeguards in place to ensure that they are
+effective and being complied with by the persons involved in handling
+medical records.
+4. MOH had also issued a set of Healthcare Cybersecurity Essentials
+guidelines in August 2021 to remind all licensees to establish and
+constantly review their security safeguards, implement new measures as
+necessary and adopt best practices to secure their endpoints and IT
+systems. Following this incident, MOH will be reminding all its licensed
+healthcare institutions to remain vigilant, strengthen their
+cybersecurity posture, and ensure the security and integrity of their IT
+assets, systems, and patient data. It is only through the disciplined
+maintenance of a safe and secure data and IT system that healthcare
+professionals will be able to deliver accurate and appropriate care, and
+uphold patient safety.
