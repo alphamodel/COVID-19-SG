@@ -48,6 +48,7 @@ First Dose of NVP and WHO EUL Vaccines by Age Group
 [Fig 3_24 Aug]
 FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
 and WHO EUL Vaccines by Age Group
+[Fig 3_24 Aug]
 CONDITION OF HOSPITALISED CASES
 3.    339 cases are currently warded in hospital. There are currently 20
 cases of serious illness requiring oxygen supplementation, and 7 in
