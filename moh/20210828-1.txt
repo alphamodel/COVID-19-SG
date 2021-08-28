@@ -1,33 +1,532 @@
-Community Surveillance Testing At 113 Ang Mo Kio Avenue 4
+Update On Local Covid-19 Situation and Vaccination Progress (28 Aug)
 
 
 
-COMMUNITY SURVEILLANCE TESTING AT 113 ANG MO KIO AVENUE 4
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (28 AUG)
 
 
 Published Date: 28 Aug 2021
 
-   The Ministry of Health (MOH) is investigating likely COVID-19
-transmission at 113 Ang Mo Kio Avenue 4. So far, nine cases of COVID-19
-infection have been detected in five households at 113 Ang Mo Kio Avenue
-4. Epidemiological investigations are ongoing to determine linkages and
-the source of transmission.
+SUMMARY OF LOCAL SITUATION
 
-2.  In order to uncover community infection cases, MOH will
-conduct mandatory COVID-19 testing for all residents of 113 Ang Mo Kio
-Avenue 4. Testing is optional for those who have tested negative for
-COVID-19 infection from 25 August onwards. Mandatory testing will be
-conducted on 29 August 2021 between 9am and 4pm at the void deck of 113
-Ang Mo Kio Avenue 4.
-3.  All residents are to bring along their NRIC for identification
-purposes.Leaflets have been distributed and SMS notifications have been
-sent to the residents to provide them with more information. Residents
-are reminded to keep to their appointment time. Residents are also
-advised to monitor their health closely and consult a doctor immediately
-if they feel unwell. Those who are awaiting their test results are
-advised to minimise social interactions as much as possible. They should
-continue to monitor their health and seek immediate medical attention if
-they feel unwell.
+-   As of 28 August 2021, 12pm, the Ministry of Health (MOH) has
+    confirmed and verified that there are 113 cases of locally
+    transmitted COVID-19 infection and 8 imported cases.
 
+-   389 cases are currently warded in hospital. Most are well and under
+    observation. There are currently 16 cases of serious illness
+    requiring oxygen supplementation, and 6 in critical condition in the
+    intensive care unit (ICU).
+
+-   Over the last 28 days, the percentage of unvaccinated who became
+    severely ill or died is 9.2%, while that for the fully vaccinated is
+    1.2%.
+
+-   As of 27 August 2021, 79% of our population has completed their full
+    regimen/ received two doses of COVID-19 vaccines, and 83% has
+    received at least one dose.
+
+UPDATE ON VACCINATION PROGRESS
+         As of 27 August 2021, we have administered a total of 8,667,278
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,500,430 individuals,
+with 4,291,659 individuals having completed the full vaccination
+regimen.
+2.      In addition, 164,336 doses of other vaccines recognised in the
+World Health Organization's Emergency Use Listing (WHO EUL) have been
+administered as of 27 August 2021, covering 85,489 individuals. In
+total, 79% of our population has completed their full regimen/ received
+two doses of COVID-19 vaccines, and 83% has received at least one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
+[Fig 1. (28 Aug)]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+[Fig 2. (28 Aug)]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+[Fig 3. (28 Aug)]
+CONDITION OF HOSPITALISED CASES
+3.     389 cases are currently warded in hospital. There are currently
+16 cases of serious illness requiring oxygen supplementation, and 6 in
+critical condition in the ICU. Of those who have fallen very ill, 16 are
+seniors above 60 years, of whom 11 are completely unvaccinated or
+partially vaccinated.
+FIGURE 4: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig 4. (28 Aug)]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig 5. (28 Aug)]
+4.     There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 9.2%, while that for the fully vaccinated is 1.2%.
+FIGURE 6: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig 6. (28 Aug)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+[Fig 7. (28 Aug)]
+LOCALLY TRANSMITTED COVID-19 CASES
+5.     There are 113 cases of locally transmitted COVID-19 infection
+today. 25 of the cases are linked to the Bugis Junction cluster. Of the
+remaining 88 cases, 32 are linked to previous cases, and have already
+been placed on quarantine. 27 are linked to previous cases and were
+detected through surveillance. 29 are currently unlinked.
+6.     There are 8 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. In total,
+there are 121 new cases of COVID-19 infection in Singapore today.
+FIGURE 8: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance⁵
+[Fig 8. (28 Aug)]
+SUMMARY OF TRENDS FOR LOCAL CASES
+7.     Overall, the number of new cases in the community has increased
+from 260 cases in the week before to 551 cases in the past week. The
+number of unlinked cases in the community has also increased from 82
+cases in the week before to 144 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 58.1 and 20.6 respectively.
+FIGURE 9: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+[Fig 9. (28 Aug)]
+FIGURE 10: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig 10. (28 Aug)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.     There are a total of 8 imported cases. Of these, 4 were detected
+upon arrival in Singapore, while 4 developed the illness during SHN or
+isolation.
+FIGURE 11: Number of Imported Cases by Detected Upon Arrival/Detected
+during SHN or Isolation
+[Fig 11. (28 Aug)]
+ACTIVE CLUSTERS UNDER MONITORING
+9.     There are 2 new clusters today, and 2 clusters have closed. There
+are currently 66 clusters, ranging between 3 and 1,155 infections.
+FIGURE 12: Number of Active Clusters
+[Fig 12. (28 Aug)]
+FIGURE 13: List of Active Clusters
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁶
+
+Jurong East Bus Interchange staff (new cluster)
+
+11
+
+14
+
+Homestay Lodge (new cluster)
+
+3
+
+5
+
+Tuas South Lodge
+
+1
+
+5
+
+Clementi Bus Interchange staff
+
+1
+
+8
+
+Toa Payoh Bus Interchange staff
+
+3
+
+33
+
+Punggol Bus Interchange staff
+
+4
+
+21
+
+Bugis Junction
+
+25
+
+176
+
+Selarang Halfway House
+
+3
+
+30
+
+North Coast Lodge
+
+8
+
+139
+
+Sengkang Bus Interchange staff
+
+1
+
+24
+
+Westlite Juniper Dormitory
+
+1
+
+72
+
+Bangkit 257 Coffee House (257 Bangkit Road)
+
+1
+
+4
+
+Case 68669
+
+0
+
+4
+
+Bishan Bus Interchange staff
+
+0
+
+24
+
+Case 68238
+
+0
+
+5
+
+Giant (683 Hougang Avenue 8)
+
+0
+
+9
+
+SAFRA Tampines
+
+0
+
+19
+
+Superland Pre-School (Kreta Ayer Community Centre)
+
+0
+
+18
+
+FairPrice (Kallang Bahru)
+
+0
+
+6
+
+My First Skool (54 Chin Swee Road)
+
+0
+
+40
+
+Case 68646
+
+0
+
+4
+
+Case 68647
+
+0
+
+5
+
+Nimble/Knead
+
+0
+
+8
+
+Case 67343
+
+0
+
+42
+
+Case 67220
+
+0
+
+32
+
+Case 68431
+
+0
+
+7
+
+43 Sungei Kadut Loop dormitory
+
+0
+
+14
+
+Chee Song Frozen Foods
+
+0
+
+8
+
+North Bridge Road Market & Food Centre
+
+0
+
+16
+
+Kian Hiap Construction
+
+0
+
+17
+
+Sin Ming 23 Coffee Shop
+
+0
+
+17
+
+Marina Bay Sands Casino
+
+0
+
+66
+
+KTV lounges/clubs
+
+0
+
+253
+
+Case 67302
+
+0
+
+3
+
+Case 68131
+
+0
+
+4
+
+Zuellig Pharma
+
+0
+
+12
+
+Case 66567
+
+0
+
+34
+
+Westlite Mandai Dormitory
+
+0
+
+14
+
+Case 66838
+
+0
+
+4
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre
+
+0
+
+1,155
+
+Case 67045
+
+0
+
+3
+
+Case 67353
+
+0
+
+5
+
+NKF Dialysis Centre (Sakyadhita)
+
+0
+
+9
+
+Case 67982
+
+0
+
+7
+
+Case 67981
+
+0
+
+3
+
+Samy’s Curry Restaurant
+
+0
+
+61
+
+Punggol Primary School
+
+0
+
+17
+
+Elsie’s Kitchen
+
+0
+
+6
+
+Jem
+
+0
+
+6
+
+CHIJ Katong Convent
+
+0
+
+10
+
+Case 66449
+
+0
+
+21
+
+Case 67704
+
+0
+
+4
+
+Case 66244
+
+0
+
+8
+
+Case 67738
+
+0
+
+3
+
+Case 67436
+
+0
+
+7
+
+Changi General Hospital
+
+0
+
+4
+
+Case 66764
+
+0
+
+4
+
+Case 67276
+
+0
+
+7
+
+Case 66996
+
+0
+
+3
+
+Case 67051
+
+0
+
+5
+
+Case 66922
+
+0
+
+3
+
+Case 67236
+
+0
+
+3
+
+Institution S2 Selarang Park Complex
+
+0
+
+8
+
+Case 67078
+
+0
+
+3
+
+Seng Leong Steel (Ent) Pte Ltd
+
+0
+
+5
+
+Yishun Community Hospital
+
+0
+
+4
+
+10.     Please refer to MOH's daily Situation Report
+(http://www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 28 AUGUST 2021
+
+------------------------------------------------------------------------
+
+[1] Based on National Immunisation Registry data.
+[2] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+[3] Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated - received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+[5] Incorporates re-classifications of earlier reported cases.
+[6] Includes new cases added today.
+
