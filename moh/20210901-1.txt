@@ -1,27 +1,548 @@
-177 New Cases of Locally Transmitted Covid-19 Infection
+Update On Local Covid-19 Situation and Vaccination Progress (1 Sep 2021)
 
 
 
-177 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (1 SEP 2021)
 
 
 Published Date: 01 Sep 2021
 
-        As of 1 September 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 177 new cases of locally transmitted COVID-19
-infection.
-2.     54 are linked to previous cases, and have already been placed on
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · As of 1 September 2021, 12pm, the Ministry of Health (MOH) has      |
+| confirmed and verified that there are 177 cases of locally            |
+| transmitted COVID-19 infection and 3 imported cases.                  |
+|                                                                       |
+| · 499 cases are currently warded in hospital. Most are well and under |
+| observation. There are currently 22 cases of serious illness          |
+| requiring oxygen supplementation, and 5 in critical condition in the  |
+| intensive care unit (ICU).                                            |
+|                                                                       |
+| · Over the last 28 days, the percentage of unvaccinated who became    |
+| severely ill or died is 8.3%, while that for the fully vaccinated is  |
+| 1.1%.                                                                 |
+|                                                                       |
+| · As of 31 August 2021, 80% of our population has completed their     |
+| full regimen/ received two doses of COVID-19 vaccines, and 83% has    |
+| received at least one dose.                                           |
++-----------------------------------------------------------------------+
+
+UPDATE ON VACCINATION PROGRESS
+        As of 31 August 2021, we have administered a total of 8,722,819
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,515,469 individuals,
+with 4,328,804 individuals having completed the full vaccination
+regimen.
+2.     In addition, 167,898 doses of other vaccines recognised in the
+World Health Organization’s Emergency Use Listing (WHO EUL) have been
+administered as of 31 August 2021, covering 85,786 individuals. In
+total, 80% of our population has completed their full regimen/ received
+two doses of COVID-19 vaccines, and 83% has received at least one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
+
+[Fig1(1Sep21)]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+
+[Fig2(1Sep21)]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+[Fig3(1Sep21)]
+CONDITION OF HOSPITALISED CASES
+3.     499 cases are currently warded in hospital. There are currently
+22 cases of serious illness requiring oxygen supplementation, and 5 in
+critical condition in the ICU. Of those who have fallen very ill, 18 are
+seniors above 60 years, of whom 9 are completely unvaccinated or
+partially vaccinated.
+FIGURE 4: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+
+[Fig4(1Sep21)]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig5(1Sep21)]
+4.     There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 8.3%, while that for the fully vaccinated is 1.1%.
+FIGURE 6: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig6(1Sep21)]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+[Fig7(1Sep21)]
+LOCALLY TRANSMITTED COVID-19 CASES
+5.     There are 177 cases of locally transmitted COVID-19 infection
+today. 54 are linked to previous cases, and have already been placed on
 quarantine. 33 are linked to previous cases and were detected through
-surveillance. 90 are currently unlinked. Amongst the cases is 1 senior
-above 70 years who is unvaccinated, and is at risk of serious illness.
-3.     In addition, there are 3 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-All of them developed the illness during SHN or isolation.
-4.     In total, there are 180 new cases of COVID-19 infection in
-Singapore today.
-5.     We are still working through the details of the cases, and
-further updates will be shared via the MOH press release that will be
-issued tonight.
+surveillance. 90 are currently unlinked.
+6.     There are 3 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. In total,
+there are 180 new cases of COVID-19 infection in Singapore today.
+FIGURE 8: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance⁵
+[Fig8(1Sep21)]
+
+SUMMARY OF TRENDS FOR LOCAL CASES
+7.     Overall, the number of new cases in the community has increased
+from 335 cases in the week before to 845 cases in the past week. The
+number of unlinked cases in the community has also increased from 112
+cases in the week before to 253 cases in the past week. The 7-day moving
+average number of all linked community cases and all unlinked community
+cases are 84.6 and 36.1 respectively.
+FIGURE 9: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+[Fig9(1Sep21)]
+
+FIGURE 10: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig10(1Sep21)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.     There are a total of 3 imported cases. All of them developed the
+illness during SHN or isolation.
+FIGURE 11: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+
+[Fig11(1Sep21)]
+ACTIVE CLUSTERS UNDER MONITORING
+9.     There are no new clusters today, and 2 clusters have closed.
+There are currently 68 clusters, ranging between 3 and 1,155 infections.
+FIGURE 12: Number of Active Clusters
+[Fig12(1Sep21)]
+FIGURE 13: List of Active Clusters
+CLUSTER
+
+NEW CASES
+
+TOTAL⁶
+
+Case 69739
+
+3
+
+7
+
+Case 69690
+
+4
+
+7
+
+Tampines Bus Interchange staff
+
+3
+
+23
+
+Institute of Mental Health
+
+6
+
+14
+
+Boon Lay Bus Interchange staff
+
+9
+
+66
+
+Jurong East Bus Interchange staff
+
+2
+
+28
+
+North Coast Lodge
+
+6
+
+174
+
+Bugis Junction
+
+9
+
+233
+
+Toa Payoh Bus Interchange staff
+
+8
+
+93
+
+Bishan Bus Interchange staff
+
+1
+
+28
+
+Punggol Bus Interchange staff
+
+2
+
+32
+
+Clementi Bus Interchange staff
+
+4
+
+20
+
+Homestay Lodge
+
+0
+
+14
+
+Bangkit 257 Coffee House (257 Bangkit Road)
+
+0
+
+5
+
+119 Neythal Road dormitory
+
+0
+
+15
+
+Selarang Halfway House
+
+0
+
+32
+
+Tuas South Lodge
+
+0
+
+6
+
+Westlite Juniper Dormitory
+
+0
+
+74
+
+Case 68647
+
+0
+
+6
+
+43 Sungei Kadut Loop dormitory
+
+0
+
+19
+
+Sengkang Bus Interchange staff
+
+0
+
+24
+
+Case 68669
+
+0
+
+4
+
+Case 68238
+
+0
+
+5
+
+Giant (683 Hougang Avenue 8)
+
+0
+
+9
+
+SAFRA Tampines
+
+0
+
+19
+
+Superland Pre-School (Kreta Ayer Community Centre)
+
+0
+
+18
+
+FairPrice (Kallang Bahru)
+
+0
+
+6
+
+My First Skool (54 Chin Swee Road)
+
+0
+
+40
+
+Case 68646
+
+0
+
+4
+
+Nimble/Knead
+
+0
+
+8
+
+Case 67343
+
+0
+
+42
+
+Case 67220
+
+0
+
+32
+
+Case 68431
+
+0
+
+7
+
+Chee Song Frozen Foods
+
+0
+
+8
+
+North Bridge Road Market & Food Centre
+
+0
+
+16
+
+Kian Hiap Construction
+
+0
+
+17
+
+Sin Ming 23 Coffee Shop
+
+0
+
+17
+
+Marina Bay Sands Casino
+
+0
+
+66
+
+KTV lounges/clubs
+
+0
+
+253
+
+Case 67302
+
+0
+
+3
+
+Case 68131
+
+0
+
+4
+
+Zuellig Pharma
+
+0
+
+12
+
+Case 66567
+
+0
+
+34
+
+Westlite Mandai Dormitory
+
+0
+
+14
+
+Case 66838
+
+0
+
+4
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre
+
+0
+
+1,155
+
+Case 67045
+
+0
+
+3
+
+Case 67353
+
+0
+
+5
+
+NKF Dialysis Centre (Sakyadhita)
+
+0
+
+9
+
+Case 67982
+
+0
+
+7
+
+Case 67981
+
+0
+
+3
+
+Samy’s Curry Restaurant
+
+0
+
+61
+
+Punggol Primary School
+
+0
+
+17
+
+Elsie’s Kitchen
+
+0
+
+6
+
+Jem
+
+0
+
+6
+
+CHIJ Katong Convent
+
+0
+
+10
+
+Case 66449
+
+0
+
+21
+
+Case 67704
+
+0
+
+4
+
+Case 66244
+
+0
+
+8
+
+Case 67738
+
+0
+
+3
+
+Case 67436
+
+0
+
+7
+
+Changi General Hospital
+
+0
+
+4
+
+Case 66764
+
+0
+
+4
+
+Case 67276
+
+0
+
+7
+
+Case 66996
+
+0
+
+3
+
+Case 67051
+
+0
+
+5
+
+Case 66922
+
+0
+
+3
+
+Case 67236
+
+0
+
+3
+
+10.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 1 SEPTEMBER 2021
 
+------------------------------------------------------------------------
+
+¹ Based on National Immunisation Registry data.
+² Full regimen refers to individuals who have received both doses of the
+vaccine or one dose for vaccinated recovered individuals.
+³ Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+⁴ Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+⁵ Incorporates re-classifications of earlier reported cases.
+⁶ Includes new cases added today.
