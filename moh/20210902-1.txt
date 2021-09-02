@@ -32,15 +32,14 @@ Published Date: 02 Sep 2021
 
 UPDATE ON VACCINATION PROGRESS
 
-1.     As of 1 September 2021, we have administered a total of 8,723,215
+1.     As of 1 September 2021, we have administered a total of 8,735,507
 doses of COVID-19 vaccines under the national vaccination programme
-(Pfizer-BioNTech Comirnaty and Moderna), covering 4,515,703 individuals,
-with 4,328,031 individuals having completed the full vaccination
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,518,968 individuals,
+with 4,336,867 individuals having completed the full vaccination
 regimen.
-
-2.     In addition, 168,230 doses of other vaccines recognised in the
+2.     In addition, 168,484 doses of other vaccines recognised in the
 World Health Organization’s Emergency Use Listing (WHO EUL) have been
-administered as of 1 September 2021, covering 85,874 individuals. In
+administered as of 1 September 2021, covering 85,860 individuals. In
 total, 80% of our population has completed their full regimen/ received
 two doses of COVID-19 vaccines, and 83% has received at least one dose.
 
