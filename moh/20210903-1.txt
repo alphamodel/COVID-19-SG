@@ -1,76 +1,489 @@
-Expert Committee On Covid-19 Vaccination Recommends An Additional Dose
-of Mrna Covid-19 Vaccine for Immunocompromised and Seniors
+Update On Local Covid-19 Situation and Vaccination Progress (3 Sep 2021)
 
 
 
-EXPERT COMMITTEE ON COVID-19 VACCINATION RECOMMENDS AN ADDITIONAL DOSE OF MRNA COVID-19 VACCINE FOR IMMUNOCOMPROMISED AND SENIORS
+UPDATE ON LOCAL COVID-19 SITUATION AND VACCINATION PROGRESS (3 SEP 2021)
 
 
 Published Date: 03 Sep 2021
 
-1.    The Expert Committee on COVID-19 Vaccination (EC19V) has been
-closely reviewing the data regarding the need for additional vaccine
-doses and recommends the following:
+SUMMARY OF LOCAL SITUATION
 
-a.    Persons with moderate to severe immunocompromise should receive a
-third dose of the same Pandemic Special Access Route (PSAR) mRNA vaccine
-two months after their second dose as part of their primary course of
-vaccination, and,
-b.    Persons aged 60 years and above, as well as residents of aged care
-facilities should receive a booster dose of a PSAR mRNA vaccine six to
-nine months after the completion of vaccination with two doses
+-   As of 3 September 2021, 12pm, the Ministry of Health (MOH) has
+    confirmed and verified that there are 216 cases of locally
+    transmitted COVID-19 infection and 3 imported cases.
+-   580 cases are currently warded in hospital. Most are well and under
+    observation. There are currently 20 cases of serious illness
+    requiring oxygen supplementation, and 5 in critical condition in the
+    intensive care unit (ICU).
+-   Over the last 28 days, the percentage of unvaccinated who became
+    severely ill or died is 7.3%, while that for the fully vaccinated is
+    1.1%.
+-   As of 2 September 2021, 80% of our population has completed their
+    full regimen/ received two doses of COVID-19 vaccines, and 83% has
+    received at least one dose.
 
-PERSONS WITH MODERATE TO SEVERE IMMUNOCOMPROMISE
-2.    Immunocompromised persons are at risk of severe COVID-19, and a
-protective immune response from vaccination will be important to reduce
-this.
-3.    There is evidence that persons with moderate to severe
-immunocompromise have a blunted immune response to the two-dose COVID-19
-vaccination. Studies have shown that a third dose increases the
-likelihood that immunocompromised persons develop a robust protective
-immune response.
-4.    As such, EC19V recommends that persons who are significantly
-immunocompromised receive a third dose of the same PSAR mRNA vaccine
-they had received for the first two doses, two months after their second
-dose. This will include persons with the following conditions:
+UPDATE ON VACCINATION PROGRESS
+    As of 2 September 2021, we have administered a total of 8,747,866
+doses of COVID-19 vaccines under the national vaccination programme
+(Pfizer-BioNTech Comirnaty and Moderna), covering 4,522,530 individuals,
+with 4,344,810 individuals having completed the full vaccination
+regimen.
+2. In addition, 169,254 doses of other vaccines recognised in
+the World Health Organization’s Emergency Use Listing (WHO EUL) have
+been administered as of 2 September 2021, covering 85,953 individuals.
+In total, 80% of our population has completed their full regimen/
+received two doses of COVID-19 vaccines, and 83% has received at least
+one dose.
+FIGURE 1: Percentage of Total Population who Received At Least First
+Dose¹ and Completed Full Regimen² of NVP and WHO EUL Vaccines³
+[Fig1_3 Sep]
+FIGURE 2: Percentage of Vaccinated Individuals who Received At Least
+First Dose of NVP and WHO EUL Vaccines by Age Group
+[Fig2_3 Sep]
+FIGURE 3: Percentage of Individuals who Completed Full Regimen of NVP
+and WHO EUL Vaccines by Age Group
+[Fig3_3 Sep]
+CONDITION OF HOSPITALISED CASES
+3. 580 cases are currently warded in hospital. There are
+currently 20 cases of serious illness requiring oxygen supplementation,
+and 5 in critical condition in the ICU. Of those who have fallen very
+ill, 19 are seniors above 60 years, of whom 11 are completely
+unvaccinated or partially vaccinated.
+FIGURE 4: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation
+[Fig4_3 Sep]
+FIGURE 5: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Age Group
+[Fig5_3 Sep]
+4. There is continuing evidence that almost all fully-vaccinated
+individuals do not suffer serious disease when infected, unless if they
+had underlying medical conditions that made them more susceptible. Over
+the last 28 days, the percentage of unvaccinated who became severely ill
+or died is 7.3%, while that for the fully vaccinated is 1.1%.
+FIGURE 6: Local Cases in the Last 28 Days by Vaccination Status &
+Severity of Condition⁴
+[Fig6_3 Sep]
+FIGURE 7: Deaths and Active Cases in ICU or Requiring Oxygen
+Supplementation, by Vaccination Status
+[Fig7_3 Sep]
+LOCALLY TRANSMITTED COVID-19 CASES
+5. There are 187 cases of locally transmitted COVID-19 infection
+today. 56 are linked to previous cases, and have already been placed on
+quarantine. 18 are linked to previous cases and were detected through
+surveillance. 113 are currently unlinked.
+6. There are 4 imported cases, who have already been placed on
+Stay-Home Notice (SHN) or isolated upon arrival in Singapore. In total,
+there are 191 new cases of COVID-19 infection in Singapore today.
+FIGURE 8: Number of Local Unlinked Cases and Linked Cases by Already
+Quarantined/ Detected through Surveillance⁵
+[Fig8_3 Sep]
+SUMMARY OF TRENDS FOR LOCAL CASES
+7. Overall, the number of new cases in the community has
+increased from 484 cases in the week before to 1,020 cases in the past
+week. The number of unlinked cases in the community has also increased
+from 126 cases in the week before to 401 cases in the past week. The
+7-day moving average number of all linked community cases and all
+unlinked community cases are 88.4 and 57.3 respectively.
+FIGURE 9: 7 Day Moving Average Number of Community Unlinked and Linked
+Cases⁵
+[Fig9_3 Sep]
+FIGURE 10: Local Cases in the Last 14 Days by Age Group and Vaccination
+Status
+[Fig10_3 Sep]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8. There are a total of 4 imported cases. Of these, 1 was
+detected upon arrival in Singapore, while 3 developed the illness during
+SHN or isolation.
+FIGURE 11: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig11_3 Sep]
+ACTIVE CLUSTERS UNDER MONITORING
+9. There are no new clusters today, and 3 clusters have closed.
+There are currently 65 clusters, ranging between 3 and 1,155 infections.
+FIGURE 12: Number of Active Clusters
+[Fig12_3 Sep]
+FIGURE 13: List of Active Clusters
 
-a.  Transplant patients on medications that suppress the immune system,
-including solid organ and allogenic stem cell transplants
-b.  Cancer patients on active treatment with chemotherapy or on other
-therapies that suppress the immune system
-c.  Haematological cancers
-d.  Treatments for non-cancer conditions that suppress the immune system
-e.  End-stage kidney disease on dialysis
-f.  Advanced or untreated HIV
+CLUSTER
 
-5.     Persons who are significantly immunocompromised should be
-referred to receive the third dose by their doctors, who would have the
-best understanding of their medical condition.
+NEW CASES
 
-PERSONS AGED 60 YEARS AND ABOVE, AS WELL AS RESIDENTS OF AGED CARE
-FACILITIES
+TOTAL⁴
 
-6.    Seniors are also at risk of more severe disease with COVID-19
-infection, and ensuring a continued high level of immunity is therefore
-important. Seniors may develop a lower immune response to the initial
-two doses of vaccines, and immunity has also been observed to decline
-over time. While COVID-19 vaccination continues to provide a high level
-of protection against severe disease from infection, there is data that
-protection against asymptomatic and symptomatic infection can wane over
-time from the initial vaccination. The current strong protection against
-severe disease could decrease in the months ahead particularly for those
-who are at higher risk. A booster dose will increase the level of
-immunity and ensure that a high level of protection from severe disease
-is maintained across a longer period.
-7.    As such, EC19V recommends that persons aged 60 years and above, as
-well as residents of aged care facilities should receive a booster dose
-of a PSAR mRNA vaccine six to nine months after having completed a
-vaccination with two doses.
-8.    EC19V encourages immunocompromised persons to receive three doses
-as part of their primary series vaccination, and for seniors to receive
-a booster dose six to nine months after their second dose. This will
-help ensure high levels of protection against COVID-19 infection and
-severe disease. All other medically eligible persons should complete two
-doses of PSAR mRNA vaccines if they have not already done so.
-EXPERT COMMITTEE ON COVID-19 VACCINATION
+Changi General Hospital_(new cluster)_
+
+11
+
+14
+
+Case 69690
+
+4
+
+13
+
+Tampines Bus Interchange staff
+
+2
+
+27
+
+Boon Lay Bus Interchange staff
+
+12
+
+87
+
+Jurong East Bus Interchange staff
+
+1
+
+31
+
+North Coast Lodge
+
+1
+
+177
+
+Bugis Junction
+
+7
+
+254
+
+Toa Payoh Bus Interchange staff
+
+8
+
+115
+
+Bishan Bus Interchange staff
+
+1
+
+30
+
+Clementi Bus Interchange staff
+
+4
+
+29
+
+119 Neythal Road dormitory
+
+1
+
+19
+
+Case 69739
+
+1
+
+8
+
+Punggol Bus Interchange staff
+
+1
+
+33
+
+Institute of Mental Health
+
+0
+
+15
+
+Homestay Lodge
+
+0
+
+15
+
+Bangkit 257 Coffee House (257 Bangkit Road)
+
+0
+
+5
+
+Selarang Halfway House
+
+0
+
+32
+
+Tuas South Lodge
+
+0
+
+6
+
+Westlite Juniper Dormitory
+
+0
+
+74
+
+Case 68647
+
+0
+
+6
+
+43 Sungei Kadut Loop dormitory
+
+0
+
+19
+
+Sengkang Bus Interchange staff
+
+0
+
+25
+
+Case 68669
+
+0
+
+4
+
+Case 68238
+
+0
+
+5
+
+Giant (683 Hougang Avenue 8)
+
+0
+
+9
+
+SAFRA Tampines
+
+0
+
+19
+
+Superland Pre-School (Kreta Ayer Community Centre)
+
+0
+
+18
+
+FairPrice (Kallang Bahru)
+
+0
+
+6
+
+My First Skool (54 Chin Swee Road)
+
+0
+
+40
+
+Case 68646
+
+0
+
+4
+
+Nimble/Knead
+
+0
+
+8
+
+Case 67343
+
+0
+
+42
+
+Case 67220
+
+0
+
+32
+
+Case 68431
+
+0
+
+7
+
+Chee Song Frozen Foods
+
+0
+
+8
+
+North Bridge Road Market & Food Centre
+
+0
+
+16
+
+Kian Hiap Construction
+
+0
+
+17
+
+Sin Ming 23 Coffee Shop
+
+0
+
+17
+
+Marina Bay Sands Casino
+
+0
+
+66
+
+KTV lounges/clubs
+
+0
+
+253
+
+Case 67302
+
+0
+
+3
+
+Case 68131
+
+0
+
+4
+
+Zuellig Pharma
+
+0
+
+12
+
+Case 66567
+
+0
+
+34
+
+Case 66838
+
+0
+
+4
+
+Jurong Fishery Port/ Hong Lim Market & Food Centre
+
+0
+
+1,155
+
+Case 67045
+
+0
+
+3
+
+Case 67353
+
+0
+
+5
+
+NKF Dialysis Centre (Sakyadhita)
+
+0
+
+9
+
+Case67982
+
+0
+
+7
+
+Case 67981
+
+0
+
+3
+
+Elsie’s Kitchen
+
+0
+
+6
+
+Jem
+
+0
+
+6
+
+CHIJ Katong Convent
+
+0
+
+10
+
+Case 67704
+
+0
+
+4
+
+Case 66244
+
+0
+
+8
+
+Case 67738
+
+0
+
+3
+
+Changi General Hospital
+
+0
+
+4
+
+Case 66764
+
+0
+
+4
+
+10. Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+MINISTRY OF HEALTH
 3 SEPTEMBER 2021
+
+[1] Based on National Immunisation Registry data.
+
+[2] Full regimen refers to individuals who have received both doses of
+the vaccine or one dose for vaccinated recovered individuals.
+
+[3] Other vaccines recognised in the WHO EUL account for about 2% of the
+total population who received at least 1 dose and about 1% of total
+population who completed the full regimen.
+
+[4] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals). Partially vaccinated – received 1 dose of 2-dose vaccine
+or COVID-positive within 14 days of completing vaccination regimen.
+
+[5] Incorporates re-classifications of earlier reported cases.
+
+[6] Includes new cases added today.
