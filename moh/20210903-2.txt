@@ -116,7 +116,7 @@ our strategies to achieve protection against COVID-19 through
 vaccination, especially in light of the more transmissible variants that
 have emerged globally.
 14.    With the more transmissible Delta variant, it is not likely that
-countries can achieve herd immunity without a very high population
+countries can achieve herd protection without a very high population
 vaccination rate of well over 90%. There has also been emerging data on
 the waning of vaccine efficacy against infection with time. Although
 evidence globally and locally continues to show that vaccines are very
