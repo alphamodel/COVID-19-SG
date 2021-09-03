@@ -1,36 +1,195 @@
-216 New Cases of Locally Transmitted Covid-19 Infection
+Strengthening Our Tools to Achieve Covid Resilience
 
 
 
-216 NEW CASES OF LOCALLY TRANSMITTED COVID-19 INFECTION
+STRENGTHENING OUR TOOLS TO ACHIEVE COVID RESILIENCE
 
 
 Published Date: 03 Sep 2021
 
-     As of 3 September 2021, 12pm, the Ministry of Health (MOH) has
-preliminarily confirmed 216 new cases of locally transmitted COVID-19
-infection.
+    The easing of community measures as we exit Phase 2 (Heightened
+Alert) has led to an increase in COVID-19 cases, which is not
+unexpected. Nevertheless, the number of individuals with severe illness
+requiring oxygen supplementation and ICU remains under control. These
+point to our heightened COVID resilience – the ability to live with
+COVID-19 cases amongst us, with sufficient healthcare capacity for those
+of us who do fall ill. We will continue to strengthen our tools for
+achieving COVID resilience, by calibrating our safe management measures,
+testing more extensively and contact tracing more surgically to reduce
+and identify infections early. We will also begin transiting towards the
+next phase of our National Vaccination Programme by commencing a booster
+programme in September 2021.
 
-2.  56 are linked to previous cases, and have already been placed on
-quarantine. 51 are linked to previous cases and were detected through
-surveillance. 109 are currently unlinked. Amongst the cases are 2
-seniors above 70 years who are unvaccinated/ partially vaccinated, and
-are at risk of serious illness.
+UPDATES ON LOCAL COVID-19 SITUATION
 
-3.  In addition, there are 3 imported cases, who have already been
-placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
-2 were detected upon arrival in Singapore, while 1 developed the illness
-during SHN or isolation.
+2.    While COVID-19 case numbers have increased recently, the high
+vaccination coverage in our population has allowed us to keep the
+incidences of severe illnesses and deaths low thus far. This is
+particularly important for those who are vulnerable to COVID-19, such as
+our seniors. We will need to monitor the situation closely, as there is
+a time lag between the onset of infections to serious illnesses and
+deaths. In the meantime, we will stay in the current Preparatory Stage,
+while we refine our public health measures and embark on pilot projects
+such as the Vaccinated Travel Lane with Germany and Brunei and the home
+recovery scheme for infected individuals with mild or no symptoms.
+3.    Among the 2,369 infected individuals in the last 28 days, 1.1% of
+vaccinated persons had severe illness compared with 8.2% among
+unvaccinated persons. The number of persons requiring ICU has held
+stable at around 6 to 7 in the last week, with those requiring oxygen
+supplementation trending downwards.
+4.    We have also continued to make good progress on our National
+Vaccination Programme. As of 2 September 2021, 80% of our total
+population have completed their full regimenand 83% have received at
+least one dose of the COVID-19 vaccines. In terms of eligible
+population, 88% have completed their full regimen.
+5.    Coverage among our seniors continues to increase, and has also
+reached 84% for those aged 70 years and above, and 90% for those aged
+between 60 and 69 years. With such a high vaccination rate, and because
+it is still possible to get a post-vaccination infection, we must expect
+to see more vaccinated persons amongst our daily infection cases. But
+the proportion of vaccinated persons who become infected remains smaller
+than the proportion of unvaccinated persons who get infected. The
+difference in proportions who become severely ill after infection, is
+even more stark. Importantly, the evidence also clearly shows that
+vaccination remains highly effective in preventing severe illness if a
+vaccinated person were to catch the virus.
+6.    We will have to continue our efforts to encourage vaccination
+uptake amongst eligible individuals who have not stepped forward for
+vaccination. As a safety precaution, these individuals will need to
+continue to be subjected to vaccination-differentiated safe management
+measures.
+7.    We will be taking further measures to prepare to move to the
+Transitionary Stage of opening. This includes expanding our tools for
+testing and surveillance to keep infections from spiking, and a vaccine
+booster programme to boost immunity levels of the elderly and
+immunocompromised to better protect them.
 
-4.  In total, there are 219 new cases of COVID-19 infection in
-Singapore today.
+EXPANDING TESTING AND SURVEILLANCE
+8.    We will redouble our efforts to make regular testing part of the
+new normal. Frequent testing remains key for us to identify cases early
+and avoid huge peaks in cases that could risk straining our healthcare
+system. For certain higher risk settings, the Government has mandated
+rostered routine testing. But regular testing should not be confined to
+persons working in these settings. We strongly encourage everyone,
+including fully-vaccinated individuals, to self-test regularly with
+Antigen Rapid Test (ART) kits as a matter of social responsibility,
+especially if you are participating in higher-risk activities or
+attending large-scale events. While the unvaccinated are more
+susceptible to getting infected, vaccinated individuals are also at some
+risk.
+9.    Singaporeans can use the ART kits that are being issued to every
+household between 28 August to 27 September 2021. To date[1], the Health
+Sciences Authority has approved six ART self-test kits and these are
+widely available at major retailers and e-commerce platforms. We are
+actively reviewing new kits for public sale, and will continue to make
+such self-test kits more readily accessible.
+10.    Employers can also play their part in making regular testing a
+new norm. The tripartite partners will discuss further guidelines to
+promote the more pervasive use of antigen rapid tests at workplaces, and
+as a key element of business continuity plans. This will go beyond the
+Regular Rostered Testing (RRT) for higher risk settings and the
+Vaccinate or Regular Test (VoRT) regime. Such regular testing will
+enable us to detect cases early, help to reduce workplace transmission
+and prevent large workplace clusters as more people return to on-site
+work.
+11.    To supplement regular self-testing, members of the public can now
+make an appointment for a self-paid fast and easy test (FET) at the 20
+Quick Test Centres (QTCs)[2] from 1 October 2021. This can be to fulfil
+employment requirements, or for an unvaccinated person to attend a mass
+event. The QTCs were set up by the Health Promotion Board to support
+small businesses and freelancers who needed a supervised self-swab ART
+to meet their testing requirements under the FET RRT regime. We will
+also study the setting up of more testing sites across the island, so
+that it will be easier for people to get themselves tested regularly.
+12.    Individuals who test positive through these FETs or their ART
+self-tests should visit a Swab-and-Send-Home Clinic for a
+government-funded confirmatory PCR test to confirm your infection status
+so that the Ministry of Health (MOH) can follow up with the appropriate
+public health actions and to extend the appropriate care to you. If you
+are symptomatic[3], visit a doctor immediately instead of self-testing
+or booking a test at the QTCs.
+BOOSTER VACCINATION STRATEGY
+13.    Eight months have passed since our first residents were
+vaccinated under our National Vaccination Programme. MOH with advice
+from the Expert Committee on COVID-19 Vaccination (EC19V) has reviewed
+our strategies to achieve protection against COVID-19 through
+vaccination, especially in light of the more transmissible variants that
+have emerged globally.
+14.    With the more transmissible Delta variant, it is not likely that
+countries can achieve herd immunity without a very high population
+vaccination rate of well over 90%. There has also been emerging data on
+the waning of vaccine efficacy against infection with time. Although
+evidence globally and locally continues to show that vaccines are very
+effective in reducing severe illness and death. Some countries have also
+decided to proceed with booster doses.
+15.    Having reviewed the available evidence, as well as scrutinised
+the safety and efficacy of booster doses administered globally, the
+EC19V has recommended, and MOH has agreed, to commence a booster
+programme in Singapore for two subgroups: (a) persons who are moderately
+to severely immunocompromised and (b) persons aged 60 years and above,
+as well as residents of aged care facilities.
+16.    Immunocompromised persons have a blunted immune response to
+vaccination, and are also at a higher risk of severe illness from
+COVID-19. These individuals are recommended to receive a third dose of
+the same mRNA vaccine two months after their second dose as part of
+their primary course of vaccination to ensure that they start off with
+an adequate protective immune response to vaccination to.
+17.    Seniors are also at risk of severe COVID-19 infection and may
+develop a lower immune response from their two-dose vaccination regimen.
+This is coupled with the expected decline of their immunity over time,
+as many were vaccinated earlier. They should receive a booster dose of
+Pandemic Special Access Route (PSAR) mRNA vaccine six to nine months
+after having completed their primary course of vaccination regimen, to
+ensure higher levels of protection from infection and continued high
+levels of protection against severe disease, and reduce the possibility
+of spikes in infections and more people falling severely ill.
+18.    The additional dose recommendations for immunocompromised
+individuals, and seniors aged above 60 years, as well as residents of
+aged care facilities are aligned to the vaccination measures adopted in
+other countries such as Israel and Germany. The US Food and Drug
+Administration (FDA) has also approved a third dose for
+immunocompromised individuals and is considering its recommendation for
+seniors.
+19.    The first batch of seniors aged above 60 years completed their
+second doses around March this year. Hence they will be eligible for the
+third dose within the month of September. More details on the
+implementation of the booster shot will be announced later.
 
-5.  We are still working through the details of the cases, and further
-updates will be shared via the MOH press release that will be issued
-tonight.
-
+TOWARDS A COVID-19 RESILIENT SINGAPORE
+20.    We have made significant progress in vaccinating our population,
+adopting safe management measures, and moving towards a COVID-19
+resilient nation. The recent rise in cases was not unexpected, and the
+majority of these only have mild or no symptoms because of the high
+level of protection conferred by the vaccines against severe illness. As
+we continue to open and lead our lives as normally as possible, we
+should expect cases to rise, but we must keep a close watch over the
+number who fall severely ill.
+21.    That said, we must continue to keep overall risks under control,
+by continuing to adhere closely to the safe management measures that
+have served us very well thus far. Reverting to a tightened posture must
+be a last resort. We are therefore at a stage where we need all
+employers, families and individuals to play a part – to exercise
+civic-consciousness, and to take care of themselves and the people
+around them.
 MINISTRY OF HEALTH
 3 SEPTEMBER 2021
+
+[1] The list of ART self-test kits can be found
+at https://www.hsa.gov.sg/consumer-safety/articles/covid19_ARTselftests.
+
+[2] As of 31 August, there are 20 QTCs at Yishun Bus Interchange, Tekka
+Facility, Bishan Sports Hall CP, Jurong West Active Sports CP, Pasir Ris
+Sports Hall CP, 509 MPH Jurong West, 32 New Market Road Lvl 4, 75 Marine
+Drive, 325A Ang Mo Kio Ave 3 Pavilion, 2 Toa Payoh Lor 7, 528 Ang Mo Kio
+Ave 10 Badminton Hall, Bedok Town Square, 814 Hougang Ave 10, 506
+Tampines Central 1, MOE Heritage Centre, Woodlands Temporary Bus
+Interchange, 84A Redhill Lane, Punggol Town Square, 321 Clementi Ave 5
+and 55 Sims Drive Pavilion.
+
+[3] Mild symptoms: Fever, cough, fatigue, new loss of taste or smell,
+sore throat, runny nose, muscle aches, diarrhea, nausea or vomiting;
+Severe symptoms: shortness of breath, chest pain or pressure, loss of
+speech or movement.
 
 
 
