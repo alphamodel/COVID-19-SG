@@ -1,200 +1,99 @@
-Updating Our Healthcare Protocols for A More Covid-19 Resilient Nation
+Update On Local Covid-19 Situation (14 Sep)
 
 
 
-UPDATING OUR HEALTHCARE PROTOCOLS FOR A MORE COVID-19 RESILIENT NATION
+UPDATE ON LOCAL COVID-19 SITUATION (14 SEP)
 
 
 Published Date: 14 Sep 2021
 
-1.     As announced by the Multi-Ministry Taskforce last week, with the
-rising number of infection cases and as Singapore moves towards COVID-19
-resilience, we need to adjust our healthcare protocols. There are two
-areas. First, we have adjusted our Home Quarantine Protocol so that
-contact tracers can focus on conducting manual contact tracing for
-sensitive clusters in settings such as hospitals, schools or markets
-frequented by seniors. For the other sporadic infection cases, we will
-quarantine household contacts of infected persons, because these
-contacts are most at risk of being exposed to the virus. In addition, we
-will use TraceTogether data to generate Health Risk Warning (HRW) and
-Health Risk Alert (HRA) based on existing protocols.
+++
+|  |
+++
 
+CONDITION OF HOSPITALISED CASES
+       As of 14 September 2021, 12pm, 809 COVID-19 cases are currently
+warded in hospital. Most are well and under observation. There are
+currently 75 cases of serious illness requiring oxygen supplementation,
+and 9 in critical condition in the ICU. Of those who have fallen very
+ill, 66 are seniors above 60 years.
+FIGURE 1: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation¹
+[Fig. 1 (14 Sep)]
+2.   Over the last 28 days, the percentage of local cases who were
+asymptomatic or had mild symptoms is 98.1%. Of the 114 cases who
+required oxygen supplementation, 56 were not fully vaccinated and 58
+were fully vaccinated. Of the 8 who had been in the ICU, 5 were not
+fully vaccinated and 3 were fully vaccinated. Of the 4 who died, none
+were fully vaccinated².
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition³
+[Fig. 2 (14 Sep)]
+FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised¹ by Age Groups
+[Fig. 3 (14 Sep)]
+UPDATE ON VACCINATION PROGRESS
+3.   As of 13 September 2021, 81% of our population has completed their
+full regimen/ received two doses of COVID-19 vaccines, and 84% has
+received at least one dose.
+4.   We have administered a total of 8,874,365 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna), covering 4,558,863 individuals, with 4,428,658
+individuals having completed the full vaccination regimen. In addition,
+178,337 doses of other vaccines recognised in the World Health
+Organization's Emergency Use Listing (WHO EUL) have been administered,
+covering 86,659 individuals.
+LOCALLY TRANSMITTED COVID-19 CASES
+5.   As of 14 September 2021, 12pm, the Ministry of Health has detected
+a total of 837 new cases of COVID-19 infection in Singapore, comprising
+755 community cases, 77 dormitory residents cases and 5 imported cases.
+A)      ACTIVE CLUSTERS UNDER CLOSE MONITORING
+6.      We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+FIGURE 4: Large Clusters with New Cases
 
+  --------------------------------------------------------------- ----------- -------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  CLUSTER                                                         NEW CASES   TOTAL⁴   REMARKS
+  11 Tuas Ave 10 dormitory                                        20          21       Ongoing intra-dormitory transmission amongst residents, detected through proactive testing. Of the new cases, 19 have been quarantined earlier. All residents will be tested.
+  All Saints Home (Jurong East)                                   1           10       Transmission amongst staff and residents. Of the 10 cases, 9 are residents and 1 is a staff. All staff on the affected level have been tested.
+  Ren Ci @ Bukit Batok Street 52                                  1           29       Transmission amongst staff and residents. Of the 29 cases, 20 are residents and 9 are staff. All residents and staff of the nursing home are being tested.
+  Avery Lodge Dormitory                                           16          82       Ongoing intra-dormitory transmission amongst residents, detected through proactive testing. Residents have been placed on Movement Restriction Order, and are being tested.
+  DHL Supply Chain Advanced Regional Centre (1 Greenwich Drive)   12          58       Workplace transmission with further spread to household contacts of cases. Of the 58 cases, 50 are staff and 8 are household contacts of cases.
+  Chinatown Complex                                               15          126      Ongoing workplace transmission, including 89 stallholders and assistants, 5 cases working as cleaners/ Safe Distancing Ambassador, and 32 household contacts of workers. Chinatown Complex has been closed to the public since 12 September, 1500h.
+  Hu Lee Impex (Chin Bee Avenue)                                  2           67       Workplace transmission with further spread to household contacts of cases. These include 52 staff (including 30 vegetable packers) and 15 household contacts of cases.
+  PCF Sparkletots Braddell Heights (335 Serangoon Avenue 3)       1           24       Transmission amongst students in the same class, with further spread to household contact of cases; new case has been quarantined earlier
+  30 Sunview Way construction site                                11          170      Workplace transmission, no evidence of spread beyond worksite; 8 of the new cases have been quarantined earlier
+  Sembcorp Marine Tuas Boulevard Yard                             12          100      Most cases are residents of 38 Kian Teck Drive dormitory
+  Bugis Junction                                                  1           317      Intra-mall transmission amongst staff and visitors, with further transmission to close contacts of staff and visitors
+  Toa Payoh Bus Interchange staff                                 2           227      Workplace transmission amongst bus captains and interchange staff, no evidence of spread to commuters
+  Tampines Bus Interchange staff                                  3           85       Workplace transmission amongst bus captains and interchange staff, no evidence of spread to commuters
+  Boon Lay Bus Interchange staff                                  4           208      Workplace transmission amongst bus captains and interchange staff, no evidence of spread to commuters
+  --------------------------------------------------------------- ----------- -------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2.     Second, given that over 98% of infected individuals have no or
-mild symptoms, we will expand the Home Recovery scheme, to allow more
-infected individuals to self-isolate, and take the necessary health
-precautions at home, with telehealth monitoring support. This will
-reserve our hospital capacity for those who truly need the medical care,
-so that we can continue to provide appropriate care for all even with
-higher infection numbers.
-
-
-
-3.     Taken together, these changes will lay the foundation for a more
-COVID-19 resilient nation.
-
-
-
-ADJUSTMENTS TO HOME QUARANTINE
-
-4.     With effect from 11 September 2021, we have reduced the
-quarantine period from 14 days to 10 days from the date of last exposure
-to a COVID-19 case, provided the Person-under-Quarantine (PUQ) tests
-negative for COVID-19 at the end of his or her quarantine. PUQs who
-received their Quarantine Orders (QO) before 11 September, have
-completed 10 or more days in quarantine, and have a negative Polymerase
-Chain Reaction (PCR) test result, will progressively have their QO
-rescinded earlier. Following rescindment, all PUQs will need to continue
-to self-administer Antigen Rapid Tests (ART) from Day 11 to Day 14 (from
-their date of last exposure).
-
-5.     Today, about 7 in 10 close contacts of community cases prefer
-Home Quarantine. After being notified by MOH, they remain in their home
-for the duration of the quarantine, except to take PCR tests. We have
-seen good compliance to the Home Quarantine requirements. Community
-cases have also been very helpful and cooperative in assisting MOH to
-identify their close contacts. Given this experience, and with the
-increasing numbers of infections, we have adjusted the protocol from 14
-September 2021.
-
-6.     Our contact tracers will continue to conduct manual contact
-tracing for sensitive clusters like schools, hospitals, or markets
-frequented by seniors. For the less sensitive infection cases, an SMS
-will be sent to all newly confirmed COVID-19 cases, notifying them that
-they are required under the Infectious Diseases Act to inform their
-household contacts to register themselves as household close contacts
-through an online portal (https://go.gov.sg/quarantinereg). The
-household close contacts must provide the last date of exposure with the
-COVID-19 case and a contact number.
-
-7.     An electronic Quarantine Order (eQO) will be sent to registrants
-to indicate the quarantine period and instructions to book PCR tests.
-PUQs will then be able to go online to schedule their entry and exit PCR
-tests at a Regional Screening Centre (RSC) near their home. They will be
-able to travel to the RSCs for the PCR tests and collect free ART kits,
-administer their own ART daily and upload their results. Should they
-feel unwell or in need of medical attention, PUQs will also be given
-instructions to access 24/7 telemedicine services during their
-quarantine.
-
-8.     As with the current practice, persons with unsuitable home
-settings for quarantine could still request to be sent to a Government
-Quarantine Facility.
-
-9.     Related to this are the protocols for HRW and HRA. From 14
-September 2021, the HRW has been reduced from 14 to 10 days from the
-date of last exposure to a COVID-19 case, to align with the shift to a
-10-day QO regime. MOH issues HRW to close contacts of COVID-19 cases
-based on TraceTogether data. These may not be household contacts and
-have a smaller risk of infection compared to PUQs. Individuals issued
-HRW are required by law to take one PCR test upon receiving their
-notice, self-isolate until they receive a negative result, conduct three
-ART self-tests over the 10-day period of their HRW, and do another PCR
-test at the end of the HRW.
-
-10.     Besides HRW, individuals can instead be issued an HRA if they
-had contact of a relatively shorter duration with a COVID-19 case based
-on TraceTogether data, or their SafeEntry records from the past 14 days
-overlapped with an area of increased transmission. This group are
-persons who have had directly or indirectly been exposed to the risk of
-infection, even if that risk is lower than that of a close contact.
-Individuals who receive the HRA should monitor their health for the next
-10 days, are strongly encouraged to come forward for a free PCR swab
-test, perform regular ART self-tests throughout the 10 days following
-their exposure, and minimise interactions with other people.
-
-11.     Some individuals may be notified by confirmed COVID-19 cases to
-self-register as household close contacts and be issued an eQO, as well
-as receive a HRW or HRA at the same time. They should note that
-quarantine takes precedence. Similarly, a health risk assessment will be
-made after the submission of Home Quarantine registration and
-individuals may be converted to HRW.
-
-TRANSITION TO HOME RECOVERY
-
-12.     From 15 September 2021, Home Recovery will be the default care
-management model for individuals who are:
-a) Fully vaccinated;
-b) Aged 12 to 50 years old;
-c) Have no or mild symptoms;
-d) Have no severe co-morbidities or illnesses; and
-e) Have no household members who are more than 80 years old, or are in
-one of the vulnerable groups (e.g. pregnant individuals; with weakened
-immune response; or with multiple co-morbidities).
-
-13.     When an individual is tested COVID-19 positive, Home Recovery
-can start immediately if he or she meets the abovementioned criteria.
-The individual will need to set aside a room with an attached bathroom.
-
-14.     There is no need to go to a hospital or Community Care Facility.
-COVID-19 patients on Home Recovery will undergo an initial remote
-assessment by a telemedicine provider on the first day of their Home
-Recovery journey to ensure that they are clinically well. These
-individuals will also be issued with an Isolation Order and may be
-tagged with an electronic monitoring device to ensure they remain in
-their designated room at home.
-15.     Parents of children who test positive for COVID-19 can also
-bring their children home to recover, if the child is at least five
-years old and has no co-morbidities or underlying illnesses. For the
-child’s safety, a clinical assessment would first have to be done at a
-hospital before the child can return home to recover.
-16.     The individuals undergoing Home Recovery will be provided with
-access to information, including advisories on the signs and symptoms to
-look out for. If required, they can request for a care pack which
-contains a thermometer, pulse oximeter, surgical masks and hand
-sanitiser. A Home Recovery Buddy will also contact the COVID-19 patient
-at the start of Home Recovery to check on them and explain how to use
-the thermometer and oximeter. COVID-19 patients should monitor, measure
-and record their health signs such as body temperature, pulse rate and
-blood oxygen saturation (SpO₂) at least once a day using the care diary
-provided to them. In the event that these individuals require any
-medical assistance, they will have 24/7 access to their designated
-telemedicine provider.
-17.     During Home Recovery, the entire household should practise good
-personal hygiene. The patients must avoid any physical or face-to-face
-contact with the rest of the household, to prevent any onward
-transmission of the virus. As the household members will most likely all
-be issued eQO, the household should also arrange for contactless
-deliveries when ordering essential items such as food or groceries.
-18.     COVID-19 patients on Home Recovery may contact the designated
-telemedicine service provider that they have been assigned to arrange
-for a PCR swab on Day 6 of illness to end the Home Recovery period
-sooner. If the COVID-19 patient’s test result meets the discharge
-criteria (i.e. if their PCR result is negative or has a low viral load),
-he or she may be discharged from Home Recovery on Day 7 of illness.
-Otherwise the patient’s Home Recovery period will end on Day 10 of
-illness without any further tests, so long that the patient is well.
-After discharge, COVID-19 patients will no longer be subject to any
-movement restrictions, although they are still advised to minimise
-social interactions for the next seven days. They may request for a
-Medical Certificate of up to 7 days from the telemedicine service
-provider, if they require more time to rest and recuperate. These are in
-line with the discharge protocols at our medical facilities.
-19.     We should point out that in the event that an infected
-individual is undergoing Home Recovery and household members are on QO,
-the infected individual may be discharged earlier than the household
-members on QO. This is not illogical, because for a fully vaccinated
-infected individual, the viral load will decrease very quickly and
-typically clears by Day 7. Whereas for someone exposed to the virus and
-on QO, his or her viral load may take up to 10 days to build up and for
-the illness to manifest itself.
-EVERYONE NEEDS TO DO THEIR PART
-20.     Overall, the more extensive use of Home Quarantine, HRW, HRA and
-Home Recovery will allow us to ensure appropriate care and
-self-isolation for our COVID-19 infected individuals, while mitigating
-the risk of further transmission in a more scalable and sustainable
-manner. This approach requires a whole-of-society effort as we shift
-towards greater personal responsibility and self-care. By each doing our
-part, we will be able to progress together towards becoming a COVID-19
-resilient nation.
-
-ANNEX A – EIGHT IMPORTANT STEPS: WHAT MUST YOU DO WHEN YOU ARE NOTIFIED
-THAT YOU ARE A CLOSE CONTACT OF A COVID-19 POSITIVE CASE?
-
-ANNEX B – 10 IMPORTANT STEPS: WHAT HAPPENS WHEN YOU TEST POSITIVE FOR
-COVID-19?
-
+B)      SUMMARY OF TRENDS FOR LOCAL CASES
+7.      There are 832 new cases of locally transmitted COVID-19
+infection in Singapore, with 755 in the community and 77 in the migrant
+worker dormitories. Amongst the local cases today are 231 seniors who
+are above 60 years.
+FIGURE 5: Number of Local Cases by Age
+[Fig. 5 (14 Sep)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.      There are a total of 5 imported cases, who have already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Of these, 3 were detected upon arrival in Singapore, while 2 developed
+the illness during SHN or isolation.
+FIGURE 6: Number of Imported Cases by Detected Upon Arrival/Detected
+during SHN or Isolation
+[Fig. 6 (14 Sep)]
+9.      Please refer to MOH's daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
-
 14 SEPTEMBER 2021
+
+------------------------------------------------------------------------
+
+[1] Includes all cases who are currently hospitalised.
+[2] Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals).
+[3] Includes only new cases reported in the past 28 days.
+[4] Includes new cases added today.
