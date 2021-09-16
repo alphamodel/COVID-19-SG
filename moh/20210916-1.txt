@@ -1,8 +1,8 @@
-Update On Local Covid-19 Situation (17 Sep 2021)
+Update On Local Covid-19 Situation (16 Sep 2021)
 
 
 
-UPDATE ON LOCAL COVID-19 SITUATION (17 SEP 2021)
+UPDATE ON LOCAL COVID-19 SITUATION (16 SEP 2021)
 
 
 Published Date: 16 Sep 2021
@@ -284,6 +284,8 @@ Detected during SHN or Isolation
 
 MINISTRY OF HEALTH
 16 SEPTEMBER 2021
+
+
 
 [1] Includes all cases who are currently hospitalised.
 [2] Fully vaccinated - more than 14 days after completing vaccination
