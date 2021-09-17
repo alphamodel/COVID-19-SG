@@ -22,7 +22,7 @@ Published Date: 16 Sep 2021
 |                                                                       |
 | · Over the last 28 days, of the 8,346 infected individuals, 98.2%     |
 | have no or mild symptoms, 1.6% requires oxygen supplementation, 0.1%  |
-| requires ICU care, and 0.0% died.                                     |
+| requires ICU care, and 0.05% died.                                    |
 |                                                                       |
 |                                                                       |
 |                                                                       |
