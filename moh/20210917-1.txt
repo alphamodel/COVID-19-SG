@@ -1,183 +1,226 @@
-Antigen Rapid Test Kits Vending Machines Deployed Islandwide and Updates
-to Home Recovery and Travel Classifications
+Update On Local Covid-19 Situation (17 Sep 2021)
 
 
 
-ANTIGEN RAPID TEST KITS VENDING MACHINES DEPLOYED ISLANDWIDE AND UPDATES TO HOME RECOVERY AND TRAVEL CLASSIFICATIONS
+UPDATE ON LOCAL COVID-19 SITUATION (17 SEP 2021)
 
 
 Published Date: 17 Sep 2021
 
-    We have seen a continued rise in local COVID-19 cases. The great
-majority of these cases have exhibited no or mild symptoms. We will
-continue to calibrate our safe management measures, test extensively and
-contact trace as widely as possible to identify and reduce serious
-infections early. We will also make testing more pervasive by
-proliferating the use of Antigen Rapid Test (ART) kits within our
-community and at our workplaces, and adjust our healthcare protocols to
-better navigate the current wave of transmissions.
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · 813 cases are currently warded in hospital. There are currently 90  |
+| cases of serious illness requiring oxygen supplementation, and 14 in  |
+| critical condition in the intensive care unit (ICU).                  |
+|                                                                       |
+| · Over the last 28 days, of the 9,244 infected individuals, 98.2%     |
+| have no or mild symptoms, 1.7% requires oxygen supplementation, 0.2%  |
+| requires ICU care, and 0.03% has died.                                |
+|                                                                       |
+| · As of 16 September 2021, 82% of our population has completed their  |
+| full regimen/ received two doses of COVID-19 vaccines, and 84% has    |
+| received at least one dose.                                           |
+|                                                                       |
+| · As of 17 September 2021, 12pm, the Ministry of Health has detected  |
+| a total of 935 new cases of COVID-19 infection in Singapore, with 838 |
+| in the community, 96 in the migrant worker dormitories and 1 imported |
+| case.                                                                 |
++-----------------------------------------------------------------------+
 
-LOCAL SITUATION UPDATE
-2.  Even as our infection cases rise - the average number of cases
-increased from 146 cases per day a fortnight ago, to 682 cases per day
-in the past week – the number of serious cases, for now, remains low. As
-of 16 September, there are 77 cases requiring oxygen supplementation,
-and 12 in critical condition in the intensive care unit (ICU). They
-represent 1.6% and 0.1% of total infections over the last 28 days.
-3.    This has largely been brought about by the vaccination programme,
-which has covered 82% of our residents to date. The occurrences of
-severe illnesses are not even, concentrating mostly on older and
-unvaccinated infected individuals. (See Annex A.) Nevertheless, we are
-still early in this new wave of transmission and must continue to stay
-vigilant.
-4.    To this end, we will press on with our vaccination booster
-efforts,and will continue to proliferate pervasive testing in the
-community and at our workplaces. We will also review our healthcare
-protocols to identify opportunities to facilitate more home recovery and
-isolation, as part of our transition to a COVID-19 resilient nation.
+CONDITION OF HOSPITALISED CASES
+        As of 17 September 2021, 12pm, 813 COVID-19 cases are currently
+warded in hospital. Most are well and under observation. There are
+currently 90 cases of serious illness requiring oxygen supplementation,
+and 14 in critical condition in the ICU. Of those who have fallen very
+ill, 82 are seniors above 60 years.
+FIGURE 1: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation1
 
-VENDING MACHINES DEPLOYED ISLANDWIDE TO SUPPORT DISTRIBUTION OF ART KITS
-5.    The Ministry of Health (MOH) is deploying 100 vending machines
-across 56 locations islandwide. The vending machines will be available
-for 24/7 access from 18 SEPTEMBER 2021. More information on the Health
-Risk Warnings (HRW) and Health Risk Alerts (HRA), the full list of
-collection points and the steps for collection of the ART self-test kits
-is available at gowhere.gov.sg/art.
-6.    Individuals who receive an HRW SMS notification must get an entry
-polymerase chain reaction (PCR) test at a Swab and Send Home (SASH)
-clinic or Private Practitioner (PP)[1], and self-isolate until they
-receive a negative result from their first PCR test. They will also be
-required to perform self-administered ART tests on the third, fifth and
-seventh day from the day of last exposure to the COVID-19 case whom they
-were close contacts with, followed by another exit PCR test on or after
-the eighth day at a SASH clinic or PP. If all these are complied with,
-their HRW period will end on the tenth day of exposure. All swab costs
-will be borne by the Government.
-7.    From 18 SEPTEMBER 2021 onwards, individuals who are informed of
-their HRW or HRA status by MOH through SMS will also receive
-instructions on the frequent testing regime that they must follow. To
-facilitate this, such individuals may scan their Singapore-issued ID
-(NRIC/FIN) to collect a pack (comprising three ART self-test kits) at a
-nearby vending machine, and use the ART kits for self-testing to fulfil
-the requirement for HRW. Please refer to Annex B for the list of
-locations for these vending machines.
-8.   From 18 SEPTEMBER 2021, individuals who receive an HRA SMS
-notification should perform a self-administered ART test on the first,
-third and fifth day from the day of last exposure to the COVID-19 case
-whom they were potentially close contacts with, and monitor their health
-until the tenth day of exposure. All who have been issued a HRW or a HRA
-can use their government-distributed kits to perform the required
-self-administered ART tests. We urge all on HRA to exercise social
-responsibility and limit their interactions with other persons during
-that period.
-EXPANDING THE SUITABILITY OF HOME RECOVERY INDIVIDUALS
-9.   We have made Home Recovery the default care management model for
-suitable COVID-19 patients less than 50 years old from 15 September
-2021. 597 fully vaccinated COVID-19 patients, including 13 children
-between 5 to 11 years old have successfully started their home recovery
-journey. This is close to a third of the community cases for the past
-two days, which is highly encouraging, as we see more individuals taking
-personal empowerment to take care of their own health and recovery.
-Since the pilot started from 30 August 2021, 32 of them have been
-discharged.
-10.  Data continues to show that fully vaccinated individuals are indeed
-less at risk of severe illness, especially those under the age of 70
-years. Hence, we will be further expanding the suitability criteria for
-Home Recovery to now include fully vaccinated individuals up to the age
-of 69 years. This allows more COVID-19 patients to recover within the
-comfort of their homes, and for us to further direct our hospitals
-resources to those who really need more intensive care.
-11.  From 18 SEPTEMBER 2021, Home Recovery will be the default care
-management model for individuals who are:
-a.  Fully vaccinated;
-b.  Aged 12 to 69 years old;
-c.  No severe co-morbidities or illnesses;
-d.  Able to self-isolate in a room, preferably with an attached
-bathroom; and
-e.  Have no household members who are more than 80 years old or are in
-one of the vulnerable groups (e.g. pregnant individuals or with weakened
-immune response).
+[Fig1_17Sep]
 
-12.   Individuals tested positive for COVID-19 and meet the above
-criteria can begin Home Recovery immediately, without having to be
-conveyed to a hospital or Community Care Facility. We continue to urge
-all fully vaccinated COVID-19 individuals below the age of 70 to adopt
-Home Recovery as the default care management, just like how you would
-recover from, say, Influenza. Please continue to self-isolate from your
-household members until you receive confirmation of your PCR test
-results. If you are confirmed COVID-19 positive, please refer to
-the 10-step guide on our Home Recovery
-website at go.gov.sg/home-recovery.
-UPDATES TO TRAVEL CLASSIFICATIONS IN OUR CALIBRATED MEASURES AT OUR
-BORDERS
-13.  The Multi-Ministry Taskforce has also been closely monitoring the
-global COVID-19 situation and continues to update the country risk
-classification periodically. The updated classification, together with
-the associated testing requirements, can be found in Annex C.
+2.     Over the last 28 days, the percentage of local cases who were
+asymptomatic or had mild symptoms is 98.2%. 153 cases required oxygen
+supplementation, 15 had been in the ICU, and 3 died, of whom none was
+fully vaccinated².
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition³
 
-a.  Category II: This would include countries/regions such as Australia,
-Brunei, Canada, Germany, New Zealand and the Republic of Korea today. We
-have reviewed the COVID-19 situation in POLAND AND SAUDI ARABIA and will
-also add them to this category from 22 SEPTEMBER 2021, 2359 HOURS.
-b.  Category III: We have reviewed the COVID-19 situation in BULGARIA,
-CZECH REPUBLIC, FRANCE, LATVIA, PORTUGAL AND SPAIN and will add them to
-this category from 22 SEPTEMBER 2021, 2359 HOURS. Vaccinated travellers
-from these countries may apply to serve their 14-day Stay-Home Notice
-(SHN) at a suitable accommodation of their choice (e.g. residential
-address, hotels or serviced apartments), if they fulfil the criteria
-listed in Annex D. Unvaccinated travellers will still be required to
-undergo a 14-day SHN at dedicated SHN facilities.
-_Resumption of Transits and Removal of On-arrival ART for Travellers
-from Indonesia
-_14.  We had previously announced that all travellers with a 21-day
-travel history to Indonesia would not be allowed to transit through
-Singapore, and those entering Singapore would also be required to
-undergo an on-arrival ART (on top of the on-arrival PCR test). As the
-situation in Indonesia has shown improvement, all passengers with travel
-history to Indonesia within the last 21 days prior to departure for
-Singapore will be allowed to transit through Singapore from 22 SEPTEMBER
-2021, 2359 HOURS. In addition, travellers from Indonesia entering
-Singapore will be required to undergo an on-arrival PCR test[2] instead
-of an ART[3] plus a PCR test. Travellers with travel history to
-Indonesia within the last 21 days prior to departure for Singapore will
-be subject to Category IV border measures.
-15.  As the global situation evolves, we will continue to adjust our
-border measures in tandem with our roadmap to becoming a COVID-19
-resilient nation. Any changes to border measures will be updated on
-the SafeTravel website. Travellers are advised to visit the website to
-check the latest border measures for the associated country or region
-before entering Singapore; and be prepared to be subjected to the
-prevailing border measures upon entry.
+[Fig2_17Sep]
+FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised¹, by Age Groups
 
-WORKING TOGETHER TOWARDS COVID-19 RESILIENCY
-16.  Our current transmission levels are in line with those experienced
-by similar countries on a path towards COVID-19 resilience. While our
-vaccinations have allowed us to keep severe illness low among those who
-are infected, we need all Singaporeans to remain vigilant and continue
-working together by exercising civic consciousness and personal
-responsibility so that we can dampen the rate of transmission together
-and ride this wave of infections safely. To this end, we seek everyone’s
-continued cooperation to come forward for vaccination if you have not
-yet done so, seek medical care if feeling unwell, practise good hand
-hygiene, self-test regularly, and self-regulate social interactions at a
-restrained level. Together, we will emerge stronger.
+[Fig3_17Sep]
+UPDATE ON VACCINATION PROGRESS
+3.     As of 16 September 2021, 82% of our population has completed
+their full regimen/ received two doses of COVID-19 vaccines, and 84% has
+received at least one dose.
+4.     We have administered a total of 8,903,190 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna), covering 4,568,101 individuals, with 4,438,511
+individuals having completed the full vaccination regimen. In addition,
+181,531 doses of other vaccines recognised in the World Health
+Organization’s Emergency Use Listing (WHO EUL) have been administered,
+covering 86,891 individuals.
+LOCALLY TRANSMITTED COVID-19 CASES
+5.     As of 17 September 2021, 12pm, the Ministry of Health has
+detected a total of 935 new cases of COVID-19 infection in Singapore,
+comprising 838 community cases, 96 dormitory residents cases and 1
+imported case.
+A) ACTIVE CLUSTERS UNDER CLOSE MONITORING
+6.     We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+
+FIGURE 4: Large Clusters with New Cases
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁴
+
+REMARKS
+
+Sembcorp Marine Admiralty Yard
+
+2
+
+26
+
+Workplace transmission with further spread to household contacts of
+cases. Of the 26 cases, 23 are staff and 3 are household contacts of
+cases.
+
+Blue Stars Dormitory
+
+17
+
+71
+
+Intra-dormitory transmission amongst residents, detected through
+proactive testing. All residents are being tested.
+
+Orange Valley Nursing Home (Simei)
+
+3
+
+17
+
+All 17 cases are residents. Residents and staff on the affected levels
+have been tested. All other residents and staff will also undergo
+testing.
+
+DHL Supply Chain Advanced Regional Centre (1 Greenwich Drive)
+
+2
+
+86
+
+Workplace transmission with further spread to household contacts of
+cases. Of the 86 cases, 66 are staff and 20 are household contacts of
+cases. New cases are secondary family and social contacts.
+
+Chinatown Complex
+
+8
+
+256
+
+Ongoing workplace transmission, including 187 stallholders and
+assistants, 11 working as cleaners/ Safe Distancing Ambassador, 58
+household contacts of workers. All new cases have been quarantined.
+
+Avery Lodge Dormitory
+
+4
+
+95
+
+Intra-dormitory transmission amongst residents, detected through
+proactive testing. Residents have been placed on Movement Restriction
+Order, and are being tested. All new cases have been quarantined.
+
+Sembcorp Marine Tuas Boulevard Yard
+
+2
+
+107
+
+Most cases are residents of 38 Kian Teck Drive dormitory. All new cases
+have been quarantined.
+
+Toa Payoh Bus Interchange staff
+
+2
+
+236
+
+Workplace transmission amongst bus captains and interchange staff, no
+evidence of spread to commuters.
+
+Tampines Bus Interchange staff
+
+3
+
+137
+
+Workplace transmission amongst bus captains and interchange staff, no
+evidence of spread to commuters.
+
+Punggol Bus Interchange staff
+
+3
+
+64
+
+Workplace transmission amongst bus captains and interchange staff, no
+evidence of spread to commuters.
+
+Bugis Junction
+
+1
+
+319
+
+Intra-mall transmission amongst staff and visitors, with further
+transmission to close contacts of staff and visitors.
+
+Changi General Hospital
+
+2
+
+73
+
+Workplace transmission among facility management and support staff with
+spread to close contacts of staff. No patients affected.
+
+B) SUMMARY OF TRENDS FOR LOCAL CASES
+7.     There are 934 new cases of locally transmitted COVID-19 infection
+in Singapore, with 838 in the community and 96 in the migrant worker
+dormitories. Amongst the local cases today are 241 seniors who are above
+60 years.
+FIGURE 5: Number of Local Cases by Age
+[Fig5_17Sep]
+
+SUMMARY OF TRENDS FOR IMPORTED CASES
+8.     There is 1 imported case today, who developed the illness during
+Stay-Home Notice (SHN).
+FIGURE 6: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig6_17Sep]
+
+9.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 17 SEPTEMBER 2021
 
 ------------------------------------------------------------------------
 
-[1] PCR tests can be taken at the following PPs: Fullerton Health
-Testing Centre, Raffles Hospital or Kingsway Medical Clinic. Individuals
-on HRW may make an appointment through the booking
-link: go.gov.sg/hrw-testing
+1 Includes all cases who are currently hospitalised.
 
-[2] To expedite the COVID-19 PCR test at the checkpoints, travellers are
-strongly encouraged to register and pre-pay for their on-arrival
-COVID-19 PCR test prior to departing for Singapore
-at https://safetravel.changiairport.com/ (for Changi Airport)
-and https://t.2c2p.com/express/parkwayshenton (for Tanah Merah Ferry
-Terminal).
+² Fully vaccinated - more than 14 days after completing vaccination
+regimen (both doses of the vaccine or one dose for recovered
+individuals).
+³ Includes only new cases reported in the past 28 days.
 
-[3]  Travellers from Bangladesh, India, Myanmar, Nepal, Pakistan, the
-Philippines and Sri Lanka would also undergo an on-arrival PCR instead
-of an ART plus a PCR test.
+4 Includes new cases added today.
+
