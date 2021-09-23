@@ -1,64 +1,240 @@
-Appointment of New Chairman for Health Sciences Authority
+Update On Local Covid-19 Situation (23 Sep 2021)
 
 
 
-APPOINTMENT OF NEW CHAIRMAN FOR HEALTH SCIENCES AUTHORITY
+UPDATE ON LOCAL COVID-19 SITUATION (23 SEP 2021)
 
 
 Published Date: 23 Sep 2021
 
-    The Minister for Health has appointed Associate Professor Benjamin
-Ong Kian Chung as the Chairman of the Board of the Health Sciences
-Authority (HSA) from 1 October 2021 to 30 September 2024.
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · 1,120 cases are currently warded in hospital. There are currently   |
+| 163 cases of serious illness requiring oxygen supplementation, and 23 |
+| in critical condition in the intensive care unit (ICU).               |
+|                                                                       |
+| · Over the last 28 days, of the 15,791 infected individuals, 97.9%    |
+| had no or mild symptoms, 1.8% required oxygen supplementation, 0.2%   |
+| required ICU care, and 0.1% has died.                                 |
+|                                                                       |
+| · As of 22 September 2021, 82% of our population has completed their  |
+| full regimen/ received two doses of COVID-19 vaccines, and 84% has    |
+| received at least one dose.                                           |
+|                                                                       |
+| · As of 23 September 2021, 12pm, the Ministry of Health has detected  |
+| a total of 1,504 new cases of COVID-19 infection in Singapore, with   |
+| 1,218 in the community, 273 in the migrant worker dormitories and 13  |
+| imported cases.                                                       |
++-----------------------------------------------------------------------+
 
-NEW CHAIRMAN, ASSOCIATE PROFESSOR ONG KIAN CHUNG
-2.    Associate Professor Benjamin Ong is the Senior Vice President
-(Health Education and Resources) at the National University of
-Singapore, and Senior Consultant at the Division of Neurology of the
-National University Hospital. As Deputy Chairman of the HSA Board since
-1 October 2020, he brings with him extensive clinical expertise and
-experience in public healthcare. Associate Professor Ong held key
-leadership and professional positions in the healthcare sector, and was
-Director of Medical Services (DMS) at the Ministry of Health (MOH) from
-2014 to 2020, where he played a pivotal role in developing Singapore’s
-healthcare system. He also serves on various private and public sector
-Boards, including as Chairman of the Expert Committee on COVID-19
-Vaccination, Senior Advisor to the current DMS and a member of the
-Public Service Commission.
-3.    As Chairman of HSA, Associate Professor Ong will lead HSA in its
-continued mission to regulate health products, serve the administration
-of justice, secure the nation's blood supply and safeguard public
-health. Amidst the constantly evolving and increasingly complex health
-and technology landscapes, Associate Professor Ong’s astuteness and
-steady leadership will allow HSA to continue to adapt and innovate to
-support health system transformation efforts, while maintaining the
-highest scientific, professional and ethical standards.
-OUTGOING CHAIRMAN, PROFESSOR SATKUNANANTHAM S/O KANDIAH
-4.    MOH wishes to express our appreciation to Professor Satkunanantham
-s/o Kandiah, who has steered HSA with distinction since 2014. Professor
-Satkunanantham played a critical leadership role in strengthening the
-scientific rigour, expertise and capacity of HSA, and establishing its
-reputation and recognition as a well-respected scientific and regulatory
-authority both nationally and internationally. Under his stewardship,
-HSA has grown significantly in its professional expertise and diverse
-capabilities of health product regulation, transfusion medicine as well
-as forensic and analytical sciences.
-5.    During his tenure, Professor Satkunanantham was instrumental in
-overseeing HSA’s efforts at being more pro-enterprise, making
-significant improvement in its performance in the Pro-Enterprise Panel
-and Singapore Business Federation’s Pro-Enterprise Survey. He was also
-keenly interested in ensuring sustainability of the National Blood
-Programme and he supported decentralisation efforts in meeting
-Singapore’s blood demand and building up of testing capabilities to
-ensure continued safety of the blood supply.
-6.    Professor Satkunanantham constantly encouraged the advancement of
-scientific expertise and pursuit for excellence as a trusted national
-authority in forensic science, medicine and analytical services. During
-the COVID-19 pandemic, Professor Satkunanantham fully supported HSA in
-contributing towards the national efforts to address the global health
-crisis and its impact on public health and safety.
+CONDITION OF HOSPITALISED CASES
+        As of 23 September 2021, 12pm, 1,120 COVID-19 cases are
+currently warded in hospital. Most are well and under observation. There
+are currently 163 cases of serious illness requiring oxygen
+supplementation, and 23 in critical condition in the ICU. Of those who
+have fallen very ill, 155 are seniors above 60 years.
+2.     Case 78524, a 93 year-old female Singaporean, has passed away
+from complications due to COVID-19 infection on 23 September 2021. She
+tested positive for COVID-19 infection on 17 September. She had not been
+vaccinated against COVID-19, and had a history of heart failure,
+diabetes mellitus, hypertension and hyperlipidaemia.
+3.     Case 85278, a 71 year-old female Singaporean, has passed away
+from complications due to COVID-19 infection on 23 September 2021. She
+tested positive for COVID-19 infection on 23 September. She had not been
+vaccinated against COVID-19, and had a history of cancer.
+4.     In total, 70 have passed away from complications due to COVID-19
+infection.
+FIGURE 1: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation¹
 
+[Fig1_23Sep]
+5.     Over the last 28 days, the percentage of local cases who were
+asymptomatic or had mild symptoms is 97.9%. 289 cases required oxygen
+supplementation and 29 had been in the ICU. Of these, 53.8% were fully
+vaccinated and 46.2% were unvaccinated/ partially vaccinated. 13 have
+died, of whom 23.1% were fully vaccinated and 76.9% were unvaccinated/
+partially vaccinated.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition²
+[Fig2_23Sep]
+
+FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised¹, by Age Groups
+[Fig3_23Sep]
+UPDATE ON VACCINATION PROGRESS
+6.     As of 22 September 2021, 82% of our population has completed
+their full regimen/ received two doses of COVID-19 vaccines, and 84% has
+received at least one dose.
+7.     We have administered a total of 9,012,036 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna), covering 4,584,600 individuals, with 4,463,450
+individuals having completed the full vaccination regimen. In addition,
+187,529 doses of other vaccines recognised in the World Health
+Organization’s Emergency Use Listing (WHO EUL) have been administered,
+covering 87,257 individuals.
+LOCALLY TRANSMITTED COVID-19 CASES
+8.     As of 23 September 2021, 12pm, the Ministry of Health has
+detected a total of 1,504 new cases of COVID-19 infection in Singapore,
+comprising 1,218 community cases, 273 dormitory residents cases and 13
+imported cases.
+A) ACTIVE CLUSTERS UNDER CLOSE MONITORING
+9.     We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+FIGURE 4: Large Clusters with New Cases
+
+CLUSTER
+
+NEW CASES
+
+TOTAL³
+
+REMARKS
+
+Maple Bear Preschool (Orchard Road)
+
+3
+
+12
+
+Transmission amongst staff and students in the preschool. Of the 12
+cases, 8 are students, 3 are staff, and 1 is a household member of a
+case.
+
+Bukit Batok Road/ Plantation Crescent dormitory
+
+6
+
+23
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. Cases identified through testing operations.
+
+Tampines Dormitory
+
+7
+
+26
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. Cases identified through testing operations.
+
+My Little Campus (Yishun)
+
+6
+
+38
+
+Transmission amongst staff and students in the school. Of the 38 cases,
+2 are staff, 27 are students and 9 are household members of cases. New
+cases have already been quarantined.
+
+SUN-DAC (Choa Chu Kang)
+
+1
+
+20
+
+Transmission amongst clients and staff. Of the 20 cases, 11 are clients,
+3 are staff and 6 are household members of cases. New case has already
+been quarantined.
+
+Windsor Convalescent Home
+
+1
+
+30
+
+Transmission amongst residents and staff. Of the 30 cases, 28 are
+residents and 2 are staff. New case has already been quarantined.
+
+Woodlands Care Home
+
+6
+
+22
+
+Transmission amongst residents and staff. Of the 22 cases, 21 are
+residents and 1 is a staff. New cases have already been quarantined.
+
+Blue Stars Dormitory
+
+11
+
+170
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
+
+Avery Lodge
+
+7
+
+168
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. Cases identified through pre-emptive testing.
+New cases have already been quarantined.
+
+Woodlands Dormitory
+
+4
+
+58
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
+
+Homestay Lodge
+
+5
+
+37
+
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
+
+11 Tuas Ave 10 dormitory
+
+8
+
+38
+
+Intra-dormitory transmission amongst residents, detected through
+proactive testing. New cases have already been quarantined.
+
+Pfizer Asia Pacific Pte Ltd
+
+17
+
+55
+
+Workplace transmission, no evidence spread beyond worksite. Of the 55
+cases, 52 are staff and 3 are household contacts of cases. New cases
+have already been quarantined.
+
+B) SUMMARY OF TRENDS FOR LOCAL CASES
+10.     There are 1,491 new cases of locally transmitted COVID-19
+infection in Singapore, with 1,218 in the community and 273 in the
+migrant worker dormitories. Amongst the local cases today are 343
+seniors who are above 60 years.
+FIGURE 5: Number of Local Cases by Age
+[Fig5_23Sep]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+11.     There are a total of 13 imported cases, who have already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Of these, 9 were detected upon arrival in Singapore, while 4 developed
+the illness during SHN or isolation.
+FIGURE 6: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig6_23Sep]
+
+12.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
 23 SEPTEMBER 2021
 
+------------------------------------------------------------------------
 
+¹ Includes all cases who are currently hospitalised.
+² Includes only new cases reported in the past 28 days.
+³ Includes new cases added today.
