@@ -1,381 +1,216 @@
-Stabilising Our Covid-19 Situation and Protecting Our Overall Healthcare
-Capacity
+Update On Local Covid-19 Situation (24 September 2021)
 
 
 
-STABILISING OUR COVID-19 SITUATION AND PROTECTING OUR OVERALL HEALTHCARE CAPACITY
+UPDATE ON LOCAL COVID-19 SITUATION (24 SEPTEMBER 2021)
 
 
 Published Date: 24 Sep 2021
 
-      Singapore entered the Preparatory Stage of our transition journey
-to a COVID-19 resilient nation on 19 August 2021. We ramped up our
-healthcare and response capacity as daily cases increased. We also
-introduced Home Recovery, as most of the cases, especially younger or
-vaccinated individuals, have mild symptoms or are asymptomatic and can
-stay at home to recover.
+SUMMARY OF LOCAL SITUATION
 
-2.    However, daily cases started to rise exponentially from end of
-August 2021. While the number of COVID-positive individuals who become
-severely ill – i.e., requiring oxygen supplementation and intensive care
-unit (ICU) – remains within expectations, the number of individuals with
-mild symptoms has increased very rapidly. This has put a strain on our
-overall healthcare and response system and on our healthcare workers, as
-many COVID-positive individuals with mild symptoms are seeking medical
-attention at our hospitals when it might not be necessary.
+-   1,092 cases are currently warded in hospital. There are currently
+    162 cases of serious illness requiring oxygen supplementation, and
+    23 in critical condition in the intensive care unit (ICU).
+-   Over the last 28 days, of the 17,318 infected individuals, 98.0% had
+    no or mild symptoms, 1.7% required oxygen supplementation, 0.2%
+    required ICU care, and 0.1% has died.
+-   As of 23 September 2021, 82% of our population has completed their
+    full regimen/ received two doses of COVID-19 vaccines, and 84% has
+    received at least one dose.
+-   As of 24 September 2021, 12pm, the Ministry of Health has detected a
+    total of 1,650 new cases of COVID-19 infection in Singapore, with
+    1,369 in the community, 277 in the migrant worker dormitories and 4
+    imported cases.
 
-3.    While we have been advising individuals with mild COVID-19
-symptoms that it is appropriate to recover at home, we understand the
-anxiety of some individuals to want to seek medical attention at
-hospitals. The protocols and processes for home recovery are also new,
-and we are still improving the system as people are adjusting to them.
-There have also been service lapses as the numbers on Home Recovery
-increased, which added to their anxiety. We are ironing out the teething
-issues with the Home Recovery programme, and in the coming few weeks,
-will further ramp up our care facilities to handle more cases.
+CONDITION OF HOSPITALISED CASES
 
-4.    Most infection cases are mild in symptoms or asymptomatic and home
-recovery is the most appropriate care protocol for them. But if the
-overall number of cases continues to rise rapidly, we are also likely to
-see a growing number of infected persons, especially among the elderly,
-who do need hospital care. Hence, there is a need to slow down community
-transmission. We will thus be tightening our community safe management
-measures until our overall healthcare and response capacity has been
-appropriately augmented.
+       As of 24 September 2021, 12pm, 1,092 COVID-19 cases are currently
+warded in hospital. Most are well and under observation. There are
+currently 162 cases of serious illness requiring oxygen supplementation,
+and 23 in critical condition in the ICU. Of those who have fallen very
+ill, 151 are seniors above 60 years.
 
-UPDATES ON LOCAL COVID-19 SITUATION
+2. Case 72389, a 79 year-old male Singaporean, has passed away
+from complications due to COVID-19 infection on 24 September 2021. He
+tested positive for COVID-19 infection on 8 September. He had not been
+vaccinated against COVID-19, and had a history of pulmonary
+hypertension, chronic obstructive pulmonary disease, Graves’ disease,
+hypertension and hyperlipidaemia.
+3. Case 76190, an 83 year-old male Singaporean, has passed away
+from complications due to COVID-19 infection on 24 September 2021. He
+tested positive for COVID-19 infection on 14 September. He had been
+vaccinated against COVID-19, and had a history of diabetes mellitus,
+restrictive lung disease, hypertension and hyperlipidaemia which,
+together with his advanced age, made him more susceptible to severe
+illness.
+4. Case 77456, an 86 year-old male Singaporean, has passed away
+from complications due to COVID-19 infection on 24 September 2021. He
+tested positive for COVID-19 infection on 16 September. He had been
+vaccinated against COVID-19, and had a history of chronic obstructive
+pulmonary disease, ischaemic heart disease, bronchiectasis and
+hypertension which, together with his advanced age, made him more
+susceptible to severe illness.
+5. In total, 73 have passed away from complications due to
+COVID-19 infection.
+FIGURE 1: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation¹
+[Fig1_24Sep]
+6. Over the last 28 days, the percentage of local cases who were
+asymptomatic or had mild symptoms is 98.0%. 297 cases required oxygen
+supplementation and 32 had been in the ICU. Of these, 52.6% were fully
+vaccinated and 47.4% were unvaccinated/ partially vaccinated. 16 have
+died, of whom 31.2% were fully vaccinated and 68.8% were unvaccinated/
+partially vaccinated.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition²
+[Fig2_24Sep]
+FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised¹, by Age Groups
+[Fig3_24Sep]
+UPDATE ON VACCINATION PROGRESS
+7. As of 23 September 2021, 82% of our population has completed
+their full regimen/ received two doses of COVID-19 vaccines, and 84% has
+received at least one dose.
+8. We have administered a total of 9,034,630 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna), covering 4,586,889 individuals, with 4,464,532
+individuals having completed the full vaccination regimen. In addition,
+188,596 doses of other vaccines recognised in the World Health
+Organization’s Emergency Use Listing (WHO EUL) have been administered,
+covering 87,322 individuals.
+LOCALLY TRANSMITTED COVID-19 CASES
+9. As of 24 September 2021, 12pm, the Ministry of Health has
+detected a total of 1,650 new cases of COVID-19 infection in Singapore,
+comprising 1,369 community cases, 277 dormitory residents cases and 4
+imported cases.
+A) ACTIVE CLUSTERS UNDER CLOSE MONITORING
+10. We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+FIGURE 4: Large Clusters with New Cases
 
-5.    The large majority (98%) of cases were asymptomatic or had mild
-symptoms. This is due to our high vaccination coverage, which is now at
-82% of the population who have completed their full regimen. Of the 254
-cases with severe illness in the last two weeks, a disproportionate 48%
-were unvaccinated with the remainder being vaccinated individuals with
-co-morbidities. This ratio needs to be understood in the context of more
-than 80% of our population being fully vaccinated, indicating a vaccine
-efficacy against severe illnesses that is still around 80% to 90%, with
-the elderly and individuals with co-morbidities among the vaccinated
-making up the 10% to 20% who remain susceptible despite vaccination.
+CLUSTER
 
-6.    The number of persons requiring ICU is rising at the same rate as
-our overall case numbers, albeit with a lag. We had 21 new cases in ICU
-in the past week, as compared to 9 in the preceding week.
+NEW CASES
 
-Right-siting Patients for Appropriate Care
+TOTAL³
 
-7.    The most appropriate care management protocol for fully vaccinated
-individuals aged 12 to 69 years will continue to be recovery at home[1].
-These individuals are less likely to fall severely ill and there is no
-need for them to be cared for in our hospitals. Similarly, parents with
-infected children aged 2 to 11 years who choose to home recovery may
-also do so after their children have been assessed in our hospitals for
-suitability to do so.
-8.    To make best use of our hospital facilities and beds, and allow
-our hospitals to care for both their COVID-19 patients as well as the
-many other non-COVID patients requiring hospital care, we will be
-admitting those who are stable but do require closer monitoring to
-appropriate intermediate care facilities where their care and close
-monitoring needs will be met.
-9.    Patients with co-morbidities, with a risk of potentially
-developing severe illness, but who are otherwise asymptomatic or mildly
-symptomatic will be closely monitored at Community Treatment Facilities
-(CTFs), which are being set up progressively islandwide. These CTFs will
-be closely partnered with our hospitals so that there will be seamless
-escalation protocols for such patients to be conveyed from the CTF to an
-acute hospital expeditiously for further treatment when necessary. This
-is similar to the existing protocol for Community Care Facilities
-(CCFs), but with a higher level of medical care at the CTFs to ensure
-that these patients who are stable but at higher risk of serious illness
-are cared for with the appropriate level of medical manning and
-supporting equipment.
+REMARKS
 
-SAFE MANAGEMENT MEASURES FOR STABILISATION PHASE
+My Little Campus (Yishun)
 
-10.    If the infection continues at its current trajectory, we can
-expect to reach a daily count of 3,200 and beyond within the next 2
-weeks. Beyond that, there is a range of possibilities, but we cannot
-rule out cases doubling further. To minimise the strain on our overall
-healthcare capacity, we will have to tighten measures before that
-happens. We would like to thank Singaporeans for reducing their level of
-activity and interactions in the past two weeks. We do not need to
-return to a Heightened Alert. But we have to do more to scale back
-social interactions further in order to slow down community
-transmissions and allow for better stability. The following measures
-will take effect from 27 SEPTEMBER 2021 THROUGH 24 OCTOBER 2021. We will
-review the measures two weeks after implementation and adjust these
-based on the community situation then. Please refer to Annex A for
-details.
+1
 
-Permissible Group Sizes
+39
 
-11.    Permissible group sizes for social gatherings will be reduced
-from a maximum of 5 persons to a MAXIMUM OF 2 PERSONS. Correspondingly,
-the maximum number of unique visitors per household will be reduced to 2
-per day. Individuals should continue to limit their overall number of
-social gatherings to not more than 1 per day, whether to another
-household, or meeting with friends and family members in a public place.
+Transmission amongst staff and students in the school. Of the 39 cases,
+2 are staff, 28 are students and 9 are household members of cases. New
+case has already been quarantined.
 
-Protecting Our Vulnerable Groups
+SUN-DAC (Choa Chu Kang)
 
-12.    We strongly encourage all individuals to reduce social activities
-and wear our masks diligently. In particular, the elderly and persons
-with comorbidities who are more vulnerable to severe illnesses, should
-stay home as much as possible, except for essential activities such as
-working, buying food and groceries, seeing the doctor, and exercising
-individually in uncrowded locations.
+3
 
-13.    In order to better protect younger children who are not yet
-medically eligible for vaccination, the Ministry of Education (MOE) had
-earlier announced that Home-Based Learning (HBL) will be implemented for
-all Primary and Special Education (SPED) schools from 27 September
-through 6 October 2021. Primary 6 students will go on a study break
-prior to the Primary School Leaving Examinations (PSLE) from 25
-September through 29 September 2021. As an added precaution, the HBL
-PERIOD WILL NOW BE EXTENDED TILL 7 OCTOBER 2021, so that students can
-continue to stay home for the rest of the week.
+23
 
-14.    Private Education Institutions (PEIs) must also implement HBL for
-all students aged 12 years and below from 27 September to 10 October
-2021, although preschool services in PEIs may remain open. During this
-period, in-person tuition and enrichment classes for students aged 12
-years and below must pivot online or otherwise be suspended. Preschools,
-MOE kindergartens, KCare Services and Student Care Centres will remain
-open during this period but parents are encouraged to keep their
-children at home if they can. Please refer to MOE’s website for more
-details.
+Transmission amongst clients and staff. Of the 23 cases, 12 are clients,
+3 are staff and 8 are household members of cases. New cases have already
+been quarantined.
 
-Minimising Workplace Interactions
+Windsor Convalescent Home
 
-15.    WORK-FROM-HOME WILL BE THE DEFAULT for employees who are able to
-work from home. During this period, the 10-day snap Work from Home
-regime will be suspended. There should continue to be no
-cross-deployment of workers to multiple worksites for those who need to
-go into worksites to work. Social gatherings at the workplace will
-continue to be disallowed. Employers should continue to implement
-flexible working hours and stagger the start times of employees who need
-to return to the workplace.
+4
 
-16.    Employees, contractors, and vendors who are unable to work from
-home are strongly encouraged to self-test weekly via an Antigen Rapid
-Test (ART) to keep infected employees from coming to work and keep their
-workplace safe. Those who are able to work from home but need to return
-to the workplace for ad-hoc reasons may do so after testing negative via
-ART before returning onsite.
+34
 
-Dine-in at F&B Establishments
+Transmission amongst residents and staff. Of the 34 cases, 32 are
+residents and 2 are staff. New cases have already been quarantined.
 
-17.    GROUPS OF UP TO 2 PERSONS WILL BE ALLOWED TO DINE-IN AT REGULAR
-F&B ESTABLISHMENTS IF ALL THE DINERS ARE FULLY VACCINATED. This is a
-reduction from the current limit of 5 persons for dine-in. Unvaccinated
-individuals with a valid negative pre-event test (PET) result, recovered
-individuals, and children aged 12 years and below may also be included
-in such groups of 2.
+Bukit Batok Road/ Plantation Crescent dormitory
 
-18.    F&B establishments that are not able to ensure that all dine-in
-patrons meet the criteria for full vaccination may only operate
-take-away and delivery services. At this stage of the transition,
-entertainment such as live performances, recorded music, and videos/TV
-screening will continue to be prohibited. Patrons to F&B establishments
-are also reminded to adhere to all safe management measures and keep
-their masks on at all times except when eating or drinking.
+2
 
-19.    Because hawker centres and coffee shops offer essential food
-services to the community, the concession to dine-in at these premises
-will remain at up to 2 persons, regardless of vaccination status.
+25
 
-Activity and Event Sizes and Pre-Event Testing Requirements
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
 
-20.    Vaccination-differentiated safe management measures, mask
-wearing, and proper distancing remain essential to ensure that large
-events can proceed safely for attendees. The EVENT SIZES AND CAPACITY
-LIMITS FOR CONGREGATIONAL AND OTHER WORSHIP SERVICES, CINEMAS, MICE,
-LIVE PERFORMANCES, SPECTATOR SPORT EVENTS WILL REMAIN at up to 1,000
-attendees if all are fully vaccinated. Otherwise, only up to 50
-attendees will be allowed without PET. The concession for children aged
-12 years and below, who cannot yet be vaccinated, will also apply for
-these events. Such unvaccinated children may be included in a group of
-up to two persons if the child is from the same household.
+Tampines Dormitory
 
-~~~~21.    Marriage solemnisations may continue, seated in groups of up
-to 2 persons, if all are fully vaccinated. Home solemnisations will
-continue to be allowed with up to 10 attendees. Otherwise, only up to 50
-attendees will be allowed without PET. We acknowledge that wedding
-couples have faced significant uncertainties over the past few months.
-Hence, as a special concession, wedding receptions may be allowed to
-continue with up to 250 attendees if all are fully vaccinated, and with
-a group size of up to 5 persons per table. All wedding guests must
-strictly abide by the safe management measures, and in particular
-maintain social distancing and avoid mingling with others beyond their
-own table. Given their higher vulnerability, we also strongly discourage
-unvaccinated individuals and the elderly from attending such events, as
-PET only reduces their risk to others but not the risk to themselves.
+2
 
-Targeted Support Measures
+32
 
-22.    The Government will enhance the Jobs Support Scheme support to
-25% for the period of 27 SEPTEMBER 2021 THROUGH 24 OCTOBER 2021 for
-sectors significantly affected by the tightened measures. These include
-F&B, retail, cinemas, museums, art galleries, historical sites, family
-entertainment, tourism, gyms and fitness studios, and performing arts
-and arts education. Please refer to Annex B for details.
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
 
-23.    The Government will provide a 2-week rental waiver for qualifying
-tenants on Government-owned commercial properties. Qualifying
-tenant-occupiers and owner-occupiers of privately-owned commercial
-properties will also be given a 2-week rental relief cash payout under
-the Rental Support Scheme (RSS)[2]. These will offset rent for half the
-duration of the stabilisation phase. More details on the RSS will be
-made available on the Inland Revenue Authority Singapore (IRAS) website.
+Blue Stars Dormitory
 
-24.    Cooked food and market stallholders in centres managed by the
-National Environment Agency (NEA) or NEA-appointed operators will
-receive a 2-week rental waiver.
+49
 
-25.    To support taxi and private hire car drivers, we will also extend
-the COVID-19 Driver Relief Fund payout at $10 and $5 per vehicle per day
-in October and November 2021 respectively.
+219
 
-26.    The total sum of the support measures is $650m. This will be
-funded from the higher-than-expected revenues collected to-date. There
-will be no further draw on Past Reserves.
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
 
-ENCOURAGING REGULAR SELF-TESTING FOR ALL
+Woodlands Dormitory
 
-27.    Regular testing is key to early detection of possible COVID-19
-infection and allows individuals who test positive to take precautions
-to self-isolate and protect their family, friends, and colleagues.
-Individuals are encouraged to use their free kits distributed through
-the nationwide distribution to self-test before visiting crowded places
-such as wet markets and hawker centres or visiting elderly or children.
-Those who are unable to work from home or who have to attend school are
-also encouraged to self-test.
+6
 
-28.    Firms with employees that work onsite and are not already subject
-to mandatory RRT may apply for 8 ART kits per onsite employee for weekly
-testing of their staff over a two-month period as previously
-announced[3]. Applications are open until 13 October and we strongly
-encourage firms with employees who are unable to work from home, to
-apply for ART kits. More details may be found
-at www.go.gov.sg/time-limited-rrt-art.
+64
 
-29.    From 1 October 2021, we will also publish on the MOH website a
-map of areas frequented recently by a larger number of confirmed
-COVID-19 cases. We hope this can help guide individuals on your movement
-and activities. Individuals who have been to these hotspots during the
-same timeframe are encouraged to monitor their health, perform regular
-ART self-tests throughout the 10 days following their potential
-exposure, and minimise any unnecessary interaction with others.
-SafeEntry and TraceTogether would continue to be used to inform
-individuals of recent confirmed close contacts to infected persons or
-recent exposure to an area of increased spread through Health Risk
-Alerts and Health Risk Warnings.
+Intra-dormitory transmission amongst residents with no evidence of
+spread beyond dormitory. New cases have already been quarantined.
 
-30.    There have also been many queries over various tests – for
-Quarantine, Health Risk Warnings, Health Risk Alerts. We will be putting
-out public information through public advisory advertisements in the
-newspapers to help guide the public.
+30 Sunview Way Construction site
 
-Increased Weekend Testing Options for Individuals with Acute Respiratory
-Symptoms
+7
 
-31.     Currently, individuals with acute respiratory symptoms can visit
-private GP clinics – called Swab and Send Home (SASH) clinics – to take
-a confirmatory polymerase chain reaction (PCR) swab test. However, we
-recognise that not all SASH clinics are open on weekends to serve such
-individuals. To facilitate prompt testing over weekends, from 25
-SEPTEMBER 2021 (SATURDAY),we will open 8 Regional Screening Centres
-(RSCs) and 3 Quick Test Centres (QTCs) on Saturdays and Sundays, so that
-such individuals may get a free confirmatory PCR test. Such weekend
-visits to the RSCs and QTCs are by appointment only, to prevent
-overcrowding, with appointment booking only open from Friday, 6pm to
-Sunday, 3pm of each weekend for bookings on that weekend. More details
-are at www.go.gov.sg/ari-weekend-testing. We encourage symptomatic
-individuals to get their confirmatory PCR test quickly so that they can
-get appropriate care, if needed. This will also provide earlier
-protection to family members, colleagues and friends who might otherwise
-come into contact with the infected individual.
+222
 
-EXPANDING THE BOOSTER VACCINATION STRATEGY
+Workplace transmission, no evidence of spread beyond worksite. New cases
+have already been quarantined.
 
-32.    On 15 September 2021, we commenced the booster programme
-for persons aged 60 and above and residents of aged care facilities. As
-of 23 September 2021, almost 91,500 seniors have received their booster
-dose. 56% of seniors who have been invited to-date for their booster
-dose have either booked an appointment or already received their booster
-dose.
+Toa Payoh Lorong 8 Market and Food Centre
 
-33.    The Expert Committee on COVID-19 Vaccination (EC19V) has been
-closely monitoring the data regarding the need for additional vaccine
-doses. It has further recommended for persons aged 50 to 59 years to
-receive a booster dose of the Pandemic Special Access Route (PSAR) mRNA
-vaccine from six months after completing their primary course of
-vaccination. Adults aged 50 to 59 years have a higher risk of underlying
-comorbidities and hence a risk of severe illness as compared to younger
-persons, and as many would have completed the full regimen of their
-primary course of vaccination earlier in the year, their levels of
-protection could have decreased over time. Boosting the immunity of
-members of our population will ensure continued high levels of
-protection against severe disease.
+1
 
-34.    MOH agrees with the EC19V’s recommendations. From 4 OCTOBER 2021,
-we will progressively invite persons aged 50 to 59 years who have
-completed their vaccination regimen with two doses at least six months
-ago to receive their booster dose of a PSAR mRNA vaccine. An SMS with a
-personalised booking link will be sent to the mobile number that they
-had registered with for their first two doses, for them to book a new
-appointment on www.vaccine.gov.sg. These individuals may receive their
-booster dose at any vaccination centre, polyclinic, or participating
-Public Health Preparedness Clinic (PHPC).
+52
 
-Moderna Vaccine Dosage
+Transmission amongst staff at market and food centre. Of the 52 cases,
+30 are staff and 22 are household members of cases. New case has already
+been quarantined.
 
-35.    The EC19V has also further reviewed the dosing for the Moderna
-vaccine used for boosting and recommended that 50mcg of the Moderna
-vaccine be used for boosting given evidence that a 50mcg dosage is
-sufficient to boost immune response significantly. Based on EC19V
-recommendations and to ensure the efficient use of vaccines, from 25
-SEPTEMBER 2021, vaccination sites carrying the Moderna vaccine will
-begin administering the vaccine at a dosage of 50mcg for booster doses,
-as compared to the 100mcg dose used in the primary vaccination course.
-There are no safety concerns in persons who have already received 100mcg
-of the Moderna vaccine for their booster dose.
+NSL OilChem
 
-36.    The 100mcg dose of the Moderna vaccine will continue to be used
-for the two-dose primary series vaccination regimen, and three-dose
-enhanced primary series for immunocompromised persons. For the
-Pfizer-BioNTech/Comirnaty vaccine, there is no change in dosage for both
-the primary series and the booster dose.
+1
 
-TOWARDS A COVID-19 RESILIENT SINGAPORE
+32
 
-37.    We are staying the course to transit towards a COVID-19 resilient
-nation. But we are still at the Preparatory Stage and have not reached
-the stage where COVID-19 can be considered as endemic. In this journey
-towards living with COVID-19, we have to make continual adjustments in
-our measures to protect our healthcare system, and ensure it is not
-overwhelmed.
+Workplace transmission with further spread to household contacts of
+cases. Of the 32 cases, 26 are staff and 6 are household contacts of
+cases. New case has already been quarantined.
 
-38.    During this stabilisation phase, we seek everyone’s cooperation
-to observe all safe management measures so that we can lower
-transmission risks and slow down the pace of community infections.
-Everyone needs to be socially responsible to take care of themselves and
-minimise their unnecessary movement and social interactions. If you have
-been exposed to positive cases, please isolate yourself, test yourself
-regularly and seek medical treatment if you are symptomatic.
+B) SUMMARY OF TRENDS FOR LOCAL CASES
+
+11. There are 1,646 new cases of locally transmitted COVID-19
+infection in Singapore, with 1,369 in the community and 277 in the
+migrant worker dormitories. Amongst the local cases today are 391
+seniors who are above 60 years.
+FIGURE 5: Number of Local Cases by Age
+[Fig5_24Sep]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+12. There are a total of 4 imported cases, who have already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Of these, 2 were detected upon arrival in Singapore, while 2 developed
+the illness during SHN or isolation.
+FIGURE 6: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig6_24Sep]
+13. Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
 MINISTRY OF HEALTH
+
 24 SEPTEMBER 2021
-
-------------------------------------------------------------------------
-
-[1] The eligibility criteria are: (a) Fully vaccinated with PSAR mRNA
-vaccine, (b) age 2-69 years old, (c) no other severe illnesses or
-diseases and (d) no household members above 80 years old or belonging to
-the vulnerable group.
-
-[2] Small and Medium Enterprises and eligible Non-Profit Organisations
-with an annual revenue not exceeding $100 million, who are
-tenant-occupiers or owner-occupiers of qualifying commercial properties,
-will be eligible for rental relief.
-
-[3] Refer to the MOH press release titled ‘Collective Actions to Slow
-Down Community Transmission’ on 6 September
-2021: https://www.moh.gov.sg/news-highlights/details/collective-actions-to-slow-down-community-transmission
+[1] Includes all cases who are currently hospitalised.
+[2] Includes only new cases reported in the past 28 days.
+[3] Includes new cases added today.
