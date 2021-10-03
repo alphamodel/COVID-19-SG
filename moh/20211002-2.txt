@@ -1,0 +1,192 @@
+Update On Local Situation and Changes to Align Border Measures With
+Domestic Protocols
+
+
+
+UPDATE ON LOCAL SITUATION AND CHANGES TO ALIGN BORDER MEASURES WITH DOMESTIC PROTOCOLS
+
+
+Published Date: 02 Oct 2021
+
+It has been about one week since we entered the Stabilisation Phase on
+27 September 2021. The vast majority – over 98% - of infected
+individuals have mild or no symptoms, and 0.3% needed ICU care or died.
+This is a result of having vaccinated the great majority of our
+population, who experienced mild illness even as breakthrough infections
+occur. Nevertheless, we are ramping up our healthcare and response
+capacity to cope with the rising cases. We are also stabilising the
+situation and familiarising people to the new healthcare protocols, such
+as the Home Recovery Programme and the self-isolation protocol for
+asymptomatic individuals who test positive on antigen rapid test (ART)
+self-test kits. This will allow us to focus healthcare resources to care
+for and treat cases who truly need the medical care. We want to thank
+the public for their patience and support for these new protocols, and
+to reassure everyone that Home Recovery is safe and suitable for most
+individuals, especially if they are younger or vaccinated individuals.
+
+2. We have not yet seen the full effect of the latest tightening
+measures as it usually takes a week or more before the impact from any
+tightening can be observed. Nevertheless, while the daily number of
+cases continue to rise, the rate of increase appears to have slowed down
+slightly. The time taken for the doubling of community cases has
+lengthened from about 8 days to about 10 days.  We will continue to
+monitor this, as well as our healthcare capacity, closely in the coming
+weeks.
+3. We had earlier reduced the Quarantine Order period from 14 to 10
+days, in view of the shorter average incubation period of the COVID-19
+Delta variant. In line with this, we will also make consequential
+adjustments to our travel policies, including to the Travel History
+assessment period and the Stay-Home Notice (SHN) duration. In addition,
+as part of the regular review of our border measures to take into
+account the evolving pandemic situation in other countries, we will also
+adjust the classification of countries which will apply to travellers
+arriving from 6 OCTOBER 2021, 2359 HOURS.
+4. Lastly, we would like to highlight that the Expert Committee on
+COVID-19 Vaccination (EC19V) has been deliberating on recommending a
+booster vaccination for additional population groups, such as healthcare
+workers, frontline workers and persons in other vulnerable settings
+beyond nursing homes, noting that this has been recommended in some
+countries and there is a good basis to do so. More details will be
+released when ready.
+UPDATES ON LOCAL COVID-19 SITUATION
+5. Daily case numbers have continued to rise. At the current trajectory,
+we may cross 3,200 daily cases soon, and may even start to see 5,000
+cases daily around mid-October. However, the vast majority are
+asymptomatic or have mild symptoms, and are suitable for home recovery.
+The percentage of patients who require ICU care remains low, at about
+0.2%.  However, with higher cases, this can translate to a larger
+absolute number.  Currently 34 ICU beds are occupied and we expect the
+number to rise. We will continue to monitor the capacity and utilisation
+closely.
+6. There remains strong evidence that vaccination is protective against
+severe disease outcomes. The proportion of fully vaccinated cases who
+needed intensive care or passed away is about 14 times less than that
+for the unvaccinated (0.12% compared to 1.67%) (Table 1). We are most
+concerned for the elderly, and in particular those who are unvaccinated.
+Older persons are at higher risk of severe illness, and most of them
+tend to have co-morbidities, which then increases the risk further. The
+proportion of cases who are seniors aged 60 and above has remained
+stable at about 27% to 32% in the past 28 days. We urge all seniors,
+especially the minority of unvaccinated seniors, to take extra
+precautions and avoid crowded places during this period.
+Table 1: Ever in ICU and Death % by age and vaccination status (PR 1 May
+to 1 Oct)
+
++-----------------+-----------------+-----------------+-----------------+
+| AGE             | UNVACCINATED    | PARTIALLY       | FULLY           |
+|                 |                 | VACCINATED      | VACCINATED      |
++-----------------+-----------------+-----------------+-----------------+
+| 0-12            | 0.00            | 0.00            | 0.00            |
++-----------------+-----------------+-----------------+-----------------+
+| 13-19           | 0.00            | 0.00            | 0.00            |
++-----------------+-----------------+-----------------+-----------------+
+| 20-29           | 0.16            | 0.00            | 0.00            |
++-----------------+-----------------+-----------------+-----------------+
+| 30-39           | 0.70            | 0.00            | 0.00            |
++-----------------+-----------------+-----------------+-----------------+
+| 40-49           | 1.07            | 0.99            | 0.00            |
++-----------------+-----------------+-----------------+-----------------+
+| 50-59           | 1.93            | 1.59            | 0.02            |
++-----------------+-----------------+-----------------+-----------------+
+| 60-69           | 5.56            | 2.91            | 0.07            |
++-----------------+-----------------+-----------------+-----------------+
+| 70-79           | 7.56            | 4.23            | 0.67            |
++-----------------+-----------------+-----------------+-----------------+
+| 80+             | 14.15           | 5.88            | 1.85            |
++-----------------+-----------------+-----------------+-----------------+
+| TOTAL           | 1.67            | 1.12            | 0.12            |
++-----------------+-----------------+-----------------+-----------------+
+
+ACTIVE EXPANSION OF HEALTHCARE CAPACITY
+7. Our healthcare workers are committed to providing the best care to
+all our patients but it is important that we make the best use of our
+healthcare resources and preserve our hospital facilities and beds for
+those who truly require them. Fully vaccinated individuals aged 12 to 69
+years are encouraged to rest, take plenty of fluids and recover in the
+comfort of home under the Home Recovery Programme¹. We would like to
+reassure these individuals that it is safe to do so as vaccination is
+highly protective against severe illness, as local and overseas data has
+consistently showed. For those whose home conditions are really not
+suitable for Home Recovery, we will assess them on a case-by-case basis,
+and allow some to recover at one of our Community Care Facilities.
+8. To augment and complement our hospital capacity, we are actively
+standing up COVID-19 Treatment Facilities (CTFs)². Over the past week,
+we have set up four CTFs with a capacity of 580 beds. We are ramping
+this up further to nine CTFs with an overall capacity of about 3,700
+beds by the end of October. The CTFs will be used to care for higher
+risk patients who needs close observation, but do not need hospital
+care.  One example will be seniors with co-morbidities who are
+asymptomatic or mildly symptomatic. This is an important step towards
+right-siting care and reducing the strain on our acute hospitals which
+should be preserved for those who require immediate acute hospital care,
+both COVID-19 as well as non-COVID patients.
+LIKELY EXTENSION OF BOOSTER VACCINATION TO HEALTHCARE AND FRONTLINE
+WORKERS
+9. Booster vaccination enhances our protection against COVID-19
+infection and hence also against severe disease. This is an important
+way we can protect ourselves from COVID-19 and slow its transmission in
+the face of rising local cases. The EC19V has been deliberating on
+recommending booster vaccination for a few more population groups, such
+as healthcare workers, frontline workers and persons in other vulnerable
+settings. More details will be announced by EC19V when ready. MOH will
+await the formal recommendations of EC19V, but we stand fully ready to
+support this extension. All eligible persons are encouraged to receive
+the booster vaccination when it is offered to them, and those who have
+yet to be vaccinated are strongly urged to do so.
+CHANGES TO ALIGN BORDER MEASURES WITH DOMESTIC PROTOCOLS AND THE
+EVOLVING SITUATION IN OTHER COUNTRIES/ REGIONS
+10. From 6 OCTOBER 2021, 2359 HOURS, prevailing border measures for
+incoming travellers will be determined based on the travellers’ recent
+travel history in the last 14 days instead of the existing 21 days. The
+SHN period for those who currently have to serve 14 days, will also be
+reduced to 10 days, in line with the shortening of quarantine period,
+which accounts for the shorter incubation period of the Delta variant.
+As part of our regular reviews of our border measures, we have also made
+the appropriate adjustments to the categories of some countries/
+regions. Details of the updated country/region classification and their
+corresponding border measure may be found in Annex A. As the global
+situation evolves, we will continue to adjust our border measures in
+tandem with our roadmap to becoming a COVID-19 resilient nation.
+VACCINATION AS ENTRY REQUIREMENT FOR LONG-TERM PASS HOLDERS
+11. To allow the necessary workers and students to enter Singapore’s
+borders in a safe and calibrated manner while minimising public health
+risk, we will require all Work Pass³ and Student’s Pass holders to be
+fully vaccinated⁴ before arrival in Singapore. This will apply to those
+who are applying to enter Singapore via the Work Pass Holder General
+Lane and Student’s Pass Holder Lane from 1 NOVEMBER 2021⁵. More details
+on the vaccination requirement can be found in Annex B.
+12. For all travellers applying for entry to Singapore via the Familial
+Ties Lane from 1 NOVEMBER 2021, priority will be given to those who are
+fully vaccinated.
+TOWARDS A COVID-19 RESILIENT SINGAPORE
+13. Our aim has always been to minimise deaths while re-opening our
+social and economic activities progressively. This also requires a
+collective shift in our mindsets.  We need to learn to live with the
+virus, and understand that for the vast majority, especially those
+vaccinated, it is not a serious illness.  At the same time, we must do
+our part to exercise social responsibility and cooperate with all the
+SMMs. We seek Singaporeans’ support and understanding to test yourselves
+regularly, and to see a doctor if you are feeling unwell. Avoid crowded
+places or social activities if you are unwell. Together, we will be able
+to get through this current wave and emerge stronger.
+
+[1] Eligibility criteria are: (a) Fully vaccinated with PSAR mRNA
+vaccine, (b) age 2-69 years old, (c) no other severe illnesses or
+diseases and (d) no household members above 80 years old or belonging to
+the vulnerable group.
+[2] To better reflect the higher level of medical care provided to
+COVID-19 patients, the Community Treatment Facility (CTF) has been
+renamed as COVID-19 Treatment Facility (CTF).
+[3] This includes dependents of work pass holders and work pass holders
+on in-principle approval. The vaccination condition for entry will not
+apply to those entering Singapore under the Periodic Commuting
+Arrangement (PCA).
+[4] An individual is considered fully vaccinated two weeks after he or
+she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna
+or other World Health Organization Emergency Use Listing (WHO EUL)
+vaccines.
+[5] The vaccination condition for entry will not apply to those aged
+below 18 years old at the point of entry. Unvaccinated individuals aged
+between 12 to less than 18 years old at the point of entry must complete
+their full vaccination regimen in Singapore within two months after
+their arrival.

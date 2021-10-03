@@ -1,0 +1,114 @@
+Update On Local Covid-19 Situation (30 Sep 2021)
+
+
+
+UPDATE ON LOCAL COVID-19 SITUATION (30 SEP 2021)
+
+
+Published Date: 30 Sep 2021
+
+++
+|  |
+++
+
+CONDITION OF HOSPITALISED CASES
+        As of 30 September 2021, 12pm, 1,360 COVID-19 cases are
+currently warded in hospital. Most are well and under observation. There
+are currently 204 cases of serious illness requiring oxygen
+supplementation, and 34 in critical condition in the ICU. Of those who
+have fallen very ill, 197 are seniors above 60 years.
+2.     2 more cases have passed away from complications due to COVID-19
+infection. Case 85911 was a 79 year-old female Singapore Permanent
+Resident and Case 90565 was an 87 year-old female Singaporean. Both had
+not been vaccinated against COVID-19, and had various underlying medical
+conditions. In total, 95 have passed away from complications due to
+COVID-19 infection.
+FIGURE 1: Number of Active Cases in ICU or Requiring Oxygen
+Supplementation¹
+[Fig 1. (30 Sep)]
+3.     Over the last 28 days, the percentage of local cases who were
+asymptomatic or had mild symptoms is 98.1%. 443 cases required oxygen
+supplementation and 52 had been in the ICU. Of these, 49.9% were fully
+vaccinated and 50.1% were unvaccinated/ partially vaccinated. 37 have
+died, of whom 29.7% were fully vaccinated and 70.3% were unvaccinated/
+partially vaccinated.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition²
+[Fig 2. (30 Sep)]
+FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised1 by Age Groups
+[Fig 3. (30 Sep)]
+UPDATE ON VACCINATION PROGRESS
+4.     As of 29 September 2021, 82% of our population has completed
+their full regimen/ received two doses of COVID-19 vaccines, and 85% has
+received at least one dose.
+5.     We have administered a total of 9,183,076 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna). In total, 4,593,801 individuals have received at
+least one dose of vaccine under the national vaccination programme, and
+4,484,783 individuals having completed the full vaccination regimen. To
+date, we have invited about 500,000 eligible seniors to receive their
+booster doses. 215,729 individuals have received their booster shots and
+another 119,000 have booked their appointments. In addition, 197,155
+doses of other vaccines recognised in the World Health Organization's
+Emergency Use Listing (WHO EUL) have been administered, covering 100,012
+individuals.
+LOCALLY TRANSMITTED COVID-19 CASES
+6.     As of 30 September 2021, 12pm, the Ministry of Health has
+detected a total of 2,478 new cases of COVID-19 infection in Singapore,
+comprising 2,022 community cases, 452 dormitory residents cases and 4
+imported cases.
+A) ACTIVE CLUSTERS UNDER CLOSE MONITORING
+7.     We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+FIGURE 4: Large Clusters with New Cases
+
+  ----------------------------------------- ----------- -------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  CLUSTER                                   NEW CASES   TOTAL³   REMARKS
+  MWS Christalite Methodist Home            20          29       Transmission amongst staff and residents. Of the 29 cases, 1 is a staff and 28 are residents.
+  Jurong Penjuru Dormitory 1                9           48       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  Jurong Penjuru Dormitory 2                5           44       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  ASPRI-Westlite Papan Dormitory            12          97       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  9 Defu South Street 1 dormitory           13          151      Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  Cochrane Lodge 2 Dormitory                14          62       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  PPT Lodge 1B Dormitory                    11          73       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  Kian Teck Hostel                          13          62       Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  Man Fatt Lam Elderly Joy Daycare Centre   1           17       Transmission amongst clients and staff. Of the 17 cases, 14 are clients, 1 is a staff, and 2 are household members of cases.
+  Pasir Panjang Wholesale Centre            2           148      Transmission amongst workers and trade visitors. Of the 148 cases, 134 are workers at the market, 4 are trade visitors and 10 are household members of cases. New cases have already been quarantined.
+  My Little Campus (Yishun)                 1           51       Transmission amongst staff and students. Of the 51 cases, 3 are staff, 27 are students and 21 are household members of cases. New case has already been quarantined.
+  Avery Lodge                               19          369      Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory.
+  Blue Stars Dormitory                      16          421      Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory. New cases have already been quarantined.
+  Woodlands Dormitory                       35          348      Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory. New cases have already been quarantined.
+  North Coast Lodge                         16          365      Intra-dormitory transmission amongst residents with no evidence of spread beyond dormitory. New cases have already been quarantined.
+  ----------------------------------------- ----------- -------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B) SUMMARY OF TRENDS FOR LOCAL CASES
+8.     There are 2,474 new cases of locally transmitted COVID-19
+infection in Singapore, with 2,022 in the community and 452 in the
+migrant worker dormitories. Amongst the local cases today are 535
+seniors who are above 60 years.
+FIGURE 5: Number of Community Cases by Age
+[Fig 5. (30 Sep)]
+FIGURE 6: Number of Dormitory Cases by Age
+[Fig 6. (30 Sep)]
+SUMMARY OF TRENDS FOR IMPORTED CASES
+9.     There are a total of 4 imported cases, who have already been
+placed on Stay-Home Notice (SHN) or isolated upon arrival in Singapore.
+Of these, 3 were detected upon arrival in Singapore, while 1 developed
+the illness during SHN or isolation.
+FIGURE 7: Number of Imported Cases by Detected Upon Arrival/ Detected
+during SHN or Isolation
+[Fig 7. (30 Sep)]
+10.     Please refer to MOH's daily Situation Report
+(http://www.moh.gov.sg/covid-19/situation-report) for details.
+MINISTRY OF HEALTH
+30 SEPTEMBER 2021
+
+------------------------------------------------------------------------
+
+[1] Includes all cases who are currently hospitalised.
+
+[2] Includes only new cases reported in the past 28 days.
+
+[3] Includes new cases added today.
+
+
