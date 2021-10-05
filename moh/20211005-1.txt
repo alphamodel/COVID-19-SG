@@ -43,7 +43,7 @@ CONDITION OF HOSPITALISED CASES
 1.     As of 5 October 2021, 12pm, 1,512 COVID-19 cases are currently
 warded in hospital. Most are well and under observation. There are
 currently 247 cases requiring oxygen supplementation, and 34 in the ICU.
-Of those who have fallen very ill, 236 are seniors above 60 years.
+Of those who have fallen very ill, 235 are seniors above 60 years.
 
 2.     9 more cases have passed away from complications due to COVID-19
 infection [1]. Of these, 6 were male Singaporeans/Permanent Residents
