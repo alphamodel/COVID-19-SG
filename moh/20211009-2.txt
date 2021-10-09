@@ -1,0 +1,485 @@
+Protecting the Vulnerable, Securing Our Future
+
+
+
+PROTECTING THE VULNERABLE, SECURING OUR FUTURE
+
+
+Published Date: 09 Oct 2021
+
+       Singapore entered the Stabilisation Phase on 27 September 2021 to
+slow down the rate of transmission and protect our healthcare system. We
+have used this time to do several things. We have built up COVID-19
+Treatment Facilities to complement our hospital and community care
+facilities. We have also bolstered manpower, employed technology, and
+streamlined processes for the Home Recovery Programme (HRP), which
+allows the majority of individuals with mild or no symptoms to recover
+safely in their own homes.
+
+
+
+2. We thank all Singapore residents for reducing their level
+of activity and social interactions in the past two weeks. Your efforts
+have helped to slow down the rise in daily cases. However, the present
+wave of infection has not crested, and we must be prepared for cases to
+continue to increase and remain high for some time.
+
+
+
+3. We will ride this wave while ensuring that our healthcare
+system is not overwhelmed. Most vaccinated persons who catch the virus
+have only mild or no symptoms. Children aged 12 and below generally have
+mild or no symptoms as well, even though they are unvaccinated. However,
+for seniors who are unvaccinated, they are at great risk of falling very
+sick if infected. Although this group accounts for 1.5% of our
+population, they account for two-thirds of the individuals who need ICU
+care or have died.
+
+
+
+4. We will therefore need to expand our
+vaccination-differentiated safe management measures to protect the
+unvaccinated. We will also simplify our testing protocols to make these
+easier to understand and adhere to. We will extend booster vaccinations
+to healthcare and frontline workers, and persons in institutionalised
+settings, followed by all individuals aged 30 and above, to ensure
+continued high levels of COVID-19 immunity in the population.
+
+
+
+UPDATES ON LOCAL COVID-19 SITUATION
+
+
+
+5. The vast majority (98.8%) of cases continue to have mild
+or no symptoms. This is due to our high vaccination coverage, with 83%
+of the population having now completed their 2-dose regimen. Of the 423
+cases with severe illness in the last two weeks, a disproportionate
+proportion (53.9%) were unvaccinated, and the rest were vaccinated
+individuals with co-morbidities.
+
+
+
+6. The number of persons requiring ICU is continuing to rise
+at the same rate as our overall case numbers, albeit with a lag. We have
+had 51 new cases in ICU over the past two weeks, as compared to 32 over
+the preceding two weeks. Although we have increased our hospital
+capacity, bed occupancy rates are rising, and our healthcare manpower
+has been stretched.
+
+
+
+HOME RECOVERY PROGRAMME
+
+
+
+Extending the enrolment criteria
+
+
+
+7. Since the start of the HRP on 15 September 2021, more
+than 19,000 individuals have been recovering at home, of which more than
+8,000 have fully recovered and been discharged. As our population has
+become more familiar with the HRP, and our healthcare professionals have
+become more experienced in handling the medical needs of those on HRP,
+it is timely to extend the HRP to a wider range of individuals,
+especially for those with mild or no symptoms. This will allow us to
+better prioritise healthcare resources in our hospitals to take care of
+the severely ill or vulnerable patients, without compromising care to
+those who may be younger with milder or no symptoms.
+
+
+
+8. We will extend home recovery to unvaccinated persons aged
+12 to 49 years as the severity of illness for such younger and
+unvaccinated individuals is low, and it is safe for them to recover at
+home. Given the clinical observations to-date of vaccinated infected
+persons aged 70 to 79 years, and the fall risks associated with such
+elderly persons in an unfamiliar environment, it will also be safer for
+them to recover in the familiar surroundings of their home¹. However, as
+a precaution, individuals from both groups would be assigned to a
+healthcare provider and should monitor their health closely, including
+their oxygen level, during the isolation period and consult the
+healthcare provider early should there be any significant deterioration
+in their health.
+
+
+
+9. We will also extend default home recovery to children
+aged 5 to 11 years old, as we found that COVID-19 is not a serious
+illness for the vast majority of them. Furthermore, parents have often
+requested that children be allowed to recover at home, where there are
+caregivers from the family.  As for children aged 1 to 4, we will
+continue to extend home recovery to them provided that they are first
+clinically assessed at the hospitals to be suitable for home recovery.
+
+
+
+10. The combined outcome of these changes is that FROM 10
+OCTOBER 2021, WE WILL MAKE HRP² THE DEFAULT CARE ARRANGEMENT FOR
+EVERYONE, OTHER THAN FOR THE FOLLOWING PERSONS:
+
+A) PARTIALLY OR UNVACCINATED INDIVIDUALS AGED 50 YEARS AND OLDER;
+
+B) VACCINATED PERSONS 80 YEARS AND OLDER; AND
+
+C) CHILDREN AGED LESS THAN 1 YEAR, AND CHILDREN AGED 1 TO 4 YEARS WHO
+HAVE BEEN ASSESSED TO BE CLINICALLY UNSUITABLE FOR HOME RECOVERY.
+
+
+
+Please refer to Annex A for more details.
+
+
+
+11. Individuals who are on HRP will continue to have 24/7
+access to medical support. This may be available through existing
+telemedicine providers as well as a strengthened network of medical
+support with the Public Health Preparedness Clinics (PHPCs) or
+polyclinics who have come onboard the programme to help provide
+continuity of care for their patients. For non-medical assistance,
+individuals can reach out to the Home Recovery Buddy Hotline (6874
+4939).
+
+
+
+Timed discharge from home recovery
+
+
+
+12. Evidence has shown that viral loads in infected individuals
+will decline and reach undetectable or non-infectious levels with time.
+This happens in vaccinated individuals and young children (even if
+unvaccinated) earlier than in unvaccinated individuals. Hence, COVID-19
+infected individuals enrolled in the HRP will be discharged based on the
+time since diagnosis, without the need for further tests.
+
+
+
+13. For vaccinated individuals and children aged 12 years and
+below, the HRP isolation period will last for 10 days, while the HRP
+isolation period for unvaccinated individuals above the age of 12 years
+will last for 14 days. Thereafter, they will be provided with an
+electronic discharge memo upon the end of their isolation period. For
+simplicity, we will remove the Day 7 discharge for vaccinated person
+based on a PCR test that is negative or of low viral load.
+
+
+
+EXPANSION OF VACCINATION-DIFFERENTIATED SAFE MANAGEMENT MEASURES (VDS)
+COVERAGE
+
+14. Epidemiological investigations have identified food and
+beverage (F&B) settings such as hawker centres, retail establishments,
+and shopping centres as settings frequently visited by a significant
+proportion of COVID-19 positive cases, including those who are
+unvaccinated, and later on fell very sick.
+
+15. We already have vaccination-differentiated safe management
+measures (VDS) for dining-in at F&B establishments³. TO PROTECT THE
+UNVACCINATED INDIVIDUALS AND REDUCE THE STRAIN ON OUR HEALTHCARE SYSTEM,
+WE WILL EXPAND THE VDS FOR ENTRY INTO SHOPPING MALLS, ATTRACTIONS,
+HAWKER CENTRES, AND COFFEE SHOPS FROM 13 OCTOBER 2021. ENTERPRISES THAT
+ARE ABLE TO IMPLEMENT THE EXPANDED VDS COVERAGE EARLIER ARE STRONGLY
+ENCOURAGED TO DO SO. Please refer to Annex B for details.
+
+
+
+16. The expanded VDS means that only groups of up to 2 fully
+vaccinated persons will be allowed to dine-in at hawker centres and
+coffee shops, like all other regular F&B establishments.  Individuals
+who do not meet the above criteria can still buy take-away food. The
+relevant agencies will provide more details.
+
+
+
+17. Similarly, under the expanded VDS coverage, only groups of
+up to 2 fully vaccinated persons will be allowed to enter shopping malls
+and attractions.
+
+
+
+Protecting our vulnerable groups
+
+
+
+18. As announced on 7 October 2021⁴, the Ministry of Education
+(MOE) will progressively bring Primary 1 to 6 students back to schools
+for face-to-face lessons from 11 OCTOBER 2021 (MONDAY) to ensure
+physical schooling resumes in a safe manner. This is in line with MOE’s
+approach to minimise prolonged Home-based Learning (HBL) where possible,
+for the social-emotional well-being of students.
+
+
+
+19. In line with the return of students to primary schools,
+face-to-face lessons for students aged 12 years and below at tuition and
+enrichment centres, and Private Education Institutions (PEIs) may also
+resume from 11 October 2021, with strict Safe Management Measures in
+place. Nevertheless, centres and PEIs serving students aged 12 and below
+are still strongly encouraged to continue conducting lessons online as
+much as possible to protect the young.
+
+
+
+UPDATES TO TESTING PROTOCOLS
+
+
+
+20. The protocols and procedures for testing and isolation have
+been developed over the past months and became complex and difficult to
+understand.  We will significantly simplify these procedures.  A key
+move is to reserve PCR testing mainly for individuals who feel unwell
+and have symptoms⁵. Antigen rapid tests (ART) will be used for people
+who are well, such as for community testing and for the management of
+contacts of COVID-19 cases, so that we can still detect infections early
+and are able to exercise precaution to self-isolate early to protect
+ourselves and persons around us.
+
+
+
+Revised Protocols for Positive Cases
+
+
+
+21. The streamlined new protocols, are as follows:
+
+PROTOCOL 1: FOR THOSE WHO ARE UNWELL AND TESTED POSITIVE, THEY SHOULD
+SEE A DOCTOR. THEY WILL EITHER BE PLACED ON THE HRP BY DEFAULT, OR IF
+THE HOME ENVIRONMENT IS NOT SUITABLE, THEY CAN RECOVER AT THE
+APPROPRIATE CARE FACILITIES. They will be isolated for 10 days if they
+are fully vaccinated (or are young children aged 12 years or less); or
+isolated for 14 days if they are unvaccinated. They will be discharged
+after their respective isolation periods without the need for further
+tests at the point of discharge.
+
+
+
+PROTOCOL 2: FOR THOSE WHO ARE WELL AND TESTED POSITIVE, THEY SHOULD
+SELF-ISOLATE AT HOME FOR THE NEXT 72 HOURS. After 72 hours, they can
+re-test and if negative, they may exit isolation and resume normal
+activities. If they become unwell at any time, they should see a doctor.
+
+
+
+22. Previously, we differentiated contacts of COVID-19 cases
+into various risk levels and imposed several measures including
+Quarantine Orders (QO), Health Risk Alerts (HRA), and Health Risk
+Warnings (HRW). There will now be a single approach – A HRW THAT LASTS
+SEVEN DAYS FROM THE DAY OF ITS ISSUANCE, THAT IS BASED ON ART
+SELF-TESTING. It will comprise the following:
+
+PROTOCOL 3: Upon being notified of the HRW (Day 1), the person should
+immediately self-isolate, and test himself with an ART on the day of the
+HRW issuance and upload the Day 1 ART result based on the instruction in
+the HRW notification.  He can continue with normal activities for the
+day if the test is negative. For subsequent days, i.e. Day 2 to 7, the
+person should test ART negative on same day before going out. If the
+person tests positive on any of these ART tests, he should follow
+Protocol 2 above. On Day 7, he must test himself with an ART, and if the
+test is negative, there is no further need for tests after that.
+
+
+
+Please refer to Annex C for the summary of protocols.
+
+
+
+23. These revised protocols will start from 11 OCTOBER 2021.
+They mark a shift in emphasis towards personal responsibility and
+self-management.
+
+
+
+24. For those already in the system and following previous
+protocols, we need to make some transitional arrangements.  If you are a
+COVID-19 patient, you will serve out the 10-day or 14-day isolation,
+depending on your vaccination status. If you are currently on a
+quarantine order, you will no longer need an exit PCR test. If you test
+yourself with an ART and the result is negative, you may go out for the
+day. At the end of Day 7, you may exit quarantine.  In other words, you
+can follow Protocol 3.
+
+
+
+25. To provide greater support for regular self-testing at
+home, the Ministry of Health (MOH) will be conducting another round of
+distribution of ART kits from 22 OCTOBER TO 7 DECEMBER 2021, via
+SingPost. Each household will receive a package containing 10 ART
+self-test kits.
+
+
+
+UPDATES TO TRAVEL PROTOCOLS
+
+
+
+Changes to border measures
+
+
+
+26. As part of our regular review of the COVID-19 situation in
+countries/regions and border measures, we have updated the list of
+countries in the various categories and made some adjustments to the
+categories of some countries/ regions. Details of the updated
+country/region classification and their corresponding border measures
+may be found in Annex D and would be effective for arrivals from 12
+OCTOBER 2021, 2359 HOURS. We will continue to adjust our border measures
+as the global situation evolves.
+
+
+
+Extending Vaccinated Travel Lanes
+
+
+
+27. On 8 September 2021, we launched the Vaccinated Travel
+Lanes (VTLs) with BRUNEI and GERMANY to allow entry for fully vaccinated
+persons from these countries into Singapore for general travel. With
+VTLs, we replaced SHN with a regular testing regime for lower risk
+countries. As of 8 October 2021, 2359 hours, of the close to 2,000 VTP
+holders who entered Singapore, there have only been two imported
+COVID-19 cases. Both were tested COVID-positive on arrival and isolated
+immediately. There were no imported cases detected through the post
+arrival tests on Days 3 and 7 in Singapore.
+
+
+
+28. With the experience gained from the VTLs to Brunei and
+Germany, we will be extending the VTLs to eight more Category II
+countries/regions, namely CANADA, DENMARK, FRANCE, ITALY, NETHERLANDS,
+SPAIN, UNITED KINGDOM, AND THE UNITED STATES for entry into
+Singapore FROM 19 OCTOBER 2021. Applications for short-term visitors and
+Long-Term Pass Holders will commence on 12 OCTOBER 2021 FOR TRAVEL INTO
+SINGAPORE FROM 19 OCTOBER 2021.
+
+
+
+29. We will also jointly launch VTLs with the REPUBLIC OF KOREA
+(ROK) for travel between our countries FROM 15 NOVEMBER 2021, with
+application for the VTP for Short Term Visitors and Long-Term Pass
+Holders commencing on 8 November 2021. Returning Singapore Citizens and
+Permanent Residents who are vaccinated will not need to apply for the
+VTP to travel under the VTLs.
+
+
+
+30. We will also be making changes to the VTL testing regime
+which will apply to all VTL countries. All travellers entering Singapore
+under the VTLs from 19 October 2021 will only be required to present a
+valid negative COVID-19 PCR test result taken within 48 hours before
+departure to Singapore and undergo an on-arrival PCR test upon arriving
+in Singapore. They will not be required to undergo additional PCR tests
+on Days 3 and 7 of their stay in Singapore.
+
+
+
+31. The Civil Aviation Authority of Singapore will provide more
+details separately.
+
+
+
+EXPANDING THE BOOSTER VACCINATION STRATEGY
+
+
+
+32. On 3 October 2021, we commenced the booster programme
+for persons aged 50 to 59 years, in addition to those aged 60 years and
+above. As of 7 October 2021, almost 372,000 individuals have received
+their booster dose. 57% of individuals 50 to 59 years and 72% of seniors
+aged 60 years and above who are eligible for their booster dose have
+either booked an appointment or already received their booster dose.
+
+
+
+33. The Expert Committee on COVID-19 Vaccination (EC19V) has
+further recommended for the following persons to receive a booster dose
+of the Pandemic Special Access Route (PSAR) mRNA vaccine from six months
+after completing their primary series of vaccinations (please refer to
+Annex E for more details):
+
+a. Healthcare and frontline workers,
+b. Persons and staff in institutionalised settings, and
+c. Persons aged 30 years and above.
+
+
+
+34. MOH has accepted EC19V’s recommendations. Our healthcare
+and frontline workers are more likely to come into regular contact with
+COVID-19 cases in the course of their work and are at greater risk of
+infection. Persons and staff in institutionalised settings, such as
+prisons and residential care facilities, live in indoor settings of
+increased human density which are predisposed to large outbreaks of
+COVID-19. Expanding the booster programme to persons aged 30 and above
+will also help to raise the overall level of protection in the
+population.
+
+
+
+35. From 9 OCTOBER 2021, we will start offering booster
+vaccinations to healthcare workers, as well as frontline COVID-19
+workers who have completed their primary series vaccination regimen
+around six months ago. We are also working with various institutions to
+progressively roll out booster vaccinations to eligible persons in
+institutionalised settings.
+
+
+
+36. From 9 OCTOBER 2021, we will also progressively invite
+persons aged 30 years and above who have also completed their primary
+series vaccination regimen around six months ago to make an appointment
+for their booster dose. An SMS with a personalised booking link will be
+sent to the mobile number that they had earlier registered for their
+first two doses, to book an appointment on www.vaccine.gov.sg. These
+individuals may receive their booster dose at any vaccination centre or
+participating Public Health Preparedness Clinic (PHPC).
+
+
+
+TOWARDS A COVID-19 RESILIENT SINGAPORE
+
+
+
+37. We are staying the course to transit towards a COVID-19
+resilient nation. We will progressively re-open our society and economy,
+and resume travel, which is the lifeblood of our economy. But for now,
+the Stabilisation Phase is necessary to protect our healthcare system.
+
+
+
+38. We seek everyone’s cooperation to observe all safe
+management measures and testing protocols so that we can lower
+transmission risks and slow down the pace of community infections.
+Everyone needs to be socially responsible to take care of themselves and
+minimise unnecessary movement and social interactions. If you have been
+exposed to positive cases, please isolate yourself, test yourself
+regularly and seek medical treatment if you have any
+symptoms. Vaccination boosters will also be a key enabler for us to
+protect ourselves and our loved ones, particularly our seniors. Hence,
+we urge everyone to be vaccinated when it is offered to you.
+
+
+
+MINISTRY OF HEALTH
+
+9 OCTOBER 2021
+
+[1] This will commence from 16 October 2021.
+[2] Previous eligibility criteria for HRP: (a) fully vaccinated, (b)
+aged 12-69 years old, (c) mild or no symptoms, (d) no severe
+comorbidities or illnesses, (e) household members do not include elderly
+who are more than 80 years old or people in the vulnerable group, such
+as pregnant women or those with weakened immune response or multiple
+comorbidities and (f) can self-isolate in a room, preferably with an
+attached bathroom.
+[3] Under the current VDS, groups of up to 2 fully vaccinated persons
+are allowed to dine-in. Children aged 12 years and below, recovered
+individuals, and unvaccinated individuals with a valid negative
+pre-event test (PET) result can be included in the group of 2.
+[4] More information on the resumption of face-to-face lessons for
+primary schools is available
+here: https://www.moe.gov.sg/news/press-releases/20211007-phased-resumption-of-face-to-face-lessons-for-primary-schools-from-11-october
+[5] Mild symptoms: Fever, cough, fatigue, new loss of taste or smell,
+sore throat, runny nose, muscle aches, diarrhoea, nausea or vomiting;
+Severe symptoms: shortness of breath, chest pain or pressure, loss of
+speech or movement.
