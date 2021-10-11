@@ -1,0 +1,108 @@
+Update On Local Covid-19 Situation (11 Oct 2021)
+
+
+
+UPDATE ON LOCAL COVID-19 SITUATION (11 OCT 2021)
+
+
+Published Date: 11 Oct 2021
+
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · 1,698 cases are currently warded in hospital. 308 cases require     |
+| oxygen supplementation and 42 are in the intensive care unit (ICU).   |
+|                                                                       |
+| · Over the last 28 days, of the 56,755 infected individuals, 98.5%    |
+| had no or mild symptoms, 1.2% required oxygen supplementation, 0.1%   |
+| required ICU care, and 0.2% has died.                                 |
+|                                                                       |
+| · As of 10 October 2021, 83% of our population has completed their    |
+| full regimen/ received two doses of COVID-19 vaccines, and 85% has    |
+| received at least one dose.                                           |
+|                                                                       |
+| · As of 11 October 2021, 12pm, the Ministry of Health has detected a  |
+| total of 2,263 new cases of COVID-19 infection in Singapore, with     |
+| 1,949 in the community, 306 in the migrant worker dormitories and 8   |
+| imported cases.                                                       |
+|                                                                       |
+| Due to the 12pm cut-off for reporting of COVID-19 cases for the day,  |
+| most cases in today’s case count were tested over the weekend, when   |
+| there are typically fewer swabs done at Public Health Preparedness    |
+| Clinics (PHPCs) and polyclinics.                                      |
++-----------------------------------------------------------------------+
+
+SITUATION UPDATE
+1.     Over the last 28 days, 98.5% of local infected cases were
+asymptomatic or had mild symptoms, 1.2% required oxygen supplementation,
+and 0.1% had been in the ICU. Amongst those who required oxygen
+supplementation and ICU, 49.3% were fully vaccinated and 50.7% were
+unvaccinated/ partially vaccinated.
+FIGURE 1: Local Cases in the Last 28 Days by Severity of Condition¹
+
+[Fig1(11Oct21)]
+2.     10 more cases have passed away from complications due to COVID-19
+infection.² Of these, 7 were male Singaporeans/Permanent Residents and 3
+were female Singaporeans, aged between 73 and 93 years. Amongst them, 4
+had been unvaccinated against COVID-19, 3 had been partially vaccinated
+and 3 had been vaccinated. All of them had various underlying medical
+conditions.
+3.     Amongst those who have passed away over the last 28 days, 28.7%
+were fully vaccinated and 71.3% were unvaccinated/ partially vaccinated.
+FIGURE 2: Deaths and Active Cases in ICU, Requiring Oxygen
+Supplementation or Hospitalised, by Age Groups
+[Fig2(11Oct21)]
+4.     As of 11 October 2021, 12pm, amongst all COVID-19 community cases
+who have been onboarded or admitted, 16,001 (76.7%) cases are undergoing
+Home Recovery. 2,818 (13.5%) cases are in Community Care Facilities, 342
+(1.6%) cases are in COVID-19 Treatment Facilities, and 1,698 (8.1%)
+COVID-19 patients are currently warded in hospital, mostly for
+observation. 308 require oxygen supplementation, and 42 are in the ICU.
+FIGURE 3: Breakdown of Number of Active Cases in Hospital, COVID-19
+Treatment Facilities, Community Care Facilities, and Home Recovery
+Programme in the Last 7 Days
+[Fig3(11Oct21)]
+VACCINATION PROGRESS
+5.     As of 10 October 2021, 83% of our population has completed their
+full regimen/ received two doses of COVID-19 vaccines, and 85% has
+received at least one dose.
+6.     We have administered a total of 9,457,764 doses of COVID-19
+vaccines under the national vaccination programme (Pfizer-BioNTech
+Comirnaty and Moderna). In total, 4,603,882 individuals have received at
+least one dose of vaccine under the national vaccination programme, and
+4,543,625 individuals having completed the full vaccination regimen. In
+addition, 213,178 doses of other vaccines recognised in the World Health
+Organization’s Emergency Use Listing (WHO EUL) have been administered,
+covering 112,664 individuals.
+7.     To date, we have invited about 730,000 eligible individuals to
+receive their booster doses. 438,493 individuals have received their
+booster shots and another 125,000 have booked their appointments.
+ACTIVE CLUSTERS UNDER CLOSE MONITORING
+8.     There are no new cases linked to large clusters today.
+SUMMARY OF TRENDS FOR LOCAL CASES
+9.     As of 11 October 2021, 12pm, the Ministry of Health has detected
+a total of 2,263 new cases of COVID-19 infection in Singapore,
+comprising 1,949 community cases, 306 dormitory residents cases and 8
+imported cases. Amongst the local cases today are 388 seniors who are
+above 60 years. Due to the 12pm cut-off for reporting of COVID-19 cases
+for the day, most cases in today’s case count were tested over the
+weekend, when there are typically fewer swabs done at PHPCs and
+polyclinics.
+FIGURE 5: Number of Community Cases by Age
+[Fig5(11Oct21)]
+
+FIGURE 6: Number of Dormitory Cases by Age
+
+[Fig6(11Oct21)]
+10.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+MINISTRY OF HEALTH
+11 OCTOBER 2021
+
+¹ Includes only new cases reported in the past 28 days. Based on cases’
+worst-ever condition; deceased cases previously in ICU are counted under
+‘Deceased’ and not under ‘Ever in Intensive Care Unit’.
+² Cases 74760, 78350, 80166, 97871, 98649, 120530, 120780, 122928,
+123571 and 132058.
+
+
