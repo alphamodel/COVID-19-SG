@@ -10,24 +10,16 @@ Published Date: 12 Oct 2021
 +-----------------------------------------------------------------------+
 | SUMMARY OF LOCAL SITUATION                                            |
 |                                                                       |
-|                                                                       |
-|                                                                       |
 | · 1,619 cases are currently warded in hospital. 291 cases require     |
 | oxygen supplementation and 42 are in the intensive care unit (ICU).   |
-|                                                                       |
-|                                                                       |
 |                                                                       |
 | · Over the last 28 days, of the 58,894 infected individuals, 98.5%    |
 | had no or mild symptoms, 1.2% required oxygen supplementation, 0.1%   |
 | required ICU care, and 0.2% has died.                                 |
 |                                                                       |
-|                                                                       |
-|                                                                       |
 | · As of 11 October 2021, 83% of our population has completed their    |
 | full regimen/ received two doses of COVID-19 vaccines, and 85% has    |
 | received at least one dose.                                           |
-|                                                                       |
-|                                                                       |
 |                                                                       |
 | · As of 12 October 2021, 12pm, the Ministry of Health has detected a  |
 | total of 2,976 new cases of COVID-19 infection in Singapore, with     |
@@ -35,22 +27,15 @@ Published Date: 12 Oct 2021
 | imported cases.                                                       |
 +-----------------------------------------------------------------------+
 
-
-
-
 SITUATION UPDATE
-
-
-
 1.  Over the last 28 days, 98.5% of local infected cases were
 asymptomatic or had mild symptoms, 1.2% required oxygen supplementation,
 and 0.1% had been in the ICU. Amongst those who required oxygen
 supplementation and ICU, 49.9% were fully vaccinated and 50.1% were
 unvaccinated/ partially vaccinated.
 
-
-
 FIGURE 1: Local Cases in the Last 28 Days by Severity of Condition1
+
 [12OctFig1]
 
 2.   11 more cases have passed away from complications due to COVID-19
@@ -169,4 +154,5 @@ counted under ‘Deceased’ and not under ‘Ever in Intensive Care Unit’.
 [2] Cases 75832, 85526, 86772, 101610, 102320, 105172, 107109, 113768,
 118238, 129333 and 132224.
 [3] 3 Includes new cases added today.
+
 
