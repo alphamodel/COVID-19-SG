@@ -64,10 +64,11 @@ cases and deaths.
 
 
 6.  We currently have about 1,650 isolation beds and 200 ICU
-beds in the public hospitals. 89% of our isolation beds have been
-filled. The occupancy rates for ICU beds, which consist of existing
-COVID cases requiring ICU care, COVID-19 patients admitted to ICU for
-monitoring, as well as non-COVID patients, stands at about 67%.
+beds for COVID-19 patients in the public hospitals. 89% of our isolation
+beds have been filled. The occupancy rates for ICU beds, which consist
+of existing COVID cases requiring ICU care, COVID-19 patients admitted
+to ICU for monitoring, as well as non-COVID patients, stands at about
+67%.
 
 
 
