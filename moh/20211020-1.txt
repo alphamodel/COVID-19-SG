@@ -192,7 +192,7 @@ MINISTRY OF HEALTH
 [1] Includes only new cases reported in the past 28 days. Based on
 cases’ worst-ever condition; deceased cases previously in ICU are
 counted under ‘Deceased’ and not under ‘Ever in Intensive Care Unit’.
-[2] Cases 50839, 81624, 113732, 116398, 120525, 121496, 122460, 124136,
+[2] Cases 150839, 81624, 113732, 116398, 120525, 121496, 122460, 124136,
 125114, 125437, 139042, 140841, 142945, 151320, 151847, 153734, 154231
 and 154056.
 [3] Includes new cases added today.
