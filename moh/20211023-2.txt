@@ -193,14 +193,14 @@ Key Indicators for Easing of Measures
 20.       The MTF had earlier highlighted that the stabilisation
 measures will not remain static throughout this coming month. We are
 monitoring several key indicators closely. In particular, the weekly
-infection rate (i.e. the ratio of community cases in the past week over
-the week before) is now slightly above 1, which means that infections
-are continuing to rise, and continuing to put pressure on our healthcare
-system.  If this ratio drops below 1, and the hospital/ICU situation
-remains stable, we will consider some calibrated easing of measures.
-This will include allowing selected group sports and school activities
-to resume with appropriate safeguards, as well as allowing members from
-the same households to dine together at F&B establishments.
+infection growth rate (i.e. the ratio of community cases in the past
+week over the week before) is now slightly above 1, which means that
+infections are continuing to rise, and continuing to put pressure on our
+healthcare system.  If this ratio drops below 1, and the hospital/ICU
+situation remains stable, we will consider some calibrated easing of
+measures. This will include allowing selected group sports and school
+activities to resume with appropriate safeguards, as well as allowing
+members from the same households to dine together at F&B establishments.
 UPDATES TO BORDER MEASURES
 Entry of Fully Vaccinated Domestic Workers
 21.       As announced previously, we will allow necessary workers and
