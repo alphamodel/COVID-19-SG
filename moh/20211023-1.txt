@@ -50,7 +50,7 @@ of them had various underlying medical conditions.
 were fully vaccinated and 68.8% were unvaccinated/ partially vaccinated.
 FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
 Supplementation or Hospitalised, by Age Groups
-[Fig 6_23 Oct]
+[Fig 3_23 Oct]
 4.     3,512 cases were discharged today, of whom 474 are seniors above
 60 years.  As of 23 October 2021, 12pm, amongst all COVID-19 community
 cases who have been onboarded or admitted, 17,725 (70.4%) cases are
