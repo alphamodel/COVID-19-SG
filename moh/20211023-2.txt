@@ -221,8 +221,8 @@ countries in the various categories and adjusted the categories of some
 countries/ regions. Details of the updated country/ region
 classification and their corresponding border measures is in Annex A and
 would be effective for arrivals from 26 OCTOBER 2021, 2359 HOURS.
-Resumption Travel from Bangladesh, India, Myanmar, Nepal, Pakistan and
-Sri Lanka
+Resumption of Travel from Bangladesh, India, Myanmar, Nepal, Pakistan
+and Sri Lanka
 23.       We had previously announced that all travellers with a 14-day
 travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri
 Lanka will not be allowed to enter or transit through Singapore. We have
@@ -279,7 +279,7 @@ two more doses of Sinovac-CoronaVac; those who had not taken any dose of
 Pfizer-BioNTech/Comirnaty, will take three doses of Sinovac-CoronaVac.
 [3] An individual is considered vaccinated if he/she a) has been fully
 vaccinated, i.e. received the appropriate regimen of World Health
-Organisation Emergency Use Listing (WHO EUL) vaccines including their
+Organization Emergency Use Listing (WHO EUL) vaccines including their
 respective duration post-vaccination for the vaccine to be fully
 effective and b) had their vaccination records ingested in MOH’s IT
 systems.
