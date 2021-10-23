@@ -93,7 +93,7 @@ two doses of the mRNA vaccines to complete their primary series regime.
 b.       Persons who had received only one or two doses of the
 Sinovac-CoronaVac vaccine to-date, are strongly encouraged to complete a
 three-dose primary series regime with the mRNA vaccines as it offers
-more optimal protection .
+more optimal protection¹.
 c.       Persons who are unable to take any dose of the mRNA vaccines
 due to medical reasons, should receive three doses of Sinovac-CoronaVac
 in total to complete their primary series regime.
@@ -126,7 +126,7 @@ Organization’s approved use under the Emergency Use Listing.  However,
 for those in this age band who are medically ineligible to complete a
 full two-dose regime of the Pfizer-BioNTech/Comirnaty mRNA vaccines, we
 will offer a three-dose primary series using Sinovac-CoronaVac under a
-dedicated public health programme . They will be closely monitored by
+dedicated public health programme². They will be closely monitored by
 trained medical personnel under this public health programme, given that
 the use of Sinovac-CoronaVac in persons under the age of 18 years was
 not included in HSA’s PSAR interim authorisation. We will get in touch
@@ -168,21 +168,17 @@ NVP. More details on the medical criteria and timeline for the start of
 this concession will be issued by MOH later.
 C. RESUMING OUR SOCIAL AND ECONOMIC ACTIVITIES SAFELY
 Workforce Vaccination Measures to Keep the Workplace Safe
-18.       FROM 1 JANUARY 2022, ONLY EMPLOYEES WHO ARE FULLY VACCINATED ,
+18.       FROM 1 JANUARY 2022, ONLY EMPLOYEES WHO ARE FULLY VACCINATED³,
 OR HAVE RECOVERED FROM COVID-19 WITHIN THE PAST 270 DAYS, CAN RETURN TO
 THE WORKPLACE. Unvaccinated employees will not be allowed to return to
 the workplace unless they have tested negative for COVID-19 before
 returning to the workplace, and they will need to pay for the costs of
 these tests. The test should be a Pre-Event Test at an MOH-approved
-COVID-19 test provider, and must be valid for the duration that the
-employees are required to be present at the workplace. The testing
-requirements will apply to medically ineligible persons and pregnant
-women as well. Tripartite partners have agreed on special considerations
-that employers should grant to these groups, such as allowing work from
-home without affecting performance and coming to reasonable agreement on
-cost-sharing of the tests. More details will be shared via a separate
-press release jointly issued by MOH and MOM, as well as in the
-tripartite advisory on vaccination at the workplace.
+COVID-19 test provider, and must be valid⁴ for the duration that the
+employees are required to be present at the workplace.  More details
+will be shared via a separate press release jointly issued by MOH and
+MOM, as well as in the tripartite advisory on vaccination at the
+workplace.
 Keeping Our Seniors Active Through Safe and Healthy Activities
 19.       Over the past months, the options for seniors to be socially
 engaged in wellness activities have been limited, as a result of SMMs
@@ -221,8 +217,8 @@ countries in the various categories and adjusted the categories of some
 countries/ regions. Details of the updated country/ region
 classification and their corresponding border measures is in Annex A and
 would be effective for arrivals from 26 OCTOBER 2021, 2359 HOURS.
-Resumption of Travel from Bangladesh, India, Myanmar, Nepal, Pakistan
-and Sri Lanka
+Resuming Travel from Bangladesh, India, Myanmar, Nepal, Pakistan and Sri
+Lanka
 23.       We had previously announced that all travellers with a 14-day
 travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri
 Lanka will not be allowed to enter or transit through Singapore. We have
@@ -239,7 +235,7 @@ II (non-Vaccinated Travel Lane (VTL)), III and IV countries will no
 longer need to undergo an on-arrival Polymerase Chain Reaction (PCR)
 test, and will only undergo an end of Stay-Home Notice (SHN) exit PCR
 test.
-25.        All travellers from Category III countries/regions  will
+25.        All travellers from Category III countries/regions⁵ will
 serve their 10-day SHN at their declared place of
 residence/accommodation regardless of the travellers’ and their
 household members’ vaccination status and travel history. By default,
