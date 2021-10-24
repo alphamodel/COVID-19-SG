@@ -1,171 +1,86 @@
-Update On Local Covid-19 Situation (24 Oct 2021)
+Issuance of Correction Direction Under the Protection From Online
+Falsehoods and Manipulation Act On Falsehoods On Effectiveness of
+Covid-19 Vaccines and Clarifications On Ivermectin
 
 
 
-UPDATE ON LOCAL COVID-19 SITUATION (24 OCT 2021)
+ISSUANCE OF CORRECTION DIRECTION UNDER THE PROTECTION FROM ONLINE FALSEHOODS AND MANIPULATION ACT ON FALSEHOODS ON EFFECTIVENESS OF COVID-19 VACCINES AND CLARIFICATIONS ON IVERMECTIN
 
 
 Published Date: 24 Oct 2021
 
-+-----------------------------------------------------------------------+
-| SUMMARY OF LOCAL SITUATION                                            |
-|                                                                       |
-| · 3,369 cases were discharged today, of whom 502 are seniors above 60 |
-| years.                                                                |
-|                                                                       |
-| · 1,738 cases remain warded in hospital. 278 cases require oxygen     |
-| supplementation in the general ward, 97 are unstable and under close  |
-| monitoring in the intensive care unit (ICU) to prevent further        |
-| deterioration, and 58 are critically ill and intubated in the ICU.    |
-|                                                                       |
-| · Over the last 28 days, of the 84,581 infected individuals, 98.6%    |
-| had no or mild symptoms, 0.9% required oxygen supplementation in the  |
-| general ward, 0.1% were unstable and under close monitoring in the    |
-| ICU, 0.1% were critically ill and intubated in the ICU, and 0.2% has  |
-| died.                                                                 |
-|                                                                       |
-| · As of 23 October 2021, 84% of our population has completed their    |
-| full regimen/ received two doses of COVID-19 vaccines, and 85% has    |
-| received at least one dose.                                           |
-|                                                                       |
-| · As of 24 October 2021, 12pm, the Ministry of Health has detected a  |
-| total of 3,383 new cases of COVID-19 infection in Singapore, with     |
-| 2,708 in the community, 667 in the migrant worker dormitories and 8   |
-| imported cases.                                                       |
-+-----------------------------------------------------------------------+
+         Many of the materials published on the “Truth Warriors” website
+mislead people into thinking that COVID-19 vaccines are not effective in
+reducing transmission rates of COVID-19, and promote the safety and
+efficacy of ivermectin in preventing viral infections and treating
+COVID-19. These materials are from unverified and dubious sources, and
+individuals who heed the advice of “Truth Warriors” can endanger
+themselves and the people around them.
+2.     The Minister for Health has instructed the Protection from Online
+Falsehoods and Manipulation Act (POFMA) Office to issue a Correction
+Direction to the “Truth Warriors” website for these falsehoods. The
+website is required to publish the correction notice at the top of each
+webpage containing the falsehoods.
+3.     The Government takes a serious view of the deliberate
+communication of these falsehoods, and criminal investigations will be
+conducted.
+CORRECTIONS AND CLARIFICATIONS ON FALSEHOODS REGARDING COVID-19 ON
+“TRUTH WARRIORS” WEBSITE
+4.     In particular, the website has published false claims stating
+that:
+i. The most vaccinated countries have the most cases and deaths per
+million population and the least vaccinated countries have the fewest
+cases and deaths per million population; and
+ii. Vaccines do not prevent the transmission of COVID-19.
+5.     These claims are false. As of 23 October 2021, the weight of
+international evidence shows categorically that vaccines reduce COVID-19
+infection, as well as serious illness and mortality rates from COVID-19
+infection. The latest data does not support the claim that countries
+with the highest vaccination rates also have the highest cases/deaths
+per million population. While some countries with the lowest vaccination
+rates also have low reported COVID-19 deaths, this is likely due to poor
+record collection for both vaccinations and deaths.
+6.     While the vaccines do not completely stop viral transmission,
+vaccines do reduce the risk of transmission. Vaccinated persons are less
+likely to transmit the virus than unvaccinated persons. Furthermore,
+while the vaccine on its own does not kill the virus, it is false to
+suggest that the effect of the vaccine on the immune system does not
+lead to the killing of the virus. The vaccines cause the body to produce
+antibodies and immune cells that act against the virus and, in effect,
+kill it.
 
-SITUATION UPDATE
-1.     Over the last 28 days, 98.6% of local infected cases were
-asymptomatic or had mild symptoms, 0.9% required oxygen supplementation
-in the general ward, 0.1% were unstable and under close monitoring in
-the ICU to prevent further deterioration, and 0.1% had been critically
-ill and intubated in the ICU. Amongst those who required oxygen
-supplementation and ICU, 46.2% were fully vaccinated and 53.8% were
-unvaccinated/ partially vaccinated.
-FIGURE 1: Local Cases in the Last 28 Days by Severity of Condition¹
-
-[Fig1_24Oct21]
-FIGURE 2: Daily Adult ICU Bed Utilisation
-
-[Fig2_24Oct21]
-2.     15 more cases have passed away from complications due to COVID-19
-infection.² Of these, 8 were male Singaporeans and 7 were female
-Singaporeans, aged between 58 and 100 years. Amongst them, 8 had been
-unvaccinated against COVID-19, 1 had been partially vaccinated and 6 had
-been vaccinated. All of them had various underlying medical conditions.
-Amongst those who have passed away over the last 28 days, 31.4% were
-fully vaccinated and 68.6% were unvaccinated/ partially vaccinated.
-FIGURE 3: Deaths and Active Cases in ICU, Requiring Oxygen
-Supplementation or Hospitalised, by Age Groups
-
-[Fig3_24Oct21]
-3.     3,369 cases were discharged today, of whom 502 are seniors above
-60 years.  As of 24 October 2021, 12pm, amongst all COVID-19 community
-cases who have been onboarded or admitted, 17,862 (70.4%) cases are
-undergoing Home Recovery. 4,817 (19.0%) cases are in Community Care
-Facilities, 961 (3.8%) cases are in COVID-19 Treatment Facilities, and
-1,738 (6.8%) COVID-19 patients are currently warded in hospital, mostly
-for observation. 278 require oxygen supplementation in the general ward,
-97 are unstable and under close monitoring in the ICU to prevent further
-deterioration, and 58 are critically ill and intubated in the ICU.
-FIGURE 4: Breakdown of Number of Active Cases in Hospital, COVID-19
-Treatment Facilities, Community Care Facilities, and Home Recovery
-Programme in the Last 7 Days
-[Fig4_24Oct21]
-VACCINATION PROGRESS
-4.     As of 23 October 2021, 84% of our population has completed their
-full regimen/ received two doses of COVID-19 vaccines, and 85% has
-received at least one dose.
-5.     We have administered a total of 9,773,881 doses of COVID-19
-vaccines under the national vaccination programme (Pfizer-BioNTech
-Comirnaty and Moderna). In total, 4,629,597 individuals have received at
-least one dose of vaccine under the national vaccination programme, and
-4,573,743 individuals having completed the full vaccination regimen. In
-addition, 238,589 doses of other vaccines recognised in the World Health
-Organization’s Emergency Use Listing (WHO EUL) have been administered,
-covering 121,927 individuals.
-6.     To date, we have invited about 910,000 eligible individuals to
-receive their booster doses. 699,542 individuals have received their
-booster shots and another 79,000 have booked their appointments.
-ACTIVE CLUSTERS UNDER CLOSE MONITORING
-7. We are closely monitoring the clusters listed below, which have
-already been ringfenced through tracing, testing and isolation.
-FIGURE 5: Large Clusters with New Cases
-CLUSTER
-
-NEW CASES
-
-TOTAL³
-
-REMARKS
-
-Banyan Home @ Pelangi Village
-
-6
-
-66
-
-Transmission amongst staff and residents. Of the 66 cases, 1 is a staff
-and 65 are residents.
-
-AWWA Community Home for Senior Citizens
-
-10
-
-70
-
-Transmission amongst residents. Of the 70 cases, 1 is a staff and 69
-cases are residents.
-
-PCF Sparkletots @ Zhenghua (632A Senja Road)
-
-4
-
-23
-
-Transmission amongst staff and students. Of the 23 cases, 5 are staff,
-13 are students and 4 are household contacts of cases.
-
-Bukit Batok Home for the Aged
-
-5
-
-147
-
-Transmission amongst staff and residents. Of the 147 cases, 5 are staff
-and 142 are residents.
-
-MWS Christalite Methodist Home
-
-1
-
-122
-
-Transmission amongst staff and residents. Of the 122 cases, 14 are staff
-and 108 are residents.
-
-SUMMARY OF TRENDS FOR LOCAL CASES
-8.     As of 24 October 2021, 12pm, the Ministry of Health has detected
-a total of 3,383 new cases of COVID-19 infection in Singapore,
-comprising 2,708 community cases, 667 dormitory resident cases and 8
-imported cases. Amongst the community cases today are 428 seniors who
-are above 60 years.  The ratio of community cases for the past week over
-the week before is 1.14.
-FIGURE 6: Number of Community Cases by Age
-[Fig6_24Oct21]
-
-FIGURE 7: Ratio of Community Cases in the Past Week over the Week Before
-[Fig7_24Oct21]
-9. Please refer to MOH’s daily Situation Report
-(www.moh.gov.sg/covid-19/situation-report) for details.
+7.     For facts of the case, please refer to the Factually article
+“Corrections and Clarifications regarding content about COVID-19 by
+“Truth Warriors” website at https://www.gov.sg/article/factually241021.
+ADDITIONAL CLARIFICATIONS
+8.     The website also claimed that ivermectin prevents COVID-19
+infection, and that it is safe and effective in treating COVID-19, even
+for pregnant women. MOH and Health Sciences Authority (HSA) are aware
+that there are members of the public trying to import or use ivermectin
+for the prevention or treatment of COVID-19. Ivermectin is a
+prescription-only medicine registered in Singapore specifically for the
+treatment of parasitic worm infections. It is not an anti-viral medicine
+and is not approved by HSA for preventing or treating COVID-19.
+9.     Self-medicating with ivermectin can be dangerous to one’s health.
+Side-effects associated with ivermectin include vomiting, diarrhoea,
+stomach pain, neurologic adverse events (dizziness, seizures,
+confusion), sudden drop in blood pressure, severe skin rash potentially
+requiring hospitalisation, and liver injury (hepatitis). Ivermectin can
+also interact with other medications used, such as blood thinners.
+10.     HSA takes a serious view against those engaged in the illegal
+sale and supply of medicines, including ivermectin, and will take strong
+enforcement action against such persons. Anyone convicted of the illegal
+sale of these medicines faces a penalty fine of up to $50,000 and/or
+imprisonment for a period of up to two years under the Health Products
+Act.
+11.     The website also shares user-collated and unverified data on
+suspected vaccine injuries in Singapore, citing the “SG Suspected
+Vaccine Injuries” Telegram chat as its source. We advise members of the
+public not to speculate and/or spread misinformation which may cause
+public alarm, and to refer to credible sources of information instead.
+12.     Please visit www.moh.gov.sg for the latest information on
+COVID-19 and COVID-19 vaccinations. For vaccine SAE statistics, please
+refer to HSA and its Safety Updates published monthly. For information
+regarding ivermectin and consumer safety, please visit www.hsa.gov.sg.
 MINISTRY OF HEALTH
 24 OCTOBER 2021
-
-------------------------------------------------------------------------
-
-¹ Includes only new cases reported in the past 28 days. Based on cases’
-worst-ever condition; deceased cases previously in ICU are counted under
-‘Deceased’ and not under ‘Ever in ICU (Critically ill).
-² Cases 86823, 101611, 103533, 106150, 110260, 115716, 119507, 127917,
-138550, 149959, 158682, 158843, 160376, 160392 and 166062.
-³ Includes new cases added today.
