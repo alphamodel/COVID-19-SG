@@ -89,7 +89,7 @@ least one dose, and 13% have received their booster shots.
 6. We have administered a total of 9,786,082 doses of COVID-19 vaccines
 under the national vaccination programme (Pfizer-BioNTech Comirnaty and
 Moderna). In total, 4,630,558 individuals have received at least one
-dose of vaccine under the national vaccination programme, 4,668,722
+dose of vaccine under the national vaccination programme, 4,574,892
 individuals having completed the full vaccination regimen, and 709,525
 have taken their booster shots. In addition, 239,146 doses of other
 vaccines recognised in the World Health Organization’s Emergency Use
