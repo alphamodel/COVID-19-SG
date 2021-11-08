@@ -20,7 +20,7 @@ SUMMARY OF LOCAL SITUATION
 -   As of 6 November 2021, 85% of our population has completed their
     full regimen/ received two doses of COVID-19 vaccines, 86% has
     received at least one dose, and 18% has received boosters.
--   Over the past day,2,926 cases were discharged, of whom 420 are
+-   Over the past day, 2,926 cases were discharged, of whom 420 are
     seniors aged 60 years and above. 2,553 new cases of COVID-19
     infection were detected, with 2,343 in the community, 205 in the
     migrant worker dormitories and 5 imported cases. The weekly
@@ -61,8 +61,8 @@ fully vaccinated and non-fully vaccinated seniors who died are 0.3 and
 9.0 respectively.
 FIGURE 4: 7-Day Moving Average of Number of Deaths and Active Cases in
 ICU, per 100,000 Population by Vaccination Status³
-[Fig3_7 Nov]
-Inflow and Outflow of Cases
+[Fig4_7 Nov]
+INFLOW AND OUTFLOW OF CASES
 6.    Over the past day, 2,926 cases were discharged, of whom 420 are
 seniors aged 60 years and above.
 7.    As of 7 November 2021, 12pm, the Ministry of Health has detected a
