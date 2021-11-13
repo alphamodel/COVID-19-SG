@@ -1,8 +1,8 @@
-Update On Local Covid-19 Situation
+Update On Local Covid-19 Situation (12 Nov 2021)
 
 
 
-UPDATE ON LOCAL COVID-19 SITUATION
+UPDATE ON LOCAL COVID-19 SITUATION (12 NOV 2021)
 
 
 Published Date: 12 Nov 2021
@@ -12,8 +12,8 @@ Published Date: 12 Nov 2021
 +-----------------------------------------------------------------------+
 | SUMMARY OF LOCAL SITUATION                                            |
 |                                                                       |
-| -   1,616 cases remain warded in hospital. 280 cases require oxygen   |
-|     supplementation in the general ward, 31 are unstable and under    |
+| -   1,616 cases remain warded in hospital. 259 cases require oxygen   |
+|     supplementation in the general ward, 52 are unstable and under    |
 |     close monitoring in the intensive care unit (ICU), and 75 are     |
 |     critically ill and intubated in the ICU. The current overall ICU  |
 |     utilisation rate is 67.0%.                                        |
@@ -36,21 +36,19 @@ Published Date: 12 Nov 2021
 |     number of cases during the Deepavali public holiday last week.    |
 +-----------------------------------------------------------------------+
 
-
+Note: Hospitalisation numbers have been updated on 13 November.
 
 
 SITUATION AT HOSPITALS
 
-1.     As of 12 November 2021, 280 cases require oxygen supplementation
-in the general ward, 31 are unstable and under close monitoring in the
+1.     As of 12 November 2021, 259 cases require oxygen supplementation
+in the general ward, 52 are unstable and under close monitoring in the
 ICU to prevent further deterioration, and 75 are critically ill and
 intubated in the ICU. The current overall ICU utilisation rate is 67.0%.
 
 FIGURE 1: Daily Adult ICU Bed Utilisation
 
-[211112 Figure 1]
-
-STATUS OF PATIENTS
+[FIG1_12 NOV]STATUS OF PATIENTS
 
 2.     Over the last 28 days, 98.7% of local infected cases were
 asymptomatic or had mild symptoms, 0.8% required oxygen supplementation
@@ -70,9 +68,7 @@ continue to be more adversely affected by COVID-19:
 FIGURE 3: Patients Needing Oxygen Supplementation, ICU Care or Died[2],
 by Age Groups
 
-[211112 Figure 3]
-
-VACCINATION
+[FIG3_12 NOV]VACCINATION
 
 4.     As of 11 November 2021, 85% of our population has completed their
 full regimen/ received two doses of COVID-19 vaccines, 86% has received
