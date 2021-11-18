@@ -40,7 +40,8 @@ dormitories and 10 imported cases. The weekly infection growth rate is
 0.89.
 
 
-SITUATION AT HOSPITALS
+Note: Figure 7 has been updated on 18 November.
+Situation at Hospitals
 
 
 
@@ -207,8 +208,8 @@ NTUC Health Nursing Home (Chai Chee)
 
 19
 
-Transmission amongst staff and residents. Of the 19 cases, 17 are staff
-and 2 are residents.
+Transmission amongst staff and residents. Of the 19 cases, 2 are staff
+and 17 are residents.
 
 MWS Nursing Home - Yew Tee
 
