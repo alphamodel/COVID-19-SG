@@ -34,7 +34,7 @@ respectively. The increasing trend was observed even after adjusting for
 the possible effect of an ageing population³. The increase in prevalence
 for both conditions was greatest among those 40 years and above. While
 the crude prevalence of diabetes showed a slight increase from 8.8% in
-2017 to 9.5%for the period of 2019 to 2020, a stable trend was seen
+2017 to 9.5% for the period of 2019 to 2020, a stable trend was seen
 after adjusting for age⁴.
 _More were obese or had high risk BMI, and fewer engaged in sufficient
 total physical activity_
@@ -104,13 +104,13 @@ population-wide programmes such as the National Steps Challenge.
 15.     With the increase in hypertension prevalence, we need to do more
 to reduce sodium consumption in our diets. Salt is the primary source of
 sodium, and high sodium intake is associated with increased risk of
-hypertension. Singapore residents are consuming3,600mg of sodium per day
-on average in 2018,higher than before¹⁷, and 9 in 10 Singapore residents
-exceeded the World Health Organization’s (WHO) recommendation to consume
-less than 2,000mg of sodium per day (i.e. no more than 1 teaspoon of
-regular salt). To address this issue, HPB is planning to ramp up
-existing efforts to spur reformulation of reduced-sodium sauces and
-seasonings, and embark on a nationwide campaign to encourage
+hypertension. Singapore residents are consuming 3,600mg of sodium per
+day on average in 2018, higher than before¹⁷, and 9 in 10 Singapore
+residents exceeded the World Health Organization’s (WHO) recommendation
+to consume less than 2,000mg of sodium per day (i.e. no more than 1
+teaspoon of regular salt). To address this issue, HPB is planning to
+ramp up existing efforts to spur reformulation of reduced-sodium sauces
+and seasonings, and embark on a nationwide campaign to encourage
 Singaporeans to reduce sodium consumption in their diets. More details
 will be released in the coming months.
 16.     To promote healthier diets, we also need to do more to reduce
@@ -150,7 +150,7 @@ part of Screen for Life (SFL) programme, eligible Singapore residents
 are offered heavily subsidised screening tests for cardiovascular risk
 factors (obesity, diabetes, hypertension, hyperlipidaemia), cervical
 cancer and colorectal cancer at no more than $5 for the screening tests,
-screening visit and first follow-up consultation (if required).We will
+screening visit and first follow-up consultation (if required). We will
 continue our efforts to reach out to the unscreened population, to
 encourage Singaporeans to participate in screening regularly.
 d) Encouraging vaccination uptake
