@@ -108,8 +108,21 @@ individuals who have been fully vaccinated, we can further reduce the
 risk of transmission in such settings.
 11. A summary of the updated community measures from 22 November 2021
 can be found in Annex A.
+(E) Removal of VDS Concession for Voluntarily Unvaccinated Individuals
+12. We will further strengthen efforts to protect unvaccinated
+individuals from getting infected, as they are subject to greater risks
+of severe illness. Under current rules, unvaccinated individuals can get
+a PET and show a negative test result to enter a VDS setting. We will
+remove this concession for unvaccinated individuals to perform PET in
+lieu of being fully vaccinated.  Hence, ONLY FULLY VACCINATED,
+RECOVERED, OR MEDICALLY INELIGIBLE INDIVIDUALS, OR CHILDREN AGED 12
+YEARS AND BELOW (SUBJECT TO VENUE/EVENT-SPECIFIC CAPS) WILL BE ALLOWED
+TO ENTER SETTINGS WHERE VDS IS IMPLEMENTED. We will effect this on 1
+JANUARY 2022, to allow time for more individuals to complete their
+primary series vaccination regime.
+
 FURTHER RESUMPTION OF SENIOR-CENTRIC ACTIVITIES
-12. In line with our updated adjustments to SMMs and drawing lessons
+13. In line with our updated adjustments to SMMs and drawing lessons
 from the resumption pilots launched to-date by the People’s Association
 and SportSG, we are working on the resumption of more senior-centric
 activities in a safe manner, enabled by the use of VDS for such
@@ -119,7 +132,7 @@ Health Promotion Board and participate in other forms of learning under
 the National Silver Academy. Details will be released soon.
 RESUMPTION OF IN-PERSON VISITS TO HOSPITALS AND RESIDENTIAL CARE HOMES
 WITH VDS IN PLACE
-13. To continue protecting vulnerable individuals in our hospitals and
+14. To continue protecting vulnerable individuals in our hospitals and
 residential care homes (Homes) but conscious also of the well-being of
 our patients and residents, WE WILL RESUME IN-PERSON VISITS TO HOSPITALS
 AND HOMES WITH ENHANCED VDS-RELATED MEASURES IN PLACE, FROM 22 NOVEMBER
@@ -127,7 +140,7 @@ AND HOMES WITH ENHANCED VDS-RELATED MEASURES IN PLACE, FROM 22 NOVEMBER
 risk of outbreaks, which may otherwise jeopardise the lives of
 vulnerable patients and residents and affect the operating capacity of
 our hospitals and residential care homes.
-14. SUCH IN-PERSON VISITS WILL BE ALLOWED ONLY WHEN BOTH THE HOSPITAL
+15. SUCH IN-PERSON VISITS WILL BE ALLOWED ONLY WHEN BOTH THE HOSPITAL
 PATIENT/ HOME RESIDENT AND THEIR VISITORS ARE FULLY VACCINATED. As a
 concession, we will also allow visits for medically ineligible
 patients/residents and visitors. If the patient/resident and/or visitor
@@ -137,7 +150,7 @@ hospitals and Homes. More details for visits to hospitals and Homes can
 be found in Annex B. For avoidance of doubt, this measure does not apply
 to individuals seeking medical care from our hospitals.
 TAPERING OF SUPPORT MEASURES
-15. As we exit the Stabilisation Phase, the Government will
+16. As we exit the Stabilisation Phase, the Government will
 correspondingly taper down the support measures to the following:
 a. 10% Jobs Support Scheme support from 22 November to 19 December 2021
 for F&B, retail, cinemas, museums, art galleries, historical sites,
@@ -148,11 +161,11 @@ in centres managed by NEA or NEA-appointed operators.
 c. COVID-19 Driver Relief Fund payout at $10 and $5 per vehicle per day
 in December 2021² and January 2022 respectively for taxi and private
 hire car drivers.
-16. The total sum of the support measures is $90m. This will be funded
+17. The total sum of the support measures is $90m. This will be funded
 from the higher-than-expected revenues collected to-date. There will be
 no further draw on Past Reserves.
 ENHANCING PROTECTION BY ACCELERATING OUR BOOSTER VACCINATION PROGRAMME
-17. Booster vaccination significantly increases protection against
+18. Booster vaccination significantly increases protection against
 infection and severe disease, and prevents waning of vaccine protection.
 Today, based on an earlier recommendation from the Expert Committee on
 COVID-19 Vaccination (EC19V), we are administering boosters six months
@@ -164,7 +177,7 @@ earlier for older groups. It now recommends that we standardise the
 interval rate to five months for all age groups eligible for boosters,
 as this would be an appropriate interval to pre-empt waning of
 antibodies for all.
-18. Therefore, ELIGIBLE PERSONS WILL NOW BE ABLE TO RECEIVE THEIR
+19. Therefore, ELIGIBLE PERSONS WILL NOW BE ABLE TO RECEIVE THEIR
 BOOSTER DOSES STARTING FROM FIVE MONTHS AFTER THE COMPLETION OF THEIR
 PRIMARY SERIES (TYPICALLY WITH TWO DOSES OF THE MRNA VACCINES), AND SMS
 INVITATIONS WILL BE SENT TO THEM BEFORE THAT. This will provide
@@ -178,7 +191,7 @@ infection, etc.), but have not received their SMS invitations, they are
 also invited to walk in to any Moderna Vaccination Centre to receive
 their booster vaccination without a need to book an appointment.
 TOWARDS A COVID-19 RESILIENT SINGAPORE
-19. Even as we resume our transition towards living with COVID-19, we
+20. Even as we resume our transition towards living with COVID-19, we
 need to do so in a careful and controlled manner. We seek everyone’s
 cooperation to exercise social responsibility and cooperate with the
 SMMs which have been put in place. If you are offered a vaccination or
