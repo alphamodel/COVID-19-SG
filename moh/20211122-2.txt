@@ -1,0 +1,140 @@
+Update On Local Covid-19 Situation (22 Nov 2021)
+
+
+
+UPDATE ON LOCAL COVID-19 SITUATION (22 NOV 2021)
+
+
+Published Date: 22 Nov 2021
+
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+| · 1,421 cases remain warded in hospital. 204 cases require oxygen     |
+| supplementation in the general ward, 30 are unstable and under close  |
+| monitoring in the intensive care unit (ICU), and 62 are critically    |
+| ill and intubated in the ICU. The current overall ICU utilisation     |
+| rate is 53.5%.                                                        |
+|                                                                       |
+| · Over the last 28 days, of the 77,654 infected individuals, 98.7%    |
+| had no or mild symptoms, 0.8% required oxygen supplementation in the  |
+| general ward, 0.2% were in the ICU, and 0.2% has died.                |
+|                                                                       |
+| · As of 21 November 2021, 94% of our eligible population has          |
+| completed their full regimen/ received two doses of COVID-19          |
+| vaccines. Among the total population, 85% has completed their full    |
+| regimen/ received two doses of COVID-19 vaccines, 86% has received at |
+| least one dose, and 23% has received their booster shots.             |
+|                                                                       |
+| · Over the past day, 2,127 cases were discharged, of whom 321 are     |
+| seniors aged 60 years and above. 1,461 new cases of COVID-19          |
+| infection were detected, with 1,415 in the community, 40 in the       |
+| migrant worker dormitories and 6 imported cases. The weekly infection |
+| growth rate is 0.79.                                                  |
++-----------------------------------------------------------------------+
+
+SITUATION AT HOSPITALS
+1.     As of 22 November 2021, 204 cases require oxygen supplementation
+in the general ward, 30 are unstable and under close monitoring in the
+ICU to prevent further deterioration, and 62 are critically ill and
+intubated in the ICU. The current overall ICU utilisation rate is 53.5%.
+FIGURE 1: Daily Adult ICU Bed Utilisation
+
+[Fig1_22Nov21]
+STATUS OF PATIENTS
+2.     Over the last 28 days, 98.7% of local infected cases were
+asymptomatic or had mild symptoms, 0.8% required oxygen supplementation
+in the general ward, 0.1% were unstable and under close monitoring in
+the ICU to prevent further deterioration, and 0.1% had been critically
+ill and intubated in the ICU.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition¹
+[Fig2_22Nov21]
+
+3.     Seniors 60 years old and above, especially if unvaccinated,
+continue to be more adversely affected by COVID-19:
+FIGURE 3: Patients Needing Oxygen Supplementation, ICU Care or Died², by
+Age Groups
+[Fig3_22Nov21]
+
+VACCINATION
+4.     As of 21 November 2021, 94% of our eligible population (aged 12
+years and above) has completed their full regimen/ received two doses of
+COVID-19 vaccines. Among the total population, 85% has completed their
+full regimen/ received two doses of COVID-19 vaccines, 86% has received
+at least one dose, and 23% has received their booster shots.
+5.     Over the past 7 days, the number of fully vaccinated and
+non-fully vaccinated cases who are critically ill in the ICU are at 0.5
+and 4.6 per 100,000 population respectively. Over the same period, the
+number of fully vaccinated and non-fully vaccinated cases who died are
+0.04 and 0.8 per 100,000 population respectively. Among seniors aged 60
+and above, the number of fully vaccinated and non-fully vaccinated cases
+who are critically ill in the ICU are 1.8 and 41.1 respectively.  The
+number of fully vaccinated and non-fully vaccinated seniors who died are
+0.2 and 8.6 respectively.
+FIGURE 4: 7-Day Moving Average of Number of Deaths and Active Cases in
+ICU, per 100,000 Population by Vaccination Status³
+
+[Fig4_22Nov21]
+INFLOW AND OUTFLOW OF CASES
+6.     Over the past day, 2,127 cases were discharged, of whom 321 are
+seniors aged 60 years and above.
+7.     As of 22 November 2021, 12pm, the Ministry of Health has detected
+a total of 1,461 new cases of COVID-19 infection, comprising 1,415
+community cases, 40 dormitory resident cases and 6 imported cases.
+Amongst the community cases today are 247 seniors who are aged 60 years
+and above. The ratio of community cases for the past week over the week
+before is 0.79.
+8.     5 more cases, aged between 61 and 105 years, have passed away
+from complications due to COVID-19 infection. All of them, except for an
+unvaccinated case, had various underlying medical conditions.
+FIGURE 5: Number of Community Cases by Age
+[Fig5_22Nov21]
+
+FIGURE 6: Week-on-week Infection Ratio⁴
+[Fig6_22Nov21]
+9.     We are closely monitoring the clusters listed below, which have
+already been ringfenced through tracing, testing and isolation.
+FIGURE 7: Large Clusters with New Cases
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁵
+
+REMARKS
+
+Sunlove Senior Care Centre @ 70 Buangkok View
+
+3
+
+21
+
+Transmission amongst staff and clients. Of the 21 cases, 2 are staff, 15
+are clients, and 4 are household members.
+
+Pacific Healthcare Nursing Home (6 Lengkok Bahru)
+
+8
+
+23
+
+Transmission amongst residents. Of the 23 cases, all are residents.
+
+10.     Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+MINISTRY OF HEALTH
+22 NOVEMBER 2021
+
+------------------------------------------------------------------------
+
+¹ Includes only new cases reported in the past 28 days. Based on cases’
+worst-ever condition; deceased cases previously in ICU are counted under
+‘Deceased’ and not under ‘Ever Critically ill and Intubated in ICU’.
+² May differ from the deaths reported for the day as the latter includes
+those who have passed on earlier, but whose cause of death was
+investigated and confirmed only later, e.g. Coroner’s cases.
+³ Non-fully vaccinated comprises persons who are partially vaccinated
+and completely unvaccinated.
+⁴ Ratio of community cases in the past week over the week before.
+⁵ Includes new cases added today.
