@@ -48,6 +48,8 @@ intubated in the ICU. The current overall ICU utilisation rate is 56.1%.
 
 FIGURE 1: Daily Adult ICU Bed Utilisation
 
+
+
 [211124 Figure 1]
 
 STATUS OF PATIENTS
@@ -60,6 +62,10 @@ ill and intubated in the ICU.
 
 FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition[1]
 
+
+
+
+
 [211124 Figure 2]
 
 
@@ -69,6 +75,10 @@ continue to be more adversely affected by COVID-19:
 
 FIGURE 3: Patients Needing Oxygen Supplementation, ICU Care or Died[2],
 by Age Groups
+
+
+
+
 
 [211124 Figure 3]
 
@@ -82,6 +92,10 @@ COVID-19 vaccines. Among the total population, 85% has completed their
 full regimen/ received two doses of COVID-19 vaccines, 86% has received
 at least one dose, and 24% has received their booster shots.
 
+
+
+
+
 5.     Over the past 7 days, the number of fully vaccinated and
 non-fully vaccinated cases who are critically ill in the ICU are at 0.5
 and 4.6 per 100,000 population respectively. Over the same period, the
@@ -91,6 +105,8 @@ and above, the number of fully vaccinated and non-fully vaccinated cases
 who are critically ill in the ICU are 1.6 and 41.8 respectively. The
 number of fully vaccinated and non-fully vaccinated seniors who died are
 0.2 and 7.0 respectively.
+
+
 
 FIGURE 4: 7-Day Moving Average of Number of Deaths and Active Cases in
 ICU, per 100,000 Population by Vaccination Status [3]
@@ -102,6 +118,8 @@ INFLOW AND OUTFLOW OF CASES
 6.     Over the past day, 2,275 cases were discharged, of whom 366 are
 seniors aged 60 years and above.
 
+
+
 7.     As of 24 November 2021, 12pm, the Ministry of Health has detected
 a total of 2,079 new cases of COVID-19 infection, comprising 2,030
 community cases, 40 dormitory resident cases and 9 imported cases.
@@ -109,11 +127,19 @@ Amongst the community cases today are 312 seniors who are aged 60 years
 and above. The ratio of community cases for the past week over the week
 before is 0.75.
 
+
+
+
+
 8.     6 more cases, aged between 60 and 83 years, have passed away from
 complications due to COVID-19 infection. All of them, except for an
 unvaccinated case, had various underlying medical conditions.
 
 FIGURE 5: Number of Community Cases by Age
+
+
+
+
 
 [211124 Figure 5]
 
@@ -127,6 +153,8 @@ FIGURE 6: Week-on-week Infection Ratio[4]
 already been ringfenced through tracing, testing and isolation.
 
 FIGURE 7: Large Clusters with New Cases
+
+
 
 CLUSTER
 
