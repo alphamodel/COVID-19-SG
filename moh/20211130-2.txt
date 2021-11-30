@@ -60,14 +60,14 @@ travellers arriving in Singapore after 2 DECEMBER 2021, 2359 HOURS
 apply for four weeks in the first instance, and will be reviewed and
 extended if necessary.
 
-6.     All air travellers entering or transferring/transiting through
+6.     All travellers entering or transferring/transiting through
 Singapore, after 2 DECEMBER, 2359 HOURS (SINGAPORE TIME), including
 travellers from Category I countries/regions, must undergo a
 Pre-Departure Test (PDT)[3] within 2 days of their departure for
-Singapore and obtain a negative result. Those entering Singapore,
-including travellers from Category II (non-Vaccinated Travel Lane
-(VTL)), III and IV countries, must undergo a COVID-19 Polymerase Chain
-Reaction (PCR) test on-arrival[4].
+Singapore and obtain a negative result. All travellers entering
+Singapore, including travellers from Category II (non-Vaccinated Travel
+Lane (VTL)), III and IV countries, must undergo a COVID-19 Polymerase
+Chain Reaction (PCR) test on-arrival[4].
 
 7.     With effect from 2 DECEMBER, 2359 HOURS (SINGAPORE TIME), air
 travellers on the Vaccinated Travel Lane (VTL-Air) [5] who arrived after
@@ -114,9 +114,9 @@ variant will not be allowed to undergo home recovery, and instead be
 conveyed to the National Centre for Infectious Diseases for isolation
 and management. We will also conduct full contact tracing for these
 cases to identify their close contacts, place them on a 10-day
-quarantine at Government Quarantine Facilities instead of allowing
-self-isolation at home, and conduct PCR testing at the start and at the
-end of their quarantine.
+quarantine at designated facilities instead of allowing self-isolation
+at home, and conduct PCR testing at the start and at the end of their
+quarantine.
 
 UPDATE ON TRAVEL ADVISORY
 
@@ -140,8 +140,6 @@ seek Singaporeans’ understanding and support in the coming weeks as
 calibration to our measures may need to be introduced quickly given the
 fluidity of the situation.
 
-
-
 MINISTRY OF HEALTH
 
 30 NOVEMBER 2021
@@ -162,12 +160,16 @@ Category IV countries/regions.
 
 [4] To expedite on-arrival testing, travellers should register and make
 payment for their on-arrival PCR tests prior to departing for Singapore
-at https://safetravel.changiairport.com/arrivalswabtest/#/
+at: (a) https://safetravel.changiairport.com/arrivalswabtest/#/ if
+arriving by air; or (b) at https://t.2c2p.com/express/parkwayshentonoat
+if arriving by sea and land. The requirement for an on-arrival PCR test
+does not apply to VTL travellers arriving through land links with
+Malaysia.
 
 [5] Separate measures will apply to VTL travellers via land links with
-Malaysia, who will be subject to an on-arrival ART only. The risk of
-importation via the VTL-Land arrangement is mitigated by the travel
-restrictions Malaysia has imposed on countries/regions affected by
-Omicron, and the restriction of eligibility to citizens, permanent
+Malaysia, who will be subject to a PDT as well as on-arrival ART only.
+The risk of importation via the VTL-Land arrangement is mitigated by the
+travel restrictions Malaysia has imposed on countries/regions affected
+by Omicron, and the restriction of eligibility to citizens, permanent
 residents or long-term pass holders of both countries in the initial
 phase.
