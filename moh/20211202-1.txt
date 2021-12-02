@@ -1,87 +1,138 @@
-Two Imported Covid-19 Cases Tested Preliminarily Positive for Omicron
-Variant
+Update On Local Covid-19 Situation (2 Dec 2021)
 
 
 
-TWO IMPORTED COVID-19 CASES TESTED PRELIMINARILY POSITIVE FOR OMICRON VARIANT
+UPDATE ON LOCAL COVID-19 SITUATION (2 DEC 2021)
 
 
 Published Date: 02 Dec 2021
 
-       The Ministry of Health (MOH) has detected two imported COVID-19
-cases who have tested preliminarily positive for the Omicron variant on
-2 December. Both cases were isolated upon arrival in Singapore on 1
-December, and had not interacted in the community. There is currently no
-evidence of any community transmission from these cases.
++-----------------------------------------------------------------------+
+| SUMMARY OF LOCAL SITUATION                                            |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| -   991 cases remain warded in hospital. 194 cases require oxygen     |
+|     supplementation in the general ward, 9 are unstable and under     |
+|     close monitoring in the intensive care unit (ICU), and 60 are     |
+|     critically ill and intubated in the ICU. The current overall ICU  |
+|     utilisation rate is 56.4%.                                        |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| -   Over the last 28 days, of the 55,935 infected individuals, 98.7%  |
+|     had no or mild symptoms, 0.9% required oxygen supplementation in  |
+|     the general ward, 0.2% were in the ICU, and 0.2% has died.        |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| -   As of 1 December 2021, the total number of individuals who have   |
+|     completed their full regimen/received two doses of COVID-19       |
+|     vaccines constitutes 96% of the eligible population, and 87% of   |
+|     the total population. As a percentage of total population, 87%    |
+|     has received at least one dose, and 27% has received their        |
+|     booster shots.                                                    |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| -   Over the past day, 2,056 cases were discharged, of whom 332 are   |
+|     seniors aged 60 years and above. 1,101 new cases of COVID-19      |
+|     infection were detected, with 1,050 in the community, 41 in the   |
+|     migrant worker dormitories and 10 imported cases. The weekly      |
+|     infection growth rate is 0.70.                                    |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| -   As announced earlier this evening, MOH has detected two imported  |
+|     COVID-19 cases who have tested preliminarily positive for the     |
+|     Omicron variant on 2 December. Both are fully vaccinated and      |
+|     experiencing mild symptoms. They were isolated upon arrival in    |
+|     Singapore on 1 December, and had not interacted in the community. |
+|     There is currently no evidence of any community transmission from |
+|     these cases.                                                      |
++-----------------------------------------------------------------------+
 
+SITUATION AT HOSPITALS
+1. As of 2 December 2021, 194 cases require oxygen supplementation in
+the general ward, 9 are unstable and under close monitoring in the ICU
+to prevent further deterioration, and 60 are critically ill and
+intubated in the ICU. The current overall ICU utilisation rate is 56.4%.
+FIGURE 1: Daily Adult ICU Bed Utilisation
 
+[Figure1_2dec2021]
+STATUS OF PATIENTS
+2. Over the last 28 days, 98.7% of local infected cases were
+asymptomatic or had mild symptoms, 0.9% required oxygen supplementation
+in the general ward, 0.1% were unstable and under close monitoring in
+the ICU to prevent further deterioration, and 0.1% had been critically
+ill and intubated in the ICU.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition¹
 
-2.     The cases are currently recovering in isolation wards at the
-National Centre for Infectious Diseases (NCID). Both are fully
-vaccinated, and have mild symptoms of cough and scratchy throat.
+[Figure2_2dec2021]
+3. Seniors 60 years old and above, especially if unvaccinated, continue
+to be more adversely affected by COVID-19:
+FIGURE 3: Patients Needing Oxygen Supplementation, ICU Care or Died², by
+Age Groups
 
+[Figure3_2dec2021]
 
+VACCINATION
+4. As of 1 December 2021, the total number of individuals who have
+completed their full regimen/ received two doses of COVID-19 vaccines
+constitutes 96% of the eligible population, and 87% of the total
+population.  As a percentage of total population, 87% has received at
+least one dose, and 27% has received their booster shots.
+5. Over the past 7 days, the number of fully vaccinated and non-fully
+vaccinated cases who are critically ill in the ICU are at 0.5 and 4.2
+per 100,000 population respectively. Over the same period, the number of
+fully vaccinated and non-fully vaccinated cases who died are 0.1 and 0.5
+per 100,000 population respectively. Among seniors aged 60 and above,
+the number of fully vaccinated and non-fully vaccinated cases who are
+critically ill in the ICU are 2.0 and 37.7 respectively.  The number of
+fully vaccinated and non-fully vaccinated seniors who died are 0.3 and
+4.8 respectively.
+FIGURE 4: 7-Day Moving Average of Number of Deaths and Active Cases in
+ICU, per 100,000 Population by Vaccination Status3
+[Figure4_2dec2021]
 
-3.     Both cases arrived from Johannesburg on board SQ479 on 1
-December.
+INFLOW AND OUTFLOW OF CASES
+6. Over the past day, 2,056 cases were discharged, of whom 332 are
+seniors aged 60 years and above.
+7. As of 2 December 2021, 12pm, the Ministry of Health has detected a
+total of 1,101 new cases of COVID-19 infection, comprising 1,050
+community cases, 41 dormitory resident cases and 10 imported cases.
+Amongst the community cases today are 155 seniors who are aged 60 years
+and above. The ratio of community cases for the past week over the week
+before is 0.70.
+8. 9 more cases, aged between 56 and 99 years, have passed away from
+complications due to COVID-19 infection. All of them had various
+underlying medical conditions.
+9. As announced earlier this evening, MOH has detected two imported
+COVID-19 cases who have tested preliminarily positive for the Omicron
+variant on 2 December. Both cases were isolated upon arrival in
+Singapore on 1 December, and had not interacted in the community. There
+is currently no evidence of any community transmission from these cases.
+The cases are currently recovering in isolation wards at the National
+Centre for Infectious Diseases (NCID). Both are fully vaccinated, and
+have mild symptoms of cough and scratchy throat.
+10. Contact tracing is ongoing. All 19 other passengers who came in on
+the same flight have tested negative for COVID-19 infection.
+FIGURE 5: Number of Community Cases by Age
+[Figure5_2dec2021]
 
+FIGURE 6: Week-on-week Infection Ratio4
 
-
-a. Case 271487 is a 44 year-old male Singapore Permanent Resident who
-arrived in Singapore from Mozambique, transiting through Johannesburg.
-His pre-departure test in Mozambique on 29 November was negative for
-COVID-19 infection.
-
-
-
-b. Case 271598 is a 41 year-old female Singaporean who arrived in
-Singapore from South Africa on 1 December. Her pre-departure test in
-Johannesburg on 29 November was negative for COVID-19 infection.
-
-
-
-4.     They had undergone a polymerase chain reaction (PCR) test upon
-arrival in Singapore, and were immediately conveyed to a Stay-Home
-Notice (SHN) dedicated facility to be isolated while awaiting their test
-results. Upon confirmation of COVID-19 infection, they were conveyed to
-NCID.
-
-
-
-5.     Their PCR test results have revealed the presence of S-gene
-Target Failure which may be associated with the Omicron variant. The
-National Public Health Laboratory is conducting whole genome sequencing
-to confirm the variant.
-
-
-
-CONTACT TRACING IS ONGOING, CLOSE CONTACTS TO BE TESTED AND QUARANTINED
-
-
-
-6.     Contact tracing is ongoing. All 19 other passengers who came in
-on the same flight have tested negative for COVID-19 infection. These
-individuals were all quarantined under SHN at designated facilities upon
-arrival and are subjected to a testing regime which includes an
-on-arrival PCR test and a SHN exit PCR test.
-
-
-
-7.     Other close contacts of these cases, if any, will be placed on
-10-day quarantine at designated facilities and undergo PCR tests at the
-start and end of their quarantine. All patients suspected or confirmed
-to be infected with the Omicron variant will be conveyed to NCID for
-isolation and clinical management. Home recovery will not apply.
-
-
-
-8.     It is important for everyone to continue to play their part and
-remain vigilant to mitigate the spread of COVID-19.
-
-
-
-MINISTRY OF HEALTH
-
-2 DECEMBER 2021
-
+[Figure6_2dec2021]
+11. Please refer to MOH’s daily Situation Report
+(www.moh.gov.sg/covid-19/situation-report) for details.
+[1] Includes only new cases reported in the past 28 days. Based on
+cases’ worst-ever condition; deceased cases previously in ICU are
+counted under ‘Deceased’ and not under ‘Ever Critically ill and
+Intubated in ICU’.
+[2] May differ from the deaths reported for the day as the latter
+includes those who have passed on earlier, but whose cause of death was
+investigated and confirmed only later, e.g. Coroner’s cases.
+[3] Non-fully vaccinated comprises persons who are partially vaccinated
+and completely unvaccinated.
+[4] Ratio of community cases in the past week over the week before.
 

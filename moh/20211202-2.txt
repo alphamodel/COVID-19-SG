@@ -1,92 +1,87 @@
-Reminder to Complete Primary Series of Sinovac-coronavac and Sinopharm
-Vaccines
+Two Imported Covid-19 Cases Tested Preliminarily Positive for Omicron
+Variant
 
 
 
-REMINDER TO COMPLETE PRIMARY SERIES OF SINOVAC-CORONAVAC AND SINOPHARM VACCINES
+TWO IMPORTED COVID-19 CASES TESTED PRELIMINARILY POSITIVE FOR OMICRON VARIANT
 
 
 Published Date: 02 Dec 2021
 
-     From 1 December 2021, the Ministry of Health has been progressively
-sending out SMS notifications to about 70,000 persons [1] who have taken
-two doses of the Sinovac-CoronaVac or Sinopharm vaccines and aredue for
-the remaining dose of their three-dose regime. These persons are
-eligible for their third dose from three months after their second dose.
-2.  To maintain their fully vaccinated status from 1 January 2022
-onwards,they are strongly encouraged to take their third dose BEFORE 31
-DECEMBER 2021, AS LONG AS THEIR SECOND DOSE HAD BEEN ADMINISTERED THREE
-MONTHS AGO. Beyond this time interval, the individual’s vaccination
-status will revert to ‘vaccination in progress’ and will be subject to
-the current Vaccination-Differentiated Safe Management Measures (VDS)
-[2],as well as the Workforce Vaccination Measures, both of which will
-take effect on 1 JANUARY 2022. Individuals should bear in mind the
-following:
+       The Ministry of Health (MOH) has detected two imported COVID-19
+cases who have tested preliminarily positive for the Omicron variant on
+2 December. Both cases were isolated upon arrival in Singapore on 1
+December, and had not interacted in the community. There is currently no
+evidence of any community transmission from these cases.
 
-a) Individuals who have already received two doses of Sinovac-CoronaVac
-or Sinopharm vaccines are STRONGLY RECOMMENDED TO RECEIVE A
-PSAR-AUTHORISED MRNA VACCINE FOR THEIR THIRD DOSE unless they are
-medically ineligible to do so. They can walk into any vaccination centre
-offering the mRNA vaccines to receive their third dose. The list of
-vaccination centre offering mRNA vaccines can be found
-on www.vaccine.gov.sg/locations-vcs.
 
-b) Otherwise, they should COMPLETE THEIR PRIMARY SERIES WITH A THIRD
-DOSE OF THE SINOVAC-CORONAVAC OR SINOPHARM VACCINES, whichever was
-received for the first two doses. The Sinovac-CoronaVac vaccine can be
-taken at any of the PSAR-authorised private clinics. The list of
-PSAR-authorised private clinics can be found
-on www.vaccine.gov.sg/locations.
 
-3.   Persons who developed an allergic reaction to the first dose of the
-mRNA vaccine and received the Sinovac-CoronaVac vaccine for their second
-dose should also complete a third dose of Sinovac-CoronaVac vaccine, 28
-days after their second dose, to maintain their vaccination status.
+2.     The cases are currently recovering in isolation wards at the
+National Centre for Infectious Diseases (NCID). Both are fully
+vaccinated, and have mild symptoms of cough and scratchy throat.
 
-4.  The three-dose requirement applies to individuals who have had one
-dose of the Sinovac-CoronaVac or Sinopharm vaccines, as part of a
-two-dose combination of different World Health Organization’s Emergency
-Use Listing (WHO-EUL) vaccine brands [3]. Further details on the
-requirements for persons who have received a mixed vaccine combination
-incorporating Sinovac-CoronaVac or Sinopharm vaccines, as well as
-recovered persons who took these vaccines, can be found
-on https://go.gov.sg/sinovac-mixed-vac-combi.
 
-GRACE PERIOD FOR CHILDREN TURNING 13 IN 2022 TO GET FULLY VACCINATED
-5.  As announced on 20 November 2021, the concession for unvaccinated
-individuals to perform a pre-event test (PET) in lieu of being fully
-vaccinated will be removed with effect on 1 JANUARY 2022. Hence, only
-fully vaccinated, recovered, or medically ineligible individuals, or
-children aged 12 years and below (i.e. those born in 2010 or after),
-will be allowed to enter settings and participate in activities where
-VDS are implemented [4].
-6.  A grace period will be extended to children born in December 2009
-to allow them sufficient time to get fully vaccinated. Children born in
-2009 who will turn 13 in 2022 will need to be fully vaccinated to enter
-venues and participate in activities with VDS from 1 MARCH 2022 (instead
-of 1 January 2022).
-WORKFORCE VACCINATION MEASURES
 
-7.  With the implementation of the Workforce Vaccination Measures from
-1 January 2022, we will also phase out the “Vaccinate or Regular Test”
-regime for all sectors that were onboard the regime as of the same
-date.
+3.     Both cases arrived from Johannesburg on board SQ479 on 1
+December.
 
-8.  We continue to strongly recommend persons who can take the
-PSAR-authorised mRNA vaccines to do so given its higher vaccine
-effectiveness against infection and severe disease.
+
+
+a. Case 271487 is a 44 year-old male Singapore Permanent Resident who
+arrived in Singapore from Mozambique, transiting through Johannesburg.
+His pre-departure test in Mozambique on 29 November was negative for
+COVID-19 infection.
+
+
+
+b. Case 271598 is a 41 year-old female Singaporean who arrived in
+Singapore from South Africa on 1 December. Her pre-departure test in
+Johannesburg on 29 November was negative for COVID-19 infection.
+
+
+
+4.     They had undergone a polymerase chain reaction (PCR) test upon
+arrival in Singapore, and were immediately conveyed to a Stay-Home
+Notice (SHN) dedicated facility to be isolated while awaiting their test
+results. Upon confirmation of COVID-19 infection, they were conveyed to
+NCID.
+
+
+
+5.     Their PCR test results have revealed the presence of S-gene
+Target Failure which may be associated with the Omicron variant. The
+National Public Health Laboratory is conducting whole genome sequencing
+to confirm the variant.
+
+
+
+CONTACT TRACING IS ONGOING, CLOSE CONTACTS TO BE TESTED AND QUARANTINED
+
+
+
+6.     Contact tracing is ongoing. All 19 other passengers who came in
+on the same flight have tested negative for COVID-19 infection. These
+individuals were all quarantined under SHN at designated facilities upon
+arrival and are subjected to a testing regime which includes an
+on-arrival PCR test and a SHN exit PCR test.
+
+
+
+7.     Other close contacts of these cases, if any, will be placed on
+10-day quarantine at designated facilities and undergo PCR tests at the
+start and end of their quarantine. All patients suspected or confirmed
+to be infected with the Omicron variant will be conveyed to NCID for
+isolation and clinical management. Home recovery will not apply.
+
+
+
+8.     It is important for everyone to continue to play their part and
+remain vigilant to mitigate the spread of COVID-19.
+
+
 
 MINISTRY OF HEALTH
+
 2 DECEMBER 2021
 
-------------------------------------------------------------------------
 
-[1] As of 30 November 2021.
-
-[2]
-https://www.mom.gov.sg/newsroom/press-releases/2021/1023-implementation-of-workforce-vaccination-measures
-
-[3] Excluding the Johnson & Johnson/ Janssen single-dose COVID-19
-vaccine.
-
-[4] Subject to venue and/or event-specific capacities.
