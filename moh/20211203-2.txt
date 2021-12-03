@@ -1,0 +1,105 @@
+Update On Local Covid-19 Situation (3 Dec 2021)
+
+
+
+UPDATE ON LOCAL COVID-19 SITUATION (3 DEC 2021)
+
+
+Published Date: 03 Dec 2021
+
+++
+|  |
+++
+
+SITUATION AT HOSPITALS
+1.      As of 3 December 2021, 183 cases require oxygen supplementation
+in the general ward, 13 are unstable and under close monitoring in the
+ICU to prevent further deterioration, and 50 are critically ill and
+intubated in the ICU. The current overall ICU utilisation rate is 57.3%.
+FIGURE 1: Daily Adult ICU Bed Utilisation
+[Fig.1 (3 Dec)]
+STATUS OF PATIENTS
+2.      Over the last 28 days, 98.7% of local infected cases were
+asymptomatic or had mild symptoms, 0.9% required oxygen supplementation
+in the general ward, 0.1% were unstable and under close monitoring in
+the ICU to prevent further deterioration, and 0.1% had been critically
+ill and intubated in the ICU.
+FIGURE 2: Local Cases in the Last 28 Days by Severity of Condition¹
+[Fig.2 (3 Dec)]
+3.      Seniors 60 years old and above, especially if unvaccinated,
+continue to be more adversely affected by COVID-19:
+FIGURE 3: Patients Needing Oxygen Supplementation, ICU Care or Died², by
+Age Groups
+[Fig.3 (3 Dec)]
+VACCINATION
+4.      As of 2 December 2021, the total number of individuals who have
+completed their full regimen/ received two doses of COVID-19 vaccines
+constitutes 96% of the eligible population, and 87% of the total
+population.  As a percentage of total population, 87% has received at
+least one dose, and 27% has received their booster shots.
+5.      Over the past 7 days, the number of fully vaccinated and
+non-fully vaccinated cases who are critically ill in the ICU are at 0.5
+and 4.1 per 100,000 population respectively. Over the same period, the
+number of fully vaccinated and non-fully vaccinated cases who died are
+0.1 and 0.5 per 100,000 population respectively. Among seniors aged 60
+and above, the number of fully vaccinated and non-fully vaccinated cases
+who are critically ill in the ICU are 2.0 and 36.5 respectively.  The
+number of fully vaccinated and non-fully vaccinated seniors who died are
+0.3 and 5.6 respectively.
+FIGURE 4: 7-Day Moving Average of Number of Deaths and Active Cases in
+ICU, per 100,000 Population by Vaccination Status³
+[Fig.4 (3 Dec)]
+INFLOW AND OUTFLOW OF CASES
+6.      Over the past day, 1,393 cases were discharged, of whom 215 are
+seniors aged 60 years and above.
+7.      As of 3 December 2021, 12pm, the Ministry of Health has detected
+a total of 766 new cases of COVID-19 infection, comprising 738 community
+cases, 11 dormitory resident cases and 17 imported cases. Amongst the
+community cases today are 97 seniors who are aged 60 years and above.
+The ratio of community cases for the past week over the week before is
+0.71.
+8.      9 more cases, aged between 67 and 98 years, have passed away
+from complications due to COVID-19 infection. All of them had various
+underlying medical conditions.
+FIGURE 5: Number of Community Cases by Age
+[Fig.5 (3 Dec)]
+FIGURE 6: Week-on-week Infection Ratio⁴
+[Fig.6 (3 Dec)]
+9.      We are closely monitoring the cluster listed below, which has
+already been ringfenced through tracing, testing and isolation.
+FIGURE 7: Large Clusters with New Cases
+
+CLUSTER
+
+NEW CASES
+
+TOTAL⁵
+
+REMARKS
+
+Jenaris Home @ Pelangi Village
+
+2
+
+128
+
+Transmission amongst staff and residents. Of the 128 cases, 2 are staff
+and 126 are residents.
+
+10.      Please refer to MOH's daily Situation Report
+(http://www.moh.gov.sg/covid-19/situation-report) for details.
+MINISTRY OF HEALTH
+3 DECEMBER 2021
+
+------------------------------------------------------------------------
+
+[1]Includes only new cases reported in the past 28 days. Based on cases'
+worst-ever condition; deceased cases previously in ICU are counted under
+'Deceased' and not under 'Ever Critically ill and Intubated in ICU'.
+[2] May differ from the deaths reported for the day as the latter
+includes those who have passed on earlier, but whose cause of death was
+investigated and confirmed only later, e.g. Coroner's cases.
+[3] Non-fully vaccinated comprises persons who are partially vaccinated
+and completely unvaccinated.
+[4] Ratio of community cases in the past week over the week before.
+[5] Includes new cases added today.

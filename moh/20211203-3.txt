@@ -1,0 +1,171 @@
+Strengthening Our Precautionary Measures Against the Omicron Variant
+
+
+
+STRENGTHENING OUR PRECAUTIONARY MEASURES AGAINST THE OMICRON VARIANT
+
+
+Published Date: 03 Dec 2021
+
+Since the emergence of the Omicron variant of concern, the
+Multi-Ministry Taskforce (MTF) has announced travel restrictions for
+affected countries/regions1 and enhanced our testing regime for
+travellers, including air travellers arriving via the Vaccinated Travel
+Lane (VTL).
+2. Since then, a growing number of countries/regions have reported
+Omicron cases. Singapore is no exception. We have preliminarily detected
+two imported COVID-19 cases with the Omicron variant. They are both
+fully vaccinated, experiencing mild symptoms, and currently recovering
+at the National Centre for Infectious Diseases (NCID). The National
+Public Health Laboratory is conducting whole genome sequencing to
+confirm the Omicron variant. All other passengers who came into
+Singapore on the same flight have tested negative for COVID-19 on
+arrival and are quarantined under SHN at designated facilities. They
+will undergo PCR tests at the end of their SHN.
+3. We expect to see more Omicron cases being reported globally in the
+weeks to come. We are coordinating with health authorities globally to
+study and understand the Omicron variant. While we do so, we will
+further augment our testing regime for travellers. Should the Omicron
+variant be more transmissible than Delta and become the globally
+dominant variant over time, it is a matter of time before it establishes
+itself in Singapore. But the additional measures will help to buy time
+to learn more about dealing with Omicron, and to continue with our
+booster programme to strengthen our collective resilience for better
+protection against this new variant.
+UPDATE ON ASSESSMENT OF OMICRON VARIANT
+4. As of 2 December 2021, the Omicron variant has been detected in at
+least 28 other countries, mainly from persons with recent travel history
+to southern Africa. There is currently no evidence to suggest that
+symptoms associated with the Omicron variant are different or more
+severe than those of other variants, or that current vaccines and
+therapeutics would be ineffective against Omicron. More data and further
+studies are needed to verify this.
+5. We have also been closely monitoring studies on the sensitivity of
+Antigen Rapid Tests (ARTs) to the Omicron variant. Preliminary
+validation by the manufacturers show that ARTs remain effective in
+detecting COVID-19 cases of the Omicron variant, and laboratories are
+doing further biochemical tests to confirm these results. These initial
+results lend confidence that ARTs remain effective as a method of
+detecting COVID-19, including Omicron cases.
+UPDATES TO BORDER MEASURES
+Review of Country/Region Classifications
+6. Due to the situation in BULGARIA, HUNGARY, ICELAND, IRELAND,
+LUXEMBOURG, NORWAY AND POLAND, these countries will be placed in
+Category III from 6 DECEMBER 2021, 2359 HOURS.
+Expansion of Travel Restrictions to Additional Affected
+Countries/Regions
+7. To further step up our precautionary stance amidst growing
+transmissions of Omicron globally, we will extend travel restrictions to
+more countries which have seen a spike in Omicron cases. From 4 DECEMBER
+2021, 2359 HOURS, all long-term pass holders and short-term visitors
+with recent travel history to GHANA, MALAWI AND NIGERIA within the last
+14 days will not be allowed to enter Singapore, or transfer/ transit
+through Singapore. This restriction will apply to those who have
+obtained prior approval for entry into Singapore. We will apply these
+restrictions for four weeks in the first instance, after which we will
+review and extend them if necessary.
+Self-Administered ART for Travellers on Vaccinated Travel Lanes
+8. Currently, all VTL travellers entering Singapore by air are to take
+an On-Arrival PCR test, followed by supervised ART tests on Days 3 and
+7. We will augment this testing regime with effect from 6 DECEMBER 2021,
+2359 HOURS.
+9. The enhanced ART protocol draws reference from the prevailing Health
+Protocol 3 which is in place for all who are identified as close
+contacts of an infected person.  Essentially, besides the Pre-Departure
+and On-Arrival Tests, all travellers on VTL will be put on a daily
+testing regime over 7 days using ART. The tests are all
+self-administered, and travellers will be required to submit the results
+of their self-administered ART online using a link which will be sent to
+them via their declared contact details after arrival in Singapore.
+However, on Days 3 and 7, the tests will have to be done under
+supervision at a Combined Test Centre (CTC) or Quick Test Centre (QTC).²
+Day 3 is the median incubation period, and Day 7 is the day of exit from
+this testing protocol. During this 7-day period, other than on days when
+they go out for their supervised tests, these travellers must test
+negative on their self-administered ART before going out for activities
+on that day.
+10. The above 7-day enhanced ART protocols will also apply to travellers
+arriving from Malaysia via VTL-Land from 6 DECEMBER 2021, 2359 HOURS.
+The additional measures will further enhance the current testing
+protocols for VTL-Land, which include a Pre-Departure Test and an
+On-Arrival ART.
+11. The testing regime for all VTL travellers from 6 DECEMBER 2021, 2359
+HOURS³ is summarised in Table 1 below. This enhanced testing regime will
+remain in place for four weeks in the first instance, i.e. until 2
+January 2022, 2359 hours.
+Table 1: Testing regime for VTL travellers (dates illustrative based on
+arrival on 7 December 2021)
+
++-----------------------+-----------------------+-----------------------+
+| DAY                   | DATE                  | TEST                  |
++-----------------------+-----------------------+-----------------------+
+| Within 2 days before  | On or after 5         | Pre-Departure PCR     |
+| departure             | December 2021         | test or ART           |
++-----------------------+-----------------------+-----------------------+
+| 1 (arrival)           | 7 December 2021       | On-Arrival PCR test   |
+|                       |                       | (for VTL-Air) or ART  |
+|                       |                       | (for VTL-Land)        |
++-----------------------+-----------------------+-----------------------+
+| 2                     | 8 December 2021       | Unsupervised          |
+|                       |                       | self-administered     |
+|                       |                       | ART*                  |
++-----------------------+-----------------------+-----------------------+
+| 3                     | 9 December 2021       | Supervised            |
+|                       |                       | self-administered ART |
+|                       |                       | at QTC/CTC^           |
++-----------------------+-----------------------+-----------------------+
+| 4                     | 10 December 2021      | Unsupervised          |
+|                       |                       | self-administered     |
+|                       |                       | ART*                  |
++-----------------------+-----------------------+-----------------------+
+| 5                     | 11 December 2021      | Unsupervised          |
+|                       |                       | self-administered     |
+|                       |                       | ART*                  |
++-----------------------+-----------------------+-----------------------+
+| 6                     | 12 December 2021      | Unsupervised          |
+|                       |                       | self-administered     |
+|                       |                       | ART*                  |
++-----------------------+-----------------------+-----------------------+
+| 7                     | 13 December 2021      | Supervised            |
+|                       |                       | self-administered ART |
+|                       |                       | at QTC/CTC^           |
++-----------------------+-----------------------+-----------------------+
+
+*Results to be submitted online.
+Regular Review of Border Measures
+12. The full set of Safe Travel Lanes for travel to Singapore and
+prevailing border measures under each lane for different categories will
+be updated on the SafeTravel website. Not all lanes may utilise the
+Category I/II/III/IV health measure framework. Travellers are advised to
+visit the website to check the latest border measures for the associated
+country or region before entering Singapore, and be prepared to be
+subjected to the prevailing border measures upon entry into Singapore.
+13. All travellers are reminded to accurately declare their travel
+history. Strict enforcement actions will be taken against false
+declarations.
+BEING PREPARED TO RESPOND NIMBLY TO OMICRON
+14. Our tightened border measures will help to limit importation and
+onward transmission of Omicron cases as we continue to study the
+variant’s characteristics. However, given its high transmissibility and
+spread to many parts of the world, we should expect to find more cases
+at our borders and, in time to come, also within our community. We will
+press on with our booster programme to best prepare our community for
+any eventuality. We will monitor and evaluate data on the Omicron
+variant as it emerges and need to remain nimble in our responses. We
+seek Singaporeans’ understanding and support in the coming weeks as we
+will need to introduce or change our measures at short notice, in
+response to the fluid situation.
+
+Annex A
+[1] Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and
+Zimbabwe. Please refer to the Press Release on 26 November 2021.
+[2] VTL travellers will be provided with a link via their contact
+details submitted in the Singapore Arrival Card and electronic Health
+Declaration Card (SGAC/eHDC) to book their supervised tests on Days 3
+and 7. Bookings will be on a first-come-first-served basis.
+[3] Travellers who have entered Singapore between 3 December 2021 and 6
+December 2021 (inclusive) are not required to undergo the
+self-administered ARTs on Days 2, 4, 5 and 6 of their arrival, but will
+continue to be required to take the supervised self-administered ARTs at
+QTCs or CTCs on Days 3 and 7 of their arrival.
+
