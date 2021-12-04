@@ -17,7 +17,7 @@ eligible for their third dose from three months after their second dose.
 onwards,they are strongly encouraged to take their third dose BEFORE 31
 DECEMBER 2021, AS LONG AS THEIR SECOND DOSE HAD BEEN ADMINISTERED THREE
 MONTHS AGO. Beyond this time interval, the individual’s vaccination
-status will revert to ‘vaccination in progress’ and will be subject to
+status will revert to ‘additional dose needed’ and will be subject to
 the current Vaccination-Differentiated Safe Management Measures (VDS)
 [2],as well as the Workforce Vaccination Measures, both of which will
 take effect on 1 JANUARY 2022. Individuals should bear in mind the
@@ -77,7 +77,23 @@ PSAR-authorised mRNA vaccines to do so given its higher vaccine
 effectiveness against infection and severe disease.
 
 MINISTRY OF HEALTH
-2 DECEMBER 2021
+3 DECEMBER 2021
+
++-----------------------------------------------------------------------+
+| Note: Paragraph 2 has been updated on 3 December 2021                 |
+|                                                                       |
+| 2. To maintain their fully vaccinated status from 1 January 2022      |
+| onwards, they are strongly encouraged to take their third dose BEFORE |
+| 31 DECEMBER 2021, AS LONG AS THEIR SECOND DOSE HAD BEEN ADMINISTERED  |
+| THREE MONTHS AGO. Beyond this time interval, the individual’s         |
+| vaccination status will revert to ‘additional dose needed’ and will   |
+| be subject to the current Vaccination-Differentiated Safe Management  |
+| Measures (VDS), as well as the Workforce Vaccination Measures, both   |
+| of which will take effect on 1 JANUARY 2022. Individuals should bear  |
+| in mind the following:                                                |
++-----------------------------------------------------------------------+
+
+
 
 ------------------------------------------------------------------------
 
