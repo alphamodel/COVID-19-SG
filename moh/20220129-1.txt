@@ -1,120 +1,69 @@
-Close to 1,000 General Practitioner Clinics Open During Chinese New Year
+Booster Recommendation for Persons With Positive Antigen Rapid Tests
 
 
 
-CLOSE TO 1,000 GENERAL PRACTITIONER CLINICS OPEN DURING CHINESE NEW YEAR
+BOOSTER RECOMMENDATION FOR PERSONS WITH POSITIVE ANTIGEN RAPID TESTS
 
 
 Published Date: 29 Jan 2022
 
-    988 general practitioner (GP) clinics, of which 523 are Public
-Health Preparedness Clinics (PHPCs), will be open at various times
-during the Chinese New Year public holidays from 31 January to 2
-February 2022. The public may access the latest list of GP clinics and
-their operating hours through:
-
--   The Ministry of Health’s (MOH) corporate website;
--   The Agency for Integrated Care’s (AIC) website;
--   Community Health Assist Scheme (CHAS) webpage;
--   HealthHub mobile application, which is available on both iTunes and
-    the Google Play Store; and
--   phpc.gov.sg for the list of PHPCs.
-
-2.  We encourage members of the public, including children, who feel
-unwell during the festivities to visit their GP or a 24-hour clinic for
-minor conditions. Those who develop symptoms of acute respiratory
-infection (such as cough, sore throat and runny nose) as well as fever
-and loss of taste or smell, are strongly encouraged to visit a PHPC.
-3.  324 selected PHPCs will be able to provide COVID-19 swabs during the
-Chinese New Year period. 11 Combined Test Centres (CTCs) across the
-island will also continue to operate and take in patients who have been
-referred for a swab by their doctor.
-4.  Members of the public should first call the clinics to confirm the
-availability and timing of services, particularly for COVID-19 testing
-and vaccinations, and make appointments as needed before heading to the
-clinics.To book your COVID-19 swab at the CTCs, please
-visit www.go.gov.sg/ari-covid-19-testing.
-5.  Individuals cared for by telemedicine providers, such as those on
-the Home Recovery Programme, will continue to have access to these
-services.
-6.  We advise the public to seek medical treatment at a hospital’s
-Accident & Emergency (A&E) department only for serious or
-life-threatening emergencies, such as chest pain, breathlessness, and
-uncontrollable bleeding. To ensure that the 995 Emergency Medical
-Services (EMS) is able to provide swift conveyance for those with
-emergency conditions, we advise individuals who are not experiencing
-life-threatening emergencies to refrain from calling 995.
-7.  We seek everyone’s continued effort and cooperation to exercise
-social responsibility and comply with all the safe management measures
-that have been put in place. Test yourself regularly and follow the
-adjusted health protocols at www.covid.gov.sg. By doing so, can we
-strengthen our collective resilience against the evolving COVID-19
-situation.
-8.  MOH wishes everyone a happy Chinese New Year and a healthy year
-ahead. We would also like to take this opportunity to remind the public
-to eat in moderation and continue exercising regularly to stay healthy
-over the holiday period.
+       Early this year, the Ministry of Health (MOH) announced that for
+individuals aged 18 years and above, their full vaccination status after
+two doses of mRNA vaccines and three doses of Sinovac/Sinopharm vaccines
+will lapse after 270 days.  This policy will be effective from 14
+February 2022, to give individuals sufficient time to receive their
+boosters and extend the validity of their full vaccination status.
+2.      As the deadline of 14 February 2022 draws near, MOH would like
+to remind the public to get their booster doses on time, i.e.
+recommended from about 5 months after the last dose of your primary
+vaccination series. Upon receiving your booster dose, you will continue
+to be considered fully vaccinated beyond the initial 270 days. There is
+no expiry for the period of validity following the booster at this
+point. Meanwhile, MOH would also like to answer two common queries from
+members of the public.
+3.      First, whether individuals who have been infected with COVID-19
+after their primary series should still receive their booster dose.
+4.      The default is yes. With Omicron being a less severe disease,
+people are getting mild symptoms with lower viral loads. A booster dose
+will confer longer protection into the future.  As recommended by the
+Expert Committee on COVID-19 Vaccination, it is safe for persons who
+have recovered from COVID-19 to receive a booster dose. Our vaccination
+centres have been instructed to administer the booster dose to you and
+you will not be turned away.
+5.      However, if you (a) much prefer not to get the booster dose, and
+(b) have seen a doctor when you were infected or were detected to be
+COVID positive when travelling into Singapore, and a record of your
+infection is reflected in our medical records (and you can see it in
+your HealthHub records), you can choose not to take the booster dose.
+The infection episode can be considered as your booster dose. The update
+of your status is automatic, and no action is required on your part.
+6.      For clarity, the above does not apply to someone who performed
+an antigen rapid test (ART) self-test, or has undergone Rostered Routine
+Testing or Pre-Event Testing and was discovered to be COVID-19 positive.
+These individuals will typically undergo self-isolation under Protocol
+2, recover and then resume normal activities. There is therefore no
+record of their infection in our medical records. If so, you will need
+to receive your booster dose, recommended from about 5 months after the
+last dose of your primary series, in order to extend the validity period
+of your full vaccination status beyond the initial 270 days.
+7.      Second, there have also been many queries on the need for
+boosters after various permutations of mRNA vaccine doses,
+Sinovac/Sinopharm vaccine doses, and infections.  As the answers are
+complicated and depend on the order and timing between these
+occurrences, MOH is working on a calculator for our official website, to
+help individuals determine if they need to take boosters to extend their
+validity period.
+8.      But a simple rule of thumb is: two doses of an mRNA vaccine or
+three doses of Sinovac/Sinopharm confer full vaccination status for 270
+days. A booster or an infection recorded in our medical records after
+that will extend the validity.
+9.      MOH would also like to advise individuals against taking
+serology tests to try to exempt themselves from a booster dose. A
+serology test is not a strong indication of resilience against severe
+illness caused by the COVID-19 virus. Further, positive serology can be
+generated due to vaccinations or infections, without clear indication of
+timing, and does not provide a good basis to decide if the individual
+can be exempted from boosters. When in doubt, please come forward to
+receive a booster dose and get yourself properly protected.
 MINISTRY OF HEALTH
 29 JANUARY 2022
-Information is accurate as of 29 January 2022. Please contact the GP
-clinics to check that they are open before visiting.
-
-+-----------------------------------------------------------------------+
-| LIST OF 24-HOUR GP CLINICS                                            |
-|                                                                       |
-| -   24-hour clinics open on 31 January to 2 February 2022             |
-|                                                                       |
-| LIST OF GP CLINICS OPEN ON SPECIFIC DATES                             |
-|                                                                       |
-| -   GP clinics open on 31 January 2022                                |
-| -   GP clinics open on 1 February 2022                                |
-| -   GP clinics open on 2 February 2022                                |
-+-----------------------------------------------------------------------+
-| LIST OF GP CLINICS OPEN ACCORDING TO REGION                           |
-|                                                                       |
-| -   Ang Mo Kio                                                        |
-| -   Bedok                                                             |
-| -   Bishan                                                            |
-| -   Bukit Batok                                                       |
-| -   Bukit Merah                                                       |
-| -   Bukit Panjang                                                     |
-| -   Bukit Timah                                                       |
-| -   Changi                                                            |
-| -   Choa Chu Kang                                                     |
-| -   Clementi                                                          |
-| -   Downtown                                                          |
-| -   Geylang                                                           |
-| -   Hougang                                                           |
-| -   Jurong East                                                       |
-| -   Jurong West                                                       |
-| -   Kallang                                                           |
-| -   Marine Parade                                                     |
-| -   Museum                                                            |
-| -   Newton                                                            |
-| -   Novena                                                            |
-| -   Orchard                                                           |
-| -   Outram                                                            |
-| -   Pasir Ris                                                         |
-| -   Paya Lebar                                                        |
-| -   Pioneer                                                           |
-| -   Punggol                                                           |
-| -   Queenstown                                                        |
-| -   River Valley                                                      |
-| -   Rochor                                                            |
-| -   Seletar                                                           |
-| -   Sembawang                                                         |
-| -   Sengkang                                                          |
-| -   Serangoon                                                         |
-| -   Singapore River                                                   |
-| -   Southern Islands                                                  |
-| -   Sungei Kadut                                                      |
-| -   Tampines                                                          |
-| -   Tanglin                                                           |
-| -   Toa Payoh                                                         |
-| -   Tuas                                                              |
-| -   Western Islands                                                   |
-| -   Woodlands                                                         |
-| -   Yishun                                                            |
-+-----------------------------------------------------------------------+
-
-
