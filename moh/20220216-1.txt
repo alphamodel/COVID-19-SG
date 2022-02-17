@@ -341,8 +341,8 @@ on-arrival PCR (Polymerase Chain Reaction) test. Instead, they will
 have up to 24 hours from their entry into Singapore to take a supervised
 self-swab (SSS) ART[13] at one of the testing centres located across
 Singapore; and
-e.  Vaccinated Long-Term Pass Holders[14](except Work Permit holders)
-will no longer have to obtain a Vaccinated Travel Pass (VTP) or an Entry
+e.  Vaccinated Long-Term Pass Holders (except Work Permit holders) will
+no longer have to obtain a Vaccinated Travel Pass (VTP) or an Entry
 Approval to enter Singapore. They will still need to adhere to border
 health measures on entry. Please refer to Annex E for more details.
 f.  To further facilitate vaccinated travel, we will restore and
@@ -465,12 +465,3 @@ their entry into Singapore . Travellers should self-isolate prior to
 receiving the OAT test result and use private transport when going to
 the testing site. If you feel unwell, please visit a clinic for medical
 advice via private transport.
-
-[14] Individuals below the age of 12 will be able to enter without proof
-of vaccination. Unvaccinated or partially vaccinated individuals aged 12
-to 17 years old at the point of arrival can enter without proof of
-vaccination on the condition that they complete the full vaccination
-regimen within two months after they arrive in Singapore. Pass holders
-who are medically ineligible for vaccination may appeal for exemption
-from the vaccination requirement, supported by a doctor’s memo. The
-proof of exemption will need to be presented prior to boarding.
