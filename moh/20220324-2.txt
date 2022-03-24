@@ -1,41 +1,93 @@
-Deaths In Singapore for Year 2021
+Expert Committee On Covid-19 Vaccination Recommends A Second Booster
+Dose of Mrna Covid-19 Vaccine for Persons Aged 80 Years and Above, Five
+Months After Completion of the First Booster
 
 
 
-DEATHS IN SINGAPORE FOR YEAR 2021
+EXPERT COMMITTEE ON COVID-19 VACCINATION RECOMMENDS A SECOND BOOSTER DOSE OF MRNA COVID-19 VACCINE FOR PERSONS AGED 80 YEARS AND ABOVE, FIVE MONTHS AFTER COMPLETION OF THE FIRST BOOSTER
 
 
 Published Date: 24 Mar 2022
 
-              The age-standardised death rate¹ five years ago, in 2017,
-was 560 per 100,000 persons. This has been decreasing steadily to 518
-per 100,000 in 2020, even though 2020 was a COVID-19 year. However, in
-2021, the age-standardised death rate rose to 557 per 100,000 persons,
-comparable to that in 2017 (refer to the Annex).
+         The Expert Committee on COVID-19 Vaccination (EC19V) has been
+closely reviewing the data regarding the need for additional vaccine
+doses, and recommends that the following groups of persons receive a
+second booster dose (i.e. fourth dose if receiving an mRNA vaccine) from
+about five months after receiving their first booster dose:
+
+a.  All persons aged 80 years and above;
+
+b. Persons living in aged care facilities, such as nursing homes;
+and
+
+c.         Medically vulnerable persons who are at increased risk of
+severe disease due to significant medical risk factors¹.
 
 
 
-2.  The increase is not unexpected, given that the COVID-19
-pandemic has been a health crisis which has killed many millions of
-people in the world. Singapore, however, has recorded one of the lowest
-rates of excess deaths2 in the COVID-19 pandemic from international
-comparisons so far.
+2.  Local data to date shows protection against severe
+disease is sustained after the third dose mRNA booster. However, there
+can be waning of protection, particularly in the elderly and medically
+vulnerable. International studies show that vaccine efficacy against
+hospitalisation declines after a third dose mRNA booster. In the US CDC
+report for the Omicron-dominant period, vaccine efficacy against
+hospitalisation was 91% at 2 months after the third dose and decreased
+to 78% by the fourth month. Similar findings were also reported by the
+UK Health Security Agency.
 
 
 
-3.  The total excess deaths due to COVID-19 will require
-further analysis and breakdown of the numbers. We are still undergoing
-the Omicron wave. When this wave subsides, the Ministry of Health plans
-to consolidate the data, and provide a fuller report and analysis on
-excess deaths due to COVID-19.
+3.  Persons aged 80 years and above, and persons with
+comorbidities are at increased risk of severe disease. They will be most
+affected by waning vaccine efficacy over time. Data from Israel’s
+rollout of the fourth dose also shows that the benefits are greatest in
+persons aged 80 years and above.
 
-MINISTRY OF HEALTH
+
+
+4.  EC19V therefore recommends that persons aged 80 and above
+should receive a second booster dose (i.e. fourth dose if receiving an
+mRNA vaccine). Persons in aged care facilities such as nursing homes
+tend to have comorbidities and should similarly be vaccinated even if
+they have not reached 80 years of age. Vulnerable persons who are at
+increased risk of severe disease due to significant medical risk factors
+should also be vaccinated. These include persons with chronic diseases
+of the heart, lungs, kidneys, liver and other organ systems.
+
+
+
+5.  Healthy persons in younger age groups have a lower risk
+of severe disease, and better immune responses to vaccination. There is
+currently no recommendation for them to receive an additional dose of
+vaccine after the first booster dose.
+
+
+
+6.          As EC19V had previously recommended, immunocompromised
+persons are recommended to receive three doses as part of their primary
+enhanced series and to receive the first booster dose (i.e. fourth dose)
+around five months after the third dose. There is no recommendation for
+a second booster dose for this group currently.
+
+
+
+7.  EC19V will continue to monitor the data and developments
+around COVID-19 vaccination and will update its recommendations based on
+the latest scientific and clinical evidence.
+
+
+
+
+
+EXPERT COMMITTEE ON COVID-19 VACCINATION
 24 MARCH 2022
 
-[1] The _age-standardised death rate_ is a summary indicator that
-removes the influence of the population’s age structure.
-[2] _Excess deaths_ refers to the increase in rates or counts of deaths
-from all causes during a period of crisis compared to that expected
-under normal conditions.
+------------------------------------------------------------------------
+
+[1] Vulnerable persons may receive a second booster dose as recommended
+by their doctors. Vulnerable persons are individuals who are at
+increased risk of severe disease due to significant medical risk
+factors. These include persons with chronic diseases of the heart,
+lungs, kidneys, liver and other organ systems.
 
 
