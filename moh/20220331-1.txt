@@ -1,38 +1,101 @@
-Resumption of In-person Visits to Hospitals and Residential Care Homes
+Implementation of Vaccinated Travel Framework
 
 
 
-RESUMPTION OF IN-PERSON VISITS TO HOSPITALS AND RESIDENTIAL CARE HOMES
+IMPLEMENTATION OF VACCINATED TRAVEL FRAMEWORK
 
 
 Published Date: 31 Mar 2022
 
-        The Ministry of Health (MOH) will resume in-person visits to all
-hospital wards¹ and residential care homes (‘Homes’) from 4 April 2022.
-2.     MOH had earlier announced the suspension of in-person visits to
-hospitals and Homes until 3 April 2022 (inclusive). As the daily number
-of local COVID-19 cases has fallen, and the situation in our hospitals
-and Homes is starting to improve, IN-PERSON VISITS TO HOSPITAL WARDS AND
-HOMES WILL RESUME FROM 4 APRIL 2022.
-3.     As hospitals and Homes are settings with vulnerable
-patients/residents, visitors will have to comply with the safe
-management measures (SMMs) to better protect the patient/resident.
-4.     In-person visits are only allowed for individuals (i.e. patients,
-residents and visitors) who are fully vaccinated. As a concession, we
-will allow visits for individuals (i.e. patients, residents and
-visitors) who are medically ineligible for COVID-19 vaccination. Under
-exceptional circumstances, hospitals and Homes may also exercise
-flexibility in their visitor policies on a case-by-case basis. More
-details can be found in the Annex.
-5.     We understand the past months have been difficult for
-patients/residents, and their family members and loved ones as in-person
-visits were suspended, and thank everyone for their understanding. We
-seek their continued cooperation to comply with the SMMs to keep
-patients/ residents safe as in-person visits are resumed. MOH will
-review and calibrate these measures as the situation evolves.
+       We had earlier announced that Singapore will be launching the
+Vaccinated Travel Framework from 31 MARCH 2022, 2359 HOURS where all
+fully vaccinated travellers can enter Singapore under the Framework.
+
+
+
+Eligibility under Vaccinated Travel Framework
+
+
+
+2.     The following groups will be eligible under the Vaccinated Travel
+Framework:
+
+
+
+a) Travellers aged 12 years and below (regardless of vaccination
+status);
+
+
+
+b) Travellers who have received the full regimen of World Health
+Organization Emergency Use Listing (WHO EUL) vaccines at least 14 days
+before arrival in Singapore and have met the minimum dose interval
+period. This is because the WHO EUL vaccination guidelines are the most
+widely accepted definition for full vaccination around the world, and it
+is appropriate for Singapore’s entry requirements to align to this
+definition. It will facilitate Singaporeans travelling in and out of
+Singapore and foreigners visiting Singapore.
+
+
+
+3.     The above travellers are subject to a pre-departure test within
+two days before departure for Singapore if arriving via air or sea
+channels.  They are not subject to on-arrival tests or Stay-Home Notice.
+
+
+
+4.     Amongst these travellers, those who were not vaccinated in
+Singapore and do not have their records reflected in Singapore’s
+National Immunisation Registry (NIR), their vaccination status in their
+TraceTogether app will be reflected as fully vaccinated for 30 days, for
+purposes of entering premises subject to Vaccination-Differentiated Safe
+Management Measures (VDS)¹. If their stay in Singapore exceeds 30 days,
+they will need to have their vaccination records ingested into the NIR
+and may be required to receive additional doses to continue to meet
+Singapore’s requirements for vaccination. Details on Singapore’s
+vaccination requirements can be found on https://go.gov.sg/vdsmminfo.
+
+
+
+5.     For clarity, the rules described in Paragraph 4 do not apply to
+travellers aged 12 years and below, as all children aged 12 years and
+below are allowed to enter settings where VDS is implemented regardless
+of their vaccination status.
+
+
+
+Vaccinations and Boosters for Travellers
+
+
+
+6.     Currently, short-term travellers are not eligible to receive
+doses under Singapore’s National Vaccination Programme.  From mid-April,
+we will enable such travellers to pay to receive COVID-19 vaccinations
+and boosters.
+
+
+
+7.     We will provide more details at a later date, including on
+pricing and the list of participating healthcare providers.
+
+
+
+8.     We encourage all eligible travellers who have not received their
+booster dose to do so when made available to them, for better protection
+against COVID-19.
+
+
+
+
+
 MINISTRY OF HEALTH
+
 31 MARCH 2022
 
-¹ Includes public acute hospitals, community hospitals and private
-hospitals.
+------------------------------------------------------------------------
+
+[1] Travellers entering under Vaccinated Travel Lane arrangements were
+previously granted 180 days temporary vaccinated status on the
+TraceTogether app. From 31 March 2022, 2359 hours, this will be
+standardised at 30 days for all fully vaccinated travellers.
 
