@@ -1,0 +1,519 @@
+Further Easing of Community and Border Measures
+
+
+
+FURTHER EASING OF COMMUNITY AND BORDER MEASURES
+
+
+Published Date: 22 Apr 2022
+
+     It has been three weeks since we announced the easing of community
+and border measures. Since then, daily infection numbers had continued
+to fall and have stabilised. Therefore, this gives us confidence to
+proceed with further easing of several community and travel measures.
+While this represents a significant step in our return to normalcy, the
+pandemic is not over. In particular, we must recognise the risks ahead
+and continue to take necessary precautions, including getting ourselves
+vaccinated and boosted. We also need to stay alert and stand ready to
+respond if new variants surface or if the public health situation takes
+a turn for the worse.
+
+
+
+UPDATES ON THE LOCAL SITUATION
+
+
+
+2.      Daily case numbers and COVID-19 hospitalisations had declined
+steadily in the past week. The 7-day moving average of daily local case
+numbers has fallen from around 18,300 at its peak to under 3,100 in the
+past week. More importantly, the number of hospitalisations has fallen
+from 1,726 at its peak to 266. COVID-19 related Intensive Care Unit
+(ICU) patients is now in single digits. The incidence of severe illness
+has also remained low. In the past 28 days, 0.03% and 0.2% of local
+cases required ICU care and oxygen supplementation respectively.
+
+
+
+STEP DOWN TO DORSCON YELLOW
+
+
+
+3.      The Disease Outbreak Response System Condition (DORSCON)
+framework gives indication of the current disease situation. Given the
+improving local situation, with daily cases falling and stabilising; the
+impact of the disease has been mitigated by high levels of vaccination;
+and the disease is typically mild, except in the unvaccinated and
+vulnerable groups such as the elderly¹ ; and the progressive easing of
+SMMs, the DORSCON level will be adjusted from Orange to Yellow.
+
+
+
+UPDATES ON COMMUNITY SMMS
+
+
+
+SMM 1–5 Framework
+
+4.     From 26 APRIL 2022, we will implement the following adjustments
+(see Annex A for more details):
+
+a. Group Sizes. There will NO LONGER BE A GROUP SIZE LIMIT, meaning that
+individuals will not be required to keep to a group of 10 persons for
+mask-off activities. The cap on the number of unique visitors per
+household, previously 10 persons at any one time, will also be lifted2.
+b. Mask-Wearing. MASK-WEARING WILL CONTINUE TO BE REQUIRED IN INDOOR
+SETTINGS WHEN PEOPLE LEAVE THEIR HOMES, INCLUDING ON PUBLIC TRANSPORT.
+MASK-WEARING WILL REMAIN OPTIONAL IN OUTDOOR SETTINGS. However, we
+encourage individuals to exercise precaution. For example, in crowded
+outdoor areas, it will still be a good idea to wear our masks.
+c. Workplace Requirements. ALL WORKERS MAY NOW RETURN TO THE WORKPLACE,
+an increase from the current limit of 75% of those who can work from
+home. Notwithstanding the mask-on requirement in indoor settings,
+workers will be allowed to remove their masks at the workplace: (i) when
+they are not interacting physically with others and (ii) when they are
+not in customer-facing areas. While this concession will provide some
+flexibility for workers as more return to the workplace, everyone is
+advised to exercise social responsibility and maintain an appropriate
+safe distance from others while unmasked. Even with these changes, we
+encourage employers to retain and promote flexible work arrangements,
+such as telecommuting and staggered work hours, as a permanent feature
+of the workplace. Beyond the workplace benefits of flexible work
+arrangements, this will also help workers avoid peak period crowds as
+more of us return to the workplace.
+d. Safe Distancing. As group size limits are lifted, SAFE DISTANCING
+WILL NO LONGER BE REQUIRED BETWEEN INDIVIDUALS OR BETWEEN GROUPS.
+e. Capacity Limits. Previously, larger settings/events with >1,000 pax
+and that are mask-on were subject to a capacity limit of 75%. WE WILL
+NOW REMOVE THIS CAPACITY LIMIT FOR SUCH SETTINGS/EVENTS³.
+
+
+
+
+
+Given the above changes, most of SMMs 1-5, except indoor masking
+requirement, will be inactivated. However, this does not mean that they
+become moribund. SMMs 1-5 continue to serve as the key levers to
+regulate social interactions, and the parameters can be adjusted if the
+situation requires it.
+
+Other Adjustments to Community Measures
+
+
+
+5.     Vaccination-Differentiated SMMs (VDS). Our vaccination coverage
+is amongst the highest in the world at 96% of our eligible population.
+With cases and hospitalisations steadily declining, our hospitals and
+healthcare workers are adjusting to handle their higher clinical
+workload from non-COVID-19 patients. As such, we are now in a position
+to ease VDS.
+
+
+
+6.     HENCE, FROM 26 APRIL 2022, VDS WILL BE REMOVED FROM ALL
+SETTINGS, EXCEPT FOR:
+
+
+
+a. Events with >500 participants at any one time;
+b. Nightlife establishments where dancing among patrons is one of the
+intended activities; and
+c. Food and beverage (F&B) establishments, including restaurants, coffee
+shops and hawker centres.
+
+
+
+
+
+These are settings which are assessed to pose higher risks of
+transmission due to factors such as large crowds and unmasked
+activities.
+
+
+
+7.     Specific to F&B establishments, while VDS is still required,
+these establishments will no longer need to conduct VDS checks for their
+customers. This is already the case for hawker centres and coffee shops.
+Instead, the onus will be on the individuals dining in to abide by the
+rules. Random spot-checks will continue to be conducted to ensure that
+only fully vaccinated persons are dining in at F&B establishments.
+
+
+
+8.     Workforce Vaccination Measures (WVM) implemented by the Ministry
+of Manpower (MOM) will also be lifted. Nevertheless, given that the
+pandemic is not over and there are still significant risks in the coming
+months, tripartite partners have agreed that employers should have the
+flexibility to continue implementing vaccination-related instructions
+for employees for workplace health and safety and business continuity
+reasons, and in accordance with employment law. MOM will provide further
+details.
+
+
+
+9.     Stopping Health Risk Notices (HRNs). Given the improved
+situation, the Ministry of Health (MOH) will stop issuing HRNs to close
+contacts from 26 April 2022. Individuals infected with COVID-19 will no
+longer need to submit details of household contacts online. However,
+persons should continue to exercise social responsibility. For example,
+COVID-19 positive persons should inform their close contacts so that the
+contacts can take the necessary precautions under Protocol 3, i.e. test
+themselves to be negative before leaving their homes, to prevent further
+spread. Settings with vulnerable persons (e.g. hospitals, nursing homes
+and elderly homes) should request proof of a negative Antigen Rapid Test
+(ART) result for persons with recent exposure before allowing entry.
+
+
+
+10.     Stepping down on the use of TraceTogether (TT) and SafeEntry
+(SE). As HRNs will no longer be issued, COVID-19 cases need not upload
+their TT data or submit their TT token from 26 April 2022. Most venues
+will also no longer require the public to check in using the TT
+application or token, except larger events with more than 500
+participants at any one time and certain nightlife establishments, where
+VDS checks are still required at entry. The TT/SE capabilities will be
+maintained as a means of conducting these VDS checks, and to enable us
+to rapidly step up contact tracing and VDS checks should we need to do
+so again in response to a new Variant of Concern. The public is
+therefore strongly encouraged to keep the TT application on their phones
+as well as their TT tokens.
+
+
+
+11.     As in current practice as explained in Parliament on 2 February
+2021, any generated TT or SE data may continue to be used by police
+officers and law enforcement officers for criminal investigations and
+proceedings in respect of serious offences. This is provided for in the
+COVID (Temporary Measures) Act. In order to safeguard the public, the
+Police must be able to use this available data to bring perpetrators to
+justice and seek redress for victims.
+
+
+
+12.     Stopping of free community ART testing and weekend Acute
+Respiratory Infection (ARI) testing at the Combined Test Centres (CTCs)
+and Quick Test Centres (QTCs). We had previously provided free community
+ART testing and weekend ARI testing at our CTCs and QTCs during the
+Omicron wave to alleviate the workload at GP clinics and other
+healthcare facilities. With the declining case numbers and easing of
+load at the Public Health Preparedness Clinics (PHPCs), these free tests
+will cease from 26 April 2022 onwards. Paid ART testing will still be
+available for members of the public at the CTCs/QTCs, GP clinics or via
+tele-ART providers
+(https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
+
+
+
+UPDATES ON BORDER MEASURES
+
+
+
+Removal of Pre-Departure Test Requirements
+
+13.     We had earlier launched the Vaccinated Travel Framework, which
+allowed all fully vaccinated travellers⁴ to enter Singapore without
+serving a Stay-Home Notice (SHN) or applying for entry approvals. Fully
+vaccinated travellers arriving via land checkpoints are also not
+required to take pre-departure or on-arrival COVID-19 tests, while those
+arriving via air or sea checkpoints are currently subject to a
+pre-departure test (PDT) within 2 days before departure for Singapore.
+
+
+
+14.     We have continued to monitor the local and global COVID-19
+situation following the launch of the Vaccinated Travel Framework, and
+will revise our requirements. All fully vaccinated travellers
+and non-fully vaccinated children aged 12 and below arriving from 26
+APRIL 2022, 0001 HOURS via air or sea checkpoints, will also no longer
+be required to take a PDT before departing for Singapore⁵. With this
+move, it will mean that fully vaccinated and well travellers will not
+require any tests to enter Singapore. In addition, from 1 May 2022,
+fully vaccinated non-Malaysian Work Permit Holders no longer need to
+apply for entry approvals to enter Singapore.
+
+
+
+15.     In addition, non-Malaysian Work Permit Holders (WPHs) holding
+an In-Principle Approval (IPA) in the Construction, Marine Shipyard and
+Process (CMP) sectors are currently required to obtain entry approvals
+from the Ministry of Manpower (MOM). From 1 MAY 2022, fully vaccinated
+non-Malaysian WPHs holding an IPA in the CMP sectors no longer need to
+apply for entry approvals to come into Singapore. Instead, they will
+need to book a slot at the Onboard centre to undergo onboarding upon
+arrival. Please refer to the MOM website for details.
+
+
+
+16.     Entry requirements for non-fully vaccinated travellers remain
+unchanged. All non-fully vaccinated travellers aged 13 and above who are
+allowed to enter Singapore are required to take a PDT within 2 days
+before departure for Singapore⁶, undergo a 7-day SHN, and take a
+Polymerase Chain Reaction COVID-19 test at the end of their SHN period.
+
+
+
+17.     Non-fully vaccinated Long-Term Pass Holders (LTPHs) and
+Short-Term Visitors (STVs) aged 13 and above are not allowed to enter
+Singapore, with the following exceptions: (i) LTPHs medically ineligible
+for vaccines; (ii) LTPHs and STVs with other valid entry approval (e.g.
+for compassionate reasons); and (iii) LTPHs aged 13 to 17, subject to
+the appropriate measures⁷.
+
+
+
+18.     Given the increased availability of vaccines globally for those
+aged between 13 and 17, all LTPHs aged 13 and above arriving from 1 July
+2022 will be required to be fully vaccinated prior to entry into
+Singapore, unless medically ineligible for vaccines.
+
+
+
+Resumption of Cross-Border Bus Services and Taxis with Malaysia
+
+19.     Following the reopening of Singapore and Malaysia land borders
+for fully vaccinated travellers, the Land Transport Authority (LTA),
+together with the public transport operators, will resume the operation
+of cross-border bus services from 1 MAY 2022. Starting next month,
+Singapore bus operators will reinstate cross-border bus services between
+Singapore and Johor Bahru. These include Services 160, 170 and 170X
+operated by SBS Transit Ltd, Service 950 operated by SMRT Buses Ltd, and
+Services TS1, TS3, TS6 and TS8 operated by Transtar Travel Pte Ltd.
+
+20.     Cross-border taxi operations will also resume from 1 MAY
+2022. Commuters travelling to Johor can either board a taxi at the Queen
+Street taxi terminal or book one through taxi companies with licensed
+cross-border taxi drivers.
+
+
+
+21.     More details on the resumption of cross-border bus services and
+cross-border taxi operations can be found in LTA’s news release.
+
+
+
+22.     Please see Annex B for details on the border measures for
+travellers arriving from 26 APRIL 2022, 0001 HOURS. The latest border
+requirements can be found on the SafeTravel
+website (https://safetravel.ica.gov.sg). Travellers are strongly advised
+to visit the website to check the latest border measures before entering
+Singapore, and be prepared to adhere to the prevailing border measures
+upon entry into Singapore.
+
+
+
+EXPANSION OF COMMUNITY VISITS FOR MIGRANT WORKERS
+
+
+
+23.     From 26 April 2022, up to 25,000 migrant workers will be able
+to visit the community on weekdays, and up to 50,000 on weekends and
+public holidays, for up to 8 hours per visit. This is an increase from
+the current quotas of 15,000 on weekdays, and 30,000 on weekends and
+public holidays.
+
+
+
+24.     With the lifting of VDS in most settings, unvaccinated migrant
+workers will now be allowed to participate in community visits.
+Unvaccinated migrant workers will not be required to apply for exit
+passes or take Pre-Visit Tests before going to Recreation Centres.
+
+
+
+25.     To manage overcrowding at popular locations, migrant workers
+will still need to apply for exit passes and indicate their selected
+locations in the community. MOM will monitor the application numbers and
+continue to conduct regular checks at potential congregation hotspots.
+
+BOOSTER VACCINATION
+
+
+
+26.     Vaccination remains a critical tool in protecting our
+population from severe disease due to COVID-19. The Expert Committee on
+COVID-19 (EC19V) has recommended a booster dose for recovered persons
+aged 12 and above who have completed their primary vaccination, in view
+of waning immunity. This booster should not be delayed beyond 9 months
+after completing their primary vaccination series, and should be
+received at least 28 days after the infection. From 1 JUNE 2022, these
+recovered persons will need to receive the booster dose within 9 months
+of their last primary vaccination dose, in order to maintain their
+vaccinated status. Individuals may walk into any Vaccination Centre,
+before 7pm, to receive their booster dose.
+
+
+
+27.     Booster vaccination for all recovered dormitory dwelling
+Migrant Workers (MWs) and non-dormitory dwelling work-permit holder MWs
+in the Construction, Marine, Processing (CMP) sector will be scheduled
+and announced later.
+
+
+
+28.     For persons aged 60 to 79 years, while the EC19V is not
+recommending that they receive as a second booster shot, the Committee
+agreed to offer it to them should they wish to take it. The second
+booster vaccine dose should be administered about five months after
+receiving the first booster. This is in addition to the earlier
+recommendation of a second booster for specific groups (age 80 and
+above, residents of aged care facilities, and the medically vulnerable).
+Persons aged 60 and above can receive their second booster by walking
+into any Vaccination Centre offering mRNA vaccines, before 7pm.
+
+
+
+CONSOLIDATION OF VACCINATION CENTRES
+
+
+
+29.     As of 21 April 2022, over 92% of our total population have
+completed their primary vaccination series and 73% have received their
+booster doses. With the number of doses administered reducing steadily
+over the past weeks, MOH will progressively step down the number of
+Vaccination Centres (VCs) from end-May 2022, to consolidate our
+resources and free up these spaces for other uses.
+
+a. For VCs ceasing operations on 31 May 2022 (Annex C):
+
+i. VCs offering the Moderna/Spikevax vaccine will administer the last
+Dose 1 on 2 May 2022.
+ii. VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer
+the last Dose 1 on 10 May 2022.
+iii. Dose 2 and booster doses will continue to be administered until 31
+May 2022.
+
+
+
+
+
+b. For VCs ceasing operations on 30 June 2022 (Annex C):
+
+i. VCs offering the Moderna/Spikevax vaccine will administer the last
+Dose 1 on 2 June 2022.
+ii. VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer
+the last Dose 1 on 9 June 2022.
+iii. Dose 2 and booster doses will continue to be administered until 30
+June 2022.
+
+
+
+
+
+30.     The VCs at Former Hong Kah Secondary School and Raffles City
+Convention Centre will remain in operation. We will continue to ensure
+the availability of COVID-19 vaccinations by consolidating our resources
+into several Joint Testing and Vaccination Centres. We will share more
+details in due course.
+
+
+
+31.     We urge individuals who are eligible for vaccinations or
+boosters to take full advantage of the capacity and good geographical
+spread of our VCs while they are still in operation. The public may
+refer to https://www.vaccine.gov.sg/locations-vcs for more details on
+the closures.
+
+
+
+VACCINATIONS AND BOOSTERS FOR TRAVELLERS
+
+
+
+32.     We had previously announced that we will enable short term
+travellers to pay to receive COVID-19 vaccinations and boosters in
+Singapore. Individuals may now receive the Moderna vaccine under the
+Private Vaccination Programme (PVP) at Healthway Medical at Kwong Wai
+Shiu Hospital. Interested individuals may contact the clinic directly.
+
+
+
+33.     We are progressively onboarding more clinics to the PVP. The
+list of participating clinics can be found
+at https://www.vaccine.gov.sg/locations/pvp.
+
+
+
+SAFEGUARDING RESOURCES AT THE EMERGENCY DEPARTMENT
+
+
+
+34.     Even as the case numbers decline, we would like to remind the
+public to avoid overwhelming our Emergency Departments (EDs). Medical
+treatment at an ED should be reserved for those with severe or
+life-threatening emergencies. Patients with non-emergency conditions
+should seek care at primary care clinics to avoid crowding the EDs and
+delaying the care for those with severe and life-threatening conditions.
+
+
+
+35.     To safeguard resources at the ED, individuals who require
+COVID-19 testing or who have tested COVID-positive with mild symptoms
+should first seek help through their regular primary care doctors or
+MOH-approved telemedicine providers. Patients, regardless of vaccination
+status, who walk in to the ED for the purpose of COVID-19 testing
+without a valid GP/polyclinic referral or for non-emergency COVID-19
+treatment⁸ will be required to pay for their ED bills.
+
+
+
+TOWARDS COVID-19 RESILIENCY
+
+
+
+36.     This round of SMM easing and our transition to DORSCON Yellow
+is a milestone in our progress towards living with COVID-19 and was
+built on the sacrifices of our healthcare workers and the collective
+support of all Singaporeans. However, the situation can change quickly
+in the face of new variants. Hence, we urge everyone to remain socially
+responsible and vigilant even as we take strides towards normalcy.
+
+
+
+
+
+MINISTRY OF HEALTH
+
+22 APRIL 2022
+
+
+
+------------------------------------------------------------------------
+
+
+
+[1] Data show that COVID-19 is a mild disease in children. For Omicron,
+0.014% of cases aged 0-11 years old had illness requiring oxygen
+supplementation or ICU care.
+
+[2] The attendee limits for home solemnisations and home funerals will
+also be lifted.
+
+[3] All nightlife businesses where dancing among patrons is one of the
+intended activities will continue to be subject to a 75% capacity limit.
+
+[4] Please refer
+to https://safetravel.ica.gov.sg/arriving/overview#vaccination for the
+definition of a fully vaccinated traveller.
+
+[5] From 1 MAY 2022, non-Malaysian WPHs holding an IPA will need to
+undergo a two-day Pre-Departure Preparatory Programme (PDPP), if PDPP is
+available in their source countries (currently Bangladesh, India and
+Myanmar), before entering Singapore. More details of the PDPP and the
+list of PDPP providers can be found here.
+
+[6]The following PDTs are accepted:Polymerase Chain Reaction (PCR) test,
+professionally administered Antigen-Rapid Test (ART) or ARTs supervised
+by licensed Singapore providers (including remotely supervised ARTs).
+Please refer to https://go.gov.sg/remote-art-overseas-sg for a list of
+approved remotely supervised ART PDT providers.
+
+[7] Non-fully vaccinated LTPHs aged 13 – 17 years entering Singapore
+should complete the full vaccination regime after arriving in Singapore.
+
+[8]These refer to cases who walk in to EDs without a referral from a
+doctor or telemedicine provider, or have symptoms that do not require
+hospital admission.
+
+
+
+
