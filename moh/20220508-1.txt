@@ -1,0 +1,128 @@
+Streamlining Birth and Death Registration Processes; Digital
+Certificates to Replace Physical Certificates From 29 May 2022
+
+
+
+STREAMLINING BIRTH AND DEATH REGISTRATION PROCESSES; DIGITAL CERTIFICATES TO REPLACE PHYSICAL CERTIFICATES FROM 29 MAY 2022
+
+
+Published Date: 08 May 2022
+
+From 29 May 2022, the birth and death registration processes will be
+made simpler, and digital birth and death certificates will be issued in
+place of physical certificates. This is part of the Government’s ongoing
+effort to streamline and digitalise services to serve citizens better.
+Registration of births
+2. The LifeSG application (previously known as “Moments of Life”) was
+launched in June 2018 as a one-stop, integrated platform for parents to
+register their child’s birth and apply for the relevant Government
+programmes and schemes (e.g. Baby Bonus).¹ Since then, 80% of all
+eligible births in Singapore have been registered digitally and LifeSG
+has been downloaded more than 400,000 times. Parents shared feedback
+that the LifeSG application has simplified the birth registration
+process, which has given them more time to care for and bond with their
+newborns.
+3. With the introduction of digital birth certificates from 29 May 2022
+onwards, parents will no longer need to make a trip to the hospital or
+the Immigration & Checkpoints Authority (ICA) Building to collect a
+physical birth certificate.  Parents will have to register the birth of
+their newborns via LifeSG. Following the registration on LifeSG, parents
+will be notified to download the digital birth certificate of their
+child via an ICA e-Service known as the “electronic Retrieval of
+Certificates and Instant Verification”, which can be accessed on the ICA
+website (www.ica.gov.sg) or via MyICA Mobile.² With this, in-person
+registration services for birth will cease at the hospitals and the ICA
+Building. Please refer to Annex A for more information on the new birth
+registration process, and Annex B for more information on LifeSG.
+Registration of deaths
+4. The Government is also streamlining the death registration process to
+ease the administrative burden of post-death matters on bereaved family
+members.
+5. Currently, a medical practitioner will issue a Certificate of the
+Cause of Death (CCOD) bearing the death particulars of the deceased to
+the next-of-kin (NOK).³ The NOK will have to register the death of the
+deceased at either the public hospitals, Neighbourhood Police
+Posts/Centres (NPPs/NPCs) or the ICA Building by producing the CCOD and
+the deceased’s identity documents. A physical death certificate will
+then be issued upon completion of the registration, which the NOK can
+use to proceed with post-death matters.
+6. From 29 May 2022, there will no longer be a need for the deceased’s
+NOK to register the death. After the death is certified by a registered
+medical practitioner, an NOK will be able to receive a digital death
+certificate from the My Legacy portal (https://mylegacy.life.gov.sg/).⁴
+We hope this will give the bereaved family more time to focus on other
+matters in their moment of grief. Please refer to Annex C for more
+information on the new death registration process, and Annex D for more
+information on My Legacy portal.
+Going digital to serve citizens better
+7. The digitalisation of the birth and death registration processes is
+part of the Government’s continuous efforts to integrate and improve the
+delivery of services. Parents of newborns and NOK of the deceased will
+be able to conveniently download and store the digital certificates on
+their personal mobile devices and laptops.
+8. Parents who are unsure how to register their child’s birth through
+LifeSG may approach hospital staff. If further assistance is required,
+they may contact ICA. NOK may approach staff at hospitals (if their
+loved one passed on in the hospital), general practitioners, nursing
+homes and hospices for assistance on how to download the digital death
+certificate.
+9. We understand that there will be citizens who are unable to go online
+and may not have someone to assist them with the new processes. These
+citizens can call a 24-hour hotline at 6589 8707, which is a temporary
+dedicated hotline to assist citizens with their queries relating to the
+new birth and death registration processes. They may also visit the ICA
+Building and the network of ServiceSG Centres located across Singapore
+for assistance.  Please refer to Annex E for more details.
+Ensuring digital authenticity and preventing fraud
+10. The digital certificates are official and legal documents issued by
+ICA. Data protection and privacy measures are also in place to prevent
+data loss or theft, unauthorised access, as well as undue disclosure.
+For example, parents who are Singpass users and who wish to retrieve
+their child’s digital birth certificate will be required to log in using
+Singpass, which requires two-factor authentication (2FA). All
+information on LifeSG, My Legacy and ICA’s systems will be stored and
+secured in the government database.
+11. Digitising the certificates also allows ICA to incorporate an
+additional means to verify their authenticity. Government agencies and
+private entities, such as industry associations and financial
+institutions, can use QR codes included on all digital certificates to
+verify their authenticity. The QR code will be linked to an ICA system,
+where details on the digital certificate can be verified against ICA’s
+database. Any person caught giving false information can be investigated
+and charged under the Registration of Births and Deaths Act or the Penal
+Code.
+12. ICA’s Deputy Commissioner (Policy and Transformation), Cora Chen,
+said: “The digitalisation of the birth and death registration processes,
+and issuance of digital certificates will provide greater convenience
+for parents of newborns, and reduce administrative hassle for NOK of the
+deceased so that they may focus on other immediate tasks on hand, such
+as funeral arrangements. These parents and NOK can transact with us
+on-the-go and save a trip to ICA or the registration centre. This
+initiative will bring us another step closer to ICA’s vision of Services
+Centre Next Generation (SCNG), where online transactions and digital
+documents will become the norm. In anticipation of the growing number of
+digital documents, there are also plans to launch a secure one-stop
+digital document repository for our citizens to access their official
+documents with ease.”
+13. With the digitalisation of the registration processes, ICA will no
+longer issue physical birth and death certificates from 29 May 2022.⁵
+Brochures, posters, and videos in four official languages will be put up
+at key touchpoints including hospitals, nursing homes and hospices to
+familiarise the public with the new processes.
+[1] New parents can access the LifeSG birth registration service, which
+enables them to also apply for Baby Bonus, create a Child Development
+Account, and sign up for a child library card.
+[2] MyICA Mobile is a mobile application that provides a one-stop
+platform for transactions with ICA. It is available for download on the
+App Store or Google Play.
+[3] Next-of-kin (NOK) refers to a spouse, parent, child, sibling,
+grandparent, grandchild, aunt, uncle, nephew, niece, step-child, step-
+or half-sibling.
+[4] My Legacy offers informational guides on end-of-life planning and
+support, as well as for managing post-death matters (e.g., arranging for
+funeral services).
+[5] Physical certificates issued before 29 May 2022 remain valid.
+IMMIGRATION & CHECKPOINTS AUTHORITY
+SMART NATION AND DIGITAL GOVERNMENT GROUP
+PUBLIC SERVICE DIVISION
+MINISTRY OF HEALTH
