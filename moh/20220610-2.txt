@@ -1,50 +1,115 @@
-Appointment of Mr Tay Choon Hong As Ceo of Health Promotion Board
+Groups Eligible for Second Booster and Dosing Interval for Covid-19
+Primary Vaccination Series
 
 
 
-APPOINTMENT OF MR TAY CHOON HONG AS CEO OF HEALTH PROMOTION BOARD
+GROUPS ELIGIBLE FOR SECOND BOOSTER AND DOSING INTERVAL FOR COVID-19 PRIMARY VACCINATION SERIES
 
 
 Published Date: 10 Jun 2022
 
-Mr Tay Choon Hong will be appointed as Chief Executive Officer (CEO) of
-the Health Promotion Board (HPB) from 1 July 2022. He will take over
-from Mr Koh Peng Keng, the Interim CEO of HPB, who will continue in his
-role as Chief Operating Officer. Mr Tay has been serving as a board
-member of HPB since 1 April 2018.
-2. Mr Tay Choon Hong is currently Senior Director (Youth) at the
-Ministry of Culture, Community and Youth (MCCY) and Deputy Chief
-Executive of the National Youth Council (NYC).
-3. As Senior Director (Youth), MCCY, he drove major workstreams under
-the SG Youth Action Plan to implement national civic participation
-programmes, and stewarded youth-related whole-of-government efforts
-along the main domains of jobs and future of work, and environmental
-sustainability. He co-headed the communication, partnerships and
-engagement track of the inter-agency taskforce on mental health and
-wellbeing. Mr Tay also co-led the planning and execution of
-Conversations on Women’s Development, partnering various agencies and
-sector organisations and reaching out to 6,000 Singaporeans on their
-views and insights, which informed the policy reviews and
-recommendations of the White Paper on Singapore Women’s Development.
-4. In his role as Deputy Chief Executive, NYC, Mr Tay led the
-conceptualisation of the Youth Action Challenge, a developmental
-programme for youths to turn their ideas into concrete projects for
-positive societal change. He also led the Somerset Belt Masterplan
-project which included the formation of governance structures and
-partnership communities, development and implementation of Realise Your
-Somerset Project and Participatory Budgeting initiatives, as well as
-formulated further plans to guide upcoming placemaking and
-infrastructure works.
-5. Prior to his appointments in MCCY and NYC, Mr Tay had held various
-key positions, including Director (Transformation Office) and Director
-(Moments of Life - Families) at the Public Service Division, as well as
-Director (Policy & Planning) and Director (Marriage & Parenthood Policy)
-at the National Population and Talent Division, Prime Minister’s Office.
-Mr Tay graduated with a Bachelor of Science in Economics and Bachelor of
-Science in Electrical and Computer Engineering from Carnegie Mellon
-University, as well as a Master of Science in Management from Stanford
-University.
-6. The Ministry of Health and Health Promotion Board wish to extend a
-warm welcome to Mr Tay Choon Hong as the new CEO of HPB.
-MINISTRY OF HEALTH
-HEALTH PROMOTION BOARD
+1.  The Expert Committee on COVID-19 Vaccination (EC19V) has made the
+following updates to the vaccination recommendations:
+
+a.   All persons aged 50 years and older may now be offered the second
+booster;
+
+b.  Persons aged 18 years and above who are medically vulnerable to
+severe COVID-19 are no longer require a doctor’s referral to receive the
+second booster; and
+
+c.  The recommended interval between the first two doses of a primary
+vaccination series will now be extended to eight weeks, but the minimum
+allowable interval remains unchanged especially for persons who need to
+achieve protection more quickly due to their risk of exposure or
+susceptibility to severe disease.
+
+
+
+UPDATES ON COVID-19 SECOND BOOSTER VACCINATION
+
+2. The EC19V had previously recommended for the following groups of
+persons to receive a second COVID-19 booster around five months after
+their first booster:
+
+a.  All persons aged 80 years and above;
+
+b.  Persons living in aged care facilities; and
+
+c.  Medically vulnerable persons at higher risk of severe COVID-19.
+
+3.  These groups are most at risk of severe disease. Vaccine protection
+against severe disease from three doses is also lower in persons aged 80
+years and older, and a second booster is important to achieve a high
+level of protection. As such, the EC19V strongly urges persons in these
+recommended groups to receive the second booster vaccination as soon as
+they are eligible.
+
+4.  Data has shown that the risk of severe COVID-19 can increase in
+persons aged 50 years and older. As such, THE SECOND BOOSTER CAN NOW BE
+OFFERED TO ALL PERSONS AGED 50 YEARS AND OLDER TO FURTHER INCREASE THEIR
+PROTECTION. This is an update from the previous position of the second
+booster being offered to all persons aged 60 years and older. All
+persons aged 80 years and older are strongly recommended to get their
+second booster, as previously recommended. The second booster should be
+given around five months after the first booster.
+
+5.  To facilitate uptake of the second booster, EC19V further recommends
+that PERSONS AGED 18 YEARS AND OLDER, WHO HAVE HEALTH CONDITIONS THAT
+MAKE THEM MEDICALLY VULNERABLE TO SEVERE COVID-19, CAN RECEIVE THE
+SECOND BOOSTER WITHOUT THE NEED FOR A PHYSICIAN’S REFERRAL. They can
+self-declare their health condition to be eligible for the second
+booster (please refer to the Annex for the list of health conditions).
+This is an update from the previous arrangement where such persons were
+required to provide a doctor’s referral to receive the second booster.
+The list of health conditions in the Annex covers medical conditions of
+concern, but is not exhaustive. Persons with medical conditions not
+listed in the Annex, or who are not sure if they are included in the
+listed groups should consult their doctor.  They may then proceed to
+receive the second booster based on their doctor’s advice if the doctor
+provides an appropriate referral.
+
+_ _
+
+EXTENDING THE RECOMMENDED PRIMARY VACCINATION SERIES DOSING INTERVAL
+
+6. The recommended dosing intervals between the first two doses of a
+COVID-19 primary vaccination series had been set at 21 to 28 days
+depending on the vaccine used. This was based on the vaccination
+protocols used in their respective vaccine trials, and also due to a
+need to expedite protection against COVID-19 for a vaccine-naive
+population during the acute phase of the COVID-19 pandemic.
+
+7.  There is now more evidence that an extended interval between the
+first two doses of the primary vaccination series may confer better
+immune response and vaccine effectiveness. EC19V is thus now
+recommending for the dosing interval to be extended to eight weeks
+between the first two doses of the primary vaccination series for all
+COVID-19 vaccines[1] available under the National Vaccination Programme,
+for those who have yet to be vaccinated with their primary vaccination
+series.
+
+8. Individuals, particularly those who are at risk of exposure to
+COVID-19 or more susceptible to severe disease, may still receive the
+doses earlier than the eight-week interval but not less than the
+previously established minimum intervals[2].
+
+9. All eligible individuals are strongly encouraged to complete the
+COVID-19 primary vaccination series and booster vaccinations recommended
+for them, if they have not done so already.
+
+
+
+EXPERT COMMITTEE ON COVID-19 VACCINATION
+
+10 JUNE 2022
+
+------------------------------------------------------------------------
+
+[1] Vaccines available under the National Vaccination Programme are:
+Pfizer-BionTech/Comirnaty, Moderna/Spikevax, Novavax/Nuvaxovid and
+Sinovac-Coronavac.
+
+[2]The minimum intervals that the first two doses of the vaccines should
+be taken are: 21 days for Pfizer-BioNTech/Comirnaty and
+Novavax/Nuvaxovid, 28 days for Moderna/Spikevax and Sinovac-CoronaVac.
