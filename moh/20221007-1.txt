@@ -166,7 +166,7 @@ COVID-19 situation changes.
 
 SINOVAC-CORONAVAC AS A BOOSTER DOSE
 
-18. Previously, Sinovac-CoronaVac was offered for booster vaccinations
+19. Previously, Sinovac-CoronaVac was offered for booster vaccinations
 only for persons who were medically ineligible to receive the mRNA and
 Novavax/Nuvaxovid vaccines. Moving forward, individuals yet to be
 boosted should be offered the Sinovac-CoronaVac as a booster dose, even
@@ -174,7 +174,7 @@ if they do not meet criteria for being medically ineligible for other
 vaccines. This is to ensure that they at least get a minimal level of
 booster protection.
 
-19. Nevertheless, the Expert Committee will still recommend such
+20. Nevertheless, the Expert Committee will still recommend such
 individuals to preferentially consider receiving the Moderna/Spikevax,
 Pfizer-BioNTech/Comirnaty or Novavax/Nuvaxovid vaccines for their
 booster vaccination, because these confer better protection than
@@ -183,7 +183,7 @@ Sinovac-CoronaVac.
 RECOMMENDATIONS WILL CONTINUE TO BE REVIEWED AS UPDATED VACCINES BECOME
 AVAILABLE
 
-20. Vaccines updated with SARS-CoV-2 variants will broaden protection
+21. Vaccines updated with SARS-CoV-2 variants will broaden protection
 against existing variants and potentially against future ones. More such
 vaccines will become available progressively. The EC19V will continue to
 monitor the development of updated COVID-19 vaccines and update the
