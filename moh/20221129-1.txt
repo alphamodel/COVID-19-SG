@@ -8,6 +8,8 @@ CPF INTEREST RATES FROM 1 JANUARY 2023 TO 31 MARCH 2023 AND BASIC HEALTHCARE SUM
 
 Published Date: 29 Nov 2022
 
+[21A4B68B-FFEE-4596-84CC-2BDFA55142C7]
+
        Despite the recent rise in interest rates, the pegged Ordinary
 Account (OA) and Special and MediSave Account (SMA) interest rates
 remain below the OA and SMA floor rates of 2.5% and 4% respectively.
@@ -17,13 +19,13 @@ on their SMA monies in the first quarter in 2023. These interest rates
 include an extra 1% interest paid on the first $60,000 of members’
 combined balances (capped at $20,000 for OA).
 
-For members aged 55 and above, the Government pays an extra 2% interest
-on the first $30,000 of their combined balances (capped at $20,000 for
-OA), and an extra 1% on the next $30,000. This means that members aged
-55 and above will earn up to 6% interest per annum on their retirement
-balances.
+2.     For members aged 55 and above, the Government pays an extra 2%
+interest on the first $30,000 of their combined balances (capped at
+$20,000 for OA), and an extra 1% on the next $30,000. This means that
+members aged 55 and above will earn up to 6% interest per annum on their
+retirement balances.
 
-2.     The extra interest paid to CPF members is part of the
+3.     The extra interest paid to CPF members is part of the
 Government’s efforts to enhance the retirement savings of CPF members.
 The extra interest received on the OA will go into the member’s Special
 Account (SA) or Retirement Account (RA). If a member is above 55 years
@@ -31,7 +33,7 @@ old and participates in the CPF LIFE scheme, the extra interest will
 still be earned on his or her combined balances, which includes the
 savings used for CPF LIFE.
 
-3.     The Government is watching the interest rate environment closely
+4.     The Government is watching the interest rate environment closely
 to ensure that the CPF interest rate pegs remain relevant in the
 prevailing operating environment while taking into consideration the
 longer-term outlook.
@@ -39,26 +41,26 @@ longer-term outlook.
 INTEREST RATE FOR CPF ORDINARY ACCOUNT AND HDB CONCESSIONARY INTEREST
 RATE
 
-4.     The OA interest rate will be maintained at 2.5% per annum from 1
+5.     The OA interest rate will be maintained at 2.5% per annum from 1
 January 2023 to 31 March 2023.
 
-5.     Correspondingly, the concessionary interest rate for HDB housing
+6.     Correspondingly, the concessionary interest rate for HDB housing
 loans, which is pegged at 0.1% above the OA interest rate, will remain
 unchanged at 2.6% per annum from 1 January 2023 to 31 March 2023.
 
 INTEREST RATE FOR SPECIAL AND MEDISAVE ACCOUNT
 
-6.     The SMA interest rate will be maintained at 4% per annum from 1
+7.     The SMA interest rate will be maintained at 4% per annum from 1
 January 2023 to 31 March 2023.
 
 INTEREST RATE FOR RETIREMENT ACCOUNT
 
-7.     The RA interest rate will be maintained at 4% per annum from 1
+8.     The RA interest rate will be maintained at 4% per annum from 1
 January 2023 to 31 December 2023.
 
 BASIC HEALTHCARE SUM FOR 2023
 
-8.     The Basic Healthcare Sum (BHS) is the estimated savings required
+9.     The Basic Healthcare Sum (BHS) is the estimated savings required
 for basic subsidised healthcare needs in old age. The BHS is adjusted
 yearly for members below age 65 to keep pace with the growth in MediSave
 use. Once members reach age 65, their BHS will be fixed for the rest of
@@ -67,46 +69,45 @@ their lives.
 From 1 January 2023,
      1.  For members below 65 years old, their BHS will be raised
 from $66,000 to $68,500.
-
-     2.  For members who turn 65 years old in 2023, their BHS will
+     2.      For members who turn 65 years old in 2023, their BHS will
 be fixed at $68,500 and will not change thereafter.
 
-9.     For members aged 66 years and above in 2023, their cohort BHS has
-already been fixed and will remain unchanged.
-10.     The BHS is the cap applied to the MediSave Account (MA).
+10.     For members aged 66 years and above in 2023, their cohort BHS
+has already been fixed and will remain unchanged.
+11.     The BHS is the cap applied to the MediSave Account (MA).
 MediSave contributions in excess of a member’s BHS will be automatically
 transferred to his or her other CPF accounts.
 
-11.     CPF members who have less than the BHS are not required to top
+12.     CPF members who have less than the BHS are not required to top
 up their MA and will still be able to withdraw from their MA to pay for
 approved medical expenses.
 
-12.     For more information on the BHS for the respective cohorts,
+13.     For more information on the BHS for the respective cohorts,
 please visit CPF.GOV.SG/BHS.
 
 PUBLIC ENQUIRIES
 
-13.     For more information on CPF interest rates and their
+14.     For more information on CPF interest rates and their
 computation, please visit CPF INTEREST RATES.
 
-14.     CPF members can visit cpf.gov.sg or contact CPF Board through
+15.     CPF members can visit cpf.gov.sg or contact CPF Board through
 CPF.GOV.SG/WRITETOUS for enquiries.
 
 MEDIA ENQUIRIES
 
-15.     For clarification on this news release, please contact:
+16.     For clarification on this news release, please contact:
 
-CPF Board  :  Ms Adeline Leu
+CPF Board  :            Ms Adeline Leu
                                          Media & Publicity Department
                                          Tel: 6202 2389
                                          Email: adeline_leu@cpf.gov.sg
 
-HDB  :  Ms Sherlyn Yap
+HDB  :            Ms Sherlyn Yap
                                          Corporate Communications Group
                                          Tel: 6490 1263
                                          Email: sherlyn_yap@hdb.gov.sg
 
-MOH  :  Ms Rakinah Mohamed Ali
+MOH  :            Ms Rakinah Mohamed Ali
                                         Corporate Communications
 Division
                                         Tel: 6991 7730
