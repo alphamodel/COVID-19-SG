@@ -16,7 +16,7 @@ COVID-19 vaccine at one year after their last booster dose:
 
 (a) ages 60 years and above,
 
-(b) medically vulnerable persons, or,
+(b) medically vulnerable persons aged 12 years and above, or,
 (c) residents living in aged care facilities.
 
 
@@ -93,7 +93,8 @@ vaccine at an interval of one year after their last booster dose:
 
 a.  ages 60 years and above,
 
-b.  medically vulnerable persons (see Annex), or,
+b.  medically vulnerable persons (see Annex) aged 12 years and above,
+or,
 
 c.  residents living in aged care facilities.
 
